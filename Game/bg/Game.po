@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-06-18 15:24\n"
-"PO-Revision-Date: 2017-06-18 15:24\n"
+"POT-Creation-Date: 2017-06-18 16:54\n"
+"PO-Revision-Date: 2017-06-18 16:54\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -328,6 +328,13 @@ msgctxt "Menus,OptionsButton"
 msgid "Options"
 msgstr ""
 
+#. Key:	SliderControllerSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderControllerSensitivity"
+msgid "Controller Sensitivity"
+msgstr ""
+
 #. Key:	SliderEffectsVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -354,6 +361,202 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
+msgstr ""
+
+#. Key:	GarethThomasDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part1"
+msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr ""
+
+#. Key:	GarethThomasDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part2"
+msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr ""
+
+#. Key:	GarethThomasDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part3"
+msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
+msgstr ""
+
+#. Key:	GarethThomasDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part4"
+msgid "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr ""
+
+#. Key:	LiamJonesDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part1"
+msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr ""
+
+#. Key:	LiamJonesDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part2"
+msgid "We just started studying the algae, and uh"
+msgstr ""
+
+#. Key:	LiamJonesDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part3"
+msgid "We realised that it actually glows if you leave it alone for a little while"
+msgstr ""
+
+#. Key:	LiamJonesDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part4"
+msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr ""
+
+#. Key:	LiamJonesDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part5"
+msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part1"
+msgid "This is the uh, Liam Jones uh, diary #2"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part2"
+msgid "The samples are doing OK, we're just observing them now to see what happens"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part3"
+msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part4"
+msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part5"
+msgid "but when you talk to the badge people just say um... like uh..."
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part6"
+msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part7"
+msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part8"
+msgid "Um so, if you could just tell them that... because last time it happened, "
+msgstr ""
+
+#. Key:	LiamJonesDiary2Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part9"
+msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
+msgstr ""
+
+#. Key:	LiamJonesDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part1"
+msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr ""
+
+#. Key:	LiamJonesDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part2"
+msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr ""
+
+#. Key:	LiamJonesDiary3Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part3"
+msgid "and attacked one of my members of staff so we're going to keep him"
+msgstr ""
+
+#. Key:	LiamJonesDiary3Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part4"
+msgid "under observation and probably move him off the island as soon as we can."
+msgstr ""
+
+#. Key:	LiamJonesDiary3Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part5"
+msgid "We're not sure what caused this."
 msgstr ""
 
 #. Key:	FeedbackCancel
