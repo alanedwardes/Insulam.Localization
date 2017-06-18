@@ -1,0 +1,428 @@
+﻿# Game Bulgarian translation.
+# Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2017-06-18 15:12\n"
+"PO-Revision-Date: 2017-06-18 15:12\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	HintCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintCrouch"
+msgid "Crouch under"
+msgstr ""
+
+#. Key:	HintFireM9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFireM9"
+msgid "Fire M9"
+msgstr "Пожар M9"
+
+#. Key:	HintFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlashlight"
+msgid "Toggle flashlight"
+msgstr ""
+
+#. Key:	HintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintJump"
+msgid "Jump up"
+msgstr "Скочи"
+
+#. Key:	HintMove
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintMove"
+msgid "Move around"
+msgstr ""
+
+#. Key:	HintPickUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickUp"
+msgid "Pick up object"
+msgstr "Вземете обект"
+
+#. Key:	HintThrowRock
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintThrowRock"
+msgid "Throw rock"
+msgstr "Хвърли камък"
+
+#. Key:	ButtonAA
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAA"
+msgid "Anti-aliasing"
+msgstr ""
+
+#. Key:	ButtonApply
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonApply"
+msgid "Apply Changes"
+msgstr ""
+
+#. Key:	ButtonBack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonBack"
+msgid "Back"
+msgstr ""
+
+#. Key:	ButtonControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControlOptions"
+msgid "Controls"
+msgstr ""
+
+#. Key:	ButtonCredits
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonCredits"
+msgid "Load Credits"
+msgstr ""
+
+#. Key:	ButtonEffects
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonEffects"
+msgid "Effects"
+msgstr ""
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExit"
+msgid "Exit"
+msgstr ""
+
+#. Key:	ButtonExitToMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExitToMenu"
+msgid "Exit to Menu"
+msgstr ""
+
+#. Key:	ButtonExtras
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExtras"
+msgid "Extras"
+msgstr ""
+
+#. Key:	ButtonFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFeedback"
+msgid "Send Feedback"
+msgstr ""
+
+#. Key:	ButtonFoliage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFoliage"
+msgid "Foliage"
+msgstr ""
+
+#. Key:	ButtonGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGraphicsOptions"
+msgid "Graphics"
+msgstr ""
+
+#. Key:	ButtonNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonNewGame"
+msgid "New Game"
+msgstr ""
+
+#. Key:	ButtonPostProcess
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPostProcess"
+msgid "Post-process"
+msgstr ""
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonResume"
+msgid "Resume Game"
+msgstr ""
+
+#. Key:	ButtonScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonScreenOptions"
+msgid "Screen"
+msgstr ""
+
+#. Key:	ButtonShadows
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShadows"
+msgid "Shadows"
+msgstr ""
+
+#. Key:	ButtonSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSoundOptions"
+msgid "Sound"
+msgstr ""
+
+#. Key:	ButtonSP01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP01"
+msgid "1. Fall"
+msgstr ""
+
+#. Key:	ButtonSP02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP02"
+msgid "2. Scaffolding"
+msgstr ""
+
+#. Key:	ButtonSP03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP03"
+msgid "3. Pool"
+msgstr ""
+
+#. Key:	ButtonSP04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP04"
+msgid "4. Mine"
+msgstr ""
+
+#. Key:	ButtonSP05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP05"
+msgid "5. Lab"
+msgstr ""
+
+#. Key:	ButtonSP06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP06"
+msgid "6. Clearing"
+msgstr ""
+
+#. Key:	ButtonSP07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP07"
+msgid "7. Sewer"
+msgstr ""
+
+#. Key:	ButtonSP08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP08"
+msgid "8. Elevator"
+msgstr ""
+
+#. Key:	ButtonTextures
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonTextures"
+msgid "Textures"
+msgstr ""
+
+#. Key:	CheckboxCommentary
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxCommentary"
+msgid "In-Game Commentary"
+msgstr ""
+
+#. Key:	CheckboxInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertMouse"
+msgid "Invert Mouse"
+msgstr ""
+
+#. Key:	CheckboxLaptopMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopMode"
+msgid "Laptop Mode"
+msgstr ""
+
+#. Key:	CheckboxLaptopModeHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopModeHelp"
+msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr ""
+
+#. Key:	CheckboxVSync
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxVSync"
+msgid "VSync"
+msgstr ""
+
+#. Key:	DropdownResolution
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownResolution"
+msgid "Resolution"
+msgstr ""
+
+#. Key:	GameTag
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTag"
+msgid "ACT II EARLY ACCESS"
+msgstr ""
+
+#. Key:	GameTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTitle"
+msgid "ESTRANGED"
+msgstr ""
+
+#. Key:	LabelExperimentalOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptions"
+msgid "Experimental Options"
+msgstr ""
+
+#. Key:	LabelExperimentalOptionsHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptionsHelp"
+msgid "These options are experimental and may be lost."
+msgstr ""
+
+#. Key:	OptionsButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,OptionsButton"
+msgid "Options"
+msgstr ""
+
+#. Key:	SliderEffectsVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderEffectsVolume"
+msgid "Effects Volume"
+msgstr ""
+
+#. Key:	SliderMouseSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr ""
+
+#. Key:	SliderMusicVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMusicVolume"
+msgid "Music Volume"
+msgstr ""
+
+#. Key:	SliderVoiceVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderVoiceVolume"
+msgid "Voice Volume"
+msgstr ""
+
+#. Key:	FeedbackCancel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackCancel"
+msgid "Cancel"
+msgstr ""
+
+#. Key:	FeedbackContentHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackContentHelp"
+msgid "Your feedback (required)"
+msgstr ""
+
+#. Key:	FeedbackEmailHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackEmailHelp"
+msgid "Your email address (optional)"
+msgstr ""
+
+#. Key:	FeedbackHint
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackHint"
+msgid "Your location and health will be sent automatically."
+msgstr ""
+
+#. Key:	FeedbackIntro
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackIntro"
+msgid "We want to know what you think of Estranged! Send your feedback to help shape the final game."
+msgstr ""
+
+#. Key:	FeedbackSend
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackSend"
+msgid "Submit Feedback"
+msgstr ""
+
+#. Key:	FeedbackTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackTitle"
+msgid "SEND FEEDBACK"
+msgstr ""
+
+#. Key:	StartupContent
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupContent"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n\r\nWe are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
+msgstr ""
+
+#. Key:	StartupPlayButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupPlayButton"
+msgid "Play Estranged"
+msgstr ""
+
+#. Key:	StartupTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupTitle"
+msgid "WELCOME TO ESTRANGED ACT II"
+msgstr ""
+
