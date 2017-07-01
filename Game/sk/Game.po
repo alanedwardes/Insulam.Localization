@@ -1,708 +1,718 @@
-﻿# Game Slovak translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2017-06-30 22:05\n"
-"PO-Revision-Date: 2017-06-30 22:05\n"
+"PO-Revision-Date: 2017-07-01 09:44+0200\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
-msgstr ""
+msgstr "Zohnúť sa"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr ""
+msgstr "Vystreliť z M9"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
-msgstr ""
+msgstr "Prepnúť baterku"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr ""
+msgstr "Vyskočiť"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintMove"
 msgid "Move around"
-msgstr ""
+msgstr "Pohyb"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickUp"
 msgid "Pick up object"
-msgstr ""
+msgstr "Zodvyhnúť objekt"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintThrowRock"
 msgid "Throw rock"
-msgstr ""
+msgstr "Hodiť kameň"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-aliasing"
-msgstr ""
+msgstr "Vyhladzovanie"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
-msgstr ""
+msgstr "Použiť Zmeny"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonBack"
 msgid "Back"
-msgstr ""
+msgstr "Späť"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr ""
+msgstr "Ovládanie"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonCredits"
 msgid "Load Credits"
-msgstr ""
+msgstr "Načítať titulky"
 
 #. Key:	ButtonEffects
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonEffects"
 msgid "Effects"
-msgstr ""
+msgstr "Efekty"
 
 #. Key:	ButtonExit
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExit"
 msgid "Exit"
-msgstr ""
+msgstr "Odísť"
 
 #. Key:	ButtonExitToMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExitToMenu"
 msgid "Exit to Menu"
-msgstr ""
+msgstr "Odísť do Menu"
 
 #. Key:	ButtonExtras
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExtras"
 msgid "Extras"
-msgstr ""
+msgstr "Bonusy"
 
 #. Key:	ButtonFeedback
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFeedback"
 msgid "Send Feedback"
-msgstr ""
+msgstr "Poslať spätnú väzbu"
 
 #. Key:	ButtonFoliage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
-msgstr ""
+msgstr "Vegetácia"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonNewGame"
 msgid "New Game"
-msgstr ""
+msgstr "Nová Hra"
 
 #. Key:	ButtonPostProcess
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
-msgstr ""
+msgstr "Post Processing"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
-msgstr ""
+msgstr "Pokračovať v Hre"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonScreenOptions"
 msgid "Screen"
-msgstr ""
+msgstr "Obrazovka"
 
 #. Key:	ButtonShadows
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShadows"
 msgid "Shadows"
-msgstr ""
+msgstr "Tiene"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSoundOptions"
 msgid "Sound"
-msgstr ""
+msgstr "Zvuk"
 
 #. Key:	ButtonSP01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP01"
 msgid "1. Fall"
-msgstr ""
+msgstr "1. Pád"
 
 #. Key:	ButtonSP02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP02"
 msgid "2. Scaffolding"
-msgstr ""
+msgstr "2. Lešenie"
 
 #. Key:	ButtonSP03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP03"
 msgid "3. Pool"
-msgstr ""
+msgstr "3. Nádrž"
 
 #. Key:	ButtonSP04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP04"
 msgid "4. Mine"
-msgstr ""
+msgstr "4. Baňa"
 
 #. Key:	ButtonSP05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP05"
 msgid "5. Lab"
-msgstr ""
+msgstr "5. Laboratórium"
 
 #. Key:	ButtonSP06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP06"
 msgid "6. Clearing"
-msgstr ""
+msgstr "6. Čistina"
 
 #. Key:	ButtonSP07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP07"
 msgid "7. Sewer"
-msgstr ""
+msgstr "7. Kanál"
 
 #. Key:	ButtonSP08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP08"
 msgid "8. Elevator"
-msgstr ""
+msgstr "8. Výťah"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonTextures"
 msgid "Textures"
-msgstr ""
+msgstr "Textúry"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
-msgstr ""
+msgstr "Herný Komentár"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxInvertMouse"
 msgid "Invert Mouse"
-msgstr ""
+msgstr "Invertovať Myš"
 
 #. Key:	CheckboxLaptopMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopMode"
 msgid "Laptop Mode"
-msgstr ""
+msgstr "Laptopový Mód"
 
 #. Key:	CheckboxLaptopModeHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr ""
+msgstr "Limituje počet snímkov za sekundu na 30 aby boli zariadenia ako napr. laptopy chladnejšie počas hrania."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxVSync"
 msgid "VSync"
-msgstr ""
+msgstr "Vertikálna Synchronizácia"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownResolution"
 msgid "Resolution"
-msgstr ""
+msgstr "Rozlíšenie"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II EARLY ACCESS"
-msgstr ""
+msgstr "ACT II PREDBEŽNÝ PRÍSTUP"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTitle"
 msgid "ESTRANGED"
-msgstr ""
+msgstr "ESTRANGED"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptions"
 msgid "Experimental Options"
-msgstr ""
+msgstr "Experimentálne Možnosti"
 
 #. Key:	LabelExperimentalOptionsHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
-msgstr ""
+msgstr "Tieto možnosti sú experimentálne a môžu byť neskôr odstránené."
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuControlOptions"
 msgid "CONTROLS"
-msgstr ""
+msgstr "OVLÁDANIE"
 
 #. Key:	MenuExtraOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuExtraOptions"
 msgid "EXTRAS"
-msgstr ""
+msgstr "BONUSY"
 
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuGraphicsOptions"
 msgid "GRAPHICS"
-msgstr ""
+msgstr "GRAFIKA"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuNewGame"
 msgid "NEW GAME"
-msgstr ""
+msgstr "NOVÁ HRA"
 
 #. Key:	MenuOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuOptions"
 msgid "OPTIONS"
-msgstr ""
+msgstr "MOŽNOSTI"
 
 #. Key:	MenuSaveLoadOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE/ LOAD"
-msgstr ""
+msgstr "ULOŽIŤ/ NAČÍTAŤ"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuScreenOptions"
 msgid "SCREEN"
-msgstr ""
+msgstr "OBRAZOVKA"
 
 #. Key:	MenuSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSoundOptions"
 msgid "SOUND"
-msgstr ""
+msgstr "ZVUK"
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,OptionsButton"
 msgid "Options"
-msgstr ""
+msgstr "Možnosti"
 
 #. Key:	SliderControllerSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderControllerSensitivity"
 msgid "Controller Sensitivity"
-msgstr ""
+msgstr "Citlivosť Ovládača"
 
 #. Key:	SliderEffectsVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
-msgstr ""
+msgstr "Hlasitosť Efektov"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMouseSensitivity"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Citlivosť Myši"
 
 #. Key:	SliderMusicVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
-msgstr ""
+msgstr "Hlasitosť Hudby"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
-msgstr ""
+msgstr "Hlasitosť Hlasov"
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr ""
+msgstr "Toto je Gareth Thomas. Analyzovali sme vzorky rias"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr ""
+msgstr "a zistili sme , že svietenie je spôsobené planktónom , ktorý sa prirodzene vyskytuje v okolitej oblasti."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr ""
+msgstr "Neočakávame , že naše použitie rias bude vôbec ovplyvnené planktónom."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr ""
+msgstr "A považujeme ho za úplne neškodný , neočakávame že s ním bude problém."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr ""
+msgstr "Toto je umm ,audio dennik Liama Jonesa , #1 , um"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr ""
+msgstr "Začali sme študovať tie riasy a um"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr ""
+msgstr "Zistili sme , že vlastne svietia ak ich len tak na chvíľu necháte"
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr ""
+msgstr "Takže , to je paráda! Um , mám to pri sebe jeden vzorok , ktorý..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr ""
+msgstr "...sa chystám trochu nechať vo svojej kancelárií , len aby som videl , čo sa s ním stane."
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "This is the uh, Liam Jones uh, diary #2"
-msgstr ""
+msgstr "Toto je um , denník Liama Jonesa #2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr ""
+msgstr "len to urob , Hawthorne , daj im vedieť , že som o neho prišiel a potrebujem nový"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr ""
+msgstr "alebo im môžeš povedať aj dokonca to , že potrebujem záložný odznak... Neviem , kde sa podel"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr ""
+msgstr "...len potrebujem daľší odznak , to je v podstate dolná hranica"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr ""
+msgstr "takže Hawthorne , keby si mohol poslať email tým odznakovým ľuďom"
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr ""
+msgstr "a um , bolo by dobré , keby si mi získal nový odznak. Tak Dobre."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr ""
+msgstr "Vzorkom sa darí , len ich teraz sledujeme aby sme videli , čo sa stane"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr ""
+msgstr "Hlavná kancelária poslala po nejaké vzorky takže sem aj nejaké prepravia v krabiciach"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr ""
+msgstr "Taktiež , Hawthorne , keď budeš mať šancu , stratil som svoj bezpečnostný odznak..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr ""
+msgstr "ale keď budeš hovoriť s tými odznakovými ľuďmi tak povedz len , um , že..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr ""
+msgstr "Neviem , niekto mi- nie , nie , nikto ju nezobral , to je zlá výhovorka"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr ""
+msgstr "Líška sa mi vlúpala do kancelárie a ukradla mi odznak , takže sa um , nemôžem dostať do hlavného ústavu"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr ""
+msgstr "Takže , keby si im to len mohol povedať ... pretože keď sa to stalo naposledy "
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr ""
+msgstr "povedali mi , že to bola moja chyba a boli trochu neochotní mi ho nahradiť"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr ""
+msgstr "Toto je Liam Jones , bezpečnostný inžinier živých vzorkov na mieste , práve sme presunuli"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr ""
+msgstr "Dr. Frederika Prezellu do pozorovacej miestnosti , um , stal sa agresívnym"
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr ""
+msgstr "a zaútočil na jedného člena môjho týmu , takže ho necháme"
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr ""
+msgstr "pod neustálym dohľadom a asi ho odvezieme z ostrova čím skôr."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
-msgstr ""
+msgstr "Nevieme , čo to spôsobilo."
 
 #. Key:	FeedbackCancel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,FeedbackCancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 #. Key:	FeedbackContentHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,FeedbackContentHelp"
 msgid "Your feedback (required)"
-msgstr ""
+msgstr "Tvoja spätná väzba (potrebné)"
 
 #. Key:	FeedbackEmailHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,FeedbackEmailHelp"
 msgid "Your email address (optional)"
-msgstr ""
+msgstr "Tvoja emailová adresa (nepovinné)"
 
 #. Key:	FeedbackHint
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,FeedbackHint"
 msgid "Your location and health will be sent automatically."
-msgstr ""
+msgstr "Tvoje miesto a zdravie budú automaticky poslané."
 
 #. Key:	FeedbackIntro
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,FeedbackIntro"
 msgid "We want to know what you think of Estranged! Send your feedback to help shape the final game."
-msgstr ""
+msgstr "Chceme vedieť , čo si myslíte o Estranged! Pošlite svoju spätnú väzbu , aby ste pomohli vytvarovať finálnu hru."
 
 #. Key:	FeedbackSend
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,FeedbackSend"
 msgid "Submit Feedback"
-msgstr ""
+msgstr "Predložiť spätnú väzbu"
 
 #. Key:	FeedbackTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,FeedbackTitle"
 msgid "SEND FEEDBACK"
-msgstr ""
+msgstr "POSLAŤ SPÄTNÚ VÄZBU"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n\r\nWe are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"We will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n"
+"\r\n"
+"We are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
 msgstr ""
+"Vitajte v Estranged : Act II! Toto je nedokončené pokračovanie Estranged Act I , ktorý je tiež na Steame.\n"
+"\n"
+"Budeme postupne aktualizovať hru novými funkciami a obsahom. Preklady pre všetky jazyky prídu po tom , čo bude hra viacmenej dokončená , lebo sa hra veľmi zmení.\n"
+"\n"
+"Sme malý tým , ktorý na Estranged pracuje vo voľnom čase - ak máte pre nás spätnú väzbu , vždy nás nájdete na Steam fórach!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupPlayButton"
 msgid "Play Estranged"
-msgstr ""
+msgstr "Hrať Estranged"
 
 #. Key:	StartupTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupTitle"
 msgid "WELCOME TO ESTRANGED ACT II"
-msgstr ""
+msgstr "VITAJTE V ESTRANGED ACT II"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeLevelLabel"
 msgid "LEVEL"
-msgstr ""
+msgstr "ÚROVEŇ"
 
 #. Key:	RangePointsLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangePointsLabel"
 msgid "POINTS"
-msgstr ""
+msgstr "BODY"
 
 #. Key:	RangeTimeLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
-msgstr ""
-
+msgstr "ČAS"
