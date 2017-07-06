@@ -6,3 +6,4 @@ sk - Martin Košecký
 bg - Milena Petkova
 de - Oliver Treitler
 fr - Ewan Gros
+pt-BR - Américo Flores
