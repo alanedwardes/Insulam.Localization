@@ -1,0 +1,718 @@
+# Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2017-06-30 22:05\n"
+"PO-Revision-Date: 2017-07-06 17:09+0200\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Ewan Claude Gros <grosewan@gmail.com>\n"
+"X-Generator: Poedit 2.0.2\n"
+
+#. Key:	HintCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintCrouch"
+msgid "Crouch under"
+msgstr "S'accroupir"
+
+#. Key:	HintFireM9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFireM9"
+msgid "Fire M9"
+msgstr "Tirer avec le M9"
+
+#. Key:	HintFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlashlight"
+msgid "Toggle flashlight"
+msgstr "Allumer/Éteindre la lampe de poche"
+
+#. Key:	HintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintJump"
+msgid "Jump up"
+msgstr "Sauter"
+
+#. Key:	HintMove
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintMove"
+msgid "Move around"
+msgstr "Se déplacer"
+
+#. Key:	HintPickUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickUp"
+msgid "Pick up object"
+msgstr "Ramasser l'objet"
+
+#. Key:	HintThrowRock
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintThrowRock"
+msgid "Throw rock"
+msgstr "Lancer l'objet"
+
+#. Key:	ButtonAA
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAA"
+msgid "Anti-aliasing"
+msgstr "Anticrénelage"
+
+#. Key:	ButtonApply
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonApply"
+msgid "Apply Changes"
+msgstr "Appliquer les Modifications"
+
+#. Key:	ButtonBack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonBack"
+msgid "Back"
+msgstr "Retour"
+
+#. Key:	ButtonControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControlOptions"
+msgid "Controls"
+msgstr "Commandes"
+
+#. Key:	ButtonCredits
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonCredits"
+msgid "Load Credits"
+msgstr "Afficher les Crédits"
+
+#. Key:	ButtonEffects
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonEffects"
+msgid "Effects"
+msgstr "Effets"
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExit"
+msgid "Exit"
+msgstr "Quitter"
+
+#. Key:	ButtonExitToMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExitToMenu"
+msgid "Exit to Menu"
+msgstr "Quitter vers le Menu Principal"
+
+#. Key:	ButtonExtras
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExtras"
+msgid "Extras"
+msgstr "Contenus Additionnels"
+
+#. Key:	ButtonFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFeedback"
+msgid "Send Feedback"
+msgstr "Envoyer un Message"
+
+#. Key:	ButtonFoliage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFoliage"
+msgid "Foliage"
+msgstr "Feuillage"
+
+#. Key:	ButtonGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGraphicsOptions"
+msgid "Graphics"
+msgstr "Paramètres Graphiques"
+
+#. Key:	ButtonNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonNewGame"
+msgid "New Game"
+msgstr "Nouvelle Partie"
+
+#. Key:	ButtonPostProcess
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPostProcess"
+msgid "Post-process"
+msgstr "Post-traitement"
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonResume"
+msgid "Resume Game"
+msgstr "Retour au Jeu"
+
+#. Key:	ButtonScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonScreenOptions"
+msgid "Screen"
+msgstr "Écran"
+
+#. Key:	ButtonShadows
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShadows"
+msgid "Shadows"
+msgstr "Ombres"
+
+#. Key:	ButtonSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSoundOptions"
+msgid "Sound"
+msgstr "Son"
+
+#. Key:	ButtonSP01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP01"
+msgid "1. Fall"
+msgstr "1. La Chute"
+
+#. Key:	ButtonSP02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP02"
+msgid "2. Scaffolding"
+msgstr "2. Le Monte-charge"
+
+#. Key:	ButtonSP03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP03"
+msgid "3. Pool"
+msgstr "3. Le Bassin"
+
+#. Key:	ButtonSP04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP04"
+msgid "4. Mine"
+msgstr "4. La Mine"
+
+#. Key:	ButtonSP05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP05"
+msgid "5. Lab"
+msgstr "5. Le Laboratoire"
+
+#. Key:	ButtonSP06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP06"
+msgid "6. Clearing"
+msgstr "6. L'extérieur"
+
+#. Key:	ButtonSP07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP07"
+msgid "7. Sewer"
+msgstr "7. Les Égouts"
+
+#. Key:	ButtonSP08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP08"
+msgid "8. Elevator"
+msgstr "8. L'Ascenseur"
+
+#. Key:	ButtonTextures
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonTextures"
+msgid "Textures"
+msgstr "Textures"
+
+#. Key:	CheckboxCommentary
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxCommentary"
+msgid "In-Game Commentary"
+msgstr "Commentaires du créateur pendant le jeu"
+
+#. Key:	CheckboxInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertMouse"
+msgid "Invert Mouse"
+msgstr "Inverser l'axe vertical de la souris"
+
+#. Key:	CheckboxLaptopMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopMode"
+msgid "Laptop Mode"
+msgstr "Mode Ordinateur Portable"
+
+#. Key:	CheckboxLaptopModeHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopModeHelp"
+msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr "Limite les frames à 30fps pour éviter la surchauffe de systèmes comme les ordinateurs portables."
+
+#. Key:	CheckboxVSync
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxVSync"
+msgid "VSync"
+msgstr "Synchronisation Verticale"
+
+#. Key:	DropdownResolution
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownResolution"
+msgid "Resolution"
+msgstr "Résolution"
+
+#. Key:	GameTag
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTag"
+msgid "ACT II EARLY ACCESS"
+msgstr "ACTE II ACCÈS ANTICIPÉ"
+
+#. Key:	GameTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTitle"
+msgid "ESTRANGED"
+msgstr "ESTRANGED"
+
+#. Key:	LabelExperimentalOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptions"
+msgid "Experimental Options"
+msgstr "Paramètres Expérimentaux"
+
+#. Key:	LabelExperimentalOptionsHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptionsHelp"
+msgid "These options are experimental and may be lost."
+msgstr "Ces options sont expérimentales et peuvent être perdues."
+
+#. Key:	MenuControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuControlOptions"
+msgid "CONTROLS"
+msgstr "Paramètre des touches/souris"
+
+#. Key:	MenuExtraOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuExtraOptions"
+msgid "EXTRAS"
+msgstr "CONTENUS ADDITIONNELS"
+
+#. Key:	MenuGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGraphicsOptions"
+msgid "GRAPHICS"
+msgstr "PARAMÈTRES GRAPHIQUES"
+
+#. Key:	MenuNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuNewGame"
+msgid "NEW GAME"
+msgstr "NOUVELLE PARTIE"
+
+#. Key:	MenuOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuOptions"
+msgid "OPTIONS"
+msgstr "OPTIONS"
+
+#. Key:	MenuSaveLoadOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSaveLoadOptions"
+msgid "SAVE/ LOAD"
+msgstr "SAUVEGARDER/ CHARGER"
+
+#. Key:	MenuScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuScreenOptions"
+msgid "SCREEN"
+msgstr "ÉCRAN"
+
+#. Key:	MenuSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSoundOptions"
+msgid "SOUND"
+msgstr "SON"
+
+#. Key:	OptionsButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,OptionsButton"
+msgid "Options"
+msgstr "Options"
+
+#. Key:	SliderControllerSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderControllerSensitivity"
+msgid "Controller Sensitivity"
+msgstr "Sensibilité de la Manette"
+
+#. Key:	SliderEffectsVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderEffectsVolume"
+msgid "Effects Volume"
+msgstr "Volume des Effets"
+
+#. Key:	SliderMouseSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "Sensibilité de la Souris"
+
+#. Key:	SliderMusicVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMusicVolume"
+msgid "Music Volume"
+msgstr "Volume de la Musique"
+
+#. Key:	SliderVoiceVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderVoiceVolume"
+msgid "Voice Volume"
+msgstr "Volume des Voix"
+
+#. Key:	GarethThomasDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part1"
+msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "Ici Gareth Thomas. Nous avons analysé les échantillons des algues"
+
+#. Key:	GarethThomasDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part2"
+msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr "et avons remarqué que l'effet lumineux est provoqué, de façon naturelle, par un plancton marin que l'on trouve dans les environs."
+
+#. Key:	GarethThomasDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part3"
+msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
+msgstr "Nous n'envisageons pas que l'utilisation des algues soit influencée par le plancton."
+
+#. Key:	GarethThomasDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part4"
+msgid "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr "Et nous considérons ce dernier totalement inoffensif... nous ne pensons pas qu'il puisse devenir un problème."
+
+#. Key:	LiamJonesDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part1"
+msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr "Ceci est le... journal audio de Liam Jones, N°1, euh"
+
+#. Key:	LiamJonesDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part2"
+msgid "We just started studying the algae, and uh"
+msgstr "Nous venons juste de commencer l'étude des algues et..."
+
+#. Key:	LiamJonesDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part3"
+msgid "We realised that it actually glows if you leave it alone for a little while"
+msgstr "Nous avons remarqué que l'algue brille quand on la laisse seule pendant un petit moment"
+
+#. Key:	LiamJonesDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part4"
+msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr "Donc.. c'est cool ! Euh.. j'en ai un échantillon avec moi que..."
+
+#. Key:	LiamJonesDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part5"
+msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr "...je vais laisser dans mon bureau un petit moment, juste pour voir ce qui va se passer."
+
+#. Key:	LiamJonesDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part1"
+msgid "This is the uh, Liam Jones uh, diary #2"
+msgstr "Ceci est... le journal audio de Liam Jones... N°2"
+
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "fait ça Hawthorne, dis leur simplement que je l'ai égaré... et que j'en ai besoin d'un autre"
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "ou tu peux simplement dire que j'ai besoin d'un badge en réserve... encore-un... Je ne sais pas où est l'autre"
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr "... j'ai juste besoin d'un autre badge, c'est le but "
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr "donc si tu peux envoyer un mail au responsable des badges Hawthorne"
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr "et... juste me trouver un nouveau badge ça serait bien. Voilà."
+
+#. Key:	LiamJonesDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part2"
+msgid "The samples are doing OK, we're just observing them now to see what happens"
+msgstr "Pas de problème avec les échantillons, nous les observons pour voir ce qui pourrait se passer."
+
+#. Key:	LiamJonesDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part3"
+msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr "Le quartier général nous a demandé quelques échantillons, nous allons donc leur en expédier quelques-uns dans des boîtes."
+
+#. Key:	LiamJonesDiary2Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part4"
+msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr "Au fait, Hawthorne, quand tu le pourras... j'ai perdu mon badge..."
+
+#. Key:	LiamJonesDiary2Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part5"
+msgid "but when you talk to the badge people just say um... like uh..."
+msgstr "quand tu iras parler au responsable des badges, dis juste... que...."
+
+#. Key:	LiamJonesDiary2Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part6"
+msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr "Je ne sais pas... que quelqu'un.. non... non... personne ne l'a pris, ça ne marchera pas"
+
+#. Key:	LiamJonesDiary2Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part7"
+msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr "Qu'un... renard s'est faufilé... qu'il a pris mon badge... et que... maintenant... je ne peux plus rentrer dans le bâtiment principal"
+
+#. Key:	LiamJonesDiary2Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part8"
+msgid "Um so, if you could just tell them that... because last time it happened, "
+msgstr "Euh... bon... si tu pouvais leur dire ça... car la dernière fois..."
+
+#. Key:	LiamJonesDiary2Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part9"
+msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
+msgstr "ils ont dit que c'était de ma faute et ils étaient un peu contre le fait de le remplacer donc..."
+
+#. Key:	LiamJonesDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part1"
+msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr "C'est Liam Jones... l'ingénieur de la sécurité des échantillons dans le bâtiment. Nous venons juste de mettre le"
+
+#. Key:	LiamJonesDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part2"
+msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr "Docteur Frederick Prezella, dans la salle d'observation, euh... il est devenu violent"
+
+#. Key:	LiamJonesDiary3Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part3"
+msgid "and attacked one of my members of staff so we're going to keep him"
+msgstr "et il a attaqué un des membres de mon équipe donc on va le garder"
+
+#. Key:	LiamJonesDiary3Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part4"
+msgid "under observation and probably move him off the island as soon as we can."
+msgstr "en observation et probablement le faire sortir de l'île dès que possible."
+
+#. Key:	LiamJonesDiary3Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part5"
+msgid "We're not sure what caused this."
+msgstr "On ne sait pas ce qui a causé sa réaction."
+
+#. Key:	FeedbackCancel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackCancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. Key:	FeedbackContentHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackContentHelp"
+msgid "Your feedback (required)"
+msgstr "Vos commentaires (requis)"
+
+#. Key:	FeedbackEmailHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackEmailHelp"
+msgid "Your email address (optional)"
+msgstr "Votre adresse mail (optionnel)"
+
+#. Key:	FeedbackHint
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackHint"
+msgid "Your location and health will be sent automatically."
+msgstr "Votre position dans le jeu et votre santé seront envoyées automatiquement."
+
+#. Key:	FeedbackIntro
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackIntro"
+msgid "We want to know what you think of Estranged! Send your feedback to help shape the final game."
+msgstr "Nous aimerions savoir ce que vous pensez d'Estranged ! Envoyez vos commentaires (bogues, suggestions, etc.) pour nous aider à améliorer la version finale du jeu."
+
+#. Key:	FeedbackSend
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackSend"
+msgid "Submit Feedback"
+msgstr "Envoyer le message"
+
+#. Key:	FeedbackTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,FeedbackTitle"
+msgid "SEND FEEDBACK"
+msgstr "ENVOYER UN MESSAGE"
+
+#. Key:	StartupContent
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupContent"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"We will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n"
+"\r\n"
+"We are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
+msgstr ""
+"Bienvenue sur Estranged: Acte II ! Ceci est la suite, en cours de développement, de Estranged: Acte I qui est aussi disponible sur Steam.\r\n"
+"\r\n"
+"Nous continuerons de procéder à des mises à jour avec des nouvelles fonctionnalités et plus de contenu. Les traductions dans toutes les langues seront disponibles dès que le jeu sera presque achevé.\r\n"
+"\r\n"
+"Nous sommes une très petite équipe travaillant sur Estranged pendant notre temps libre – si vous avez un commentaire, suggestion, etc. à nous faire parvenir, nous sommes disponibles sur les forums Steam dédiés au jeu !"
+
+#. Key:	StartupPlayButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupPlayButton"
+msgid "Play Estranged"
+msgstr "Jouer à Estranged"
+
+#. Key:	StartupTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupTitle"
+msgid "WELCOME TO ESTRANGED ACT II"
+msgstr "BIENVENUE SUR ESTRANGED ACT II"
+
+#. Key:	RangeLevelLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeLevelLabel"
+msgid "LEVEL"
+msgstr "NIVEAU"
+
+#. Key:	RangePointsLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangePointsLabel"
+msgid "POINTS"
+msgstr "POINTS"
+
+#. Key:	RangeTimeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeTimeLabel"
+msgid "TIME"
+msgstr "TEMPS"
