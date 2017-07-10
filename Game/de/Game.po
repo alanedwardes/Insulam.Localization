@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-07-07 22:27\n"
-"PO-Revision-Date: 2017-07-07 22:27\n"
+"POT-Creation-Date: 2017-07-10 19:53\n"
+"PO-Revision-Date: 2017-07-10 19:53\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -445,7 +445,7 @@ msgstr "Wir gehen nicht davon aus, dass das Plankton durch unsere Nutzung der Al
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "Und wir halten es für völlig harmlos und wir erwarten auch nicht, dass dies ein Problem ist."
+msgstr "Und wir halten es für völlig harmlos und wir erwarten auch nicht, dass dies ein Problem wird."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -459,7 +459,7 @@ msgstr "Hier ist, äh, Liam Jones, Audio Tagebuch #1, äh"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Wir gerade begonnen die Algen zu studieren und äh"
+msgstr "Wir haben gerade begonnen die Algen zu studieren und äh"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -501,14 +501,14 @@ msgstr "nur mach es so Hawthorne, lass sie nur im glauben, dass ich sie verlegt 
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "oder man könnte sogar sagen, ich bräuchte ein Ersatz-Abzeichen, eine anderes... Ich bin mir nicht sicher wer zuständig ist"
+msgstr "oder man könnte sogar sagen, ich bräuchte ein Ersatz-Abzeichen, ein anderes... Ich bin mir nicht sicher wer zuständig ist"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "...nur brauche ich im Grunde unterm Strich nur ein anderes Abzeichen"
+msgstr "...nur,... ich brauche im Grunde unterm Strich nur ein anderes Abzeichen"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -536,7 +536,7 @@ msgstr "Die Proben sind okay, wir beobachten sie jetzt nur, um zu sehen was pass
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Das Hauptbüro hat hierfür einige Proben geschickt, so werden wir auch in einigen Kisten etwas hinüber schicken"
+msgstr "Das Hauptbüro hat hierfür einige Proben geschickt, so werden wir auch etwas in einigen Kisten hinüber schicken"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -557,28 +557,28 @@ msgstr "Aber wenn du mit den Abzeichen-Leuten sprichst, sagst du einfach Hm... w
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "Ich weiß nicht, jemand - nein, nein, irgendeiner hat es nicht genommen, that's a bad reason"
+msgstr "Ich weiß nicht, jemand - nein, nein, irgendeiner hat das nicht genommen, das ist nicht möglich"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Ein Fuchs schlich hinein und nahm mein Abzeichen und ähm, jetzt kann ich nicht mehr die Haupteinrichtung betreten"
+msgstr "Ein Fuchs schlich hinein und nahm mein Abzeichen und ähm, jetzt kann ich nicht mehr in die Haupteinrichtung"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Äh also, wenn du ihnen das nur sagen könntest... denn als es das letzte Mal passiert ist,"
+msgstr "Äh also, wenn du ihnen nur sagen könntest... denn als es das letzte Mal passiert ist,"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen mir es ein wenig widerwillig"
+msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen es mir ein wenig widerwillig"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
