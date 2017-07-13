@@ -8,3 +8,4 @@ Add your name here to appear on the Estranged: Act II credits as a translator.
 * fr - Ewan Gros
 * pt-PT - João Gomes
 * pt-BR - Américo Flores
+* ru - Maxim Chebotin
