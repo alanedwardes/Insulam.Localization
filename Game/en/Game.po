@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-07-13 16:51\n"
-"PO-Revision-Date: 2017-07-13 16:51\n"
+"POT-Creation-Date: 2017-07-17 07:16\n"
+"PO-Revision-Date: 2017-07-17 07:16\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -76,6 +76,13 @@ msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
 msgstr "Apply Changes"
 
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr "Auto-Detect Settings"
+
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -138,6 +145,13 @@ msgstr "Send Feedback"
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
 msgstr "Foliage"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr "Gameplay"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -258,6 +272,13 @@ msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
 msgstr "In-Game Commentary"
 
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr "Disable HUD"
+
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -335,6 +356,13 @@ msgctxt "Menus,MenuExtraOptions"
 msgid "EXTRAS"
 msgstr "EXTRAS"
 
+#. Key:	MenuGameplay
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGameplay"
+msgid "GAMEPLAY"
+msgstr "GAMEPLAY"
+
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -397,6 +425,20 @@ msgstr "Controller Sensitivity"
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
 msgstr "Effects Volume"
+
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr "Field of View"
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr "Gamma"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -614,55 +656,6 @@ msgstr "under observation and probably move him off the island as soon as we can
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
 msgstr "We're not sure what caused this."
-
-#. Key:	FeedbackCancel
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackCancel"
-msgid "Cancel"
-msgstr "Cancel"
-
-#. Key:	FeedbackContentHelp
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackContentHelp"
-msgid "Your feedback (required)"
-msgstr "Your feedback (required)"
-
-#. Key:	FeedbackEmailHelp
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackEmailHelp"
-msgid "Your email address (optional)"
-msgstr "Your email address (optional)"
-
-#. Key:	FeedbackHint
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackHint"
-msgid "Your location and health will be sent automatically."
-msgstr "Your location and health will be sent automatically."
-
-#. Key:	FeedbackIntro
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackIntro"
-msgid "We want to know what you think of Estranged! Send your feedback to help shape the final game."
-msgstr "We want to know what you think of Estranged! Send your feedback to help shape the final game."
-
-#. Key:	FeedbackSend
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackSend"
-msgid "Submit Feedback"
-msgstr "Submit Feedback"
-
-#. Key:	FeedbackTitle
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackTitle"
-msgid "SEND FEEDBACK"
-msgstr "SEND FEEDBACK"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
