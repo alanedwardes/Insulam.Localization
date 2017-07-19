@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-07-19 21:43\n"
-"PO-Revision-Date: 2017-07-19 21:43\n"
+"POT-Creation-Date: 2017-07-19 22:23\n"
+"PO-Revision-Date: 2017-07-19 22:23\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -656,6 +656,167 @@ msgstr "en observation et probablement le faire sortir de l'île dès que possib
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
 msgstr "On ne sait pas ce qui a causé sa réaction."
+
+#. Key:	John01
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John01"
+msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
+msgstr ""
+
+#. Key:	John02
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John02"
+msgid "There was a message on my radio... it sounded like a man"
+msgstr ""
+
+#. Key:	John03
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John03"
+msgid "I think he said professor? Trying to override the curfew message"
+msgstr ""
+
+#. Key:	John04
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John04"
+msgid "I left the hut to try to help"
+msgstr ""
+
+#. Key:	John05
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John05"
+msgid "I followed the river for a while towards Wentworth, and found this abandoned guard post"
+msgstr ""
+
+#. Key:	John06
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John06"
+msgid "I was scavenging and noticed you on the CCTV... kind of lucky"
+msgstr ""
+
+#. Key:	John07
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John07"
+msgid "We need to send an SOS off the island, about what Arque is doing here"
+msgstr ""
+
+#. Key:	John08
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John08"
+msgid "If we have any hope of getting help, we need to stop that curfew message"
+msgstr ""
+
+#. Key:	John09
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John09"
+msgid "Only something powerful could be sending that out, but..."
+msgstr ""
+
+#. Key:	John10
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John10"
+msgid "I know of one very old satellite station on the island"
+msgstr ""
+
+#. Key:	John11
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John11"
+msgid "I thought it was decommissioned"
+msgstr ""
+
+#. Key:	John12
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John12"
+msgid "Someone will be watching - you need to get away from Arque buildings. It isn't safe."
+msgstr ""
+
+#. Key:	John13
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John13"
+msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
+msgstr ""
+
+#. Key:	John14
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John14"
+msgid "I'm going to destroy this station and move on."
+msgstr ""
+
+#. Key:	John15
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John15"
+msgid "Pick up the portable radio on the table. I'll try to make contact soon."
+msgstr ""
+
+#. Key:	John16
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John16"
+msgid "Look just, good luck out there... we'll speak again soon."
+msgstr ""
+
+#. Key:	JohnNag01
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag01"
+msgid "Hello? Pick up, it's John"
+msgstr ""
+
+#. Key:	JohnNag02
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag02"
+msgid "I can see you on the CCTV, answer the radio!"
+msgstr ""
+
+#. Key:	JohnNag03
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag03"
+msgid "Press the button to answer, it will secure the channel"
+msgstr ""
+
+#. Key:	JohnNag04
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag04"
+msgid "I don't know how long I can stay here, pick up"
+msgstr ""
+
+#. Key:	JohnNag05
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag05"
+msgid "Come on, pick up... I can see you"
+msgstr ""
+
+#. Key:	JohnNag06
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag06"
+msgid "Hello?"
+msgstr ""
+
+#. Key:	JohnNag07
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag07"
+msgid "Is anyone there?"
+msgstr ""
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
