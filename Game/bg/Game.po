@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-06-30 22:05\n"
-"PO-Revision-Date: 2017-06-30 22:05\n"
+"POT-Creation-Date: 2017-07-17 17:38\n"
+"PO-Revision-Date: 2017-07-17 17:38\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -76,6 +76,13 @@ msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
 msgstr "Приложете промените"
 
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr ""
+
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -138,6 +145,13 @@ msgstr "Изпратете отзиви"
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
 msgstr "Шума"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr ""
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -258,6 +272,13 @@ msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
 msgstr "Коментари в играта"
 
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr ""
+
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -335,6 +356,13 @@ msgctxt "Menus,MenuExtraOptions"
 msgid "EXTRAS"
 msgstr "ЕКСТРИ"
 
+#. Key:	MenuGameplay
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGameplay"
+msgid "GAMEPLAY"
+msgstr ""
+
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -397,6 +425,20 @@ msgstr "Чувствителност на контролите"
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
 msgstr "Сила на звука на ефектите"
+
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr ""
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr ""
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -614,55 +656,6 @@ msgstr "под наблюдение и най-вероятно ще го мах�
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
 msgstr "Не сме сигурни каква беше причината за това."
-
-#. Key:	FeedbackCancel
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackCancel"
-msgid "Cancel"
-msgstr "Отказ"
-
-#. Key:	FeedbackContentHelp
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackContentHelp"
-msgid "Your feedback (required)"
-msgstr "Вашите отзиви (задължителен)"
-
-#. Key:	FeedbackEmailHelp
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackEmailHelp"
-msgid "Your email address (optional)"
-msgstr "Вашият имейл адрес (незадължителен)"
-
-#. Key:	FeedbackHint
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackHint"
-msgid "Your location and health will be sent automatically."
-msgstr "Вашето местоположение и ниво на здравето ще бъдат изпратени автоматично."
-
-#. Key:	FeedbackIntro
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackIntro"
-msgid "We want to know what you think of Estranged! Send your feedback to help shape the final game."
-msgstr "Ние искаме да разберем какво мислите за Estranged! Изпратете отзивите си, за да помогнете за оформянето на крайната игра."
-
-#. Key:	FeedbackSend
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackSend"
-msgid "Submit Feedback"
-msgstr "Изпратете отзиви"
-
-#. Key:	FeedbackTitle
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackTitle"
-msgid "SEND FEEDBACK"
-msgstr "ИЗПРАТЕТЕ ОТЗИВИ"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows

@@ -1,18 +1,17 @@
+﻿# Game German translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-06-30 22:05\n"
-"PO-Revision-Date: 2017-07-02 20:07+0200\n"
+"POT-Creation-Date: 2017-07-17 17:38\n"
+"PO-Revision-Date: 2017-07-17 17:38\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.0.2\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -77,6 +76,13 @@ msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
 msgstr "Änderung übernehmen"
 
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr ""
+
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -139,6 +145,13 @@ msgstr "Feedback senden"
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
 msgstr "Blätter"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr ""
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -259,6 +272,13 @@ msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
 msgstr "In-Game Kommentar"
 
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr ""
+
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -336,6 +356,13 @@ msgctxt "Menus,MenuExtraOptions"
 msgid "EXTRAS"
 msgstr "EXTRAS"
 
+#. Key:	MenuGameplay
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGameplay"
+msgid "GAMEPLAY"
+msgstr ""
+
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -399,6 +426,20 @@ msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
 msgstr "Effekt Lautstärke"
 
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr ""
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr ""
+
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -446,7 +487,7 @@ msgstr "Wir gehen nicht davon aus, dass das Plankton durch unsere Nutzung der Al
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "Und wir halten es für völlig harmlos und wir erwarten auch nicht, dass dies ein Problem ist."
+msgstr "Und wir halten es für völlig harmlos und wir erwarten auch nicht, dass dies ein Problem wird."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -460,7 +501,7 @@ msgstr "Hier ist, äh, Liam Jones, Audio Tagebuch #1, äh"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Wir gerade begonnen die Algen zu studieren und äh"
+msgstr "Wir haben gerade begonnen die Algen zu studieren und äh"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -502,14 +543,14 @@ msgstr "nur mach es so Hawthorne, lass sie nur im glauben, dass ich sie verlegt 
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "oder man könnte sogar sagen, ich bräuchte ein Ersatz-Abzeichen, eine anderes... Ich bin mir nicht sicher wer zuständig ist"
+msgstr "oder man könnte sogar sagen, ich bräuchte ein Ersatz-Abzeichen, ein anderes... Ich bin mir nicht sicher wer zuständig ist"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "...nur brauche ich im Grunde unterm Strich nur ein anderes Abzeichen"
+msgstr "...nur,... ich brauche im Grunde unterm Strich nur ein anderes Abzeichen"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -537,7 +578,7 @@ msgstr "Die Proben sind okay, wir beobachten sie jetzt nur, um zu sehen was pass
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Das Hauptbüro hat hierfür einige Proben geschickt, so werden wir auch in einigen Kisten etwas hinüber schicken"
+msgstr "Das Hauptbüro hat hierfür einige Proben geschickt, so werden wir auch etwas in einigen Kisten hinüber schicken"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -558,28 +599,28 @@ msgstr "Aber wenn du mit den Abzeichen-Leuten sprichst, sagst du einfach Hm... w
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "Ich weiß nicht, jemand - nein, nein, irgendeiner hat es nicht genommen, that's a bad reason"
+msgstr "Ich weiß nicht, jemand - nein, nein, irgendeiner hat das nicht genommen, das ist nicht möglich"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Ein Fuchs schlich hinein und nahm mein Abzeichen und ähm, jetzt kann ich nicht mehr die Haupteinrichtung betreten"
+msgstr "Ein Fuchs schlich hinein und nahm mein Abzeichen und ähm, jetzt kann ich nicht mehr in die Haupteinrichtung"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Äh also, wenn du ihnen das nur sagen könntest... denn als es das letzte Mal passiert ist,"
+msgstr "Äh also, wenn du ihnen nur sagen könntest... denn als es das letzte Mal passiert ist,"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen mir es ein wenig widerwillig"
+msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen es mir ein wenig widerwillig"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -616,71 +657,12 @@ msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
 msgstr "Wir sind nicht sicher, was dies verursacht hat."
 
-#. Key:	FeedbackCancel
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackCancel"
-msgid "Cancel"
-msgstr "Abbruch"
-
-#. Key:	FeedbackContentHelp
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackContentHelp"
-msgid "Your feedback (required)"
-msgstr "Dein Feedback (gewünscht)"
-
-#. Key:	FeedbackEmailHelp
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackEmailHelp"
-msgid "Your email address (optional)"
-msgstr "Deine E-Mail Adresse (optional)"
-
-#. Key:	FeedbackHint
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackHint"
-msgid "Your location and health will be sent automatically."
-msgstr "Dein Standort und deine Hilfe werden automatisch gesendet."
-
-#. Key:	FeedbackIntro
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackIntro"
-msgid "We want to know what you think of Estranged! Send your feedback to help shape the final game."
-msgstr "Wir wollen gerne wissen, was du von Estranged hälst! Sende dein Feedback, um das endgültige Spiel zu gestalten."
-
-#. Key:	FeedbackSend
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackSend"
-msgid "Submit Feedback"
-msgstr "Feedback einreichen"
-
-#. Key:	FeedbackTitle
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,FeedbackTitle"
-msgid "SEND FEEDBACK"
-msgstr "FEEDBACK SENDEN"
-
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"We will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n"
-"\r\n"
-"We are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
-msgstr ""
-"Willkommen in Estranged: Act II! Das ist eine noch nicht fertige Fortsetzung von Estranged: Act I, die auch auf Steam verfügbar ist.\r\n"
-"\r\n"
-"Wir werden das Spiel ständig mit neuen Features und mehr Inhalt aktualisieren. Übersetzungen für alle Sprachen werden erst kommen, wenn das Spiel beinahe fertiggestellt ist, da sich am Spiel noch einiges ändern wird.\r\n"
-"\r\n"
-"Wir sind ein sehr kleines Team, das in seiner Freizeit an Estranged arbeitet – wenn du irgendein Feedback für uns hast, sind wir immer in den Steam-Foren verfügbar!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n\r\nWe are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
+msgstr "Willkommen in Estranged: Act II! Das ist eine noch nicht fertige Fortsetzung von Estranged: Act I, die auch auf Steam verfügbar ist.\r\n\r\nWir werden das Spiel ständig mit neuen Features und mehr Inhalt aktualisieren. Übersetzungen für alle Sprachen werden erst kommen, wenn das Spiel beinahe fertiggestellt ist, da sich am Spiel noch einiges ändern wird.\r\n\r\nWir sind ein sehr kleines Team, das in seiner Freizeit an Estranged arbeitet – wenn du irgendein Feedback für uns hast, sind wir immer in den Steam-Foren verfügbar!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -716,3 +698,4 @@ msgstr "PUNKTE"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "ZEIT"
+
