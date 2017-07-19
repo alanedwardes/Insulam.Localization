@@ -1,18 +1,17 @@
+﻿# Game French translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-07-17 17:38\n"
-"PO-Revision-Date: 2017-07-19 09:18+0200\n"
+"POT-Creation-Date: 2017-07-19 21:43\n"
+"PO-Revision-Date: 2017-07-19 21:43\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Last-Translator: Ewan Claude Gros <grosewan@gmail.com>\n"
-"X-Generator: Poedit 2.0.2\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -662,18 +661,8 @@ msgstr "On ne sait pas ce qui a causé sa réaction."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"We will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n"
-"\r\n"
-"We are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
-msgstr ""
-"Bienvenue sur Estranged: Acte II ! Ceci est la suite, en cours de développement, de Estranged: Acte I qui est aussi disponible sur Steam.\r\n"
-"\r\n"
-"Nous continuerons de procéder à des mises à jour avec des nouvelles fonctionnalités et plus de contenu. Les traductions dans toutes les langues seront disponibles dès que le jeu sera presque achevé.\r\n"
-"\r\n"
-"Nous sommes une très petite équipe travaillant sur Estranged pendant notre temps libre – si vous avez un commentaire, suggestion, etc. à nous faire parvenir, nous sommes disponibles sur les forums Steam dédiés au jeu !"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n\r\nWe are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
+msgstr "Bienvenue sur Estranged: Acte II ! Ceci est la suite, en cours de développement, de Estranged: Acte I qui est aussi disponible sur Steam.\r\n\r\nNous continuerons de procéder à des mises à jour avec des nouvelles fonctionnalités et plus de contenu. Les traductions dans toutes les langues seront disponibles dès que le jeu sera presque achevé.\r\n\r\nNous sommes une très petite équipe travaillant sur Estranged pendant notre temps libre – si vous avez un commentaire, suggestion, etc. à nous faire parvenir, nous sommes disponibles sur les forums Steam dédiés au jeu !"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -709,3 +698,4 @@ msgstr "POINTS"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TEMPS"
+
