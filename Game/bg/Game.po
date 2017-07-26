@@ -1,17 +1,18 @@
-﻿# Game Bulgarian translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2017-07-26 20:49\n"
-"PO-Revision-Date: 2017-07-26 20:49\n"
+"PO-Revision-Date: 2017-07-26 23:27+0100\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.0.3\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -81,7 +82,7 @@ msgstr "Приложете промените"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAutoDetectSettings"
 msgid "Auto-Detect Settings"
-msgstr ""
+msgstr "Автоматично откриване на настройките"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -277,7 +278,7 @@ msgstr "Коментари в играта"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHUD"
 msgid "Disable HUD"
-msgstr ""
+msgstr "Изключване на HUD"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -319,7 +320,7 @@ msgstr "Резолюция"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II EARLY ACCESS"
-msgstr "АКТ II РАНЕН ДОСТЪП"
+msgstr "ЧАСТ II РАНЕН ДОСТЪП"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -431,14 +432,14 @@ msgstr "Сила на звука на ефектите"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderFieldOfView"
 msgid "Field of View"
-msgstr ""
+msgstr "Полезрение"
 
 #. Key:	SliderGamma
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderGamma"
 msgid "Gamma"
-msgstr ""
+msgstr "Гама"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -536,7 +537,7 @@ msgstr "Това е ъ-ъ, Лиам Джоунс ъ-ъ, дневник #2"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "просто направи това Хоторн, просто ги уведоми, че съм го загубил, и имам нужда от друг"
+msgstr "просто направи това Хоутърн, просто ги уведоми, че съм го загубил, и имам нужда от друг"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -557,7 +558,7 @@ msgstr "...просто трябва ми друг пропуск е какво�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr "така че ако може да пратиш имейл на хората с пропуските, Хоторн"
+msgstr "така че ако може да пратиш имейл на хората с пропуските, Хоутърн"
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -585,7 +586,7 @@ msgstr "От главния офис помолиха за няколко про
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr "Също, Хортон, когато имаш възможност, изгубих си пропуска..."
+msgstr "Също, Хоутърн, когато имаш възможност, изгубих си пропуска..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -662,168 +663,178 @@ msgstr "Не сме сигурни каква беше причината за �
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John01"
 msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
-msgstr ""
+msgstr "Радвам се, че си жив. Бях започнал да мисля, че няма да говорим отново."
 
 #. Key:	John02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John02"
 msgid "There was a message on my radio... it sounded like a man"
-msgstr ""
+msgstr "На радиото ми имаше съобщение... Звучеше като мъж"
 
 #. Key:	John03
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John03"
 msgid "I think he said professor? Trying to override the curfew message"
-msgstr ""
+msgstr "Мисля, че каза, че е професор? Опитваше се да презапише съобщението за вечерния час"
 
 #. Key:	John04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John04"
 msgid "I left the hut to try to help"
-msgstr ""
+msgstr "Изоставих колибата, за да помогна"
 
 #. Key:	John05
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John05"
 msgid "I followed the river for a while towards Wentworth, and found this abandoned guard post"
-msgstr ""
+msgstr "Следвах реката в посока Уентуорт за известно време и намерих тази изоставена охранителна станция"
 
 #. Key:	John06
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John06"
 msgid "I was scavenging and noticed you on the CCTV... kind of lucky"
-msgstr ""
+msgstr "Претърсвах наоколо и те забелязах на камерата за видеонаблюдение... късмет"
 
 #. Key:	John07
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John07"
 msgid "We need to send an SOS off the island, about what Arque is doing here"
-msgstr ""
+msgstr "Трябва да изпратим SOS съобщение извън острова за това, което Арк прави тук"
 
 #. Key:	John08
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John08"
 msgid "If we have any hope of getting help, we need to stop that curfew message"
-msgstr ""
+msgstr "Ако имаме някаква надежда, че може да получим помощ, трябва да спрем съобщението за вечерния час"
 
 #. Key:	John09
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John09"
 msgid "Only something powerful could be sending that out, but..."
-msgstr ""
+msgstr "Само нещо с голяма мощност може да го изпраща, но..."
 
 #. Key:	John10
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John10"
 msgid "I know of one very old satellite station on the island"
-msgstr ""
+msgstr "Знам една много стара сателитна станция на острова"
 
 #. Key:	John11
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John11"
 msgid "I thought it was decommissioned"
-msgstr ""
+msgstr "Мислих си, че е изведена от експлоатация"
 
 #. Key:	John12
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John12"
 msgid "Someone will be watching - you need to get away from Arque buildings. It isn't safe."
-msgstr ""
+msgstr "Някой сигурно ни наблюдава - трябва да се измъкнеш от сградата на Арк. Не е безопасно."
 
 #. Key:	John13
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John13"
 msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
-msgstr ""
+msgstr "Те всички са силно въоръжени. Измежду тях и заразените трябва да бъдеш изключително внимателен да не привлечеш внимание."
 
 #. Key:	John14
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John14"
 msgid "I'm going to destroy this station and move on."
-msgstr ""
+msgstr "Ще унищожа тази станция и ще продължа напред."
 
 #. Key:	John15
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John15"
 msgid "Pick up the portable radio on the table. I'll try to make contact soon."
-msgstr ""
+msgstr "Вземи портативното радио от масата. Ще се опитам да се свържа с теб скоро."
 
 #. Key:	John16
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John16"
 msgid "Look just, good luck out there... we'll speak again soon."
-msgstr ""
+msgstr "Виж... Късмет там навън... Скоро ще говорим отново."
 
 #. Key:	JohnNag01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag01"
 msgid "Hello? Pick up, it's John"
-msgstr ""
+msgstr "Ехо? Вдигни, Джон е"
 
 #. Key:	JohnNag02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag02"
 msgid "I can see you on the CCTV, answer the radio!"
-msgstr ""
+msgstr "Виждам те на камерата за видеонаблюдение, отговори на радиото!"
 
 #. Key:	JohnNag03
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag03"
 msgid "Press the button to answer, it will secure the channel"
-msgstr ""
+msgstr "Натисни бутона, за да отговориш, това ще подсигури канала"
 
 #. Key:	JohnNag04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag04"
 msgid "I don't know how long I can stay here, pick up"
-msgstr ""
+msgstr "Не знам колко дълго мога да седя тук, вдигни"
 
 #. Key:	JohnNag05
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag05"
 msgid "Come on, pick up... I can see you"
-msgstr ""
+msgstr "Хайде, вдигни... Виждам те"
 
 #. Key:	JohnNag06
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag06"
 msgid "Hello?"
-msgstr ""
+msgstr "Ехо?"
 
 #. Key:	JohnNag07
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag07"
 msgid "Is anyone there?"
-msgstr ""
+msgstr "Има ли някой?"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n\r\nWe are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
-msgstr "Добре дошли в Estranged: Акт II! Това е продължението на Estranged: Акт I, която също е достъпна в Steam.\n\nНие непрекъснато ще актуализираме играта с нови функции и повече съдържание. Преводите на всички езици ще дойдат след края на играта, тъй като играта ще се промени много.\n\nНие сме съвсем малък екип, работещ през свободното си време - ако имате някакви отзиви, винаги сме на разположение във форумите на Steam!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"We will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n"
+"\r\n"
+"We are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
+msgstr ""
+"Добре дошли в Estranged: Част II! Това е продължението на Estranged: Част I, която също е достъпна в Steam.\n"
+"\n"
+"Ние непрекъснато ще актуализираме играта с нови функции и повече съдържание. Преводите на всички езици ще дойдат след края на играта, тъй като играта ще се промени много.\n"
+"\n"
+"Ние сме съвсем малък екип, работещ през свободното си време - ако имате някакви отзиви, винаги сме на разположение във форумите на Steam!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -837,7 +848,7 @@ msgstr "Играй Estranged"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupTitle"
 msgid "WELCOME TO ESTRANGED ACT II"
-msgstr "ДОБРЕ ДОШЛИ В ESTRANGED АКТ II"
+msgstr "ДОБРЕ ДОШЛИ В ESTRANGED ЧАСТ II"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -859,4 +870,3 @@ msgstr "ТОЧКИ"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "ВРЕМЕ"
-
