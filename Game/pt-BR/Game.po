@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-08-21 19:02\n"
-"PO-Revision-Date: 2017-08-21 19:02\n"
+"POT-Creation-Date: 2017-08-21 19:18\n"
+"PO-Revision-Date: 2017-08-21 19:18\n"
 "Language-Team: \n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -460,6 +460,13 @@ msgstr "Volume da Música"
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
 msgstr "Volume da Voz"
+
+#. Key:	TooltipInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipInvertMouse"
+msgid "Invert the mouse Y axis"
+msgstr ""
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
