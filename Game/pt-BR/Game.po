@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-08-21 19:18\n"
-"PO-Revision-Date: 2017-08-21 19:18\n"
+"POT-Creation-Date: 2017-08-23 21:27\n"
+"PO-Revision-Date: 2017-08-23 21:27\n"
 "Language-Team: \n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -173,6 +173,13 @@ msgstr "Novo Jogo"
 msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
 msgstr "Post-process"
+
+#. Key:	ButtonRange
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonRange"
+msgid "Shooting Range"
+msgstr ""
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -664,6 +671,90 @@ msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
 msgstr "Nós não temos certeza sobre o que causou isso."
 
+#. Key:	AdditionalContributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AdditionalContributors"
+msgid "ADDITIONAL CONTRIBUTORS"
+msgstr ""
+
+#. Key:	CreatedWithUnrealEngine
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,CreatedWithUnrealEngine"
+msgid "Created with Unreal Engine"
+msgstr ""
+
+#. Key:	EstrangedTradeMark
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,EstrangedTradeMark"
+msgid "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr ""
+
+#. Key:	HelpTranslate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,HelpTranslate"
+msgid "Help Translate Too!"
+msgstr ""
+
+#. Key:	MoreSoon
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,MoreSoon"
+msgid "More Content Coming Soon"
+msgstr ""
+
+#. Key:	Translators
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Translators"
+msgid "TRANSLATORS"
+msgstr ""
+
+#. Key:	WithThanksTo
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,WithThanksTo"
+msgid "WITH THANKS TO"
+msgstr ""
+
+#. Key:	GuardChatter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter01"
+msgid "What do you think? He fell down there maybe?"
+msgstr ""
+
+#. Key:	GuardChatter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter02"
+msgid "I dunno... this place is falling apart."
+msgstr ""
+
+#. Key:	GuardChatter03
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter03"
+msgid "You know... if we report this, they're going to make us go down there."
+msgstr ""
+
+#. Key:	GuardChatter04
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter04"
+msgid "Yeah, I know. It's not worth it, let's just let the things get him."
+msgstr ""
+
+#. Key:	GuardChatter05
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter05"
+msgid "That's fine by me. Let's move."
+msgstr ""
+
 #. Key:	John01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
@@ -829,8 +920,8 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe will be continually updating the game with new features and more content. Translations for all languages will come after the game is mostly finished as the game will change a lot.\r\n\r\nWe are a very small team working on Estranged in our spare time – if you have any feedback for us, we are always available on the Steam forums!"
-msgstr "Bem-vindo a Estranged: Ato II! Esta é a sequência sendo feita para o Estranged: Ato I, também disponível na Steam.\r\n\r\nNós iremos atualizar continuamente o jogo com novas características e mais conteúdo. Traduções para todas as línguas virão após a maior parte do jogo estiver finalizada, já que o jogo vai mudar bastante.\r\n\r\nNós somos uma equipe bem pequena trabalhando em Estranged em nosso tempo livre – se você tem algum feedback para nós, estamos sempre disponíveis nos fóruns da Steam!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
+msgstr ""
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
