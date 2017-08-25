@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-08-23 21:27\n"
-"PO-Revision-Date: 2017-08-23 21:27\n"
+"POT-Creation-Date: 2017-08-25 19:29\n"
+"PO-Revision-Date: 2017-08-25 19:29\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -676,84 +676,84 @@ msgstr "Nevieme , čo to spôsobilo."
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AdditionalContributors"
 msgid "ADDITIONAL CONTRIBUTORS"
-msgstr ""
+msgstr "ĎAĽŠÍ PRISPIEVATELIA"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,CreatedWithUnrealEngine"
 msgid "Created with Unreal Engine"
-msgstr ""
+msgstr "Vytvorené v Unreal Engine"
 
 #. Key:	EstrangedTradeMark
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr ""
+msgstr "\"Estranged\" je obchodná značka Alana Edwardesa"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
-msgstr ""
+msgstr "Pomôžte nám s prekladom!"
 
 #. Key:	MoreSoon
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
 msgid "More Content Coming Soon"
-msgstr ""
+msgstr "Viac obsahu prichádza už čoskoro"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Translators"
 msgid "TRANSLATORS"
-msgstr ""
+msgstr "PREKLADATELIA"
 
 #. Key:	WithThanksTo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
-msgstr ""
+msgstr "S POĎAKOVANÍM"
 
 #. Key:	GuardChatter01
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter01"
 msgid "What do you think? He fell down there maybe?"
-msgstr ""
+msgstr "Čo si myslíš? Možno tam dole spadol , čo?"
 
 #. Key:	GuardChatter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter02"
 msgid "I dunno... this place is falling apart."
-msgstr ""
+msgstr "Neviem... toto miesto sa rozpadá."
 
 #. Key:	GuardChatter03
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter03"
 msgid "You know... if we report this, they're going to make us go down there."
-msgstr ""
+msgstr "Vieš... keby sme to ohlásili , prinútili by nás ísť dam dole."
 
 #. Key:	GuardChatter04
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter04"
 msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr ""
+msgstr "Áno , viem. Neoplatí sa to. Nechajme tie veci aby ho dostali."
 
 #. Key:	GuardChatter05
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter05"
 msgid "That's fine by me. Let's move."
-msgstr ""
+msgstr "Som za to. Poďme."
 
 #. Key:	John01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -774,7 +774,7 @@ msgstr "Na vysielačke som chytil správu... znelo to ako človek"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John03"
 msgid "I think he said professor? Trying to override the curfew message"
-msgstr "Myslím , že povedal , že je proffessor? Snaží sa prepísať správu o zákaze vychádzania."
+msgstr "Myslím , že povedal , že je profesor? Snaží sa prepísať správu o zákaze vychádzania."
 
 #. Key:	John04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -921,7 +921,7 @@ msgstr "Je tam niekto?"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr ""
+msgstr "Vitajte v Estranged : Act II! Toto je fanúšikovské pokračovanie Estranged : Act I , tiež dostupné na Steame\n\nSme veľmi malý tým (3 ľudia!) , ktorý vyvýja Estranged vo voľnom čase a budeme postupne aktualizovať hru novým obsahom.\n\nAk máte pre nás spätnú väzbu , vždy sme dostupní na Steam fórach alebo cez spätnú väzbu v hre!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
