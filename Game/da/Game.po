@@ -1,4 +1,4 @@
-﻿# Game German translation.
+﻿# Game Danish translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -7,7 +7,7 @@ msgstr ""
 "POT-Creation-Date: 2017-09-06 19:09\n"
 "PO-Revision-Date: 2017-09-06 19:09\n"
 "Language-Team: \n"
-"Language: de\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,112 +18,112 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
-msgstr "Ducken"
+msgstr "Duk under"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "M9 abfeuern"
+msgstr "M9"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
-msgstr "Taschenlampe Ein / Aus"
+msgstr "Tænd lommelygte"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr "Springen"
+msgstr "Hop op"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintMove"
 msgid "Move around"
-msgstr "Bewegen"
+msgstr "Bevæg dig"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickUp"
 msgid "Pick up object"
-msgstr "Objekt aufnehmen"
+msgstr "Saml ting op"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintThrowRock"
 msgid "Throw rock"
-msgstr "Stein werfen"
+msgstr "Kast stenen"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-aliasing"
-msgstr "Kantenglättung"
+msgstr "Anti-aliasing"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
-msgstr "Änderung übernehmen"
+msgstr "Gem ændringer"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAutoDetectSettings"
 msgid "Auto-Detect Settings"
-msgstr "Automatische Einstellungen"
+msgstr "Indstil automatisk"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonBack"
 msgid "Back"
-msgstr "Zurück"
+msgstr "Tilbage"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr "Steuerung"
+msgstr "Control"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonCredits"
 msgid "Load Credits"
-msgstr "Mitwirkende anzeigen"
+msgstr "Indlæs credits"
 
 #. Key:	ButtonEffects
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonEffects"
 msgid "Effects"
-msgstr "Effekte"
+msgstr "Effekter"
 
 #. Key:	ButtonExit
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExit"
 msgid "Exit"
-msgstr "Beenden"
+msgstr "Afslut"
 
 #. Key:	ButtonExitToMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExitToMenu"
 msgid "Exit to Menu"
-msgstr "Menü verlassen"
+msgstr "Tilbage til Hovedmenuen"
 
 #. Key:	ButtonExtras
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -137,21 +137,21 @@ msgstr "Extras"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFeedback"
 msgid "Send Feedback"
-msgstr "Feedback senden"
+msgstr "Send Feedback"
 
 #. Key:	ButtonFoliage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
-msgstr "Laubdarstellung"
+msgstr "Blade"
 
 #. Key:	ButtonGameplayOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGameplayOptions"
 msgid "Gameplay"
-msgstr "Spieleinstellungen"
+msgstr "Gameplay"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -165,147 +165,147 @@ msgstr "Grafik"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonNewGame"
 msgid "New Game"
-msgstr "Neues Spiel"
+msgstr "Nyt spil"
 
 #. Key:	ButtonPostProcess
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
-msgstr "Nachbearbeitung"
+msgstr "Post-process"
 
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonRange"
 msgid "Shooting Range"
-msgstr "Schießstand"
+msgstr "Skydebane"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
-msgstr "Zurück zum Spiel"
+msgstr "Genoptag Spillet"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonScreenOptions"
 msgid "Screen"
-msgstr "Bildschirm"
+msgstr "Skærm"
 
 #. Key:	ButtonShadows
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShadows"
 msgid "Shadows"
-msgstr "Schatten"
+msgstr "Skygger"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSoundOptions"
 msgid "Sound"
-msgstr "Ton"
+msgstr "Lyd"
 
 #. Key:	ButtonSP01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP01"
 msgid "1. Fall"
-msgstr "1. Der Fall"
+msgstr "1. Fald"
 
 #. Key:	ButtonSP02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP02"
 msgid "2. Scaffolding"
-msgstr "2. Das Baugerüst"
+msgstr "2. Stilladser"
 
 #. Key:	ButtonSP03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP03"
 msgid "3. Pool"
-msgstr "3. Das Reservoir"
+msgstr "3. Poolen"
 
 #. Key:	ButtonSP04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP04"
 msgid "4. Mine"
-msgstr "4. Die Mine"
+msgstr "4. Minen"
 
 #. Key:	ButtonSP05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP05"
 msgid "5. Lab"
-msgstr "5. Das Labor"
+msgstr "5. Laboratoriet"
 
 #. Key:	ButtonSP06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP06"
 msgid "6. Clearing"
-msgstr "6. Die Lichtung"
+msgstr "6. Opryddning"
 
 #. Key:	ButtonSP07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP07"
 msgid "7. Sewer"
-msgstr "7. Der Abwasserkanal"
+msgstr "7. Kloak"
 
 #. Key:	ButtonSP08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP08"
 msgid "8. Elevator"
-msgstr "8. Der Aufzug"
+msgstr "8. Elevator"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonTextures"
 msgid "Textures"
-msgstr "Texturen"
+msgstr "Texture"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
-msgstr "In-Game Kommentar"
+msgstr "Kommentarspor"
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHUD"
 msgid "Disable HUD"
-msgstr "HUD-Anzeige deaktivieren"
+msgstr "Fjern HUD"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxInvertMouse"
 msgid "Invert Mouse"
-msgstr "Maus invertieren"
+msgstr "Spejlvend Musen"
 
 #. Key:	CheckboxLaptopMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopMode"
 msgid "Laptop Mode"
-msgstr "Laptop Modus"
+msgstr "Bærbar Tilstand"
 
 #. Key:	CheckboxLaptopModeHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "Begrenzt die Bildrate auf 30 FPS, um mobile Geräte wie Laptops kühler zu halten während du spielst."
+msgstr "Begrænse frame raten til 30FPS for at holde laptos køligere imens spillet kører."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -319,14 +319,14 @@ msgstr "VSync"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownResolution"
 msgid "Resolution"
-msgstr "Auflösung"
+msgstr "Opløsning"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II EARLY ACCESS"
-msgstr "AKT II EARLY ACCESS"
+msgstr "ACT II EARLY ACCESS"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -340,21 +340,21 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptions"
 msgid "Experimental Options"
-msgstr "Experimentelle Optionen"
+msgstr "Eksperimentelle indstillinger"
 
 #. Key:	LabelExperimentalOptionsHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
-msgstr "Diese Optionen sind experimentell und können möglicherweise nicht gespeichert werden."
+msgstr "Disse indstillinger er ikke eksperimentelle og kan måske gå tabt."
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuControlOptions"
 msgid "CONTROLS"
-msgstr "STEUERUNG"
+msgstr "CONTROL"
 
 #. Key:	MenuExtraOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -368,7 +368,7 @@ msgstr "EXTRAS"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuGameplay"
 msgid "GAMEPLAY"
-msgstr "SPIELEINSTELLUNGEN"
+msgstr "GAMEPLAY"
 
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -382,525 +382,525 @@ msgstr "GRAFIK"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuNewGame"
 msgid "NEW GAME"
-msgstr "NEUES SPIEL"
+msgstr "NYT SPIL"
 
 #. Key:	MenuOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuOptions"
 msgid "OPTIONS"
-msgstr "EINSTELLUNGEN"
+msgstr "INDSTILLINGER"
 
 #. Key:	MenuSaveLoadOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE/ LOAD"
-msgstr "SPEICHERN / LADEN"
+msgstr "GEM/ LOAD"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuScreenOptions"
 msgid "SCREEN"
-msgstr "BILDSCHIRM"
+msgstr "SKÆRM"
 
 #. Key:	MenuSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSoundOptions"
 msgid "SOUND"
-msgstr "TON"
+msgstr "LYD"
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,OptionsButton"
 msgid "Options"
-msgstr "Einstellungen"
+msgstr "Indstillinger"
 
 #. Key:	SliderControllerSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderControllerSensitivity"
 msgid "Controller Sensitivity"
-msgstr "Kontroller Empfindlichkeit"
+msgstr "Controller sensitivitet"
 
 #. Key:	SliderEffectsVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
-msgstr "Effekt Lautstärke"
+msgstr "Effekt volume"
 
 #. Key:	SliderFieldOfView
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderFieldOfView"
 msgid "Field of View"
-msgstr "Sichtfeld"
+msgstr "Synsfelt"
 
 #. Key:	SliderGamma
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderGamma"
 msgid "Gamma"
-msgstr "Gammakorrektur"
+msgstr "Kontrast"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMouseSensitivity"
 msgid "Mouse Sensitivity"
-msgstr "Maus Empfindlichkeit"
+msgstr "Mus sensitivitet"
 
 #. Key:	SliderMusicVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
-msgstr "Musik Lautstärke"
+msgstr "Musik volume"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
-msgstr "Stimmen Lautstärke"
+msgstr "Stemme volume"
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipInvertMouse"
 msgid "Invert the mouse Y axis"
-msgstr "Maus Y-Achse invertieren"
+msgstr "Spejlvend musen på Y aksen"
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Hier spricht Gareth Thomas. Wir haben nun die Algenproben analysiert"
+msgstr "Dette er Gareth Thomas. Vi har analyseret alge prøverne"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "und festgestellt, dass das Glühen von einem natürlich vorkommenden Meeresplankton\r\nhier im nahegelegenen Gebiet verursacht wird."
+msgstr "og fundet ud af, at det glødende lys er forudsaget af en naturlig forekommende plankton i det omkringliggende område."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "Wir gehen nicht davon aus, dass unsere Verwendung dieser Algen überhaupt etwas damit zu tun hat."
+msgstr "Vi forventer ikke at vores brug af algerne vil blive påvirket at dette plankton."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "Und wir halten es für völlig harmlos, wir erwarten auch nicht, dass dies ein Problem wird."
+msgstr "Og vi betragter det aldeles uskadeligt, og at det ikke bliver et problem."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Hier ist, äh, Liam Jones, Audio Tagebuch #1, äh"
+msgstr "Det her er øh, Liam Jones, lyd dagbog, #1, øhhh"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Wir haben gerade begonnen die Algen zu studieren und äh"
+msgstr "Vi har lige begyndt at undersøge algerne, og øh"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "Wir haben erkannt, dass es tatsächlich glüht, wenn man sie für kurze Zeit in Ruhe lässt"
+msgstr "Vi opdagede at de faktisk lyser, hvis vi efterlader dem i et stykke tid."
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "Also, äh, das ist cool! Äh, bekam hier von dem eine kleine Probe mit..."
+msgstr "så ,øh, det er cool! Øhh, jeg har en lille prøve med mig som..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr "...Ich werde jetzt mein Büro für eine Weile verlassen, um zu sehen was passiert."
+msgstr "...jeg lader ligge på mit kontor, bare for at se hvad der sker med den."
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "This is the uh, Liam Jones uh, diary #2"
-msgstr "Hier ist äh, Liam Jones äh, Audio Tagebuch #2"
+msgstr "Det her er øh, Liam Jones øh, lyd dagbog #2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "darum mach es so Hawthorne, lass sie nur im glauben, dass ich ihn verlegt hätte\r\nund ich einen anderen bräuchte"
+msgstr "bare gør' det Hawthorne, bare lad dem vide at jeg har forlagt det, og jeg har brug for endnu et"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "oder man könnte sogar sagen, ich bräuchte einen Ersatz-Ausweis, einen anderen...\r\nIch bin mir nicht sicher wer zuständig ist"
+msgstr "eller måske kunne du sige jeg har brug for et reserve kort, endnu et. Jeg er ikke sikker på hvor det blev af."
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "...nur,... ich brauche im Grunde unterm Strich nur einen anderen Ausweis"
+msgstr "... jeg har bare brug for endnu et adgangskort, er nok det nemmeste at sige"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr "also, Hawthorne wenn du eine E-Mail an dem Ausweis-Menschen schicken kannst"
+msgstr "så hvis du kunne sende en e-mail kort-afdelingen, Hawthorne"
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr ", das wäre gut und äh du erhälst von mir einen neuen Ausweis. OKAY."
+msgstr "og øhh få mig et nyt kort, det ville det være godt. OK."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "Die Proben sind okay, jetzt beobachten wir sie nur, um zu sehen was passiert"
+msgstr "Prøverne klarer sig fint, vi observerer dem nu for at se hvad der sker"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Das Hauptbüro hat uns hierfür einige Proben geschickt, so werden wir dann\r\nauch etwas in einigen Kisten hinüber schicken"
+msgstr "Hovedkontoret har anmoddet om nogle prøver, så vi kommer til at sende nogle derover i kasser"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr "Hawthorne, ich habe ausserdem noch meinen Sicherheitsausweis verloren,\r\nwenn du die Gelegenheit dafür hättest..."
+msgstr "Og forresten Hawthorne, når du får muligheden, til det, jeg har mistet mit adgangskort..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "Aber wenn du mit den Ausweis-Leuten sprichst, sagst du einfach Hm... wie äh..."
+msgstr "så når du taler til kort-afdelingen, så bare sig øhhhmm.. bare, øh..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "Ich weiß nicht, jemand - nein, nein, irgendeiner hat das nicht genommen, das ist nicht möglich"
+msgstr "Jeg ved det ikke, nogle tog- nej, nej, nogle har ikke taget det, det er en dårlig grund"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Ein Fuchs schlich hinein und nahm meinen Ausweis und ähm, jetzt kann\r\nich nicht mehr in die Haupteinrichtung"
+msgstr "En ræv snev sig ind og tog mit adgangskort, og øhhh, nu kan jeg ikke komme ind i hoved bygningen"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Äh also, wenn du ihnen es vielleicht so sagen könntest... denn als es das letzte Mal passiert ist "
+msgstr "Så øhh, hvis du kunne fortælle ham det... fordi sidste gang det skete,"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen ihn mir ein wenig widerwillig"
+msgstr "sagde de at det var min fejl og de var en smule tilbageholdende omkring erstatningen"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Hier ist Liam Jones, der Sicherheitsingenieur von lebenden Proben vor Ort\r\n- wir müssen jetzt bekannt geben, das"
+msgstr "Dette er Liam Jones, stikprøve sikkerhedsingeniør på stedet - vi har lige indlagt"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Dr. Frederick Prezella, im Beobachtungsraum, äh, er wurde gewalttätig"
+msgstr "Dr. Frederick Prezella, inde i observation rummet, uh, han blev voldelig"
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "und er griff einen meiner Mitarbeiter an, wir halten ihn nun unter Beobachtung"
+msgstr "og angreb et medlem fra personalet, så vi kommer til at holde ham"
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "und werden ihn wahrscheinlich so schnell wie möglich von der Insel wegbringen."
+msgstr "under observationen og muligvis flytte ham fra øen, så snart vi kan."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
-msgstr "Wir sind nicht sicher, was dies verursacht hat."
+msgstr "Vi er ikke hvad forsagede dette."
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AdditionalContributors"
 msgid "ADDITIONAL CONTRIBUTORS"
-msgstr "ZUSÄTZLICHE MITARBEITER"
+msgstr "ANDRE BIDRAGYDERE"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,CreatedWithUnrealEngine"
 msgid "Created with Unreal Engine"
-msgstr "Erstellt mit Unreal Engine 4"
+msgstr "Lavet med Unreal Engine"
 
 #. Key:	EstrangedTradeMark
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "\"Estranged\" ist ein Warenzeichen von Alan Edwardes"
+msgstr "\"Estranged\" er et varemærke af Alan Edwardes"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
-msgstr "Hilf auch zu übersetzen!"
+msgstr "Hjælp med at oversætte!"
 
 #. Key:	MoreSoon
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
 msgid "More Content Coming Soon"
-msgstr "Mehr Inhalt kommt bald..."
+msgstr "Mere indhold kommer snart"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Translators"
 msgid "TRANSLATORS"
-msgstr "ÜBERSETZER"
+msgstr "OVERSÆTTERE"
 
 #. Key:	WithThanksTo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
-msgstr "MIT DANK AN"
+msgstr "MED MANGE TAK TIL"
 
 #. Key:	GuardChatter01
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter01"
 msgid "What do you think? He fell down there maybe?"
-msgstr "Was denkst du? Vielleicht ist er dort hinunter gefallen?"
+msgstr "Hvad tror du? Måske faldt han derned?"
 
 #. Key:	GuardChatter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter02"
 msgid "I dunno... this place is falling apart."
-msgstr "Ich weiss nicht... dieser Ort fällt bald auseinander."
+msgstr "ikke sikker... stedet her falder fra hinanden"
 
 #. Key:	GuardChatter03
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter03"
 msgid "You know... if we report this, they're going to make us go down there."
-msgstr "\"Du weißt... wenn wir das melden, werden sie uns da runter schicken."
+msgstr "Du ved godt at hvis vi rapporter der her, får de os bare til at gå derned"
 
 #. Key:	GuardChatter04
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter04"
 msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr "Ja, ich weiß. Es lohnt sich nicht, lass uns einfach die Sachen holen."
+msgstr "Jep, det ved jeg. Det er ikke det værd, bare lad \"tingene\" få ham."
 
 #. Key:	GuardChatter05
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter05"
 msgid "That's fine by me. Let's move."
-msgstr "Das ist okay für mich. Lass uns gehen."
+msgstr "Det er fint med mig. Lad os smutte."
 
 #. Key:	John01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John01"
 msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
-msgstr "Ich bin froh, dass du am Leben bist,... fing schon an zu glauben,\r\ndas wir nie wieder miteinander reden können."
+msgstr "Jeg er glad for at du stadig er i live, jeg begyndte at tro vi ikke ville snakke sammen igen"
 
 #. Key:	John02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John02"
 msgid "There was a message on my radio... it sounded like a man"
-msgstr "Es kam eine Nachricht aus meinem Funkgerät...\r\nEs klang wie ein Mann."
+msgstr "Der var en besked på min radio... det lød som om en mand"
 
 #. Key:	John03
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John03"
 msgid "I think he said professor? Trying to override the curfew message"
-msgstr "Ich glaube, er sagte Professor?\r\nIch versuchte dann die Absperrmeldung zu überschreiben."
+msgstr "Jeg tror han sadge professor - han prøver at overskrive udgangsforbuds beskeden"
 
 #. Key:	John04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John04"
 msgid "I left the hut to try to help"
-msgstr "Ich verließ dann die Baracke und versuchte zu helfen."
+msgstr "Jeg gik fra hytten for at hjælpe"
 
 #. Key:	John05
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John05"
 msgid "I followed the river for a while towards Wentworth, and found this abandoned guard post"
-msgstr "Ich folgte für eine Weile den Fluss in Richtung Wentworth und fand diesen verlassenen Wachposten."
+msgstr "Jeg fulgte floden i et stykke tid mod Wentworth, og jeg fandt denne forladte vagt post"
 
 #. Key:	John06
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John06"
 msgid "I was scavenging and noticed you on the CCTV... kind of lucky"
-msgstr "Als ich am Bildschirmreinigen war, bemerkte ich dich auf dem CCTV...\r\nWelch ein glücklicher Zufall."
+msgstr "Jeg var i gang med at latrintømring og bemærkede dig på overvågnings kameraet... Ret heldigt vil jeg sige"
 
 #. Key:	John07
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John07"
 msgid "We need to send an SOS off the island, about what Arque is doing here"
-msgstr "Wir müssen von dem was Arque hier macht ein Notsignal von der Insel schicken."
+msgstr "Vi har brug for at sende en SOS fra øen, omkring hvad Arque laver her"
 
 #. Key:	John08
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John08"
 msgid "If we have any hope of getting help, we need to stop that curfew message"
-msgstr "Wenn wir je auf Hilfe hoffen können, müssen wir diese Absperrmeldung überschreiben."
+msgstr "Hvis vi har noget håb om at få hjælp, skal vi stoppe den besked"
 
 #. Key:	John09
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John09"
 msgid "Only something powerful could be sending that out, but..."
-msgstr "Nur etwas sehr Starkes könnte dies aussenden, jedoch..."
+msgstr "Kun noget meget kraftfuld kan sende en besked som det ud, men..."
 
 #. Key:	John10
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John10"
 msgid "I know of one very old satellite station on the island"
-msgstr "ist mir bekannt, das es hier auf der Insel eine sehr alte Satellitenstation gibt."
+msgstr "Jeg kender en meget gammel satelit station på øen"
 
 #. Key:	John11
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John11"
 msgid "I thought it was decommissioned"
-msgstr "Ich dachte schon, das sie stillgelegt wäre."
+msgstr "Jeg troede jeg var nedlagt"
 
 #. Key:	John12
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John12"
 msgid "Someone will be watching - you need to get away from Arque buildings. It isn't safe."
-msgstr "Irgendwer könnte dich beobachten - Du musst dich von diesen Arque Gebäuden fernhalten.\r\nSie sind nicht sicher."
+msgstr "Nogle vil holde opsyn - du skal væk fra Arques bygninger. Det er ikke sikkert."
 
 #. Key:	John13
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John13"
 msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
-msgstr "Sie sind alle schwer bewaffnet. Um keine Aufmerksamkeit zu erregen,\r\nmusst du zwischen dir und diesen Infizierten Abstand halten."
+msgstr "De er alle meget bevåbnet. Mod dem og de inficerede, skal du være være ekstremt forsigtig med ikke at tiltrække opmærksomhed."
 
 #. Key:	John14
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John14"
 msgid "I'm going to destroy this station and move on."
-msgstr "Ich werde diese Station zerstören und dann weitergehen."
+msgstr "Jeg ødelægge denne station og forsætte."
 
 #. Key:	John15
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John15"
 msgid "Pick up the portable radio on the table. I'll try to make contact soon."
-msgstr "Nimm das tragbare Funkgerät vom Tisch.\r\nIch werde schon bald versuchen, Kontakt mit dir auf zunehmen."
+msgstr "Saml radioen op fra bordet. Jeg vil prøve at kontakte dig senere."
 
 #. Key:	John16
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John16"
 msgid "Look just, good luck out there... we'll speak again soon."
-msgstr "Nun sieh zu,... viel Glück da draußen... Wir werden bald wieder miteinander sprechen."
+msgstr "Bare... Held og lykke derude... Vi snakkes ved igen snart."
 
 #. Key:	JohnNag01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag01"
 msgid "Hello? Pick up, it's John"
-msgstr "Hallo? Ich bin es, John. Nimm es"
+msgstr "Hallo? Tag den, det er John"
 
 #. Key:	JohnNag02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag02"
 msgid "I can see you on the CCTV, answer the radio!"
-msgstr "Ich kann dich auf dem CCTV sehen, spreche ins Funkgerät!"
+msgstr "Jeg kan se dig på overvågningen, svar radioen!"
 
 #. Key:	JohnNag03
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag03"
 msgid "Press the button to answer, it will secure the channel"
-msgstr "Drücke die Taste zum Sprechen, das ist ein sicherer Kanal."
+msgstr "Klik på knappen for at svare, det vil sikre kanalen"
 
 #. Key:	JohnNag04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag04"
 msgid "I don't know how long I can stay here, pick up"
-msgstr "Ich weiß nicht, wie lange ich hier noch bleiben kann.... Nimm es."
+msgstr "Jeg ved ikke hvor lang tid jeg kan blive her, saml radioen op"
 
 #. Key:	JohnNag05
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag05"
 msgid "Come on, pick up... I can see you"
-msgstr "Komm schon, nimm es.... Ich kann dich sehen."
+msgstr "Kom nu, saml den op... Jeg kan se dig"
 
 #. Key:	JohnNag06
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -914,47 +914,47 @@ msgstr "Hallo?"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag07"
 msgid "Is anyone there?"
-msgstr "Ist da jemand?"
+msgstr "Er der nogen?"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr "Willkommen bei Estranged: Akt II! Das ist eine noch nicht fertige Fortsetzung von Estranged: Akt I, die auch auf Steam verfügbar ist.\r\n\r\nWir sind ein sehr kleines Team (3 Personen!), das in seiner Freizeit an Estranged arbeitet und wir werden das Spiel ständig mit neuen Inhalten aktualisieren.\r\n\r\nWenn du irgendein Feedback für uns hast, sind wir immer in den Steam-Foren oder via In-Game Feedback erreichbar!"
+msgstr "Velkommen til Estranged: Act II! Dette er stadig igangværende efterfølger af Estranged: Act I, også tilgængelig på Steam.\\r\\n\\r\\nVi er et et lille gruppe på 3 mennesker, der udvikler Estranged i vores fritid, og vi vil blive ved med at opdatere spillet med nyt indhold.\\r\\n\\r\\nHvis du har noget feedback til os, er vi altid åbne på Steam forums eller via feedback formlen inde i spillet!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupPlayButton"
 msgid "Play Estranged"
-msgstr "Estranged AKT II spielen"
+msgstr "Spil Estranged"
 
 #. Key:	StartupTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupTitle"
 msgid "WELCOME TO ESTRANGED ACT II"
-msgstr "WILLKOMMEN BEI ESTRANGED AKT II"
+msgstr "VELKOMMEN TIL ESTRANGED ACT II"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeLevelLabel"
 msgid "LEVEL"
-msgstr "EBENE"
+msgstr "LEVEL"
 
 #. Key:	RangePointsLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangePointsLabel"
 msgid "POINTS"
-msgstr "PUNKTE"
+msgstr "POINT"
 
 #. Key:	RangeTimeLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
-msgstr "ZEIT"
+msgstr "TID"
 
