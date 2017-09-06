@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-09-06 19:09\n"
-"PO-Revision-Date: 2017-09-06 19:09\n"
+"POT-Creation-Date: 2017-09-06 19:38\n"
+"PO-Revision-Date: 2017-09-06 19:38\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -264,6 +264,13 @@ msgstr "7. Les Égouts"
 msgctxt "Menus,ButtonSP08"
 msgid "8. Elevator"
 msgstr "8. L'Ascenseur"
+
+#. Key:	ButtonSP09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP09"
+msgid "9. Forest"
+msgstr ""
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -914,6 +921,48 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag07"
 msgid "Is anyone there?"
+msgstr ""
+
+#. Key:	JohnActI01
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI01"
+msgid "Hello?"
+msgstr ""
+
+#. Key:	JohnActI02
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02"
+msgid "If anyone can hear this, my name is Johnathan Derril."
+msgstr ""
+
+#. Key:	JohnActI03
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI03"
+msgid "And I need help."
+msgstr ""
+
+#. Key:	JohnActI04
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI04"
+msgid "These things, they've taken over the island."
+msgstr ""
+
+#. Key:	JohnActI05
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI05"
+msgid "Anyone, please, I have supplies, but-"
+msgstr ""
+
+#. Key:	JohnActI06
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI06"
+msgid "They're out there."
 msgstr ""
 
 #. Key:	StartupContent
