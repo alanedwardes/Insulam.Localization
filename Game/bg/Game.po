@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-09-17 07:11\n"
-"PO-Revision-Date: 2017-09-17 07:11\n"
+"POT-Creation-Date: 2017-09-17 07:25\n"
+"PO-Revision-Date: 2017-09-17 07:25\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -468,6 +468,13 @@ msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
 msgstr "Сила на звука на музиката"
 
+#. Key:	SliderScreenPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderScreenPercentage"
+msgid "Screen Percentage"
+msgstr ""
+
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -866,13 +873,6 @@ msgstr "Ще унищожа тази станция и ще продължа н�
 msgctxt "ST_John01,John15"
 msgid "Pick up the portable radio on the table. I'll try to make contact soon."
 msgstr "Вземи портативното радио от масата. Ще се опитам да се свържа с теб скоро."
-
-#. Key:	John16
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John16"
-msgid "Look just, good luck out there... we'll speak again soon."
-msgstr "Виж... Късмет там навън... Скоро ще говорим отново."
 
 #. Key:	JohnNag01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01

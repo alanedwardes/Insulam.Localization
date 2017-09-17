@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-09-17 07:11\n"
-"PO-Revision-Date: 2017-09-17 07:11\n"
+"POT-Creation-Date: 2017-09-17 07:25\n"
+"PO-Revision-Date: 2017-09-17 07:25\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -468,6 +468,13 @@ msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
 msgstr "Musik Lautstärke"
 
+#. Key:	SliderScreenPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderScreenPercentage"
+msgid "Screen Percentage"
+msgstr ""
+
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -866,13 +873,6 @@ msgstr "Ich werde diese Station zerstören und dann weitergehen."
 msgctxt "ST_John01,John15"
 msgid "Pick up the portable radio on the table. I'll try to make contact soon."
 msgstr "Nimm das tragbare Funkgerät vom Tisch.\r\nIch werde schon bald versuchen, Kontakt mit dir auf zunehmen."
-
-#. Key:	John16
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John16"
-msgid "Look just, good luck out there... we'll speak again soon."
-msgstr "Nun sieh zu,... viel Glück da draußen... Wir werden bald wieder miteinander sprechen."
 
 #. Key:	JohnNag01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
