@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-09-17 07:25\n"
-"PO-Revision-Date: 2017-09-17 07:25\n"
+"POT-Creation-Date: 2017-09-17 18:20\n"
+"PO-Revision-Date: 2017-09-17 18:20\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -473,7 +473,7 @@ msgstr "Musik Lautstärke"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
-msgstr ""
+msgstr "Prozentsatz der Auflösung"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -508,7 +508,7 @@ msgstr "und festgestellt, dass das Glühen von einem natürlich vorkommenden Mee
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "Wir gehen nicht davon aus, dass unsere Verwendung dieser Algen überhaupt etwas damit zu tun hat."
+msgstr "Wir gehen nicht davon aus, dass unsere Verwendung der Algen überhaupt etwas damit zu tun hat."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -529,14 +529,14 @@ msgstr "Hier ist, äh, Liam Jones, Audio Tagebuch #1, äh"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Wir haben gerade begonnen die Algen zu studieren und äh"
+msgstr "Wir haben gerade begonnen die Algen zu studieren und äh..."
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "Wir haben erkannt, dass es tatsächlich glüht, wenn man sie für kurze Zeit in Ruhe lässt"
+msgstr "... wir haben erkannt, dass es tatsächlich glüht, wenn man sie für kurze Zeit in Ruhe lässt."
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -550,7 +550,7 @@ msgstr "Also, äh, das ist cool! Äh, bekam hier von dem eine kleine Probe mit..
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr "...Ich werde jetzt mein Büro für eine Weile verlassen, um zu sehen was passiert."
+msgstr "...ich werde jetzt mein Büro für eine Weile verlassen, um zu sehen was passiert."
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -571,42 +571,42 @@ msgstr "darum mach es so Hawthorne, lass sie nur im glauben, dass ich ihn verleg
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "oder man könnte sogar sagen, ich bräuchte einen Ersatz-Ausweis, einen anderen...\r\nIch bin mir nicht sicher wer zuständig ist"
+msgstr "oder man könnte sogar sagen, ich bräuchte einen Ersatz-Ausweis, einen anderen...\r\nIch bin mir nicht sicher wer zuständig ist..."
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "...nur,... ich brauche im Grunde unterm Strich nur einen anderen Ausweis"
+msgstr "...nur,... ich brauche im Grunde unterm Strich nur einen anderen Ausweis..."
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr "also, Hawthorne wenn du eine E-Mail an dem Ausweis-Menschen schicken kannst"
+msgstr "also, Hawthorne wenn du eine E-Mail an dem Ausweis-Menschen schicken kannst,"
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr ", das wäre gut und äh du erhälst von mir einen neuen Ausweis. OKAY."
+msgstr "das wäre gut und äh du erhälst von mir einen neuen Ausweis. OKAY."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "Die Proben sind okay, jetzt beobachten wir sie nur, um zu sehen was passiert"
+msgstr "Die Proben sind okay, jetzt beobachten wir sie nur, um zu sehen was passiert."
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Das Hauptbüro hat uns hierfür einige Proben geschickt, so werden wir dann\r\nauch etwas in einigen Kisten hinüber schicken"
+msgstr "Das Hauptbüro hat uns hierfür einige Proben geschickt, so werden wir dann\r\nauch etwas in einigen Kisten hinüber schicken können."
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -627,56 +627,56 @@ msgstr "Aber wenn du mit den Ausweis-Leuten sprichst, sagst du einfach Hm... wie
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "Ich weiß nicht, jemand - nein, nein, irgendeiner hat das nicht genommen, das ist nicht möglich"
+msgstr "Ich weiß nicht, jemand - nein, nein, irgendeiner hat ihn nicht genommen, das ist nicht möglich...."
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Ein Fuchs schlich hinein und nahm meinen Ausweis und ähm, jetzt kann\r\nich nicht mehr in die Haupteinrichtung"
+msgstr "Ein Fuchs schlich hinein und nahm meinen Ausweis und ähm, jetzt kann\r\nich nicht mehr in das Hauptgebäude."
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Äh also, wenn du ihnen es vielleicht so sagen könntest... denn als es das letzte Mal passiert ist "
+msgstr "Äh also, wenn du ihnen es vielleicht so sagen könntest... denn als es das letzte Mal passiert ist"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen ihn mir ein wenig widerwillig"
+msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen ihn mir nur widerwillig."
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Hier ist Liam Jones, der Sicherheitsingenieur von lebenden Proben vor Ort\r\n- wir müssen jetzt bekannt geben, das"
+msgstr "Hier ist Liam Jones, der Sicherheitsingenieur von Lebend-Proben vor Ort\r\n- wir müssen jetzt bekannt geben, das"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Dr. Frederick Prezella, im Beobachtungsraum, äh, er wurde gewalttätig"
+msgstr "Dr. Frederick Prezella, im Beobachtungsraum, äh, er wurde gewalttätig."
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "und er griff einen meiner Mitarbeiter an, wir halten ihn nun unter Beobachtung"
+msgstr "Er griff einen meiner Mitarbeiter an, wir halten ihn nun unter Beobachtung."
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "und werden ihn wahrscheinlich so schnell wie möglich von der Insel wegbringen."
+msgstr "Und werden ihn wahrscheinlich so schnell wie möglich von der Insel wegbringen."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -767,7 +767,7 @@ msgstr "Ja, ich weiß. Es lohnt sich nicht, lass uns einfach die Sachen holen."
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter05"
 msgid "That's fine by me. Let's move."
-msgstr "Das ist okay für mich. Lass uns gehen."
+msgstr "Ist okay für mich. Lass uns gehen."
 
 #. Key:	John01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -809,7 +809,7 @@ msgstr "Ich folgte für eine Weile den Fluss in Richtung Wentworth und fand dies
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John06"
 msgid "I was scavenging and noticed you on the CCTV... kind of lucky"
-msgstr "Als ich am Bildschirmreinigen war, bemerkte ich dich auf dem CCTV...\r\nWelch ein glücklicher Zufall."
+msgstr "Als ich am Bildschirmreinigen war, bemerkte ich dich auf dem CCTV...\r\nWelch ein glücklicher Zufall...."
 
 #. Key:	John07
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -837,7 +837,7 @@ msgstr "Nur etwas sehr Starkes könnte dies aussenden, jedoch..."
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John10"
 msgid "I know of one very old satellite station on the island"
-msgstr "ist mir bekannt, das es hier auf der Insel eine sehr alte Satellitenstation gibt."
+msgstr "... ist mir bekannt, das es hier auf der Insel eine sehr alte Satellitenstation gibt."
 
 #. Key:	John11
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -879,7 +879,7 @@ msgstr "Nimm das tragbare Funkgerät vom Tisch.\r\nIch werde schon bald versuche
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag01"
 msgid "Hello? Pick up, it's John"
-msgstr "Hallo? Ich bin es, John. Nimm es"
+msgstr "Hallo? Ich bin es, John. Nimm es."
 
 #. Key:	JohnNag02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -956,14 +956,14 @@ msgstr "Diese Dinger, sie haben die Insel übernommen."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr "Ein Irgendjemanden, bitte, Ich habe Vorräte, aber..."
+msgstr "An Irgendjemanden, bitte, Ich habe Vorräte, aber..."
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
-msgstr "Sie sind da draußen."
+msgstr "... sie sind da draußen."
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
