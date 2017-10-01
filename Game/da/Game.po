@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-09-28 20:31\n"
-"PO-Revision-Date: 2017-09-28 20:31\n"
+"POT-Creation-Date: 2017-10-01 14:29\n"
+"PO-Revision-Date: 2017-10-01 14:29\n"
 "Language-Team: \n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -320,6 +320,62 @@ msgstr "Begrænse frame raten til 30FPS for at holde laptos køligere imens spil
 msgctxt "Menus,CheckboxVSync"
 msgid "VSync"
 msgstr "VSync"
+
+#. Key:	DropdownCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownCulture"
+msgid "Culture"
+msgstr ""
+
+#. Key:	DropdownItemQualityModeEpic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeEpic"
+msgid "Epic"
+msgstr ""
+
+#. Key:	DropdownItemQualityModeHigh
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeHigh"
+msgid "High"
+msgstr ""
+
+#. Key:	DropdownItemQualityModeLow
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeLow"
+msgid "Low"
+msgstr ""
+
+#. Key:	DropdownItemQualityModeMedium
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeMedium"
+msgid "Medium"
+msgstr ""
+
+#. Key:	DropdownItemWindowModeFullscreen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeFullscreen"
+msgid "Fullscreen"
+msgstr ""
+
+#. Key:	DropdownItemWindowModelBorderless
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModelBorderless"
+msgid "Borderless"
+msgstr ""
+
+#. Key:	DropdownItemWindowModeWindowed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeWindowed"
+msgid "Window"
+msgstr ""
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -691,6 +747,20 @@ msgstr "Vi er ikke hvad forsagede dette."
 msgctxt "ST_Credits,AdditionalContributors"
 msgid "ADDITIONAL CONTRIBUTORS"
 msgstr "ANDRE BIDRAGYDERE"
+
+#. Key:	AndYou
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYou"
+msgid "And You!"
+msgstr ""
+
+#. Key:	AndYouTemplated
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYouTemplated"
+msgid "And {name} (You!)"
+msgstr ""
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits

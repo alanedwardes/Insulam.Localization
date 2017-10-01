@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-09-28 20:31\n"
-"PO-Revision-Date: 2017-09-28 20:31\n"
+"POT-Creation-Date: 2017-10-01 14:29\n"
+"PO-Revision-Date: 2017-10-01 14:29\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -320,6 +320,62 @@ msgstr "Limit the frame rate to 30FPS to keep mobile devices such as laptops coo
 msgctxt "Menus,CheckboxVSync"
 msgid "VSync"
 msgstr "VSync"
+
+#. Key:	DropdownCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownCulture"
+msgid "Culture"
+msgstr "Culture"
+
+#. Key:	DropdownItemQualityModeEpic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeEpic"
+msgid "Epic"
+msgstr "Epic"
+
+#. Key:	DropdownItemQualityModeHigh
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeHigh"
+msgid "High"
+msgstr "High"
+
+#. Key:	DropdownItemQualityModeLow
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeLow"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	DropdownItemQualityModeMedium
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeMedium"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	DropdownItemWindowModeFullscreen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeFullscreen"
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#. Key:	DropdownItemWindowModelBorderless
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModelBorderless"
+msgid "Borderless"
+msgstr "Borderless"
+
+#. Key:	DropdownItemWindowModeWindowed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeWindowed"
+msgid "Window"
+msgstr "Window"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -691,6 +747,20 @@ msgstr "We're not sure what caused this."
 msgctxt "ST_Credits,AdditionalContributors"
 msgid "ADDITIONAL CONTRIBUTORS"
 msgstr "ADDITIONAL CONTRIBUTORS"
+
+#. Key:	AndYou
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYou"
+msgid "And You!"
+msgstr "And You!"
+
+#. Key:	AndYouTemplated
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYouTemplated"
+msgid "And {name} (You!)"
+msgstr "And {name} (You!)"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
