@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-11-18 14:49\n"
-"PO-Revision-Date: 2017-11-18 14:49\n"
+"POT-Creation-Date: 2017-11-18 14:55\n"
+"PO-Revision-Date: 2017-11-18 14:55\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -403,7 +403,7 @@ msgstr "Auflösung"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr ""
+msgstr "Fenstermodus"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
