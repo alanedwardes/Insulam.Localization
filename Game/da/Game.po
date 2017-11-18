@@ -25,7 +25,7 @@ msgstr "Duk under"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "M9"
+msgstr "Skyd M9"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -95,7 +95,7 @@ msgstr "Tilbage"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr "Control"
+msgstr "Styring"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -165,7 +165,7 @@ msgstr "Grafik"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadLast"
 msgid "Load Last Checkpoint"
-msgstr ""
+msgstr "Indlæs sidste checkpoint"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -256,7 +256,7 @@ msgstr "5. Laboratoriet"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP06"
 msgid "6. Clearing"
-msgstr "6. Opryddning"
+msgstr "6. Lysning"
 
 #. Key:	ButtonSP07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -277,7 +277,7 @@ msgstr "8. Elevator"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP09"
 msgid "9. Forest"
-msgstr ""
+msgstr "9. Skov"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -298,7 +298,7 @@ msgstr "Kommentarspor"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHighlight"
 msgid "Disable Object Highlight"
-msgstr ""
+msgstr "Sluk objektfremhævning"
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -340,42 +340,42 @@ msgstr "VSync"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Culture"
-msgstr ""
+msgstr "Kultur"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeEpic"
 msgid "Epic"
-msgstr ""
+msgstr "Episk"
 
 #. Key:	DropdownItemQualityModeHigh
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeHigh"
 msgid "High"
-msgstr ""
+msgstr "Høj"
 
 #. Key:	DropdownItemQualityModeLow
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeLow"
 msgid "Low"
-msgstr ""
+msgstr "Lav"
 
 #. Key:	DropdownItemQualityModeMedium
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeMedium"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #. Key:	DropdownItemWindowModeFullscreen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeFullscreen"
 msgid "Fullscreen"
-msgstr ""
+msgstr "Fuldskærm"
 
 #. Key:	DropdownItemWindowModelBorderless
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -389,7 +389,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeWindowed"
 msgid "Window"
-msgstr ""
+msgstr "Vindue"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -403,14 +403,14 @@ msgstr "Opløsning"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr ""
+msgstr "Vinduetilstand"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II EARLY ACCESS"
-msgstr "ACT II EARLY ACCESS"
+msgstr "ACT II TIDLIG ADGANG"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -431,7 +431,7 @@ msgstr "Eksperimentelle indstillinger"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
-msgstr "Disse indstillinger er ikke eksperimentelle og kan måske gå tabt."
+msgstr "Disse indstillinger er eksperimentelle og vil måske gå tabt."
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -480,7 +480,7 @@ msgstr "INDSTILLINGER"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE/ LOAD"
-msgstr "GEM/ LOAD"
+msgstr "GEM/ INDLÆS"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -529,7 +529,7 @@ msgstr "Synsfelt"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderGamma"
 msgid "Gamma"
-msgstr "Kontrast"
+msgstr "Gamma"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -774,14 +774,14 @@ msgstr "ANDRE BIDRAGYDERE"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYou"
 msgid "And You!"
-msgstr ""
+msgstr "Og dig!"
 
 #. Key:	AndYouTemplated
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
-msgstr ""
+msgstr "Og {name} (Dig!)"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -949,14 +949,14 @@ msgstr "Nogle vil holde opsyn - du skal væk fra Arques bygninger. Det er ikke s
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John13"
 msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
-msgstr "De er alle meget bevåbnet. Mod dem og de inficerede, skal du være være ekstremt forsigtig med ikke at tiltrække opmærksomhed."
+msgstr "De er alle tungt bevæbnet. Mod dem og de inficerede, skal du være være ekstremt forsigtig med ikke at tiltrække opmærksomhed."
 
 #. Key:	John14
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John14"
 msgid "I'm going to destroy this station and move on."
-msgstr "Jeg ødelægge denne station og forsætte."
+msgstr "Jeg vil ødelægge denne station og forsætte."
 
 #. Key:	John15
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1019,49 +1019,49 @@ msgstr "Er der nogen?"
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
 msgid "Hello?"
-msgstr ""
+msgstr "Hallo?"
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
-msgstr ""
+msgstr "Hvis nogen kan høre dette, mit navn er Johnathan Derril"
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI03"
 msgid "And I need help."
-msgstr ""
+msgstr "Og jeg har brug for hjælp"
 
 #. Key:	JohnActI04
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr ""
+msgstr "Disse ting, de har overtaget øen"
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr ""
+msgstr "Nogen, please, Jeg har forsyninger, men-"
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
-msgstr ""
+msgstr "De er derude"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr "Velkommen til Estranged: Act II! Dette er stadig igangværende efterfølger af Estranged: Act I, også tilgængelig på Steam.\\r\\n\\r\\nVi er et et lille gruppe på 3 mennesker, der udvikler Estranged i vores fritid, og vi vil blive ved med at opdatere spillet med nyt indhold.\\r\\n\\r\\nHvis du har noget feedback til os, er vi altid åbne på Steam forums eller via feedback formlen inde i spillet!"
+msgstr "Velkommen til Estranged: Act II! Dette er den stadig igangværende efterfølger af Estranged: Act I, også tilgængelig på Steam.\\r\\n\\r\\nVi er en lille gruppe på 3 mennesker, der udvikler Estranged i vores fritid, og vi vil blive ved med at opdatere spillet med nyt indhold.\\r\\n\\r\\nHvis du har noget feedback til os, er vi altid åbne på Steam forums eller via feedback formularen inde i spillet!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
