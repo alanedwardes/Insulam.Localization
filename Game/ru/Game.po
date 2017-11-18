@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-10-15 20:39\n"
-"PO-Revision-Date: 2017-10-15 20:39\n"
+"POT-Creation-Date: 2017-11-18 14:49\n"
+"PO-Revision-Date: 2017-11-18 14:49\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -160,6 +160,13 @@ msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
 msgstr "Графика"
 
+#. Key:	ButtonLoadLast
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLoadLast"
+msgid "Load Last Checkpoint"
+msgstr ""
+
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -285,6 +292,13 @@ msgstr "Текстуры"
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
 msgstr "Комментарии в игре"
+
+#. Key:	CheckboxDisableHighlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHighlight"
+msgid "Disable Object Highlight"
+msgstr ""
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
