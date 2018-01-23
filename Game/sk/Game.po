@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-01-23 23:18\n"
-"PO-Revision-Date: 2018-01-23 23:18\n"
+"POT-Creation-Date: 2018-01-23 23:23\n"
+"PO-Revision-Date: 2018-01-23 23:23\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -193,7 +193,7 @@ msgstr "Grafika"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadLast"
 msgid "Load Last Checkpoint"
-msgstr ""
+msgstr "Načítať Posledný Kontrolný Bod"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -347,7 +347,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHighlight"
 msgid "Disable Object Highlight"
-msgstr ""
+msgstr "Vypnúť Označovanie Objektov"
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -480,7 +480,7 @@ msgstr "Rozlíšenie"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr ""
+msgstr "Režim Okna"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -655,56 +655,56 @@ msgstr "Invertovať osu Y myši"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Hovorí Gareth Thomas. Analyzovali sme vzorky rias"
+msgstr "Tu je Gareth Thomas. Analyzovali sme vzorky rias"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "a zistili sme , že svietenie je spôsobené planktónom , ktorý sa prirodzene vyskytuje v okolitej oblasti."
+msgstr "a zistili sme, že žiarenie je spôsobené planktónom, ktorý sa prirodzene vyskytuje v okolitej oblasti."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "Neočakávame , že naše použitie rias bude vôbec ovplyvnené planktónom."
+msgstr "Neočakávame, že naše použitie rias bude vôbec ovplyvnené planktónom."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "A považujeme ho za úplne neškodný , neočakávame že s ním bude problém."
+msgstr "A považujeme ho za úplne neškodný. Nepokladáme to za problém."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Toto je umm ,audio dennik Liama Jonesa , #1 , um"
+msgstr "Toto je... audio dennik Liama Jonesa, #1"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Začali sme študovať tie riasy a um"
+msgstr "Začali sme študovať tie riasy a uh"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "Zistili sme , že vlastne svietia ak ich len tak na chvíľu necháte"
+msgstr "Zistili sme , že po chvíli pozorovania začali žiariť."
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "Takže , to je paráda! Um , mám tu pri sebe jeden vzorok , ktorý..."
+msgstr "Takže... to je úžasné! Eh, mám tu pri sebe jeden vzorok, ktorý..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -718,21 +718,21 @@ msgstr "...sa chystám trochu nechať vo svojej kancelárií , len aby som videl
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "This is the uh, Liam Jones uh, diary #2"
-msgstr "Toto je um , denník Liama Jonesa #2"
+msgstr "Toto je eh, denník Liama Jonesa #2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "len to urob , Hawthorne , daj im vedieť , že som o neho prišiel a potrebujem nový"
+msgstr "len to urob, Hawthorne ,oznám im, že som o neho prišiel a potrebujem nový"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "alebo im môžeš povedať aj dokonca to , že potrebujem záložný odznak... Neviem , kam sa podel"
+msgstr "alebo im môžeš povedať aj dokonca to, že potrebujem záložný odznak... Neviem , kam sa podel"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -753,77 +753,77 @@ msgstr "takže Hawthorne , keby si mohol poslať email tým odznakovým ľuďom"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr "a um , bolo by dobré , keby si mi získal nový odznak. Tak Dobre."
+msgstr "a um, bolo by dobré , keby si mi získal nový odznak. Tak Dobre."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "Vzorkom sa darí , len ich teraz sledujeme aby sme videli , čo sa stane"
+msgstr "Vzorkom sa darí, len teraz pozorujeme, čo sa bude diať."
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Hlavná kancelária poslala po nejaké vzorky takže sem aj nejaké prepravia v krabiciach"
+msgstr "Hlavná kancelária poslala po nejaké vzorky takže sem aj nejaké prepravia v krabiciach."
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr "Taktiež , Hawthorne , keď budeš mať šancu , stratil som svoj bezpečnostný odznak..."
+msgstr "Taktiež, Hawthorne, keď budeš mať šancu, stratil som svoj bezpečnostný odznak..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "ale keď budeš hovoriť s tými odznakovými ľuďmi tak povedz len , um , že..."
+msgstr "ale keď budeš hovoriť s tými odznakovými ľuďmi tak povedz len, hmm... že..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "Neviem , niekto mi- nie , nie , nikto ju nezobral , to je zlá výhovorka"
+msgstr "Neviem, niekto mi- nie , nie , nikto ju nezobral, to je zlá výhovorka"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Líška sa mi vlúpala do kancelárie a ukradla mi odznak , takže sa um , nemôžem dostať do hlavného ústavu"
+msgstr "Líška sa mi vlúpala do kancelárie a ukradla mi odznak, takže sa um, nemôžem dostať do hlavného ústavu"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Takže , keby si im to len mohol povedať ... pretože keď sa to stalo naposledy "
+msgstr "Takže , keby si im to len mohol povedať ... pretože keď sa to stalo naposledy, "
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "povedali mi , že to bola moja chyba a boli trochu neochotní mi ho nahradiť"
+msgstr "povedali mi, že to bola moja chyba a boli trochu neochotní mi ho nahradiť"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Toto je Liam Jones , bezpečnostný inžinier živých vzorkov na mieste , práve sme presunuli"
+msgstr "Toto je Liam Jones, bezpečnostný inžinier živých vzorkov na mieste, práve sme presunuli"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Dr. Frederika Prezellu do pozorovacej miestnosti , um , stal sa agresívnym"
+msgstr "Dr. Frederika Prezellu do pozorovacej miestnosti,eh, stal sa agresívnym"
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -837,14 +837,14 @@ msgstr "a zaútočil na jedného člena môjho týmu , takže ho necháme"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "pod neustálym dohľadom a asi ho odvezieme z ostrova čím skôr."
+msgstr "pod neustálym dohľadom a možno ho odvezieme z ostrova čím skôr."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
-msgstr "Nevieme , čo to spôsobilo."
+msgstr "Nevieme, čo to spôsobilo."
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -914,7 +914,7 @@ msgstr "S POĎAKOVANÍM"
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter01"
 msgid "What do you think? He fell down there maybe?"
-msgstr "Čo si myslíš? Možno tam spadol , však?"
+msgstr "Čo si myslíš? Asi tam spadol, nie?"
 
 #. Key:	GuardChatter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
@@ -935,7 +935,7 @@ msgstr "Vieš... keby sme to ohlásili , prinútili by nás ísť dam dole."
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter04"
 msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr "Áno , viem. Neoplatí sa to. Radšej nechajme tie veci ,aby ho dostali."
+msgstr "Áno , viem. Neoplatí sa to. Radšej nechajme tie veci, aby ho dostali."
 
 #. Key:	GuardChatter05
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
@@ -949,7 +949,7 @@ msgstr "Som za to. Poďme."
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John01"
 msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
-msgstr "Som rád , že žiješ , už som si začal myslieť , že sa už vôbec neporozprávame."
+msgstr "Som rád, že žiješ. Už som si začal myslieť, že sa už nikdy neporozprávame."
 
 #. Key:	John02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -963,21 +963,21 @@ msgstr "Na vysielačke som chytil správu... znelo to ako človek"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John03"
 msgid "I think he said professor? Trying to override the curfew message"
-msgstr "Myslím , že povedal , že je profesor? Snaží sa prepísať správu o zákaze vychádzania."
+msgstr "Myslím , že povedal profesor? Snaží sa prepísať správu o zákaze vychádzania."
 
 #. Key:	John04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John04"
 msgid "I left the hut to try to help"
-msgstr "Opustil som chatrč aby som sa pokúsil mu pomôcť"
+msgstr "Opustil som chatrč a pokúsil som sa mu pomôcť"
 
 #. Key:	John05
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John05"
 msgid "I followed the river for a while towards Wentworth, and found this abandoned guard post"
-msgstr "Chvíľu som nasledoval rieku smerom do Wenthworthu a našiel som tuto opustené strážne stanovisko"
+msgstr "Chvíľu som nasledoval rieku smerom k Wenthworthu a našiel som tuto opustenú strážnu búdku"
 
 #. Key:	John06
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -991,21 +991,21 @@ msgstr "Preskúmaval som to tu a všimol som si ťa na kamere... mal som tak tro
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John07"
 msgid "We need to send an SOS off the island, about what Arque is doing here"
-msgstr "Musíme poslať SOS z ostrova o tom , čo tu Arque robia"
+msgstr "Musíme poslať SOS z ostrova o tom, čo tu Arque robia"
 
 #. Key:	John08
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John08"
 msgid "If we have any hope of getting help, we need to stop that curfew message"
-msgstr "Ak máme nejakú nádej na získanie pomoci , musíme zastaviť tú správu o zákaze vychádzania"
+msgstr "Ak máme nejakú nádej na privolanie pomoci, musíme zastaviť tú správu o zákaze vychádzania"
 
 #. Key:	John09
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John09"
 msgid "Only something powerful could be sending that out, but..."
-msgstr "Len niečo silné by ju mohlo vysielať , ale..."
+msgstr "Len niečo silné by ju mohlo vysielať, ale..."
 
 #. Key:	John10
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1019,7 +1019,7 @@ msgstr "Viem o jednej veľmi starej satelitnej stanici na ostrove"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John11"
 msgid "I thought it was decommissioned"
-msgstr "Myslel som si , že bola vyradená z prevádzky"
+msgstr "Myslel som si, že bola vyradená z prevádzky"
 
 #. Key:	John12
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1033,7 +1033,7 @@ msgstr "Niekto ťa bude sledovať - musíš sa dostať preč od Arque budov. Nie
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John13"
 msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
-msgstr "Sú ťažko ozbrojení. Medzi nimi a infikovanými musíš byť extrémne pozorný , aby si na seba neupútal pozornosť."
+msgstr "Sú ťažko ozbrojení. Medzi nimi a infikovanými musíš byť extrémne opatrný , aby si na seba neupútal pozornosť."
 
 #. Key:	John14
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1054,28 +1054,28 @@ msgstr "Zober si túto prenosnú vysielačku na stole. Čoskoro sa ťa pokúsim 
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag01"
 msgid "Hello? Pick up, it's John"
-msgstr "Haló? Zodvihni to ,to som to ja , John"
+msgstr "Haló? Zodvihni to! To som ja, John!"
 
 #. Key:	JohnNag02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag02"
 msgid "I can see you on the CCTV, answer the radio!"
-msgstr "Vidím ťa na kamere , zodvihni tú vysielačku!"
+msgstr "Vidím ťa na kamere, zodvihni tú vysielačku!"
 
 #. Key:	JohnNag03
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag03"
 msgid "Press the button to answer, it will secure the channel"
-msgstr "Stlač to tlačidlo ,  aby si mi odpovedel , zabezpečí to kanál"
+msgstr "Stlač to tlačidlo, zabezpečí to kanál."
 
 #. Key:	JohnNag04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag04"
 msgid "I don't know how long I can stay here, pick up"
-msgstr "Neviem ako dlho tu môžem zostať , zodvihni to"
+msgstr "Neviem ako dlho tu môžem zostať, zodvihni to!"
 
 #. Key:	JohnNag05
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1110,7 +1110,7 @@ msgstr "Haló?"
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
-msgstr "Ak ma niekto počuje , volám sa Johnathan Derril ."
+msgstr "Počuje ma niekto? Volám sa Johnathan Derril."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1124,14 +1124,14 @@ msgstr "A potrebujem pomoc."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr "Tieto veci , zamorili ostrov."
+msgstr "Tieto veci, zamorili ostrov."
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr "Niekto , prosím , mám zásoby , ale-"
+msgstr "Niekto, prosím, mám zásoby, ale-"
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1145,7 +1145,7 @@ msgstr "Sú tam vonku."
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr "Vitajte v Estranged : Act II! Toto je fanúšikovské pokračovanie Estranged : Act I , tiež dostupné na Steame\n\nSme veľmi malý tým (3 ľudia!) , ktorý vyvýja Estranged vo voľnom čase a budeme postupne aktualizovať hru novým obsahom.\n\nAk máte pre nás spätnú väzbu , vždy sme dostupní na Steam fórach alebo cez spätnú väzbu v hre!"
+msgstr "Vitajte v Estranged : Act II! Toto je nedokončené pokračovanie Estranged : Act I , tiež dostupné na Steame\n\nSme veľmi malý tým (3 ľudia!) , ktorý vyvýja Estranged vo voľnom čase a budeme postupne aktualizovať hru novým obsahom.\n\nAk máte pre nás spätnú väzbu , vždy sme dostupní na Steam fórach alebo cez spätnú väzbu v hre!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
