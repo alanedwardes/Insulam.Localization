@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-11-18 15:05\n"
-"PO-Revision-Date: 2017-11-18 15:05\n"
+"POT-Creation-Date: 2018-01-23 23:18\n"
+"PO-Revision-Date: 2018-01-23 23:18\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -34,6 +34,13 @@ msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
 msgstr "Accendi la torcia"
 
+#. Key:	HintFlee
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlee"
+msgid "Flee"
+msgstr ""
+
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -47,6 +54,13 @@ msgstr "Salta"
 msgctxt "Hints,HintMove"
 msgid "Move around"
 msgstr "Muoviti"
+
+#. Key:	HintOpenGate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintOpenGate"
+msgid "Open gate"
+msgstr ""
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -62,12 +76,26 @@ msgctxt "Hints,HintThrowRock"
 msgid "Throw rock"
 msgstr "Lancia un sasso"
 
+#. Key:	HintTurnOnTv
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintTurnOnTv"
+msgid "Turn on TV"
+msgstr ""
+
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
-msgid "Anti-aliasing"
-msgstr "Anti-aliasing"
+msgid "Anti-Aliasing"
+msgstr ""
+
+#. Key:	ButtonAdvanced
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAdvanced"
+msgid "Advanced"
+msgstr ""
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -181,6 +209,13 @@ msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
 msgstr "Post-process"
 
+#. Key:	ButtonPrelude
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPrelude"
+msgid "Prelude"
+msgstr ""
+
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -279,6 +314,13 @@ msgctxt "Menus,ButtonSP09"
 msgid "9. Forest"
 msgstr "9. Foresta"
 
+#. Key:	ButtonSP10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP10"
+msgid "10. Crevice"
+msgstr ""
+
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -293,6 +335,13 @@ msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
 msgstr "Commenti durante il gioco"
 
+#. Key:	CheckboxDisableDepthOfField
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableDepthOfField"
+msgid "Disable Depth of Field"
+msgstr ""
+
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -306,6 +355,27 @@ msgstr ""
 msgctxt "Menus,CheckboxDisableHUD"
 msgid "Disable HUD"
 msgstr "Disabilita HUD"
+
+#. Key:	CheckboxDisableMotionBlur
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableMotionBlur"
+msgid "Disable Motion Blur"
+msgstr ""
+
+#. Key:	CheckboxDisableSceneFringe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSceneFringe"
+msgid "Disable Scene Fringe"
+msgstr ""
+
+#. Key:	CheckboxDisableVignette
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableVignette"
+msgid "Disable Vignette"
+msgstr ""
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -334,6 +404,13 @@ msgstr "Limita i numero di frame a 30FPS per evitare il surriscaldamento di disp
 msgctxt "Menus,CheckboxVSync"
 msgid "VSync"
 msgstr "VSync"
+
+#. Key:	DropdownAAMethod
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownAAMethod"
+msgid "AA Method"
+msgstr ""
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -418,6 +495,13 @@ msgstr "ACT II ACCESSO ANTICIPATO"
 msgctxt "Menus,GameTitle"
 msgid "ESTRANGED"
 msgstr "ESTRANGED"
+
+#. Key:	LabelEnterCheat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelEnterCheat"
+msgid "Enter Cheat"
+msgstr ""
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1097,4 +1181,32 @@ msgstr "PUNTI"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TEMPO"
+
+#. Key:	TVNewsTickerItem1
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TVNewsTickerItem1"
+msgid "Shares in Arque Corporation (ARQ) fell by 5% after reports of a fire at one of their fuel divisions, adding pressure to an already turbulent year for the company."
+msgstr ""
+
+#. Key:	TVNewsTickerItem2
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TVNewsTickerItem2"
+msgid "Box office sales exceeded all expectations for the remake of \"World War Ninety\", a dystopian film centred around a successful social media mogul running for world leader, and the dark implications for the world."
+msgstr ""
+
+#. Key:	TVNewsTickerItem3
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TVNewsTickerItem3"
+msgid "Storm Edwin means that many of the main roads and public transport routes will be disrupted, please use caution when driving during this time."
+msgstr ""
+
+#. Key:	TVNewsWeather
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TVNewsWeather"
+msgid "STORM EDWIN\r\n* Ensure food and water for two days\r\n* Calm today, worst yet to come\r\n* Public transport links will be non-operational\r\n* Worst storm in 50 years"
+msgstr ""
 
