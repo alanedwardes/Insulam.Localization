@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-01-23 23:23\n"
-"PO-Revision-Date: 2018-01-23 23:23\n"
+"POT-Creation-Date: 2018-01-25 20:17\n"
+"PO-Revision-Date: 2018-01-25 20:17\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "Ducken"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "M9 abfeuern"
+msgstr "Pistole abfeuern"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -39,7 +39,7 @@ msgstr "Taschenlampe Ein / Aus"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr ""
+msgstr "Flüchte"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -60,7 +60,7 @@ msgstr "Bewegen"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr ""
+msgstr "Öffne das Gatter"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -81,21 +81,21 @@ msgstr "Stein werfen"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintTurnOnTv"
 msgid "Turn on TV"
-msgstr ""
+msgstr "Fernseher einschalten"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
-msgstr ""
+msgstr "Kantenglättung"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAdvanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Erweiterde Optionen"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -214,7 +214,7 @@ msgstr "Nachbearbeitung"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPrelude"
 msgid "Prelude"
-msgstr ""
+msgstr "Einleitung"
 
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -319,7 +319,7 @@ msgstr "9. Der Wald"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
-msgstr ""
+msgstr "10. Der Felsspalt"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -340,7 +340,7 @@ msgstr "In-Game Kommentar"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
-msgstr ""
+msgstr "Tiefenschärfe deaktivieren"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -361,21 +361,21 @@ msgstr "HUD-Anzeige deaktivieren"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr ""
+msgstr "Bewegungsunschärfe deaktivieren"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr ""
+msgstr "Chrom-Übergang deaktivieren"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
-msgstr ""
+msgstr "Vignette Effekt deaktivieren"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -410,14 +410,14 @@ msgstr "VSync"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownAAMethod"
 msgid "AA Method"
-msgstr ""
+msgstr "AA-Methode"
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Culture"
-msgstr "Sprache"
+msgstr "Sprache & Region"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -501,7 +501,7 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr ""
+msgstr "Cheateingabe"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -655,14 +655,14 @@ msgstr "Maus Y-Achse invertieren"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Hier spricht Gareth Thomas. Wir haben nun die Algenproben analysiert"
+msgstr "Hier spricht Gareth Thomas. Wir haben die Algenproben nun analysiert und festgestellt,"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "und festgestellt, dass das Glühen von einem natürlich vorkommenden Meeresplankton\r\nhier im nahegelegenen Gebiet verursacht wird."
+msgstr "dass dieses Glühen von einem natürlich vorkommenden Meeresplankton\r\nhier im nahegelegenen Gebiet verursacht wurde."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -914,7 +914,7 @@ msgstr "MIT DANK AN"
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter01"
 msgid "What do you think? He fell down there maybe?"
-msgstr "Was denkst du? Vielleicht ist er dort hinunter gefallen?"
+msgstr "Was denkst du? Ist er vielleicht dort hinunter gefallen?"
 
 #. Key:	GuardChatter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
@@ -1124,7 +1124,7 @@ msgstr "Und ich brauche Hilfe."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr "Diese Dinger, sie haben die Insel übernommen."
+msgstr "Diese Dinger, sie haben die Insel überrannt."
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1187,26 +1187,26 @@ msgstr "ZEIT"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsTickerItem1"
 msgid "Shares in Arque Corporation (ARQ) fell by 5% after reports of a fire at one of their fuel divisions, adding pressure to an already turbulent year for the company."
-msgstr ""
+msgstr "Die Aktien der Arque Corporation (ARQ) fielen nach einigen Berichten über einen Brand in einer ihrer Kraftstoffabteilungen um 5%, was zusätzlichen Druck auf einem bereits turbulenten Jahr für das Unternehmen hinzufügte."
 
 #. Key:	TVNewsTickerItem2
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsTickerItem2"
 msgid "Box office sales exceeded all expectations for the remake of \"World War Ninety\", a dystopian film centred around a successful social media mogul running for world leader, and the dark implications for the world."
-msgstr ""
+msgstr "Der Verkauf an der Kinokasse für das Remake von \"World War Ninety\" übertraf alle Erwartungen. Ein dystopischer Film fokussiert um einen erfolgreichen Social-Media-Mogul, der die weltweite Marktführung und düstere Implikationen für die Welt anstrebt."
 
 #. Key:	TVNewsTickerItem3
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsTickerItem3"
 msgid "Storm Edwin means that many of the main roads and public transport routes will be disrupted, please use caution when driving during this time."
-msgstr ""
+msgstr "Der Sturm Edwin deutet darauf hin, dass viele der Hauptstraßen und öffentlichen Verkehrswege beeinträchtigt sein könnten. Bitte seien Sie vorsichtig, wenn sie zu dieser Zeit fahren."
 
 #. Key:	TVNewsWeather
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsWeather"
 msgid "STORM EDWIN\r\n* Ensure food and water for two days\r\n* Calm today, worst yet to come\r\n* Public transport links will be non-operational\r\n* Worst storm in 50 years"
-msgstr ""
+msgstr "STURM EDWIN\r\n* Besorgen sie Nahrung und Wasser für 2 Tage.\r\n* Heute ist es noch windstill, aber das Schlimmste wird noch kommen.\r\n* Die öffentlichen Verkehrsmittel werden nicht in Betrieb sein\r\n* bei diesen schlimmsten Sturm seit 50 Jahren."
 

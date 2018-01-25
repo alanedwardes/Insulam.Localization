@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-01-23 23:23\n"
-"PO-Revision-Date: 2018-01-23 23:23\n"
+"POT-Creation-Date: 2018-01-25 20:17\n"
+"PO-Revision-Date: 2018-01-25 20:17\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "Prepnúť baterku"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr ""
+msgstr "Ujsť"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -60,7 +60,7 @@ msgstr "Pohyb"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr ""
+msgstr "Otvoriť bránu"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -81,21 +81,21 @@ msgstr "Hodiť kameň"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintTurnOnTv"
 msgid "Turn on TV"
-msgstr ""
+msgstr "Zapnúť televíziu"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
-msgstr ""
+msgstr "Vyhladzovanie Hrán"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAdvanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Pokročilé"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -214,7 +214,7 @@ msgstr "Post Processing"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPrelude"
 msgid "Prelude"
-msgstr ""
+msgstr "Predohra"
 
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -319,7 +319,7 @@ msgstr "9. Les"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
-msgstr ""
+msgstr "10. Štrbina"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -340,7 +340,7 @@ msgstr "Herný Komentár"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
-msgstr ""
+msgstr "Vypnúť Hĺbku Ostrosti"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -361,21 +361,21 @@ msgstr "Skryť HUD"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr ""
+msgstr "Vypnúť Rozmazanie Pohybu"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr ""
+msgstr "Vypnúť Olemovanie Scény"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
-msgstr ""
+msgstr "Vypnúť Vinetáciu"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -396,7 +396,7 @@ msgstr "Laptopový Mód"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "Limituje počet snímkov za sekundu na 30 aby boli zariadenia ako napr. laptopy chladnejšie počas hrania."
+msgstr "Limituje snímkovú frekvenciu na 30FPS aby boli zariadenia ako napr. laptopy chladnejšie počas hrania."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -410,7 +410,7 @@ msgstr "Vertikálna Synchronizácia"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownAAMethod"
 msgid "AA Method"
-msgstr ""
+msgstr "Metóda Vyhladzovania"
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -501,7 +501,7 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr ""
+msgstr "Zadať Cheat"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1187,26 +1187,26 @@ msgstr "ČAS"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsTickerItem1"
 msgid "Shares in Arque Corporation (ARQ) fell by 5% after reports of a fire at one of their fuel divisions, adding pressure to an already turbulent year for the company."
-msgstr ""
+msgstr "Cena akcií Arque Corporation (ARQ) sa znížila o 5% po rozšírení správ o požiari v jednej z ich palivových divízií, spôsobujúc tlak na spoločnosť počas jej už aj tak dosť búrlivého roku."
 
 #. Key:	TVNewsTickerItem2
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsTickerItem2"
 msgid "Box office sales exceeded all expectations for the remake of \"World War Ninety\", a dystopian film centred around a successful social media mogul running for world leader, and the dark implications for the world."
-msgstr ""
+msgstr "Tržba prekonala všetky očakávania pre remake \"Svetová Vojna Deväťdestiat\", dystopického filmu sústrediaceho sa na úspešného mediálneho magnáta kandidujúceho na svetového vodcu a na temné dôsledky na svet."
 
 #. Key:	TVNewsTickerItem3
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsTickerItem3"
 msgid "Storm Edwin means that many of the main roads and public transport routes will be disrupted, please use caution when driving during this time."
-msgstr ""
+msgstr "Cyklón Edwin znamená, že väčšina hlavných ciest a spojov verejnej dopravy bude uzatvorená, prosím buďte opatrní, ak budete v tomto čase šoférovať."
 
 #. Key:	TVNewsWeather
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TVNewsWeather"
 msgid "STORM EDWIN\r\n* Ensure food and water for two days\r\n* Calm today, worst yet to come\r\n* Public transport links will be non-operational\r\n* Worst storm in 50 years"
-msgstr ""
+msgstr "CYKLÓN EDWIN\n* Zabespečte si zásoby jedla a vody na dva dni\n* Dnes sa ukľudnite, to najhoršie ešte len príde\n* Verejná doprava nebude fungovať\n* Najhorší cyklón za posledných 50 rokov"
 
