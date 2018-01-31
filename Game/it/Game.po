@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-01-25 20:17\n"
-"PO-Revision-Date: 2018-01-25 20:17\n"
+"POT-Creation-Date: 2018-01-31 22:01\n"
+"PO-Revision-Date: 2018-01-31 22:01\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -81,6 +81,13 @@ msgstr "Lancia un sasso"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintTurnOnTv"
 msgid "Turn on TV"
+msgstr ""
+
+#. Key:	HintUseMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintUseMouse"
+msgid "Control computer"
 msgstr ""
 
 #. Key:	ButtonAA
@@ -375,6 +382,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
+msgstr ""
+
+#. Key:	CheckboxEnableStatsForNerds
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableStatsForNerds"
+msgid "Enable On-Screen Stats"
 msgstr ""
 
 #. Key:	CheckboxInvertMouse
@@ -1140,6 +1154,132 @@ msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
 msgstr "Loro sono là fuori."
 
+#. Key:	NewsReport01
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport01"
+msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgstr ""
+
+#. Key:	NewsReport02
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport02"
+msgid "with its heavy handed use of live ammunition in its protective assignments."
+msgstr ""
+
+#. Key:	NewsReport03
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport03"
+msgid "The company’s policy states that live ammunition is to be used on all assignments,"
+msgstr ""
+
+#. Key:	NewsReport04
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport04"
+msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
+msgstr ""
+
+#. Key:	NewsReport05
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport05"
+msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
+msgstr ""
+
+#. Key:	NewsReport06
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport06"
+msgid "The government contractor is responsible for a number of overseas operations,"
+msgstr ""
+
+#. Key:	NewsReport07
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport07"
+msgid "which sources say is why the government is not commenting on this matter."
+msgstr ""
+
+#. Key:	NewsReport08
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport08"
+msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
+msgstr ""
+
+#. Key:	NewsReport09
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport09"
+msgid "an Arque Corporation employee on one of its offshore drilling platforms."
+msgstr ""
+
+#. Key:	NewsReport10
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport10"
+msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
+msgstr ""
+
+#. Key:	NewsReport11
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport11"
+msgid "while doctors later confirmed a bullet in his leg."
+msgstr ""
+
+#. Key:	NewsReport12
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport12"
+msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgstr ""
+
+#. Key:	NewsReport13
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport13"
+msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
+msgstr ""
+
+#. Key:	NewsReport14
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport14"
+msgid "Weather now - storm Edwin continues to make landfall,"
+msgstr ""
+
+#. Key:	NewsReport15
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport15"
+msgid "but today provides residents in the north with a day of calm."
+msgstr ""
+
+#. Key:	NewsReport16
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport16"
+msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
+msgstr ""
+
+#. Key:	NewsReport17
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport17"
+msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
+msgstr ""
+
+#. Key:	NewsReport18
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport18"
+msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr ""
+
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1181,32 +1321,4 @@ msgstr "PUNTI"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TEMPO"
-
-#. Key:	TVNewsTickerItem1
-#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
-#: /Game/Resources/Localisation/ST_World.ST_World
-msgctxt "World,TVNewsTickerItem1"
-msgid "Shares in Arque Corporation (ARQ) fell by 5% after reports of a fire at one of their fuel divisions, adding pressure to an already turbulent year for the company."
-msgstr ""
-
-#. Key:	TVNewsTickerItem2
-#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
-#: /Game/Resources/Localisation/ST_World.ST_World
-msgctxt "World,TVNewsTickerItem2"
-msgid "Box office sales exceeded all expectations for the remake of \"World War Ninety\", a dystopian film centred around a successful social media mogul running for world leader, and the dark implications for the world."
-msgstr ""
-
-#. Key:	TVNewsTickerItem3
-#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
-#: /Game/Resources/Localisation/ST_World.ST_World
-msgctxt "World,TVNewsTickerItem3"
-msgid "Storm Edwin means that many of the main roads and public transport routes will be disrupted, please use caution when driving during this time."
-msgstr ""
-
-#. Key:	TVNewsWeather
-#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
-#: /Game/Resources/Localisation/ST_World.ST_World
-msgctxt "World,TVNewsWeather"
-msgid "STORM EDWIN\r\n* Ensure food and water for two days\r\n* Calm today, worst yet to come\r\n* Public transport links will be non-operational\r\n* Worst storm in 50 years"
-msgstr ""
 
