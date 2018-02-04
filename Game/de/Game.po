@@ -25,7 +25,7 @@ msgstr "Ducken"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "Pistole abfeuern"
+msgstr "Pistole M9 abfeuern"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -39,7 +39,7 @@ msgstr "Taschenlampe Ein / Aus"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr "Flüchte"
+msgstr "Laufen / Flüchten"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -60,7 +60,7 @@ msgstr "Bewegen"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr "Öffne das Gatter"
+msgstr "Gatter öffnen"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -88,7 +88,7 @@ msgstr "Fernseher einschalten"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
-msgstr ""
+msgstr "Steuerungsrechner"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -102,7 +102,7 @@ msgstr "Kantenglättung"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAdvanced"
 msgid "Advanced"
-msgstr "Erweiterde Optionen"
+msgstr "Erweiterte Optionen"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -130,7 +130,7 @@ msgstr "Zurück"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr "Steuerung"
+msgstr "Steuerung Einstellungen"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -186,14 +186,14 @@ msgstr "Laubdarstellung"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGameplayOptions"
 msgid "Gameplay"
-msgstr "Spieleinstellungen"
+msgstr "Spiel Einstellungen"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
-msgstr "Grafik"
+msgstr "Grafik Einstellungen"
 
 #. Key:	ButtonLoadLast
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -242,7 +242,7 @@ msgstr "Zurück zum Spiel"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonScreenOptions"
 msgid "Screen"
-msgstr "Bildschirm"
+msgstr "Bildschirm Einstellungen"
 
 #. Key:	ButtonShadows
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -256,7 +256,7 @@ msgstr "Schatten"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSoundOptions"
 msgid "Sound"
-msgstr "Ton"
+msgstr "Ton Einstellungen"
 
 #. Key:	ButtonSP01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -389,7 +389,7 @@ msgstr "Vignette Effekt deaktivieren"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableStatsForNerds"
 msgid "Enable On-Screen Stats"
-msgstr ""
+msgstr "Bildschirmstatistik aktivieren"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -550,7 +550,7 @@ msgstr "EXTRAS"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuGameplay"
 msgid "GAMEPLAY"
-msgstr "SPIELEINSTELLUNGEN"
+msgstr "SPIEL EINSTELLUNGEN"
 
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -648,7 +648,7 @@ msgstr "Musik Lautstärke"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
-msgstr "Prozentsatz der Auflösung"
+msgstr "Bildberechnung in Prozent"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -683,14 +683,14 @@ msgstr "dass dieses Glühen von einem natürlich vorkommenden Meeresplankton\r\n
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "Wir gehen nicht davon aus, dass unsere Verwendung der Algen überhaupt etwas damit zu tun hat."
+msgstr "Wir gehen nicht davon aus, dass unsere Verwendung dieser Algen überhaupt etwas damit zu tun hat."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "Und wir halten es für völlig harmlos, wir erwarten auch nicht, dass dies ein Problem wird."
+msgstr "Außerdem halten wir dies für völlig harmlos.\r\nWir erwarten auch nicht, dass dies zu einem Problem wird."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -830,28 +830,28 @@ msgstr "sagten sie, dass es meine Schuld wäre und sie ersetzen ihn mir nur wide
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Hier ist Liam Jones, der Sicherheitsingenieur von Lebend-Proben vor Ort\r\n- wir müssen jetzt bekannt geben, das"
+msgstr "Hier spricht Liam Jones, Sicherheitstechniker dieser Lebend-Proben, hier vor Ort.\r\nWir müssen jetzt bekannt geben,...."
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Dr. Frederick Prezella, im Beobachtungsraum, äh, er wurde gewalttätig."
+msgstr "das Dr. Frederick Prezella, im Beobachtungsraum.... äh, er wurde gewalttätig."
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "Er griff einen meiner Mitarbeiter an, wir halten ihn nun unter Beobachtung."
+msgstr "Er griff einen meiner Mitarbeiter an, wir halten ihn deshalb unter Beobachtung."
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "Und werden ihn wahrscheinlich so schnell wie möglich von der Insel wegbringen."
+msgstr "Und werden ihn so schnell wie möglich von der Insel wegbringen."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -886,7 +886,7 @@ msgstr "Und {name} (Du!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,CreatedWithUnrealEngine"
 msgid "Created with Unreal Engine"
-msgstr "Erstellt mit Unreal Engine 4"
+msgstr "Erstellt mit der Unreal Engine 4"
 
 #. Key:	EstrangedTradeMark
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -928,7 +928,7 @@ msgstr "MIT DANK AN"
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter01"
 msgid "What do you think? He fell down there maybe?"
-msgstr "Was denkst du? Ist er vielleicht dort hinunter gefallen?"
+msgstr "Was denkst du? Ob er vielleicht hier hinunter gefallen ist?"
 
 #. Key:	GuardChatter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
@@ -942,7 +942,7 @@ msgstr "Ich weiss nicht... dieser Ort fällt bald auseinander."
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter03"
 msgid "You know... if we report this, they're going to make us go down there."
-msgstr "Du weißt... wenn wir das melden, werden sie uns da runter schicken."
+msgstr "Wie du wissen wirst... wenn wir das melden, werden sie uns da runter schicken."
 
 #. Key:	GuardChatter04
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
@@ -1145,7 +1145,7 @@ msgstr "Diese Dinger, sie haben die Insel überrannt."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr "An Irgendjemanden, bitte, Ich habe Vorräte, aber..."
+msgstr "An Irgendjemanden, bitte.... ich habe Vorräte, aber..."
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1159,126 +1159,126 @@ msgstr "... sie sind da draußen."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
 msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
-msgstr ""
+msgstr "Das private Sicherheitsunternehmen Sokol-Glockner stand in diesem Jahr\r\nzum zweiten Mal unter Kritik,"
 
 #. Key:	NewsReport02
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport02"
 msgid "with its heavy handed use of live ammunition in its protective assignments."
-msgstr ""
+msgstr "weil sie bei ihren Schutzaufgaben scharfe Munition eingesetzt haben."
 
 #. Key:	NewsReport03
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
 msgid "The company’s policy states that live ammunition is to be used on all assignments,"
-msgstr ""
+msgstr "Ihre Firmenpolitik besagt, dass scharfe Munition für alle Einsätze verwendet werden soll."
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr ""
+msgstr "Die Aktivisten sagen jedoch, dass dies unnötig sei und das nur zur Gewalt anregt,\r\ndie sie aber vermeiden müssten."
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr ""
+msgstr "Das Unternehmen lehnte auf Anfrage eine Stellungnahme ab, aber andere meinen,\r\ndas dies wie ein Unglücksfall sei, der darauf wartet, zu passieren."
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
 msgid "The government contractor is responsible for a number of overseas operations,"
-msgstr ""
+msgstr "Ein Regierungsauftragsnehmer ist für eine Reihe von Auslandseinsätzen verantwortlich."
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
 msgid "which sources say is why the government is not commenting on this matter."
-msgstr ""
+msgstr "Aus diesen Quellen geht hervor, dass sich die Regierung zu dieser Angelegenheit\r\nnicht äußern will."
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr ""
+msgstr "Sokol-Glockner geriet schon Anfang des Jahres in die Schlagzeilen, wegen einer unbeabsichtigten"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr ""
+msgstr "Erschießung eines Arque Corporation Mitarbeiters auf einer seiner Hochsee-Bohrplattformen."
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr ""
+msgstr "Der 37 jährige Mitarbeiter tauchte am Strand auf, nachdem er offensichtlich\r\nvon der Plattform geschwommen ist,"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport11"
 msgid "while doctors later confirmed a bullet in his leg."
-msgstr ""
+msgstr "wobei später ein Arzt eine Kugel in seinem Bein festgestellt hat."
 
 #. Key:	NewsReport12
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr ""
+msgstr "Sokol-Glockner bestätigte, dass die Kugel von einer ihrer Waffen abgefeuert wurde,"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport13"
 msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
-msgstr ""
+msgstr "weigerten sich aber, sich über den Fall zu aüßern. Sie beharren darauf,\r\ndass sie mit den zuständigen Behörden zusammen arbeiten."
 
 #. Key:	NewsReport14
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr ""
+msgstr "Nun zum Wetter - Sturm Edwin setzt seinen Weg ins Landesinnere fort,"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr ""
+msgstr "aber heute schenkt er den Bewohnern im Norden einen Tag der Ruhe."
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr ""
+msgstr "Die Meteorologen teilen jeden in dieser Gegend mit, dass\r\ndas Schlimmste des Sturms noch kommen wird,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr ""
+msgstr "das sie sich vorbereiten sollten, indem sie Badewannen mit Wasser auffüllen\r\nund Nahrung für mindestens zwei Tage bereithalten."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr ""
+msgstr "Das war alles von mir, nehmen sie morgen um 7 Uhr am Breakfast Burst teil."
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
