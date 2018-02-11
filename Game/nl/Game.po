@@ -1,18 +1,17 @@
+﻿# Game Dutch translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-04 09:42\n"
-"PO-Revision-Date: 2018-02-04 11:44+0100\n"
+"POT-Creation-Date: 2018-02-11 13:04\n"
+"PO-Revision-Date: 2018-02-11 13:04\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.0.6\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1285,18 +1284,8 @@ msgstr "Hiermee sluiten we af. Kijk morgen om 7 uur weer voor het ochtendnieuws.
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"We are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n"
-"\r\n"
-"If you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr ""
-"Welkom bij Estranged: Act II! Dit is het vervolg in ontwikkeling op Estranged: Act I, dat ook beschikbaar is op Steam.\r\n"
-"\r\n"
-"We zijn een klein team (drie mensen!) dat in onze vrije tijd aan Estranged werkt. We zullen het spel continu bijwerken met nieuwe inhoud.\r\n"
-"\r\n"
-"Als je feedback voor ons hebt, zijn we altijd beschikbaar op de Steam-fora of via de feedbackoptie in het spel!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
+msgstr "Welkom bij Estranged: Act II! Dit is het vervolg in ontwikkeling op Estranged: Act I, dat ook beschikbaar is op Steam.\r\n\r\nWe zijn een klein team (drie mensen!) dat in onze vrije tijd aan Estranged werkt. We zullen het spel continu bijwerken met nieuwe inhoud.\r\n\r\nAls je feedback voor ons hebt, zijn we altijd beschikbaar op de Steam-fora of via de feedbackoptie in het spel!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1332,3 +1321,4 @@ msgstr "PUNTEN"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TIJD"
+
