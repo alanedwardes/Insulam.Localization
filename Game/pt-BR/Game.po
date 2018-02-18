@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-11 13:04\n"
-"PO-Revision-Date: 2018-02-11 13:04\n"
+"POT-Creation-Date: 2018-02-18 21:30\n"
+"PO-Revision-Date: 2018-02-18 21:30\n"
 "Language-Team: \n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -195,11 +195,11 @@ msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
 msgstr "Gráficos"
 
-#. Key:	ButtonLoadLast
+#. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonLoadLast"
-msgid "Load Last Checkpoint"
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
 msgstr ""
 
 #. Key:	ButtonNewGame
@@ -236,6 +236,20 @@ msgstr ""
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
 msgstr "Retomar Jogo"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr ""
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr ""
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -577,8 +591,8 @@ msgstr "OPÇÕES"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
-msgid "SAVE/ LOAD"
-msgstr "SALVAR/ CARREGAR"
+msgid "LOAD GAME"
+msgstr ""
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -906,7 +920,7 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "More Content Coming Soon"
+msgid "Temporary Ending\r\nMore Content Soon!"
 msgstr ""
 
 #. Key:	Translators

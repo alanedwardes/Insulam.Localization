@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-11 13:04\n"
-"PO-Revision-Date: 2018-02-11 13:04\n"
+"POT-Creation-Date: 2018-02-18 21:30\n"
+"PO-Revision-Date: 2018-02-18 21:30\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -195,12 +195,12 @@ msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
 msgstr "Graphics"
 
-#. Key:	ButtonLoadLast
+#. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonLoadLast"
-msgid "Load Last Checkpoint"
-msgstr "Load Last Checkpoint"
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr "Load Game"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -236,6 +236,20 @@ msgstr "Shooting Range"
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
 msgstr "Resume Game"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr "Save Game"
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr "Save / Load"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -577,8 +591,8 @@ msgstr "OPTIONS"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
-msgid "SAVE/ LOAD"
-msgstr "SAVE/ LOAD"
+msgid "LOAD GAME"
+msgstr "LOAD GAME"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -906,8 +920,8 @@ msgstr "Help Translate Too!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "More Content Coming Soon"
-msgstr "More Content Coming Soon"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "Temporary Ending\r\nMore Content Soon!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
