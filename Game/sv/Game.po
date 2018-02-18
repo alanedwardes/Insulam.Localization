@@ -1,18 +1,17 @@
+﻿# Game Swedish translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-11 13:04\n"
-"PO-Revision-Date: 2018-02-18 16:06+0100\n"
+"POT-Creation-Date: 2018-02-18 21:30\n"
+"PO-Revision-Date: 2018-02-18 21:30\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: Felix\n"
-"X-Generator: Poedit 2.0.6\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -196,12 +195,12 @@ msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
 msgstr "Grafik"
 
-#. Key:	ButtonLoadLast
+#. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonLoadLast"
-msgid "Load Last Checkpoint"
-msgstr "Laddar senaste Checkpoint"
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr ""
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -237,6 +236,20 @@ msgstr "Skjutbana"
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
 msgstr "Återuppta spelet"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr ""
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr ""
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -578,8 +591,8 @@ msgstr "OPTIONS"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
-msgid "SAVE/ LOAD"
-msgstr "SPARA/ LADDA"
+msgid "LOAD GAME"
+msgstr ""
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -907,8 +920,8 @@ msgstr "Hjälp till att översätta du också!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "More Content Coming Soon"
-msgstr "Mer innehåll kommer snart"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr ""
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1285,18 +1298,8 @@ msgstr "Det är allt från mig, följ oss i morgon vid 7 för Breakfast Burst."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"We are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n"
-"\r\n"
-"If you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr ""
-"Välkommen till Estranged: Act II! Detta är det pågående arbetet till efterföljaren till Estranged: Act I, även tillgänglig på Steam.\r\n"
-"\r\n"
-"Vi är ett mycket litet team (3 personer!) som bygger Estranged på fritiden, och vi uppdaterar hela tiden spelet med nytt innehåll.\r\n"
-"\r\n"
-"Om du har någon återkoppling för oss är vi alltid tillgängliga på Steam forumen eller via återkoppling i spelet!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
+msgstr "Välkommen till Estranged: Act II! Detta är det pågående arbetet till efterföljaren till Estranged: Act I, även tillgänglig på Steam.\r\n\r\nVi är ett mycket litet team (3 personer!) som bygger Estranged på fritiden, och vi uppdaterar hela tiden spelet med nytt innehåll.\r\n\r\nOm du har någon återkoppling för oss är vi alltid tillgängliga på Steam forumen eller via återkoppling i spelet!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1332,3 +1335,4 @@ msgstr "POÄNG"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TID"
+
