@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-18 21:30\n"
-"PO-Revision-Date: 2018-02-18 21:30\n"
+"POT-Creation-Date: 2018-02-26 20:07\n"
+"PO-Revision-Date: 2018-02-26 20:07\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -40,6 +40,13 @@ msgstr "Zaklamp aan/uit"
 msgctxt "Hints,HintFlee"
 msgid "Flee"
 msgstr "Vluchten"
+
+#. Key:	HintGameSaved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintGameSaved"
+msgid "Game saved"
+msgstr ""
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -573,6 +580,13 @@ msgctxt "Menus,MenuGraphicsOptions"
 msgid "GRAPHICS"
 msgstr "GRAPHICS"
 
+#. Key:	MenuLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuLoadGame"
+msgid "LOAD GAME"
+msgstr ""
+
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -591,7 +605,7 @@ msgstr "OPTIES"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
-msgid "LOAD GAME"
+msgid "SAVE / LOAD"
 msgstr ""
 
 #. Key:	MenuScreenOptions
