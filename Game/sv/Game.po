@@ -1,11 +1,11 @@
 ﻿# Game Swedish translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2018-02-18 21:30\n"
-"PO-Revision-Date: 2018-02-18 21:30\n"
+"PO-Revision-Date: 2018-02-26 19:31+0100\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -921,7 +921,7 @@ msgstr "Hjälp till att översätta du också!"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
 msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr ""
+msgstr "Temporärt slut\r\nMer innehåll inom kort!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
