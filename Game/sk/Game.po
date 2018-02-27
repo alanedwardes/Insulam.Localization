@@ -1,17 +1,18 @@
-﻿# Game Slovak translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2018-02-26 20:07\n"
-"PO-Revision-Date: 2018-02-26 20:07\n"
+"PO-Revision-Date: 2018-02-27 18:09+0100\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -46,7 +47,7 @@ msgstr "Ujsť"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr ""
+msgstr "Hra uložená"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -207,7 +208,7 @@ msgstr "Grafika"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadGame"
 msgid "Load Game"
-msgstr ""
+msgstr "Načítať hru"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -249,14 +250,14 @@ msgstr "Pokračovať v Hre"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveGame"
 msgid "Save Game"
-msgstr ""
+msgstr "Uložiť hru"
 
 #. Key:	ButtonSaveLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveLoad"
 msgid "Save / Load"
-msgstr ""
+msgstr "Uložiť / Načítať"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -585,7 +586,7 @@ msgstr "GRAFIKA"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "NAČÍTAŤ HRU"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -606,7 +607,7 @@ msgstr "MOŽNOSTI"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr ""
+msgstr "ULOŽIŤ / NAČÍTAŤ"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -934,8 +935,12 @@ msgstr "Pomôžte nám s prekladom!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
 msgstr ""
+"Dočasný koniec\n"
+"Viac obsahu prichádza už čoskoro!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1312,8 +1317,18 @@ msgstr "To je odo mňa všetko, pripojte sa zajtra o siedmej kvôli Rannej Dávk
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr "Vitajte v Estranged : Act II! Toto je nedokončené pokračovanie Estranged : Act I , tiež dostupné na Steame\n\nSme veľmi malý tým (3 ľudia!) , ktorý vyvýja Estranged vo voľnom čase a budeme postupne aktualizovať hru novým obsahom.\n\nAk máte pre nás spätnú väzbu , vždy sme dostupní na Steam fórach alebo cez spätnú väzbu v hre!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"We are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n"
+"\r\n"
+"If you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
+msgstr ""
+"Vitajte v Estranged : Act II! Toto je nedokončené pokračovanie Estranged : Act I , tiež dostupné na Steame\n"
+"\n"
+"Sme veľmi malý tým (3 ľudia!) , ktorý vyvýja Estranged vo voľnom čase a budeme postupne aktualizovať hru novým obsahom.\n"
+"\n"
+"Ak máte pre nás spätnú väzbu , vždy sme dostupní na Steam fórach alebo cez spätnú väzbu v hre!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1349,4 +1364,3 @@ msgstr "BODY"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "ČAS"
-
