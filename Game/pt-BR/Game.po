@@ -1,18 +1,17 @@
+﻿# Game Portuguese (Brazil) translation.
 # Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-26 20:07\n"
-"PO-Revision-Date: 2018-03-07 16:35-0300\n"
+"POT-Creation-Date: 2018-03-07 23:48\n"
+"PO-Revision-Date: 2018-03-07 23:48\n"
 "Language-Team: \n"
-"Language: pt_BR\n"
+"Language: pt-BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.0.6\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -935,12 +934,8 @@ msgstr "Ajude a Traduzir Também!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid ""
-"Temporary Ending\r\n"
-"More Content Soon!"
-msgstr ""
-"Final Temporário\r\n"
-"Mais conteúdo em breve!"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "Final Temporário\r\nMais conteúdo em breve!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1317,18 +1312,8 @@ msgstr "E isso é tudo, junte-se a nós amanhã às 7 para \"Breakfast Burst\"."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"We are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n"
-"\r\n"
-"If you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr ""
-"Bem-vindo a Estranged: Ato II! Esta é uma sequência que está sendo feita para Estranged: Ato I, também disponível na Steam.\r\n"
-"\r\n"
-"Nós somos uma equipe bem pequena (3 pessoas!) fazendo Estranged em nosso tempo livre, e nós atualizaremos o jogo de forma contínua com novo conteúdo.\r\n"
-"\r\n"
-"Se você tiver algum feedback para nós, estamos sempre disponíveis nos fóruns da Steam ou através do feedback do jogo!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
+msgstr "Bem-vindo a Estranged: Ato II! Esta é uma sequência que está sendo feita para Estranged: Ato I, também disponível na Steam.\r\n\r\nNós somos uma equipe bem pequena (3 pessoas!) fazendo Estranged em nosso tempo livre, e nós atualizaremos o jogo de forma contínua com novo conteúdo.\r\n\r\nSe você tiver algum feedback para nós, estamos sempre disponíveis nos fóruns da Steam ou através do feedback do jogo!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1364,3 +1349,4 @@ msgstr "PONTOS"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TEMPO"
+
