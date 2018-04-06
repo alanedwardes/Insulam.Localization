@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-03-07 23:48\n"
-"PO-Revision-Date: 2018-03-07 23:48\n"
+"POT-Creation-Date: 2018-02-26 20:07\n"
+"PO-Revision-Date: 2018-02-27 16:06+0100\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -46,7 +46,7 @@ msgstr "Fly"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr ""
+msgstr "Spel sparat"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -585,7 +585,7 @@ msgstr "GRAFIK"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "LADDA SPEL"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -606,7 +606,7 @@ msgstr "ALTERNATIV"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr ""
+msgstr "SPARA / LADDA"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1349,4 +1349,3 @@ msgstr "POÄNG"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TID"
-
