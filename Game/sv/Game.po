@@ -46,7 +46,7 @@ msgstr "Fly"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr ""
+msgstr "Spel sparat"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -592,7 +592,7 @@ msgstr "GRAFIK"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "LADDA SPEL"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -613,7 +613,7 @@ msgstr "ALTERNATIV"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr ""
+msgstr "SPARA / LADDA"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1384,4 +1384,3 @@ msgstr "POÄNG"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TID"
-
