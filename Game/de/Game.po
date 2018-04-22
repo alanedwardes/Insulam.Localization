@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-04-21 10:12\n"
-"PO-Revision-Date: 2018-04-21 10:12\n"
+"POT-Creation-Date: 2018-04-22 18:41\n"
+"PO-Revision-Date: 2018-04-22 18:41\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgstr "Springen"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintLoading"
 msgid "Loading"
-msgstr ""
+msgstr "Lade..."
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -102,7 +102,7 @@ msgstr "Fernseher einschalten"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
-msgstr "Steuerungsrechner"
+msgstr "Computer"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -354,7 +354,7 @@ msgstr "9. Der Wald"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
-msgstr "10. Der Felsspalt"
+msgstr "10. Der steinige Weg"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -704,21 +704,21 @@ msgstr "Maus Y-Achse invertieren"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Hier spricht Gareth Thomas. Wir haben die Algenproben nun analysiert und festgestellt,"
+msgstr "Hier spricht Gareth Thomas. Wir haben nun die Algenproben analysiert und festgestellt,"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "dass dieses Glühen von einem natürlich vorkommenden Meeresplankton\r\nhier im nahegelegenen Gebiet verursacht wurde."
+msgstr "dass dieses Glühen von einem natürlich vorkommenden Meeresplankton\r\nhier im nahegelegenen Gebiet verursacht wird."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "Wir gehen nicht davon aus, dass unsere Verwendung dieser Algen überhaupt etwas damit zu tun hat."
+msgstr "Wir gehen nicht davon aus, dass unsere Art der Anwendung der Algen, überhaupt etwas damit zu tun hat."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1194,21 +1194,21 @@ msgstr "... sie sind da draußen."
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Welcome to Arque East. Please stand by for biological scan."
-msgstr ""
+msgstr "Willkommen in Arque East. Bitte bleiben sie für den biologischen Scan stehen."
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan02"
 msgid "Biological scan completed. No foreign material found."
-msgstr ""
+msgstr "Biologischer Scan abgeschlossen. Kein Fremdmaterial gefunden."
 
 #. Key:	LaserScan03
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr ""
+msgstr "Bitte gehen sie weiter und haben sie einen schönen Tag."
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1341,7 +1341,7 @@ msgstr "Das war alles von mir, nehmen sie morgen um 7 Uhr am Breakfast Burst tei
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr ""
+msgstr "LADE...."
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
