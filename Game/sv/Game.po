@@ -60,7 +60,7 @@ msgstr "Hoppa upp"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintLoading"
 msgid "Loading"
-msgstr ""
+msgstr "Laddar"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1194,21 +1194,21 @@ msgstr "De är där ute."
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Welcome to Arque East. Please stand by for biological scan."
-msgstr ""
+msgstr "Välkommen till Arque East. Vänligen vänta under den biologiska undersökningen."
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan02"
 msgid "Biological scan completed. No foreign material found."
-msgstr ""
+msgstr "Biologisk undersökning klar. Inget främmande material funnet."
 
 #. Key:	LaserScan03
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr ""
+msgstr "Vänligen fortsätt, och ha en trevlig dag."
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1236,14 +1236,14 @@ msgstr "Bolagets policy hävdar att skarp ammunition skall användas på alla up
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr "men aktivister säger att detta är onödigt och uppmuntrar det våld de vill undvika."
+msgstr "medan aktivister säger att detta är onödigt och uppmuntrar det våld de vill undvika."
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr "Företaget nekade att kommentera när man frågade, men andra säger att det är en olycka som väntar på att hända."
+msgstr "Företaget nekade att kommentera när man frågade, medan andra säger att det är en olycka som väntar på att hända."
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1264,7 +1264,7 @@ msgstr "vilket källor säger varför regeringen inte kommenterar denna fråga."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner gjorde rubriker tidigare i år för sin del i det oavsiktliga skjutningen av"
+msgstr "Sokol-Glockner gjorde rubriker tidigare i år för sin del i den oavsiktliga skjutningen av"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1285,42 +1285,42 @@ msgstr "Den 37-åriga anställda dök upp på en strand efter att tydligen ha si
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport11"
 msgid "while doctors later confirmed a bullet in his leg."
-msgstr "medan läkare senare bekräftade en kula i benet."
+msgstr "läkare har senare bekräftat en kula i benet."
 
 #. Key:	NewsReport12
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr "Sokol-Glockner bekräftade kulan avfyrades från ett av sina vapen,"
+msgstr "Sokol-Glockner bekräftade att kulan avfyrades från ett av sina vapen,"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport13"
 msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
-msgstr "men vägrade att kommentera ärendet. De insisterade på att det fungerade med de berörda myndigheterna."
+msgstr "men vägrade att kommentera ärendet. De insisterade på att det fungerar med de berörda myndigheterna."
 
 #. Key:	NewsReport14
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "Vädret nu - stormen Edwin fortsätter att göra landkänning,"
+msgstr "Nu, vädret - stormen Edwin fortsätter att göra landkänning,"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr "men ger idag boende i norr med en lugn dag."
+msgstr "men ger idag boende i norr en lugn dag."
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorologer råder alla i området att det värsta av stormen ännu inte kommer,"
+msgstr "Meteorologer råder alla i området att det värsta av stormen ännu ej kommit,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1341,7 +1341,7 @@ msgstr "Det är allt från mig, följ oss i morgon vid 7 för Breakfast Burst."
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr ""
+msgstr "LADDAR"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
