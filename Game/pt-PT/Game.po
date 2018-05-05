@@ -594,6 +594,13 @@ msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
 msgstr "CARREGAR JOGO"
 
+#. Key:	MenuLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuLoadGame"
+msgid "LOAD GAME"
+msgstr "CARREGAR JOGO"
+
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1210,6 +1217,27 @@ msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
 msgstr "Por favor avance, e esperemos que tenha um bom dia."
 
+#. Key:	LaserScan01
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan01"
+msgid "Welcome to Arque East. Please stand by for biological scan."
+msgstr "Seja bem-vindo Ã  Arque Este. Por favor, espere atÃ© que seja feito um scan biolÃ³gico."
+
+#. Key:	LaserScan02
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan02"
+msgid "Biological scan completed. No foreign material found."
+msgstr "Scan biolÃ³gico concluÃ­do. NÃ£o foram encontrados materiais anÃ³malos."
+
+#. Key:	LaserScan03
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan03"
+msgid "Please proceed, and have a nice day."
+msgstr "Por favor avance, e esperemos que tenha um bom dia."
+
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1335,6 +1363,13 @@ msgstr ""
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
 msgstr ""
+
+#. Key:	LoadingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,LoadingLabel"
+msgid "LOADING"
+msgstr "A CARREGAR"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
