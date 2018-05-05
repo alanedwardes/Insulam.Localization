@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-05-04 19:05\n"
-"PO-Revision-Date: 2018-05-04 19:05\n"
+"POT-Creation-Date: 2018-05-05 20:56\n"
+"PO-Revision-Date: 2018-05-05 20:56\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -928,7 +928,7 @@ msgstr "Unreal Engine İle Yapıldı"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "\"Estranged\"Alan Edwardes'e aittir.
+msgstr "\"Estranged\\"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1348,7 +1348,7 @@ msgstr "YÜKLENİYOR"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr "Estranged: Act II'ye Hoşgeldin!"Bu Estranged: Act I 'in devam çalışması,oda Steam'da var.\r\n\r\nBiz çok küçük bir takımız (3 kişi!)Boş zamanlarımızda Estranged'i yapıyoruz,ve düzenli şekilde oyunu yeni içerik ile güncelleyeceğiz.\r\n\r\nEğer bizim için geri bildirimin varsa,Herzaman Steam Forumlarında ve oyun için geri bildirim kısmındayız!"
+msgstr "Estranged: Act II'ye Hoşgeldin!\"Bu Estranged: Act I 'in devam çalışması,oda Steam'da var.\r\n\r\nBiz çok küçük bir takımız (3 kişi!)Boş zamanlarımızda Estranged'i yapıyoruz,ve düzenli şekilde oyunu yeni içerik ile güncelleyeceğiz.\r\n\r\nEğer bizim için geri bildirimin varsa,Herzaman Steam Forumlarında ve oyun için geri bildirim kısmındayız!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
