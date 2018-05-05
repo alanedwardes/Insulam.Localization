@@ -1,11 +1,11 @@
 ﻿# Game Danish translation.
-# Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-04 09:42\n"
-"PO-Revision-Date: 2018-02-04 09:42\n"
+"POT-Creation-Date: 2018-05-04 19:05\n"
+"PO-Revision-Date: 2018-05-04 19:05\n"
 "Language-Team: \n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -41,12 +41,26 @@ msgctxt "Hints,HintFlee"
 msgid "Flee"
 msgstr ""
 
+#. Key:	HintGameSaved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintGameSaved"
+msgid "Game saved"
+msgstr ""
+
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
 msgstr "Hop op"
+
+#. Key:	HintLoading
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintLoading"
+msgid "Loading"
+msgstr ""
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -195,12 +209,12 @@ msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
 msgstr "Grafik"
 
-#. Key:	ButtonLoadLast
+#. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonLoadLast"
-msgid "Load Last Checkpoint"
-msgstr "Indlæs sidste checkpoint"
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr ""
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -236,6 +250,20 @@ msgstr "Skydebane"
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
 msgstr "Genoptag Spillet"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr ""
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr ""
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -559,6 +587,13 @@ msgctxt "Menus,MenuGraphicsOptions"
 msgid "GRAPHICS"
 msgstr "GRAFIK"
 
+#. Key:	MenuLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuLoadGame"
+msgid "LOAD GAME"
+msgstr ""
+
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -577,8 +612,8 @@ msgstr "INDSTILLINGER"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
-msgid "SAVE/ LOAD"
-msgstr "GEM/ INDLÆS"
+msgid "SAVE / LOAD"
+msgstr ""
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -906,8 +941,8 @@ msgstr "Hjælp med at oversætte!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "More Content Coming Soon"
-msgstr "Mere indhold kommer snart"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr ""
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1154,6 +1189,27 @@ msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
 msgstr "De er derude"
 
+#. Key:	LaserScan01
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan01"
+msgid "Welcome to Arque East. Please stand by for biological scan."
+msgstr ""
+
+#. Key:	LaserScan02
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan02"
+msgid "Biological scan completed. No foreign material found."
+msgstr ""
+
+#. Key:	LaserScan03
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan03"
+msgid "Please proceed, and have a nice day."
+msgstr ""
+
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1278,6 +1334,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr ""
+
+#. Key:	LoadingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,LoadingLabel"
+msgid "LOADING"
 msgstr ""
 
 #. Key:	StartupContent
