@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-06-21 20:47\n"
-"PO-Revision-Date: 2018-06-21 20:47\n"
+"POT-Creation-Date: 2018-06-22 20:36\n"
+"PO-Revision-Date: 2018-06-22 20:36\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1348,7 +1348,7 @@ msgstr "но отказались комментировать ситуацию.
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "Погода нынче - шторм "Эдвин" продолжается, вызывая обвал,"
+msgstr "Погода нынче - шторм \"Эдвин\" продолжается, вызывая обвал,"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01

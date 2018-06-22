@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-06-21 20:47\n"
-"PO-Revision-Date: 2018-06-21 20:47\n"
+"POT-Creation-Date: 2018-06-22 20:36\n"
+"PO-Revision-Date: 2018-06-22 20:36\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -811,6 +811,41 @@ msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "This is the uh, Liam Jones uh, diary #2"
 msgstr "Hier ist äh, Liam Jones äh, Audio Tagebuch #2"
 
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "Darum mach es so Hawthorne, lass sie nur im glauben, dass ich ihn verlegt hätte\r\nund ich nur einen anderen bräuchte."
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "Oder man könnte sogar sagen, ich bräuchte einen Ersatz-Ausweis, einen anderen...\r\nIch bin mir nicht sicher wer zuständig ist..."
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr "... nur... ich brauche im Grunde unterm Strich nur einen anderen Ausweis."
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr "Also, Hawthorne wenn du eine E-Mail an dem Ausweis-Menschen schicken könntest,"
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr "und äh du einen neuen Ausweis erhälst, das wäre schön. OKAY."
+
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -866,41 +901,6 @@ msgstr "Äh also, wenn du es ihnen vielleicht so sagen könntest...\r\ndenn als 
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
 msgstr "... sagten sie, dass es meine Schuld wäre und sie ersetzten ihn mir nur widerwillig."
-
-#. Key:	LiamJonesDiary2Part10
-#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
-#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
-msgctxt "Recordings,LiamJonesDiary2Part10"
-msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "Darum mach es so Hawthorne, lass sie nur im glauben, dass ich ihn verlegt hätte\r\nund ich nur einen anderen bräuchte."
-
-#. Key:	LiamJonesDiary2Part11
-#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
-#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
-msgctxt "Recordings,LiamJonesDiary2Part11"
-msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "Oder man könnte sogar sagen, ich bräuchte einen Ersatz-Ausweis, einen anderen...\r\nIch bin mir nicht sicher wer zuständig ist..."
-
-#. Key:	LiamJonesDiary2Part12
-#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
-#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
-msgctxt "Recordings,LiamJonesDiary2Part12"
-msgid "... just I need another badge is basically the bottom line"
-msgstr "... nur... ich brauche im Grunde unterm Strich nur einen anderen Ausweis."
-
-#. Key:	LiamJonesDiary2Part13
-#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
-#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
-msgctxt "Recordings,LiamJonesDiary2Part13"
-msgid "so if you could email the badge people Hawthorne"
-msgstr "Also, Hawthorne wenn du eine E-Mail an dem Ausweis-Menschen schicken könntest,"
-
-#. Key:	LiamJonesDiary2Part14
-#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
-#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
-msgctxt "Recordings,LiamJonesDiary2Part14"
-msgid "and uh get me a new badge that would be good. OK."
-msgstr "und äh du einen neuen Ausweis erhälst, das wäre schön. OKAY."
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
