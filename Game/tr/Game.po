@@ -130,7 +130,7 @@ msgstr "Değişiklikleri Kaydet"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr ""
+msgstr "Arcade"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -151,21 +151,21 @@ msgstr "Geri"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr ""
+msgstr "Bölüm 1"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr ""
+msgstr "Bölüm 2"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr ""
+msgstr "Bölüm 3"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -242,7 +242,7 @@ msgstr "Grafikler"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr ""
+msgstr "Depo Dalgası"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -599,7 +599,7 @@ msgstr "Bu ayarlar deneysel ve silinebilir."
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuArcade"
 msgid "ARCADE"
-msgstr ""
+msgstr "ARCADE"
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1208,7 +1208,7 @@ msgstr "Eğer bunu birisi duyarsa,benim adım Johnathan Derril."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI03"
 msgid "And I need help."
-msgstr "Ve yardım ihtiyacım var."
+msgstr "Ve yardıma ihtiyacım var."
 
 #. Key:	JohnActI04
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
