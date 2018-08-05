@@ -1,0 +1,1558 @@
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2018-07-21 13:46\n"
+"PO-Revision-Date: 2018-08-05 19:26+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: Balint Gottlasz <balint@gottlasz.tk>\n"
+"Language: hu\n"
+
+#. Key:	HintCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintCrouch"
+msgid "Crouch under"
+msgstr "Gugolás"
+
+#. Key:	HintFireM9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFireM9"
+msgid "Fire M9"
+msgstr "M9 Elsütése"
+
+#. Key:	HintFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlashlight"
+msgid "Toggle flashlight"
+msgstr "Zseblámba kapcsolása"
+
+#. Key:	HintFlee
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlee"
+msgid "Flee"
+msgstr "Futás"
+
+#. Key:	HintGameSaved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintGameSaved"
+msgid "Game saved"
+msgstr "Játék mentve"
+
+#. Key:	HintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintJump"
+msgid "Jump up"
+msgstr "Ugrás"
+
+#. Key:	HintLoading
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintLoading"
+msgid "Loading"
+msgstr "Töltés"
+
+#. Key:	HintMove
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintMove"
+msgid "Move around"
+msgstr "Mozgás"
+
+#. Key:	HintOpenGate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintOpenGate"
+msgid "Open gate"
+msgstr "Kapu nyitás"
+
+#. Key:	HintPickUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickUp"
+msgid "Pick up object"
+msgstr "Tárgy felvétele"
+
+#. Key:	HintThrowRock
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintThrowRock"
+msgid "Throw rock"
+msgstr "Kő eldobás"
+
+#. Key:	HintTurnOnTv
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintTurnOnTv"
+msgid "Turn on TV"
+msgstr "TV bekapcsolás"
+
+#. Key:	HintUseMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintUseMouse"
+msgid "Control computer"
+msgstr "Számítógép vezérlése"
+
+#. Key:	ButtonAA
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAA"
+msgid "Anti-Aliasing"
+msgstr "Élsimítás"
+
+#. Key:	ButtonAdvanced
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAdvanced"
+msgid "Advanced"
+msgstr "Haladó"
+
+#. Key:	ButtonApply
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonApply"
+msgid "Apply Changes"
+msgstr "Változások alkalmzása"
+
+#. Key:	ButtonArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonArcade"
+msgid "Arcade"
+msgstr "PC pince"
+
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr "A beállítások automatikus észlelése"
+
+#. Key:	ButtonBack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonBack"
+msgid "Back"
+msgstr "Vissza"
+
+#. Key:	ButtonChapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter1"
+msgid "Chapter 1"
+msgstr "1. Fejezet"
+
+#. Key:	ButtonChapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter2"
+msgid "Chapter 2"
+msgstr "2. Fejezet"
+
+#. Key:	ButtonChapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter3"
+msgid "Chapter 3"
+msgstr "3. Fejezet"
+
+#. Key:	ButtonControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControlOptions"
+msgid "Controls"
+msgstr "Vezérlés"
+
+#. Key:	ButtonCredits
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonCredits"
+msgid "Load Credits"
+msgstr "Stáblista betöltése"
+
+#. Key:	ButtonEffects
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonEffects"
+msgid "Effects"
+msgstr "Effektek"
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExit"
+msgid "Exit"
+msgstr "Kilépés"
+
+#. Key:	ButtonExitToMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExitToMenu"
+msgid "Exit to Menu"
+msgstr "Kilépés a menübe"
+
+#. Key:	ButtonExtras
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExtras"
+msgid "Extras"
+msgstr "Extrák"
+
+#. Key:	ButtonFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFeedback"
+msgid "Send Feedback"
+msgstr "Visszajelzés küldése"
+
+#. Key:	ButtonFoliage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFoliage"
+msgid "Foliage"
+msgstr "Lombozat"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr "Játékmenet"
+
+#. Key:	ButtonGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGraphicsOptions"
+msgid "Graphics"
+msgstr "Grafika"
+
+#. Key:	ButtonHordeWarehouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonHordeWarehouse"
+msgid "Warehouse Horde"
+msgstr "Raktár horda"
+
+#. Key:	ButtonLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr "Játék betöltése"
+
+#. Key:	ButtonNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonNewGame"
+msgid "New Game"
+msgstr "Új játék"
+
+#. Key:	ButtonPostProcess
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPostProcess"
+msgid "Post-process"
+msgstr "Utó munka"
+
+#. Key:	ButtonPrelude
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPrelude"
+msgid "Prelude"
+msgstr "Bevezetés"
+
+#. Key:	ButtonRange
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonRange"
+msgid "Shooting Range"
+msgstr "Lőtér"
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonResume"
+msgid "Resume Game"
+msgstr "Játék folytatása"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr "Játék mentése"
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr "Mentés / Betöltés"
+
+#. Key:	ButtonScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonScreenOptions"
+msgid "Screen"
+msgstr "Képernyő"
+
+#. Key:	ButtonShadows
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShadows"
+msgid "Shadows"
+msgstr "Árnyak"
+
+#. Key:	ButtonSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSoundOptions"
+msgid "Sound"
+msgstr "Hang"
+
+#. Key:	ButtonSP01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP01"
+msgid "1. Fall"
+msgstr "1. zuhanás"
+
+#. Key:	ButtonSP02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP02"
+msgid "2. Scaffolding"
+msgstr "2. Állványzat"
+
+#. Key:	ButtonSP03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP03"
+msgid "3. Pool"
+msgstr "3. medence"
+
+#. Key:	ButtonSP04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP04"
+msgid "4. Mine"
+msgstr "4. Bánya"
+
+#. Key:	ButtonSP05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP05"
+msgid "5. Lab"
+msgstr "5. Labor"
+
+#. Key:	ButtonSP06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP06"
+msgid "6. Clearing"
+msgstr "6. Tisztás"
+
+#. Key:	ButtonSP07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP07"
+msgid "7. Sewer"
+msgstr "7. Csatorna"
+
+#. Key:	ButtonSP08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP08"
+msgid "8. Elevator"
+msgstr "7. Lift"
+
+#. Key:	ButtonSP09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP09"
+msgid "9. Forest"
+msgstr "9. Erdő"
+
+#. Key:	ButtonSP10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP10"
+msgid "10. Crevice"
+msgstr "10. Hasadék"
+
+#. Key:	ButtonTextures
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonTextures"
+msgid "Textures"
+msgstr "Textúrák"
+
+#. Key:	CheckboxCommentary
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxCommentary"
+msgid "In-Game Commentary"
+msgstr "Játékbeli kommentár"
+
+#. Key:	CheckboxDisableDepthOfField
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableDepthOfField"
+msgid "Disable Depth of Field"
+msgstr "Mélységélesség"
+
+#. Key:	CheckboxDisableHighlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHighlight"
+msgid "Disable Object Highlight"
+msgstr "Tárgy feltüntetés kikapcsolása"
+
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr "HUD kikapcsolása"
+
+#. Key:	CheckboxDisableMotionBlur
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableMotionBlur"
+msgid "Disable Motion Blur"
+msgstr "Elmosódás"
+
+#. Key:	CheckboxDisableSceneFringe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSceneFringe"
+msgid "Disable Scene Fringe"
+msgstr "A jelenet szélének kikapcolása"
+
+#. Key:	CheckboxDisableVignette
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableVignette"
+msgid "Disable Vignette"
+msgstr "Matrica kikapcsolása"
+
+#. Key:	CheckboxEnableStatsForNerds
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableStatsForNerds"
+msgid "Enable On-Screen Stats"
+msgstr "Képernyő statisztika kikapcsolása"
+
+#. Key:	CheckboxInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertMouse"
+msgid "Invert Mouse"
+msgstr "Az egér tükrözése"
+
+#. Key:	CheckboxLaptopMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopMode"
+msgid "Laptop Mode"
+msgstr "Laptop mód"
+
+#. Key:	CheckboxLaptopModeHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopModeHelp"
+msgid ""
+"Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler "
+"when playing."
+msgstr ""
+"A képkockaszám 30FPS-en tartása a mobil eszközök hűvösebben tartása végett."
+
+#. Key:	CheckboxVSync
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxVSync"
+msgid "VSync"
+msgstr ""
+
+#. Key:	DropdownAAMethod
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownAAMethod"
+msgid "AA Method"
+msgstr "AA Metódus"
+
+#. Key:	DropdownCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownCulture"
+msgid "Culture"
+msgstr "Kultúra"
+
+#. Key:	DropdownItemQualityModeEpic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeEpic"
+msgid "Epic"
+msgstr "Baszó"
+
+#. Key:	DropdownItemQualityModeHigh
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeHigh"
+msgid "High"
+msgstr "Magas"
+
+#. Key:	DropdownItemQualityModeLow
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeLow"
+msgid "Low"
+msgstr "Alacsony"
+
+#. Key:	DropdownItemQualityModeMedium
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeMedium"
+msgid "Medium"
+msgstr "Közepes"
+
+#. Key:	DropdownItemWindowModeFullscreen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeFullscreen"
+msgid "Fullscreen"
+msgstr "Teljes képernyő"
+
+#. Key:	DropdownItemWindowModelBorderless
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModelBorderless"
+msgid "Borderless"
+msgstr "Szegélytelen"
+
+#. Key:	DropdownItemWindowModeWindowed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeWindowed"
+msgid "Window"
+msgstr "Ablak"
+
+#. Key:	DropdownResolution
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownResolution"
+msgid "Resolution"
+msgstr "Felbontás"
+
+#. Key:	DropdownWindowMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownWindowMode"
+msgid "Window Mode"
+msgstr "Ablak mód"
+
+#. Key:	GameTag
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTag"
+msgid "ACT II EARLY ACCESS"
+msgstr "II. RÉSZ KORAI HOZZÁFÉRÉS"
+
+#. Key:	GameTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTitle"
+msgid "ESTRANGED"
+msgstr "ESTRANGED"
+
+#. Key:	LabelEnterCheat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelEnterCheat"
+msgid "Enter Cheat"
+msgstr "Csalás beírása"
+
+#. Key:	LabelExperimentalOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptions"
+msgid "Experimental Options"
+msgstr "Kisérleti opciók"
+
+#. Key:	LabelExperimentalOptionsHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptionsHelp"
+msgid "These options are experimental and may be lost."
+msgstr "Ezen opciók kiséletiek és elveszhetnek."
+
+#. Key:	MenuArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuArcade"
+msgid "ARCADE"
+msgstr "PC PINCE"
+
+#. Key:	MenuControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuControlOptions"
+msgid "CONTROLS"
+msgstr "VEZÉRLÉS"
+
+#. Key:	MenuExtraOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuExtraOptions"
+msgid "EXTRAS"
+msgstr "EXTRÁK"
+
+#. Key:	MenuGameplay
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGameplay"
+msgid "GAMEPLAY"
+msgstr "JÁTÉKMENET"
+
+#. Key:	MenuGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGraphicsOptions"
+msgid "GRAPHICS"
+msgstr "GRAFIKA"
+
+#. Key:	MenuLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuLoadGame"
+msgid "LOAD GAME"
+msgstr "JÁTÉK BETÖLTÉSE"
+
+#. Key:	MenuNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuNewGame"
+msgid "NEW GAME"
+msgstr "ÚJ JÁTÉK"
+
+#. Key:	MenuOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuOptions"
+msgid "OPTIONS"
+msgstr "BEÁLLÍTÁSOK"
+
+#. Key:	MenuSaveLoadOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSaveLoadOptions"
+msgid "SAVE / LOAD"
+msgstr "MENTÉS / BETÖLTÉS"
+
+#. Key:	MenuScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuScreenOptions"
+msgid "SCREEN"
+msgstr "KÉPERNYŐ"
+
+#. Key:	MenuSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSoundOptions"
+msgid "SOUND"
+msgstr "HANG"
+
+#. Key:	OptionsButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,OptionsButton"
+msgid "Options"
+msgstr "BEÁLLÍTÁSOK"
+
+#. Key:	SliderControllerSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderControllerSensitivity"
+msgid "Controller Sensitivity"
+msgstr "Kontroller érzékenység"
+
+#. Key:	SliderEffectsVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderEffectsVolume"
+msgid "Effects Volume"
+msgstr "Effekt hangerő"
+
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr "Látótér"
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr ""
+
+#. Key:	SliderMouseSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "Egér érzékenység"
+
+#. Key:	SliderMusicVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMusicVolume"
+msgid "Music Volume"
+msgstr "Zene hangerő"
+
+#. Key:	SliderScreenPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderScreenPercentage"
+msgid "Screen Percentage"
+msgstr "Képernyő százalék"
+
+#. Key:	SliderVoiceVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderVoiceVolume"
+msgid "Voice Volume"
+msgstr "Beszéd hangerő"
+
+#. Key:	TooltipInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipInvertMouse"
+msgid "Invert the mouse Y axis"
+msgstr "Az egér tükrözése"
+
+#. Key:	GarethThomasDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part1"
+msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "Itt Gareth Tamás beszél. Megvizsgáltuk az alga mintákat"
+
+#. Key:	GarethThomasDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part2"
+msgid ""
+"and found that the glowing is caused by a naturally occurring marine "
+"plankton in the surrounding area."
+msgstr ""
+"és Kideríterítettük hogy a világítást egy a környezö tengerben előforduló "
+"plankton okozza."
+
+#. Key:	GarethThomasDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part3"
+msgid ""
+"We don't anticipate that our usage of the algae will be affected at all by "
+"the plankton."
+msgstr "Nem gondoljuk hogy az algának a használatát befolyásolná a plankton."
+
+#. Key:	GarethThomasDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part4"
+msgid ""
+"And we consider it completely harmless, we don't anticipate it being a "
+"problem."
+msgstr ""
+"Teljesen ártalmalannak tűnik, úgy gondoljuk hogy nem fog problémát okozni."
+
+#. Key:	LiamJonesDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part1"
+msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr "Ő ez itt-m..., Liam Jónás, hang napló , #1, őmm"
+
+#. Key:	LiamJonesDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part2"
+msgid "We just started studying the algae, and uh"
+msgstr "Éppenhogy el kezdtük tanulmányozni az algát, és hát"
+
+#. Key:	LiamJonesDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part3"
+msgid ""
+"We realised that it actually glows if you leave it alone for a little while"
+msgstr "Rájöttünk hogy rendesen világít ha ott hagyja az ember egy darabig"
+
+#. Key:	LiamJonesDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part4"
+msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr "Úgyhogy, öm, ja menő! Öm, van is nálam egy kis minta amit..."
+
+#. Key:	LiamJonesDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part5"
+msgid ""
+"...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr "az irodámban fogok hagyni egy kicsit, hogy lássam mi történik vele."
+
+#. Key:	LiamJonesDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part1"
+msgid "This is the uh, Liam Jones uh, diary #2"
+msgstr "Ez itt öm, Liam Jónás öm, napló#2"
+
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid ""
+"just do that Hawthorne, just let them know that I've misplaced it, and I "
+"need another one"
+msgstr ""
+"csak tedd meg azt Hawthorne, csak mond meg nekik hogy rossz helyre raktam "
+"raktam és kéne egy másik"
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid ""
+"or you could even say I need a spare badge, another one... I'm not sure "
+"where it went"
+msgstr ""
+"vagy azt is mondhatnád hogy kell egy tartalék kártya, egy másik... nemtudom "
+"hová tűnhetett"
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr "... a lényeg az hogy kell egy új kártya"
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr ""
+"úgyhogy ha tudnál egy emailt küldeni a beléptető kártyás embereknek Hawthone"
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr "és öh kerítsél egy új kártyát nekem az jó volna. OK."
+
+#. Key:	LiamJonesDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part2"
+msgid ""
+"The samples are doing OK, we're just observing them now to see what happens"
+msgstr ""
+"A minták jól megvannak, pillanatnyilag csak megfigyeljük őket hogy lássuk mi "
+"történik"
+
+#. Key:	LiamJonesDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part3"
+msgid ""
+"The head office have sent for some samples so we're going to ship some over "
+"there too in some boxes"
+msgstr ""
+"Az irodai vezetőség küldött némi mintáért úgyhogy át is szállítunk nekik egy "
+"keveset néhány dobozban."
+
+#. Key:	LiamJonesDiary2Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part4"
+msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr ""
+"És még, Hawthorne, amikor van rá esélyed, elhagytam a beléptető kártyámat..."
+
+#. Key:	LiamJonesDiary2Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part5"
+msgid "but when you talk to the badge people just say um... like uh..."
+msgstr ""
+"de amikor a biztonsági emberekkel beszélsz mond csak azt hogy... mondjuk ö..."
+
+#. Key:	LiamJonesDiary2Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part6"
+msgid ""
+"I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr "Nem tudom, valaki- nem, nem, nem valaki elvette az rossz indok"
+
+#. Key:	LiamJonesDiary2Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part7"
+msgid ""
+"A fox, snuck in, and took my badge, and um, now I can't get into the main "
+"facility"
+msgstr ""
+"Egy róka, besurrant, és elvitte a kártyámat, és öm, így nem tudok bejutni a "
+"fő épületbe"
+
+#. Key:	LiamJonesDiary2Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part8"
+msgid ""
+"Um so, if you could just tell them that... because last time it happened, "
+msgstr ""
+"Ö úgyhogy ha azt megtudnád nekik mondani.. mert legutóbb amikor ez történt,"
+
+#. Key:	LiamJonesDiary2Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part9"
+msgid ""
+"they said it was my fault and they were a little bit reluctant about "
+"replacing it so"
+msgstr "azt mondták hogy az én hibám és egy kicsit vonakodtak hogy lecseréljék"
+
+#. Key:	LiamJonesDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part1"
+msgid ""
+"This is Liam Jones, the live sample security engineer on-site - we've just "
+"admitted"
+msgstr ""
+"Ez itt Liam Jónás, a helyszíni élőminta biztonsági mérnök - és épp most "
+"vettük fel"
+
+#. Key:	LiamJonesDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part2"
+msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr "Dr Prezella Frigyest a megfigyelő szobába, huh, erőszakossá vált"
+
+#. Key:	LiamJonesDiary3Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part3"
+msgid "and attacked one of my members of staff so we're going to keep him"
+msgstr "és megtámadott egy tagot a személyzetből úgyhogy "
+
+#. Key:	LiamJonesDiary3Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part4"
+msgid ""
+"under observation and probably move him off the island as soon as we can."
+msgstr ""
+"Megfigyelés alatt fogjuk tartani és lehet hogy elvisszük a sziketről amint "
+"csak tudjuk."
+
+#. Key:	LiamJonesDiary3Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part5"
+msgid "We're not sure what caused this."
+msgstr "Nem tudjuk mi okozhatta ezt."
+
+#. Key:	AdditionalContributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AdditionalContributors"
+msgid "ADDITIONAL CONTRIBUTORS"
+msgstr "TOVÁBBI HOZZÁJÁRULÓK"
+
+#. Key:	AndYou
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYou"
+msgid "And You!"
+msgstr "És te!"
+
+#. Key:	AndYouTemplated
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYouTemplated"
+msgid "And {name} (You!)"
+msgstr "És {name} (te!)"
+
+#. Key:	CreatedWithUnrealEngine
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,CreatedWithUnrealEngine"
+msgid "Created with Unreal Engine"
+msgstr "Az Unreal motor hajtja a játékot"
+
+#. Key:	EstrangedTradeMark
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,EstrangedTradeMark"
+msgid "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr "Az \"Estranged\" név Alan Edwardes tulajdonát képezi"
+
+#. Key:	HelpTranslate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,HelpTranslate"
+msgid "Help Translate Too!"
+msgstr "Segíts lefordítani!"
+
+#. Key:	MoreSoon
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,MoreSoon"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Ideiglenes befejezés\r\n"
+"További részek nemsokára!"
+
+#. Key:	Translators
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Translators"
+msgid "TRANSLATORS"
+msgstr "FORDÍTÓK"
+
+#. Key:	WithThanksTo
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,WithThanksTo"
+msgid "WITH THANKS TO"
+msgstr "KÖSZÖNETTEL"
+
+#. Key:	GuardChatter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter01"
+msgid "What do you think? He fell down there maybe?"
+msgstr "Mit gondolsz? Talán leeshetett oda?"
+
+#. Key:	GuardChatter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter02"
+msgid "I dunno... this place is falling apart."
+msgstr "Há' nemtom'... De ez  a hely esik szét."
+
+#. Key:	GuardChatter03
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter03"
+msgid "You know... if we report this, they're going to make us go down there."
+msgstr "Tudod... Ha megmondjuk ezt akkor le fognak küldeni oda minket."
+
+#. Key:	GuardChatter04
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter04"
+msgid "Yeah, I know. It's not worth it, let's just let the things get him."
+msgstr "Ja, tudom. Nem éri meg, hagyjuk hogy a dolgok elkapják."
+
+#. Key:	GuardChatter05
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter05"
+msgid "That's fine by me. Let's move."
+msgstr "Nekem megfelel. Na menjünk."
+
+#. Key:	John01
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John01"
+msgid ""
+"I'm glad you're alive, I was beginning to think we wouldn't speak again."
+msgstr ""
+"Örülök hogy életben vagy. Már azt hittem hogy nem tudunk többet beszélni."
+
+#. Key:	John02
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John02"
+msgid "There was a message on my radio... it sounded like a man"
+msgstr "Volt egy üzenet a rádión... egy férfinek hangzott"
+
+#. Key:	John03
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John03"
+msgid "I think he said professor? Trying to override the curfew message"
+msgstr ""
+"Asszem azt mondta professzor? Probálta felülírni a kijárási tilalom üzenetet"
+
+#. Key:	John04
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John04"
+msgid "I left the hut to try to help"
+msgstr "Elhagytam a kunyhót hogy segítsek"
+
+#. Key:	John05
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John05"
+msgid ""
+"I followed the river for a while towards Wentworth, and found this abandoned "
+"guard post"
+msgstr ""
+"Követtem a folyót egy darabig Wentworth felé, és rátaláltam erre az "
+"elhagyott őrhelyre"
+
+#. Key:	John06
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John06"
+msgid "I was scavenging and noticed you on the CCTV... kind of lucky"
+msgstr "Nézelődtem és megláttalak a bizonsági kamerán... egész szerencsés"
+
+#. Key:	John07
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John07"
+msgid "We need to send an SOS off the island, about what Arque is doing here"
+msgstr "Muszály küldenünk egy SOS-t a szigetről, hogy mit csinál Arque itt"
+
+#. Key:	John08
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John08"
+msgid ""
+"If we have any hope of getting help, we need to stop that curfew message"
+msgstr ""
+"Ha van bármi reményünk a segítségre akkor meg kell állítanunk azt a zavaró "
+"jelet"
+
+#. Key:	John09
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John09"
+msgid "Only something powerful could be sending that out, but..."
+msgstr "Csak valami erős küldheti ki azt a jelet, de..."
+
+#. Key:	John10
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John10"
+msgid "I know of one very old satellite station on the island"
+msgstr "Tudok egy nagyon régi rádió állomást a szigeten"
+
+#. Key:	John11
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John11"
+msgid "I thought it was decommissioned"
+msgstr "Azt hittem hogy már leszerelték"
+
+#. Key:	John12
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John12"
+msgid ""
+"Someone will be watching - you need to get away from Arque buildings. It "
+"isn't safe."
+msgstr ""
+"Valaki figyelni fog - távol kell maradnod az Arque Épületeitől. nem "
+"biztonságos."
+
+#. Key:	John13
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John13"
+msgid ""
+"They're all heavily armed. Between them and the infected you need to be "
+"extremely careful not to attract attention."
+msgstr ""
+"Mind komolyan felvan fegyverkezve. köztük és a fertőzöttek közt nagyon oda "
+"kell figyelned hogy ne keltsd fel a figyelmet."
+
+#. Key:	John14
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John14"
+msgid "I'm going to destroy this station and move on."
+msgstr "Én megsemmisítem ezt az állomást és megyek tovább."
+
+#. Key:	John15
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,John15"
+msgid "Pick up the portable radio on the table. I'll try to make contact soon."
+msgstr ""
+"Vedd fel a hordozható rádiót az asztalról. Hamarosan megpróbállak majd "
+"elérni."
+
+#. Key:	JohnNag01
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag01"
+msgid "Hello? Pick up, it's John"
+msgstr "Helló? Vedd fel, Itt János"
+
+#. Key:	JohnNag02
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag02"
+msgid "I can see you on the CCTV, answer the radio!"
+msgstr "Látlak a biztonsági kamerán válaszolj a rádióra!"
+
+#. Key:	JohnNag03
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag03"
+msgid "Press the button to answer, it will secure the channel"
+msgstr "Nyomd meg a gombot a válaszhoz, azzal biztosítjuk a csatornát"
+
+#. Key:	JohnNag04
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag04"
+msgid "I don't know how long I can stay here, pick up"
+msgstr "Nemtom mennyi ideig tudok itt maradni, vedd fel"
+
+#. Key:	JohnNag05
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag05"
+msgid "Come on, pick up... I can see you"
+msgstr "Gyerünk, vedd fel... látlak"
+
+#. Key:	JohnNag06
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag06"
+msgid "Hello?"
+msgstr "Helló?"
+
+#. Key:	JohnNag07
+#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
+#: /Game/Resources/Localisation/ST_John01.ST_John01
+msgctxt "ST_John01,JohnNag07"
+msgid "Is anyone there?"
+msgstr "Van ott valaki?"
+
+#. Key:	JohnActI01
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI01"
+msgid "Hello?"
+msgstr "Helló?"
+
+#. Key:	JohnActI02
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02"
+msgid "If anyone can hear this, my name is Johnathan Derril."
+msgstr "Ha bárki hallja ezt, a nevem Derril Jonatán."
+
+#. Key:	JohnActI03
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI03"
+msgid "And I need help."
+msgstr "És segítségre van szükségem."
+
+#. Key:	JohnActI04
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI04"
+msgid "These things, they've taken over the island."
+msgstr "Ezek a dolgok, átvették a szigetet."
+
+#. Key:	JohnActI05
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI05"
+msgid "Anyone, please, I have supplies, but-"
+msgstr "Akárki, Kérem, vannak tartalékaim, de-"
+
+#. Key:	JohnActI06
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI06"
+msgid "They're out there."
+msgstr "Ezek ott kint vannak."
+
+#. Key:	LaserScan01
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan01"
+msgid "Welcome to Arque East. Please stand by for biological scan."
+msgstr "Üdvözöljök Arque keleten. Kérjük várjon a biológiai vizsgálatra."
+
+#. Key:	LaserScan02
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan02"
+msgid "Biological scan completed. No foreign material found."
+msgstr "Biológiai ellenőrzés befejezve. Nem találtunk idegen anyagot."
+
+#. Key:	LaserScan03
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan03"
+msgid "Please proceed, and have a nice day."
+msgstr "Legyen szíves tovább haladni és legyen szép napja."
+
+#. Key:	NewsReport01
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport01"
+msgid ""
+"The private security firm Sokol-Glockner has been criticised for the second "
+"time this year"
+msgstr "A magán biztonsági Sokol-Glockner céget idén másodjára érte kritika"
+
+#. Key:	NewsReport02
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport02"
+msgid ""
+"with its heavy handed use of live ammunition in its protective assignments."
+msgstr "a biztonsági részlegeik esetlen éles lőszer kezelése miatt."
+
+#. Key:	NewsReport03
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport03"
+msgid ""
+"The company’s policy states that live ammunition is to be used on all "
+"assignments,"
+msgstr ""
+"A cég irányelvei közt szerepel hogy minden részlegen élő lőszert kell "
+"használni,"
+
+#. Key:	NewsReport04
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport04"
+msgid ""
+"however campaigners say this is unnecessary, and incites the violence they "
+"wish to avoid."
+msgstr ""
+"azonban a tüntetők azt mondják hogy ez fölösleges, és csak erőszakot kelt "
+"amit el akarnak kerülni."
+
+#. Key:	NewsReport05
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport05"
+msgid ""
+"The company declined to comment when asked, but others say it’s an accident "
+"waiting to happen."
+msgstr ""
+"A cég nem szándékozott nyilatkozni amikor kérdezték, de egyesek mondják hogy "
+"bármikor bekövetkezhet egy baleset."
+
+#. Key:	NewsReport06
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport06"
+msgid ""
+"The government contractor is responsible for a number of overseas operations,"
+msgstr ""
+"Az állami megrendeléseket is végrehajtó vállalkozás felelős több "
+"tengerentúli műveletért is,"
+
+#. Key:	NewsReport07
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport07"
+msgid ""
+"which sources say is why the government is not commenting on this matter."
+msgstr ""
+"egyes források szerint az állam pont emiatt nem szól hozzá a történtekhez."
+
+#. Key:	NewsReport08
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport08"
+msgid ""
+"Sokol-Glockner entered headlines earlier this year for its hand in the "
+"accidental shooting of"
+msgstr ""
+"Sokol-Glockner idén már korábban is a címlapokon szerepelt amikor véletlenül "
+"meglőttek"
+
+#. Key:	NewsReport09
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport09"
+msgid ""
+"an Arque Corporation employee on one of its offshore drilling platforms."
+msgstr "egy Arque alkalmazottat a cég egyik tengeri fúrótornyán."
+
+#. Key:	NewsReport10
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport10"
+msgid ""
+"The 37 year old employee emerged on a beach after evidently swimming from "
+"the platform,"
+msgstr ""
+"A 37 éves alkalmazott sikeresen partot ért miután kiúszott a toronyról,"
+
+#. Key:	NewsReport11
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport11"
+msgid "while doctors later confirmed a bullet in his leg."
+msgstr "miközben később a doktorok megállapították a golyót a lábában."
+
+#. Key:	NewsReport12
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport12"
+msgid ""
+"Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgstr "Sokol-Glockner elismerte hogy a golyó az ő fegyverükből van,"
+
+#. Key:	NewsReport13
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport13"
+msgid ""
+"but refused to comment on the case. It insisted it was working with the "
+"relevant authorities."
+msgstr ""
+"de nem szándékozott hozzászólni az ügyhöz. Bár megjegyezte hogy a megfelelő "
+"hatóságokkal dolgozik."
+
+#. Key:	NewsReport14
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport14"
+msgid "Weather now - storm Edwin continues to make landfall,"
+msgstr "És most időjárás - Az Edvin vihar újabb földcsuszamlásokat okozott,"
+
+#. Key:	NewsReport15
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport15"
+msgid "but today provides residents in the north with a day of calm."
+msgstr "de a mai nap legalább egy kis nyugalmat hoz az északiaknak."
+
+#. Key:	NewsReport16
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport16"
+msgid ""
+"Meteorologists are advising everyone in the area that the worst of the storm "
+"is yet to come,"
+msgstr ""
+"A meterológusok mindenkinek javasolják hogy a vihar legrosszabb része még "
+"csak most jön,"
+
+#. Key:	NewsReport17
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport17"
+msgid ""
+"and they should prepare by filling bathtubs with water, and stocking food to "
+"last for at least two days."
+msgstr ""
+"és legalább 2 napra elegendő vizet és hidegélemet kéne raktározniuk.\n"
+" "
+
+#. Key:	NewsReport18
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport18"
+msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr "Ennyi lenne tőlem, csatlakozzon hozzánk holnap a reggeli műsorba."
+
+#. Key:	LoadingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,LoadingLabel"
+msgid "LOADING"
+msgstr "TÖLTÉS"
+
+#. Key:	StartupContent
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupContent"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to "
+"Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"We are a very small team (3 people!) building Estranged in our spare time, "
+"and we will be continually updating the game with new content.\r\n"
+"\r\n"
+"If you have any feedback for us, we are always available on the Steam forums "
+"or via the in-game feedback!"
+msgstr ""
+"Üdvözlünk az Estranged: II. részében! Ez a fejlesztés alatt lévő folytatása "
+"az első résznek. ami szintén elérhető Steam-en.\r\n"
+"\r\n"
+"Nagyon kis csapat vagyunk. (3 ember!) A szabadidőnkben fejlesztjük a "
+"játékot, és folyamatosan frissíteni fogjuk új dolgokkal.\r\n"
+"\r\n"
+"Ha van bármi visszajelzésed számunkra, mindig elérhetőek vagyunk a Steam "
+"fórumokon  vagy a játékon belüli visszajelzésen keresztül!"
+
+#. Key:	StartupPlayButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupPlayButton"
+msgid "Play Estranged"
+msgstr "Estranged indítása"
+
+#. Key:	StartupTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupTitle"
+msgid "WELCOME TO ESTRANGED ACT II"
+msgstr "ÜDVÖZLÜNK AZ ESTRANGED II. RÉSZÉBEN"
+
+#. Key:	RangeLevelLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeLevelLabel"
+msgid "LEVEL"
+msgstr "SZINT"
+
+#. Key:	RangePointsLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangePointsLabel"
+msgid "POINTS"
+msgstr "PONTOK"
+
+#. Key:	RangeTimeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeTimeLabel"
+msgid "TIME"
+msgstr "IDŐ"
