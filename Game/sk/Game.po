@@ -1,17 +1,18 @@
-﻿# Game Slovak translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2018-07-29 09:56\n"
-"PO-Revision-Date: 2018-07-29 09:56\n"
+"PO-Revision-Date: 2018-08-07 09:28+0200\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -242,7 +243,7 @@ msgstr "Grafika"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr "Sklad Horda"
+msgstr "Sklad (Horda)"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -767,7 +768,7 @@ msgstr "Neočakávame, že naše použitie rias bude vôbec ovplyvnené planktó
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "A považujeme ho za úplne neškodný. Nepokladáme to za problém."
+msgstr "A považujeme ho za úplne neškodný. Nemyslíme si, že ide o problém."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -983,8 +984,12 @@ msgstr "Pomôžte nám s prekladom!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Dočasný koniec\nViac obsahu prichádza už čoskoro!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Dočasný koniec\n"
+"Viac obsahu prichádza už čoskoro!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1040,7 +1045,7 @@ msgstr "Som za to. Poďme."
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John01"
 msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
-msgstr "Som rád, že žiješ. Už som si začal myslieť, že sa už nikdy neporozprávame."
+msgstr "Som rád, že žiješ. Už som si začal myslieť, že sa už nikdy neuvidíme."
 
 #. Key:	John02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1054,7 +1059,7 @@ msgstr "Na vysielačke som chytil správu... znelo to ako človek"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John03"
 msgid "I think he said professor? Trying to override the curfew message"
-msgstr "Myslím , že povedal profesor? Snaží sa prepísať správu o zákaze vychádzania."
+msgstr "Myslím , že povedal, že je profesor? Snaží sa prepísať správu o zákaze vychádzania."
 
 #. Key:	John04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1082,14 +1087,14 @@ msgstr "Preskúmaval som to tu a všimol som si ťa na kamere... mal som tak tro
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John07"
 msgid "We need to send an SOS off the island, about what Arque is doing here"
-msgstr "Musíme poslať SOS z ostrova o tom, čo tu Arque robia"
+msgstr "Musíme poslať SOS z ostrova a oznámiť, čo tu Arque robia"
 
 #. Key:	John08
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John08"
 msgid "If we have any hope of getting help, we need to stop that curfew message"
-msgstr "Ak máme nejakú nádej na privolanie pomoci, musíme zastaviť tú správu o zákaze vychádzania"
+msgstr "Ak máme nejakú nádej na pomoc, musíme zastaviť tú správe o zákaze vychádzania."
 
 #. Key:	John09
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1124,7 +1129,7 @@ msgstr "Niekto ťa bude sledovať - musíš sa dostať preč od Arque budov. Nie
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John13"
 msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
-msgstr "Sú ťažko ozbrojení. Medzi nimi a infikovanými musíš byť extrémne opatrný , aby si na seba neupútal pozornosť."
+msgstr "Sú ťažko ozbrojení. Medzi nimi a infikovanými musíš byť extrémne opatrný, aby si na seba neupútal pozornosť."
 
 #. Key:	John14
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1369,7 +1374,7 @@ msgstr "Meteorológovia radia všetkým v oblasti, že najhoršie ešte len prí
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "A miestni by sa mali pripraviť naplnením vaní vodou a nahromadením jedla na aspoň dva dni."
+msgstr "Miestni by sa mali pripraviť naplnením vaní vodou a nahromadením jedla na aspoň dva dni."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1389,8 +1394,18 @@ msgstr "NAČÍTAVANIE"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr "Vitajte v Estranged : Act II! Toto je nedokončené pokračovanie Estranged : Act I , tiež dostupné na Steame\n\nSme veľmi malý tým (3 ľudia!) , ktorý vyvýja Estranged vo voľnom čase a budeme postupne aktualizovať hru novým obsahom.\n\nAk máte pre nás spätnú väzbu , vždy sme dostupní na Steam fórach alebo cez spätnú väzbu v hre!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"We are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n"
+"\r\n"
+"If you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
+msgstr ""
+"Vitajte v Estranged : Act II! Toto je nedokončené pokračovanie Estranged : Act I , tiež dostupné na Steame\n"
+"\n"
+"Sme veľmi malý tým (3 ľudia!) , ktorý vyvýja Estranged vo voľnom čase a budeme postupne aktualizovať hru novým obsahom.\n"
+"\n"
+"Ak máte pre nás spätnú väzbu , vždy sme dostupní na Steam fórach alebo cez spätnú väzbu v hre!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1426,4 +1441,3 @@ msgstr "BODY"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "ČAS"
-
