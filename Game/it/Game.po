@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-08-12 14:38\n"
-"PO-Revision-Date: 2018-08-12 14:38\n"
+"POT-Creation-Date: 2018-09-02 18:08\n"
+"PO-Revision-Date: 2018-09-02 18:08\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -46,6 +46,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
+msgstr ""
+
+#. Key:	HintInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintInteract"
+msgid "Interact"
 msgstr ""
 
 #. Key:	HintJump
@@ -236,6 +243,13 @@ msgstr "Opzioni di gioco"
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
 msgstr "Grafica"
+
+#. Key:	ButtonGuides
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGuides"
+msgid "Guides"
+msgstr ""
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1378,6 +1392,195 @@ msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
 msgstr ""
 
+#. Key:	Radio01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio01a"
+msgid "It's good to hear from you again. You really stirred them up back there."
+msgstr ""
+
+#. Key:	Radio01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio01b"
+msgid "Keep the radio on. We've got work to do."
+msgstr ""
+
+#. Key:	Radio02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio02a"
+msgid "Arque security forces continue to canvas the island."
+msgstr ""
+
+#. Key:	Radio02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio02b"
+msgid "They're the shoot first, ask questions later type."
+msgstr ""
+
+#. Key:	Radio02c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio02c"
+msgid "Stay away from them."
+msgstr ""
+
+#. Key:	Radio03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio03a"
+msgid "There's a curfew in effect for everyone on the island..."
+msgstr ""
+
+#. Key:	Radio03b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio03b"
+msgid "...at least, those that aren't infected."
+msgstr ""
+
+#. Key:	Radio03c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio03c"
+msgid "This has given THEM a license to kill on sight."
+msgstr ""
+
+#. Key:	Radio04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio04a"
+msgid "If we want to contact the outside world,"
+msgstr ""
+
+#. Key:	Radio04b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio04b"
+msgid "we need to stop Arque's curfew message and disable their signal jammer."
+msgstr ""
+
+#. Key:	Radio05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio05a"
+msgid "Arque have been broadcasting from an old"
+msgstr ""
+
+#. Key:	Radio05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio05b"
+msgid "satellite station on the other side of the island."
+msgstr ""
+
+#. Key:	Radio05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio05c"
+msgid "We need to get there, and stop it."
+msgstr ""
+
+#. Key:	Radio07a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio07a"
+msgid "Arque evacuated their office facilities when the infection first broke out."
+msgstr ""
+
+#. Key:	Radio07b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio07b"
+msgid "They managed to contain it for the first few hours... but it got out."
+msgstr ""
+
+#. Key:	Radio08a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio08a"
+msgid "Arque brought in their security force Sokol Glockner to deal with the outbreak."
+msgstr ""
+
+#. Key:	Radio08b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio08b"
+msgid "The next few hours were a disaster."
+msgstr ""
+
+#. Key:	Radio09a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio09a"
+msgid "With this infection people don't stay dead for long."
+msgstr ""
+
+#. Key:	Radio09b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio09b"
+msgid "Sokol and Arque killed many... but didn't count on them coming back."
+msgstr ""
+
+#. Key:	Radio10a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio10a"
+msgid "Sokol forces formed death squads, canvassing the island,"
+msgstr ""
+
+#. Key:	Radio10b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio10b"
+msgid "killing anything that moved. Shoot first, ask questions later."
+msgstr ""
+
+#. Key:	Radio11a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio11a"
+msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
+msgstr ""
+
+#. Key:	Radio11b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio11b"
+msgid "It looks like they're sending over a team to the facility YOU just left."
+msgstr ""
+
+#. Key:	Radio12a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio12a"
+msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
+msgstr ""
+
+#. Key:	Radio14a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio14a"
+msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
+msgstr ""
+
+#. Key:	Radio14b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio14b"
+msgid "Be prepared for ANYTHING."
+msgstr ""
+
+#. Key:	Radio15a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio15a"
+msgid "They stationed at least three guards where you are, so stay alert."
+msgstr ""
+
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1389,8 +1592,8 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nWe are a very small team (3 people!) building Estranged in our spare time, and we will be continually updating the game with new content.\r\n\r\nIf you have any feedback for us, we are always available on the Steam forums or via the in-game feedback!"
-msgstr "Benvenuti a Estranged: Act II! Questo è il sequel in fase di progettazione di Estranged: Act I, disponibile anche su Steam.\r\n\r\nSiamo un piccolo team (tre persone!) che si dedica allo sviluppo di Estranged nel tempo libero, e continueremo ad aggiornare il gioco con nuovi contenuti.\r\n\r\nSe avete qualche feedback da inviarci, siamo sempre disponibili sui forum Steam o potete inviarceli direttamente dalla sezione \"Feedback\" nel gioco!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr ""
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
