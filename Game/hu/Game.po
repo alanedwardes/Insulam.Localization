@@ -1,18 +1,17 @@
+﻿# Game Hungarian translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-07-21 13:46\n"
-"PO-Revision-Date: 2018-08-05 19:26+0200\n"
+"POT-Creation-Date: 2018-09-02 18:08\n"
+"PO-Revision-Date: 2018-09-02 18:08\n"
 "Language-Team: \n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.1.1\n"
-"Last-Translator: Balint Gottlasz <balint@gottlasz.tk>\n"
-"Language: hu\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -48,6 +47,13 @@ msgstr "Futás"
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
 msgstr "Játék mentve"
+
+#. Key:	HintInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintInteract"
+msgid "Interact"
+msgstr ""
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -237,6 +243,13 @@ msgstr "Játékmenet"
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
 msgstr "Grafika"
+
+#. Key:	ButtonGuides
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGuides"
+msgid "Guides"
+msgstr ""
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -473,11 +486,8 @@ msgstr "Laptop mód"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
-msgid ""
-"Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler "
-"when playing."
-msgstr ""
-"A képkockaszám 30FPS-en tartása a mobil eszközök hűvösebben tartása végett."
+msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr "A képkockaszám 30FPS-en tartása a mobil eszközök hűvösebben tartása végett."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -756,31 +766,22 @@ msgstr "Itt Gareth Tamás beszél. Megvizsgáltuk az alga mintákat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
-msgid ""
-"and found that the glowing is caused by a naturally occurring marine "
-"plankton in the surrounding area."
-msgstr ""
-"és Kideríterítettük hogy a világítást egy a környezö tengerben előforduló "
-"plankton okozza."
+msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr "és Kideríterítettük hogy a világítást egy a környezö tengerben előforduló plankton okozza."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
-msgid ""
-"We don't anticipate that our usage of the algae will be affected at all by "
-"the plankton."
+msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
 msgstr "Nem gondoljuk hogy az algának a használatát befolyásolná a plankton."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
-msgid ""
-"And we consider it completely harmless, we don't anticipate it being a "
-"problem."
-msgstr ""
-"Teljesen ártalmalannak tűnik, úgy gondoljuk hogy nem fog problémát okozni."
+msgid "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr "Teljesen ártalmalannak tűnik, úgy gondoljuk hogy nem fog problémát okozni."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -800,8 +801,7 @@ msgstr "Éppenhogy el kezdtük tanulmányozni az algát, és hát"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
-msgid ""
-"We realised that it actually glows if you leave it alone for a little while"
+msgid "We realised that it actually glows if you leave it alone for a little while"
 msgstr "Rájöttünk hogy rendesen világít ha ott hagyja az ember egy darabig"
 
 #. Key:	LiamJonesDiary1Part4
@@ -815,8 +815,7 @@ msgstr "Úgyhogy, öm, ja menő! Öm, van is nálam egy kis minta amit..."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
-msgid ""
-"...i'm going to leave in my office for a bit, just to see what happens to it."
+msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
 msgstr "az irodámban fogok hagyni egy kicsit, hogy lássam mi történik vele."
 
 #. Key:	LiamJonesDiary2Part1
@@ -830,23 +829,15 @@ msgstr "Ez itt öm, Liam Jónás öm, napló#2"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
-msgid ""
-"just do that Hawthorne, just let them know that I've misplaced it, and I "
-"need another one"
-msgstr ""
-"csak tedd meg azt Hawthorne, csak mond meg nekik hogy rossz helyre raktam "
-"raktam és kéne egy másik"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "csak tedd meg azt Hawthorne, csak mond meg nekik hogy rossz helyre raktam raktam és kéne egy másik"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
-msgid ""
-"or you could even say I need a spare badge, another one... I'm not sure "
-"where it went"
-msgstr ""
-"vagy azt is mondhatnád hogy kell egy tartalék kártya, egy másik... nemtudom "
-"hová tűnhetett"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "vagy azt is mondhatnád hogy kell egy tartalék kártya, egy másik... nemtudom hová tűnhetett"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -860,8 +851,7 @@ msgstr "... a lényeg az hogy kell egy új kártya"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr ""
-"úgyhogy ha tudnál egy emailt küldeni a beléptető kártyás embereknek Hawthone"
+msgstr "úgyhogy ha tudnál egy emailt küldeni a beléptető kártyás embereknek Hawthone"
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -874,86 +864,64 @@ msgstr "és öh kerítsél egy új kártyát nekem az jó volna. OK."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
-msgid ""
-"The samples are doing OK, we're just observing them now to see what happens"
-msgstr ""
-"A minták jól megvannak, pillanatnyilag csak megfigyeljük őket hogy lássuk mi "
-"történik"
+msgid "The samples are doing OK, we're just observing them now to see what happens"
+msgstr "A minták jól megvannak, pillanatnyilag csak megfigyeljük őket hogy lássuk mi történik"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
-msgid ""
-"The head office have sent for some samples so we're going to ship some over "
-"there too in some boxes"
-msgstr ""
-"Az irodai vezetőség küldött némi mintáért úgyhogy át is szállítunk nekik egy "
-"keveset néhány dobozban."
+msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr "Az irodai vezetőség küldött némi mintáért úgyhogy át is szállítunk nekik egy keveset néhány dobozban."
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr ""
-"És még, Hawthorne, amikor van rá esélyed, elhagytam a beléptető kártyámat..."
+msgstr "És még, Hawthorne, amikor van rá esélyed, elhagytam a beléptető kártyámat..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr ""
-"de amikor a biztonsági emberekkel beszélsz mond csak azt hogy... mondjuk ö..."
+msgstr "de amikor a biztonsági emberekkel beszélsz mond csak azt hogy... mondjuk ö..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
-msgid ""
-"I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
 msgstr "Nem tudom, valaki- nem, nem, nem valaki elvette az rossz indok"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
-msgid ""
-"A fox, snuck in, and took my badge, and um, now I can't get into the main "
-"facility"
-msgstr ""
-"Egy róka, besurrant, és elvitte a kártyámat, és öm, így nem tudok bejutni a "
-"fő épületbe"
+msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr "Egy róka, besurrant, és elvitte a kártyámat, és öm, így nem tudok bejutni a fő épületbe"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
-msgid ""
-"Um so, if you could just tell them that... because last time it happened, "
-msgstr ""
-"Ö úgyhogy ha azt megtudnád nekik mondani.. mert legutóbb amikor ez történt,"
+msgid "Um so, if you could just tell them that... because last time it happened, "
+msgstr "Ö úgyhogy ha azt megtudnád nekik mondani.. mert legutóbb amikor ez történt,"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
-msgid ""
-"they said it was my fault and they were a little bit reluctant about "
-"replacing it so"
+msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
 msgstr "azt mondták hogy az én hibám és egy kicsit vonakodtak hogy lecseréljék"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
-msgid ""
-"This is Liam Jones, the live sample security engineer on-site - we've just "
-"admitted"
-msgstr ""
-"Ez itt Liam Jónás, a helyszíni élőminta biztonsági mérnök - és épp most "
-"vettük fel"
+msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr "Ez itt Liam Jónás, a helyszíni élőminta biztonsági mérnök - és épp most vettük fel"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -973,11 +941,8 @@ msgstr "és megtámadott egy tagot a személyzetből úgyhogy "
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
-msgid ""
-"under observation and probably move him off the island as soon as we can."
-msgstr ""
-"Megfigyelés alatt fogjuk tartani és lehet hogy elvisszük a sziketről amint "
-"csak tudjuk."
+msgid "under observation and probably move him off the island as soon as we can."
+msgstr "Megfigyelés alatt fogjuk tartani és lehet hogy elvisszük a sziketről amint csak tudjuk."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1032,12 +997,8 @@ msgstr "Segíts lefordítani!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid ""
-"Temporary Ending\r\n"
-"More Content Soon!"
-msgstr ""
-"Ideiglenes befejezés\r\n"
-"További részek nemsokára!"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "Ideiglenes befejezés\r\nTovábbi részek nemsokára!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1092,10 +1053,8 @@ msgstr "Nekem megfelel. Na menjünk."
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John01"
-msgid ""
-"I'm glad you're alive, I was beginning to think we wouldn't speak again."
-msgstr ""
-"Örülök hogy életben vagy. Már azt hittem hogy nem tudunk többet beszélni."
+msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
+msgstr "Örülök hogy életben vagy. Már azt hittem hogy nem tudunk többet beszélni."
 
 #. Key:	John02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1109,8 +1068,7 @@ msgstr "Volt egy üzenet a rádión... egy férfinek hangzott"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John03"
 msgid "I think he said professor? Trying to override the curfew message"
-msgstr ""
-"Asszem azt mondta professzor? Probálta felülírni a kijárási tilalom üzenetet"
+msgstr "Asszem azt mondta professzor? Probálta felülírni a kijárási tilalom üzenetet"
 
 #. Key:	John04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1123,12 +1081,8 @@ msgstr "Elhagytam a kunyhót hogy segítsek"
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John05"
-msgid ""
-"I followed the river for a while towards Wentworth, and found this abandoned "
-"guard post"
-msgstr ""
-"Követtem a folyót egy darabig Wentworth felé, és rátaláltam erre az "
-"elhagyott őrhelyre"
+msgid "I followed the river for a while towards Wentworth, and found this abandoned guard post"
+msgstr "Követtem a folyót egy darabig Wentworth felé, és rátaláltam erre az elhagyott őrhelyre"
 
 #. Key:	John06
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1148,11 +1102,8 @@ msgstr "Muszály küldenünk egy SOS-t a szigetről, hogy mit csinál Arque itt"
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John08"
-msgid ""
-"If we have any hope of getting help, we need to stop that curfew message"
-msgstr ""
-"Ha van bármi reményünk a segítségre akkor meg kell állítanunk azt a zavaró "
-"jelet"
+msgid "If we have any hope of getting help, we need to stop that curfew message"
+msgstr "Ha van bármi reményünk a segítségre akkor meg kell állítanunk azt a zavaró jelet"
 
 #. Key:	John09
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1179,23 +1130,15 @@ msgstr "Azt hittem hogy már leszerelték"
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John12"
-msgid ""
-"Someone will be watching - you need to get away from Arque buildings. It "
-"isn't safe."
-msgstr ""
-"Valaki figyelni fog - távol kell maradnod az Arque Épületeitől. nem "
-"biztonságos."
+msgid "Someone will be watching - you need to get away from Arque buildings. It isn't safe."
+msgstr "Valaki figyelni fog - távol kell maradnod az Arque Épületeitől. nem biztonságos."
 
 #. Key:	John13
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John13"
-msgid ""
-"They're all heavily armed. Between them and the infected you need to be "
-"extremely careful not to attract attention."
-msgstr ""
-"Mind komolyan felvan fegyverkezve. köztük és a fertőzöttek közt nagyon oda "
-"kell figyelned hogy ne keltsd fel a figyelmet."
+msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
+msgstr "Mind komolyan felvan fegyverkezve. köztük és a fertőzöttek közt nagyon oda kell figyelned hogy ne keltsd fel a figyelmet."
 
 #. Key:	John14
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1209,9 +1152,7 @@ msgstr "Én megsemmisítem ezt az állomást és megyek tovább."
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John15"
 msgid "Pick up the portable radio on the table. I'll try to make contact soon."
-msgstr ""
-"Vedd fel a hordozható rádiót az asztalról. Hamarosan megpróbállak majd "
-"elérni."
+msgstr "Vedd fel a hordozható rádiót az asztalról. Hamarosan megpróbállak majd elérni."
 
 #. Key:	JohnNag01
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1329,99 +1270,71 @@ msgstr "Legyen szíves tovább haladni és legyen szép napja."
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
-msgid ""
-"The private security firm Sokol-Glockner has been criticised for the second "
-"time this year"
+msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
 msgstr "A magán biztonsági Sokol-Glockner céget idén másodjára érte kritika"
 
 #. Key:	NewsReport02
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport02"
-msgid ""
-"with its heavy handed use of live ammunition in its protective assignments."
+msgid "with its heavy handed use of live ammunition in its protective assignments."
 msgstr "a biztonsági részlegeik esetlen éles lőszer kezelése miatt."
 
 #. Key:	NewsReport03
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
-msgid ""
-"The company’s policy states that live ammunition is to be used on all "
-"assignments,"
-msgstr ""
-"A cég irányelvei közt szerepel hogy minden részlegen élő lőszert kell "
-"használni,"
+msgid "The company’s policy states that live ammunition is to be used on all assignments,"
+msgstr "A cég irányelvei közt szerepel hogy minden részlegen élő lőszert kell használni,"
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
-msgid ""
-"however campaigners say this is unnecessary, and incites the violence they "
-"wish to avoid."
-msgstr ""
-"azonban a tüntetők azt mondják hogy ez fölösleges, és csak erőszakot kelt "
-"amit el akarnak kerülni."
+msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
+msgstr "azonban a tüntetők azt mondják hogy ez fölösleges, és csak erőszakot kelt amit el akarnak kerülni."
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
-msgid ""
-"The company declined to comment when asked, but others say it’s an accident "
-"waiting to happen."
-msgstr ""
-"A cég nem szándékozott nyilatkozni amikor kérdezték, de egyesek mondják hogy "
-"bármikor bekövetkezhet egy baleset."
+msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
+msgstr "A cég nem szándékozott nyilatkozni amikor kérdezték, de egyesek mondják hogy bármikor bekövetkezhet egy baleset."
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
-msgid ""
-"The government contractor is responsible for a number of overseas operations,"
-msgstr ""
-"Az állami megrendeléseket is végrehajtó vállalkozás felelős több "
-"tengerentúli műveletért is,"
+msgid "The government contractor is responsible for a number of overseas operations,"
+msgstr "Az állami megrendeléseket is végrehajtó vállalkozás felelős több tengerentúli műveletért is,"
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
-msgid ""
-"which sources say is why the government is not commenting on this matter."
-msgstr ""
-"egyes források szerint az állam pont emiatt nem szól hozzá a történtekhez."
+msgid "which sources say is why the government is not commenting on this matter."
+msgstr "egyes források szerint az állam pont emiatt nem szól hozzá a történtekhez."
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
-msgid ""
-"Sokol-Glockner entered headlines earlier this year for its hand in the "
-"accidental shooting of"
-msgstr ""
-"Sokol-Glockner idén már korábban is a címlapokon szerepelt amikor véletlenül "
-"meglőttek"
+msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
+msgstr "Sokol-Glockner idén már korábban is a címlapokon szerepelt amikor véletlenül meglőttek"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
-msgid ""
-"an Arque Corporation employee on one of its offshore drilling platforms."
+msgid "an Arque Corporation employee on one of its offshore drilling platforms."
 msgstr "egy Arque alkalmazottat a cég egyik tengeri fúrótornyán."
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
-msgid ""
-"The 37 year old employee emerged on a beach after evidently swimming from "
-"the platform,"
-msgstr ""
-"A 37 éves alkalmazott sikeresen partot ért miután kiúszott a toronyról,"
+msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
+msgstr "A 37 éves alkalmazott sikeresen partot ért miután kiúszott a toronyról,"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1434,20 +1347,15 @@ msgstr "miközben később a doktorok megállapították a golyót a lábában."
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
-msgid ""
-"Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
 msgstr "Sokol-Glockner elismerte hogy a golyó az ő fegyverükből van,"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport13"
-msgid ""
-"but refused to comment on the case. It insisted it was working with the "
-"relevant authorities."
-msgstr ""
-"de nem szándékozott hozzászólni az ügyhöz. Bár megjegyezte hogy a megfelelő "
-"hatóságokkal dolgozik."
+msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
+msgstr "de nem szándékozott hozzászólni az ügyhöz. Bár megjegyezte hogy a megfelelő hatóságokkal dolgozik."
 
 #. Key:	NewsReport14
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1467,23 +1375,15 @@ msgstr "de a mai nap legalább egy kis nyugalmat hoz az északiaknak."
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
-msgid ""
-"Meteorologists are advising everyone in the area that the worst of the storm "
-"is yet to come,"
-msgstr ""
-"A meterológusok mindenkinek javasolják hogy a vihar legrosszabb része még "
-"csak most jön,"
+msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
+msgstr "A meterológusok mindenkinek javasolják hogy a vihar legrosszabb része még csak most jön,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
-msgid ""
-"and they should prepare by filling bathtubs with water, and stocking food to "
-"last for at least two days."
-msgstr ""
-"és legalább 2 napra elegendő vizet és hidegélemet kéne raktározniuk.\n"
-" "
+msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
+msgstr "és legalább 2 napra elegendő vizet és hidegélemet kéne raktározniuk.\n "
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1491,6 +1391,195 @@ msgstr ""
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
 msgstr "Ennyi lenne tőlem, csatlakozzon hozzánk holnap a reggeli műsorba."
+
+#. Key:	Radio01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio01a"
+msgid "It's good to hear from you again. You really stirred them up back there."
+msgstr ""
+
+#. Key:	Radio01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio01b"
+msgid "Keep the radio on. We've got work to do."
+msgstr ""
+
+#. Key:	Radio02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio02a"
+msgid "Arque security forces continue to canvas the island."
+msgstr ""
+
+#. Key:	Radio02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio02b"
+msgid "They're the shoot first, ask questions later type."
+msgstr ""
+
+#. Key:	Radio02c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio02c"
+msgid "Stay away from them."
+msgstr ""
+
+#. Key:	Radio03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio03a"
+msgid "There's a curfew in effect for everyone on the island..."
+msgstr ""
+
+#. Key:	Radio03b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio03b"
+msgid "...at least, those that aren't infected."
+msgstr ""
+
+#. Key:	Radio03c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio03c"
+msgid "This has given THEM a license to kill on sight."
+msgstr ""
+
+#. Key:	Radio04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio04a"
+msgid "If we want to contact the outside world,"
+msgstr ""
+
+#. Key:	Radio04b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio04b"
+msgid "we need to stop Arque's curfew message and disable their signal jammer."
+msgstr ""
+
+#. Key:	Radio05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio05a"
+msgid "Arque have been broadcasting from an old"
+msgstr ""
+
+#. Key:	Radio05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio05b"
+msgid "satellite station on the other side of the island."
+msgstr ""
+
+#. Key:	Radio05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio05c"
+msgid "We need to get there, and stop it."
+msgstr ""
+
+#. Key:	Radio07a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio07a"
+msgid "Arque evacuated their office facilities when the infection first broke out."
+msgstr ""
+
+#. Key:	Radio07b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio07b"
+msgid "They managed to contain it for the first few hours... but it got out."
+msgstr ""
+
+#. Key:	Radio08a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio08a"
+msgid "Arque brought in their security force Sokol Glockner to deal with the outbreak."
+msgstr ""
+
+#. Key:	Radio08b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio08b"
+msgid "The next few hours were a disaster."
+msgstr ""
+
+#. Key:	Radio09a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio09a"
+msgid "With this infection people don't stay dead for long."
+msgstr ""
+
+#. Key:	Radio09b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio09b"
+msgid "Sokol and Arque killed many... but didn't count on them coming back."
+msgstr ""
+
+#. Key:	Radio10a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio10a"
+msgid "Sokol forces formed death squads, canvassing the island,"
+msgstr ""
+
+#. Key:	Radio10b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio10b"
+msgid "killing anything that moved. Shoot first, ask questions later."
+msgstr ""
+
+#. Key:	Radio11a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio11a"
+msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
+msgstr ""
+
+#. Key:	Radio11b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio11b"
+msgid "It looks like they're sending over a team to the facility YOU just left."
+msgstr ""
+
+#. Key:	Radio12a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio12a"
+msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
+msgstr ""
+
+#. Key:	Radio14a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio14a"
+msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
+msgstr ""
+
+#. Key:	Radio14b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio14b"
+msgid "Be prepared for ANYTHING."
+msgstr ""
+
+#. Key:	Radio15a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,Radio15a"
+msgid "They stationed at least three guards where you are, so stay alert."
+msgstr ""
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1503,24 +1592,8 @@ msgstr "TÖLTÉS"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to "
-"Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"We are a very small team (3 people!) building Estranged in our spare time, "
-"and we will be continually updating the game with new content.\r\n"
-"\r\n"
-"If you have any feedback for us, we are always available on the Steam forums "
-"or via the in-game feedback!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
 msgstr ""
-"Üdvözlünk az Estranged: II. részében! Ez a fejlesztés alatt lévő folytatása "
-"az első résznek. ami szintén elérhető Steam-en.\r\n"
-"\r\n"
-"Nagyon kis csapat vagyunk. (3 ember!) A szabadidőnkben fejlesztjük a "
-"játékot, és folyamatosan frissíteni fogjuk új dolgokkal.\r\n"
-"\r\n"
-"Ha van bármi visszajelzésed számunkra, mindig elérhetőek vagyunk a Steam "
-"fórumokon  vagy a játékon belüli visszajelzésen keresztül!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1556,3 +1629,4 @@ msgstr "PONTOK"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "IDŐ"
+
