@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-09-03 18:24\n"
-"PO-Revision-Date: 2018-09-03 18:24\n"
+"POT-Creation-Date: 2018-09-03 18:30\n"
+"PO-Revision-Date: 2018-09-03 18:30\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgstr "Spel opgeslagen"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr ""
+msgstr "Interactie"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -249,7 +249,7 @@ msgstr "Graphics"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr ""
+msgstr "Gidsen"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1397,105 +1397,105 @@ msgstr "Hiermee sluiten we af. Kijk morgen om 7 uur weer voor het ochtendnieuws.
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01a"
 msgid "It's good to hear from you again. You really stirred them up back there."
-msgstr ""
+msgstr "Goed om weer van je te horen. Je hebt ze daar even flink opgeschud."
 
 #. Key:	Radio01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01b"
 msgid "Keep the radio on. We've got work to do."
-msgstr ""
+msgstr "Houd de radio aan. We hebben werk te doen."
 
 #. Key:	Radio02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02a"
 msgid "Arque security forces continue to canvas the island."
-msgstr ""
+msgstr "Het eiland is vergeven van Arque-veiligheidstroepen."
 
 #. Key:	Radio02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02b"
 msgid "They're the shoot first, ask questions later type."
-msgstr ""
+msgstr "Ze zijn het soort dat eerst schiet en vervolgens pas vragen stelt."
 
 #. Key:	Radio02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02c"
 msgid "Stay away from them."
-msgstr ""
+msgstr "Blijf bij ze uit de buurt."
 
 #. Key:	Radio03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03a"
 msgid "There's a curfew in effect for everyone on the island..."
-msgstr ""
+msgstr "Er is een avondklok van kracht voor iedereen op het eiland..."
 
 #. Key:	Radio03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03b"
 msgid "...at least, those that aren't infected."
-msgstr ""
+msgstr "…tenminste, voor degenen die niet geïnfecteerd zijn."
 
 #. Key:	Radio03c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03c"
 msgid "This has given THEM a license to kill on sight."
-msgstr ""
+msgstr "Nu hebben ZIJ toestemming om direct te doden."
 
 #. Key:	Radio04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04a"
 msgid "If we want to contact the outside world,"
-msgstr ""
+msgstr "Als we contact met de buitenwereld willen opnemen"
 
 #. Key:	Radio04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04b"
 msgid "we need to stop Arque's curfew message and disable their signal jammer."
-msgstr ""
+msgstr "moeten we het avondklokbericht van Arque stoppen en hun stoorzender uitschakelen."
 
 #. Key:	Radio05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05a"
 msgid "Arque have been broadcasting from an old"
-msgstr ""
+msgstr "Arque zendt uit vanaf een oud satellietstation"
 
 #. Key:	Radio05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05b"
 msgid "satellite station on the other side of the island."
-msgstr ""
+msgstr "aan de andere kant van het eiland."
 
 #. Key:	Radio05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05c"
 msgid "We need to get there, and stop it."
-msgstr ""
+msgstr "We moeten daarheen en het stoppen."
 
 #. Key:	Radio07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07a"
 msgid "Arque evacuated their office facilities when the infection first broke out."
-msgstr ""
+msgstr "Arque heeft hun kantoorfaciliteiten geëvacueerd toen de infectie uitbrak."
 
 #. Key:	Radio07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07b"
 msgid "They managed to contain it for the first few hours... but it got out."
-msgstr ""
+msgstr "Ze hadden het de eerste paar uur onder controle... maar het ging mis."
 
 #. Key:	Radio08a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1509,77 +1509,77 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08b"
 msgid "The next few hours were a disaster."
-msgstr ""
+msgstr "De uren erna waren een ramp."
 
 #. Key:	Radio09a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09a"
 msgid "With this infection people don't stay dead for long."
-msgstr ""
+msgstr "Met deze infectie blijven mensen niet lang dood."
 
 #. Key:	Radio09b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09b"
 msgid "Sokol and Arque killed many... but didn't count on them coming back."
-msgstr ""
+msgstr "Sokol en Arque hebben er veel gedood... maar ze rekenden er niet op dat ze terugkwamen."
 
 #. Key:	Radio10a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10a"
 msgid "Sokol forces formed death squads, canvassing the island,"
-msgstr ""
+msgstr "Sokol-troepen hebben overal op het eiland doodseskaders gevormd"
 
 #. Key:	Radio10b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10b"
 msgid "killing anything that moved. Shoot first, ask questions later."
-msgstr ""
+msgstr "die alles doden wat beweegt. Ze schieten eerst en stellen vervolgens pas vragen."
 
 #. Key:	Radio11a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11a"
 msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
-msgstr ""
+msgstr "Even dat je het weet; ik hoor gepraat op de radiokanalen van de veiligheidstroepen."
 
 #. Key:	Radio11b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11b"
 msgid "It looks like they're sending over a team to the facility YOU just left."
-msgstr ""
+msgstr "Het lijkt erop dat ze een team sturen naar de faciliteit die JIJ net hebt verlaten."
 
 #. Key:	Radio12a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio12a"
 msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
-msgstr ""
+msgstr "De geïnfecteerden gedijen in vochtige en donkere gebieden. Blijf in beweging en blijf alert."
 
 #. Key:	Radio14a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14a"
 msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
-msgstr ""
+msgstr "De radiogesprekken zijn hervat. Het lijkt erop dat ze verderop een team hebben gestationeerd."
 
 #. Key:	Radio14b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14b"
 msgid "Be prepared for ANYTHING."
-msgstr ""
+msgstr "Wees voorbereid op ALLES."
 
 #. Key:	Radio15a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio15a"
 msgid "They stationed at least three guards where you are, so stay alert."
-msgstr ""
+msgstr "Ze hebben nog minstens drie bewakers gestationeerd op jouw locatie, dus blijf alert."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1593,7 +1593,7 @@ msgstr "LADEN"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr ""
+msgstr "Welkom bij Estranged: Act II! Dit is het vervolg in ontwikkeling op Estranged: Act I, dat ook beschikbaar is op Steam.\r\n\r\nAct II is een vrijetijdsproject (voornamelijk ontwikkeld door één persoon!) met de hulp van een geluidsontwerper, bijdragen van een levelontwerper en communityvertalers en -testers.\r\n\r\nAls je feedback voor ons hebt zijn we altijd beschikbaar op de Steam-fora, via de feedbackoptie in het spel of op discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
