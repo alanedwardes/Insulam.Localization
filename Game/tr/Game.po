@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-09-03 18:30\n"
-"PO-Revision-Date: 2018-09-03 18:30\n"
+"POT-Creation-Date: 2018-09-07 21:45\n"
+"PO-Revision-Date: 2018-09-07 21:45\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -411,6 +411,13 @@ msgstr "Çatlak"
 msgctxt "Menus,ButtonTextures"
 msgid "Textures"
 msgstr "Dokular"
+
+#. Key:	ButtonViewDistance
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonViewDistance"
+msgid "View Distance"
+msgstr ""
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
