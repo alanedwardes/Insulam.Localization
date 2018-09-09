@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-09-08 15:54\n"
-"PO-Revision-Date: 2018-09-08 15:54\n"
+"POT-Creation-Date: 2018-09-09 12:31\n"
+"PO-Revision-Date: 2018-09-09 12:31\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -417,7 +417,7 @@ msgstr "Texturen"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr ""
+msgstr "Gezichtsveld"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1509,7 +1509,7 @@ msgstr "Ze hadden het de eerste paar uur onder controle... maar het ging mis."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08a"
 msgid "Arque brought in their security force Sokol-Glockner to deal with the outbreak."
-msgstr ""
+msgstr "Arque haalde hun beveiligingsbedrijf Sokol-Glockner erbij om de uitbraak af te handelen."
 
 #. Key:	Radio08b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
