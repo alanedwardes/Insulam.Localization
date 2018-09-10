@@ -1,17 +1,18 @@
-﻿# Game Bulgarian translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2018-09-09 12:31\n"
-"PO-Revision-Date: 2018-09-09 12:31\n"
+"PO-Revision-Date: 2018-09-10 22:16+0100\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -46,14 +47,14 @@ msgstr "Избягай"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr ""
+msgstr "Играта е запазена"
 
 #. Key:	HintInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr ""
+msgstr "Взаимодействай"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -67,7 +68,7 @@ msgstr "Скочи"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintLoading"
 msgid "Loading"
-msgstr ""
+msgstr "Зареждане"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -137,7 +138,7 @@ msgstr "Приложи промените"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr ""
+msgstr "Аркада"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -158,21 +159,21 @@ msgstr "Назад"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr ""
+msgstr "Глава 1"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr ""
+msgstr "Глава 2"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr ""
+msgstr "Глава 3"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -249,21 +250,21 @@ msgstr "Графики"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr ""
+msgstr "Ръководства"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr ""
+msgstr "Ордата в склада"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadGame"
 msgid "Load Game"
-msgstr ""
+msgstr "Зареди игра"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -305,14 +306,14 @@ msgstr "Възстановете играта"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveGame"
 msgid "Save Game"
-msgstr ""
+msgstr "Запази играта"
 
 #. Key:	ButtonSaveLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveLoad"
 msgid "Save / Load"
-msgstr ""
+msgstr "Запази / Зареди"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -417,7 +418,7 @@ msgstr "Текстури"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr ""
+msgstr "Полезрение"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -459,7 +460,7 @@ msgstr "Изключване на замъгляването на движени
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr ""
+msgstr "Изключване на изкривяване на лещата"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -620,7 +621,7 @@ msgstr "Тези опции са експериментални и могат д
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuArcade"
 msgid "ARCADE"
-msgstr ""
+msgstr "АРКАДА"
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -655,7 +656,7 @@ msgstr "ГРАФИКИ"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "ЗАРЕДИ ИГРА"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -676,7 +677,7 @@ msgstr "ОПЦИИ"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr ""
+msgstr "ЗАПАЗИ / ЗАРЕДИ"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1004,8 +1005,12 @@ msgstr "Помогнете и Вие с превода!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
 msgstr ""
+"Временен завършване на играта.\r\n"
+"Повече съдържание очаквайте скоро!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1257,21 +1262,21 @@ msgstr "Те са там навън."
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Welcome to Arque East. Please stand by for biological scan."
-msgstr ""
+msgstr "Добре дошли в Арк Ийст. Моля, бъдете готови за биологично сканиране."
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan02"
 msgid "Biological scan completed. No foreign material found."
-msgstr ""
+msgstr "Биологичното сканиране е завършено. Не е намерена чужда материя."
 
 #. Key:	LaserScan03
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr ""
+msgstr "Моля, продължете и приятен ден."
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1404,203 +1409,213 @@ msgstr "Това е всичко от мен, бъдете със нас и ут
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01a"
 msgid "It's good to hear from you again. You really stirred them up back there."
-msgstr ""
+msgstr "Радвам се да те чуя отново. Наистина разбуди духовете там назад."
 
 #. Key:	Radio01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01b"
 msgid "Keep the radio on. We've got work to do."
-msgstr ""
+msgstr "Дръж радиото включено. Имаме работа за вършене."
 
 #. Key:	Radio02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02a"
 msgid "Arque security forces continue to canvas the island."
-msgstr ""
+msgstr "Силите за сигурност на Арк продължават да патрулират на острова."
 
 #. Key:	Radio02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02b"
 msgid "They're the shoot first, ask questions later type."
-msgstr ""
+msgstr "Те са от типа първо стреляй, задавай въпросите по-късно."
 
 #. Key:	Radio02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02c"
 msgid "Stay away from them."
-msgstr ""
+msgstr "Стой далеч от тях."
 
 #. Key:	Radio03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03a"
 msgid "There's a curfew in effect for everyone on the island..."
-msgstr ""
+msgstr "Има вечерен час в сила за всички на острова..."
 
 #. Key:	Radio03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03b"
 msgid "...at least, those that aren't infected."
-msgstr ""
+msgstr "поне за тези, които не са заразени."
 
 #. Key:	Radio03c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03c"
 msgid "This has given THEM a license to kill on sight."
-msgstr ""
+msgstr "Това им дава позволение да стрелят на място."
 
 #. Key:	Radio04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04a"
 msgid "If we want to contact the outside world,"
-msgstr ""
+msgstr "Ако искаме да се свържем с външния свят,"
 
 #. Key:	Radio04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04b"
 msgid "we need to stop Arque's curfew message and disable their signal jammer."
-msgstr ""
+msgstr "трябва да спрем съобщението за вечерния час на Арк и да обезвредим заглушителя им."
 
 #. Key:	Radio05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05a"
 msgid "Arque have been broadcasting from an old"
-msgstr ""
+msgstr "Арк радиопредава от стара"
 
 #. Key:	Radio05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05b"
 msgid "satellite station on the other side of the island."
-msgstr ""
+msgstr "сателитна станция от другата страна на острова."
 
 #. Key:	Radio05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05c"
 msgid "We need to get there, and stop it."
-msgstr ""
+msgstr "Трябва да стигнем до там и да го спрем."
 
 #. Key:	Radio07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07a"
 msgid "Arque evacuated their office facilities when the infection first broke out."
-msgstr ""
+msgstr "Арк евакуира офисите си когато инфекцията избухна за първи път."
 
 #. Key:	Radio07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07b"
 msgid "They managed to contain it for the first few hours... but it got out."
-msgstr ""
+msgstr "Успяха да я задържат за първите няколко часа... но тя се разпространи."
 
 #. Key:	Radio08a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08a"
 msgid "Arque brought in their security force Sokol-Glockner to deal with the outbreak."
-msgstr ""
+msgstr "Арк внедри Сокол-Глокнер в силите си за сигурност, за да се справи с епидемията."
 
 #. Key:	Radio08b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08b"
 msgid "The next few hours were a disaster."
-msgstr ""
+msgstr "Следващите няколко часа бяха бедствие."
 
 #. Key:	Radio09a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09a"
 msgid "With this infection people don't stay dead for long."
-msgstr ""
+msgstr "С тази инфекция хората не остават мъртви за дълго."
 
 #. Key:	Radio09b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09b"
 msgid "Sokol and Arque killed many... but didn't count on them coming back."
-msgstr ""
+msgstr "Сокол и Арк убиха много, но не разчитаха, че те ще се върнат."
 
 #. Key:	Radio10a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10a"
 msgid "Sokol forces formed death squads, canvassing the island,"
-msgstr ""
+msgstr "Частите за сигурност на Сокол сформира смъртоносни отряди, които да претърсват острова,"
 
 #. Key:	Radio10b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10b"
 msgid "killing anything that moved. Shoot first, ask questions later."
-msgstr ""
+msgstr "убивайки всичко, което се движи. Първо стреляй, задавай въпросите по-късно."
 
 #. Key:	Radio11a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11a"
 msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
-msgstr ""
+msgstr "Само да те предупредя, чувам разговори по радио каналите на частите за сигурност."
 
 #. Key:	Radio11b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11b"
 msgid "It looks like they're sending over a team to the facility YOU just left."
-msgstr ""
+msgstr "Изглежда, че изпращат екип до съоръжението, което току-що си напуснал."
 
 #. Key:	Radio12a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio12a"
 msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
-msgstr ""
+msgstr "Заразените процъфтяват във влажни и тъмни зони. Продължавай да вървиш и бъди нащрек."
 
 #. Key:	Radio14a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14a"
 msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
-msgstr ""
+msgstr "Разговорите по радиото се повишиха, изглежда са разположили екип някъде напред от теб."
 
 #. Key:	Radio14b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14b"
 msgid "Be prepared for ANYTHING."
-msgstr ""
+msgstr "Бъди подготвен за ВСИЧКО."
 
 #. Key:	Radio15a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio15a"
 msgid "They stationed at least three guards where you are, so stay alert."
-msgstr ""
+msgstr "Разположили са най-малко трима пазачи където си, така че бъди нащрек."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr ""
+msgstr "ЗАРЕЖДАНЕ"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
 msgstr ""
+"Добре дошли в Estranged: Act II! Това е продължение в процес на разработка на Estranged: Act I, която също може да намерите в Steam.\n"
+"\n"
+"Act II е проект, който се разработва през свободното време (главно от един човек!) с помощта на звуков дизайнер, хора, които допринасят за дизайна на нивата, общество от преводачи и хора, които тестват.\n"
+"\n"
+"Ако имате някакви отзиви, ние сме винаги на разположение във форума на Steam, чрез прозореца за отзиви в играта или на discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1636,4 +1651,3 @@ msgstr "ТОЧКИ"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "ВРЕМЕ"
-
