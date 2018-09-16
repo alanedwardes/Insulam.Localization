@@ -1,17 +1,18 @@
-﻿# Game Hungarian translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2018-09-09 12:31\n"
-"PO-Revision-Date: 2018-09-09 12:31\n"
+"PO-Revision-Date: 2018-09-13 16:48+0200\n"
 "Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -53,7 +54,7 @@ msgstr "Játék mentve"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr ""
+msgstr "Kezel"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -249,7 +250,7 @@ msgstr "Grafika"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr ""
+msgstr "Útmutatók"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -417,7 +418,7 @@ msgstr "Textúrák"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr ""
+msgstr "Látó távolság"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -522,7 +523,7 @@ msgstr "Kultúra"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeEpic"
 msgid "Epic"
-msgstr "Baszó"
+msgstr "Csuda"
 
 #. Key:	DropdownItemQualityModeHigh
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -697,7 +698,7 @@ msgstr "HANG"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,OptionsButton"
 msgid "Options"
-msgstr "BEÁLLÍTÁSOK"
+msgstr "Beállítások"
 
 #. Key:	SliderControllerSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -802,7 +803,7 @@ msgstr "Ő ez itt-m..., Liam Jónás, hang napló , #1, őmm"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Éppenhogy el kezdtük tanulmányozni az algát, és hát"
+msgstr "Éppen hogy el kezdtük tanulmányozni az algát, és hát"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -879,7 +880,7 @@ msgstr "A minták jól megvannak, pillanatnyilag csak megfigyeljük őket hogy l
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Az irodai vezetőség küldött némi mintáért úgyhogy át is szállítunk nekik egy keveset néhány dobozban."
+msgstr "Az irodai vezetőség küldött némi mintáért úgyhogy át is szállítunk nekik egy keveset néhány dobozban"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -914,7 +915,7 @@ msgstr "Egy róka, besurrant, és elvitte a kártyámat, és öm, így nem tudok
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Ö úgyhogy ha azt megtudnád nekik mondani.. mert legutóbb amikor ez történt,"
+msgstr "Ö úgyhogy ha azt megtudnád nekik mondani.. mert legutóbb amikor ez történt, "
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -942,14 +943,14 @@ msgstr "Dr Prezella Frigyest a megfigyelő szobába, huh, erőszakossá vált"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "és megtámadott egy tagot a személyzetből úgyhogy "
+msgstr "és megtámadott egy tagot a személyzetből úgyhogy"
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "Megfigyelés alatt fogjuk tartani és lehet hogy elvisszük a sziketről amint csak tudjuk."
+msgstr "megfigyelés alatt fogjuk tartani és lehet hogy elvisszük a szigetről amint csak tudjuk."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1004,8 +1005,12 @@ msgstr "Segíts lefordítani!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Ideiglenes befejezés\r\nTovábbi részek nemsokára!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Ideiglenes befejezés\r\n"
+"További részek nemsokára!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1390,7 +1395,7 @@ msgstr "A meterológusok mindenkinek javasolják hogy a vihar legrosszabb része
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "és legalább 2 napra elegendő vizet és hidegélemet kéne raktározniuk.\n "
+msgstr "és legalább 2 napra elegendő vizet és hidegélemet kéne raktározniuk."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1404,168 +1409,168 @@ msgstr "Ennyi lenne tőlem, csatlakozzon hozzánk holnap a reggeli műsorba."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01a"
 msgid "It's good to hear from you again. You really stirred them up back there."
-msgstr ""
+msgstr "Jó felőled hallani újra. rendesen megkavartad ott hátul őket."
 
 #. Key:	Radio01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01b"
 msgid "Keep the radio on. We've got work to do."
-msgstr ""
+msgstr "Hagyd a rádiót bekapcsolva. Van még mit csinálnunk."
 
 #. Key:	Radio02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02a"
 msgid "Arque security forces continue to canvas the island."
-msgstr ""
+msgstr "Arque biztonsági erői folyatják a sziget átnézését."
 
 #. Key:	Radio02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02b"
 msgid "They're the shoot first, ask questions later type."
-msgstr ""
+msgstr "Ők elöbb lőnek aztán kérdeznek."
 
 #. Key:	Radio02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02c"
 msgid "Stay away from them."
-msgstr ""
+msgstr "Maradj távol tőlük."
 
 #. Key:	Radio03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03a"
 msgid "There's a curfew in effect for everyone on the island..."
-msgstr ""
+msgstr "Kijárási tilalom van mindenkinek a szigeten..."
 
 #. Key:	Radio03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03b"
 msgid "...at least, those that aren't infected."
-msgstr ""
+msgstr "...azaz legalábbis azoknak akik nem fertőzöttek."
 
 #. Key:	Radio03c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03c"
 msgid "This has given THEM a license to kill on sight."
-msgstr ""
+msgstr "Ez megengedi nekik hogy a helyszínen üljenek."
 
 #. Key:	Radio04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04a"
 msgid "If we want to contact the outside world,"
-msgstr ""
+msgstr "Ha kapcsolatot akarunk teremteni a külvilággal,"
 
 #. Key:	Radio04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04b"
 msgid "we need to stop Arque's curfew message and disable their signal jammer."
-msgstr ""
+msgstr "meg kell állítanunk Arque kijárási tilalom üzenetét meg a jelzavaróját."
 
 #. Key:	Radio05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05a"
 msgid "Arque have been broadcasting from an old"
-msgstr ""
+msgstr "Arque sugároz egy régi"
 
 #. Key:	Radio05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05b"
 msgid "satellite station on the other side of the island."
-msgstr ""
+msgstr "műhold állomásról a sziget másik végéről."
 
 #. Key:	Radio05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05c"
 msgid "We need to get there, and stop it."
-msgstr ""
+msgstr "Oda kell mennünk, és meg kell hogy állítsuk."
 
 #. Key:	Radio07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07a"
 msgid "Arque evacuated their office facilities when the infection first broke out."
-msgstr ""
+msgstr "Arque evaquálta az irodáit amikor a fertőzés először kitört."
 
 #. Key:	Radio07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07b"
 msgid "They managed to contain it for the first few hours... but it got out."
-msgstr ""
+msgstr "Az első néhány órában még sikerült féken tartaniuk... de végül kijutott."
 
 #. Key:	Radio08a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08a"
 msgid "Arque brought in their security force Sokol-Glockner to deal with the outbreak."
-msgstr ""
+msgstr "Arque kirendelte a biztonsági erőiket Sokol-Glockner hogy elintézzék a kitörést."
 
 #. Key:	Radio08b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08b"
 msgid "The next few hours were a disaster."
-msgstr ""
+msgstr "A következő néhány óra egy katasztrófa volt."
 
 #. Key:	Radio09a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09a"
 msgid "With this infection people don't stay dead for long."
-msgstr ""
+msgstr "Ezzel a fertőzéssel az emberek nem maradnak sokáig halottak."
 
 #. Key:	Radio09b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09b"
 msgid "Sokol and Arque killed many... but didn't count on them coming back."
-msgstr ""
+msgstr "Sokol és Arque megölt egy csomót... de nem számolt azzal hogy visszajönnek."
 
 #. Key:	Radio10a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10a"
 msgid "Sokol forces formed death squads, canvassing the island,"
-msgstr ""
+msgstr "Sokol erői halál osztagokat csináltak, járva a szigetet,"
 
 #. Key:	Radio10b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10b"
 msgid "killing anything that moved. Shoot first, ask questions later."
-msgstr ""
+msgstr "mindent megölve ami mozgott. Előbb lőnek aztán kérdeznek."
 
 #. Key:	Radio11a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11a"
 msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
-msgstr ""
+msgstr "Csak egy figyelmeztetés, hallok némi aktivitást a biztonsági erők rádió csatornáin."
 
 #. Key:	Radio11b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11b"
 msgid "It looks like they're sending over a team to the facility YOU just left."
-msgstr ""
+msgstr "Úgy néz ki hogy küldenek egy csapatot az épületbe amit épp elhagytál."
 
 #. Key:	Radio12a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio12a"
 msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
-msgstr ""
+msgstr "A fertőzöttek a párás sötét részeken van. Maradj mozgásban, legyél figyelmes."
 
 #. Key:	Radio14a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1579,14 +1584,14 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14b"
 msgid "Be prepared for ANYTHING."
-msgstr ""
+msgstr "Légy felkészülve MINDENRE."
 
 #. Key:	Radio15a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio15a"
 msgid "They stationed at least three guards where you are, so stay alert."
-msgstr ""
+msgstr "Legalább három őrt állítottak oda ahonnan eljöttél, úgyhogy jó lesz vigyázni."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1598,9 +1603,20 @@ msgstr "TÖLTÉS"
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
+#, fuzzy
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
 msgstr ""
+"Üdvözlünk az Estranged: II. részében! Ez a fejlesztés alatt lévő folytatása az első résznek. ami szintén elérhető Steam-en.\r\n"
+"\r\n"
+"Nagyon kis csapat vagyunk. (3 ember!) A szabadidőnkben fejlesztjük a játékot, és folyamatosan frissíteni fogjuk új dolgokkal.\r\n"
+"\r\n"
+"Ha van bármi visszajelzésed számunkra, mindig elérhetőek vagyunk a Steam fórumokon  vagy a játékon belüli visszajelzésen keresztül!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1636,4 +1652,3 @@ msgstr "PONTOK"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "IDŐ"
-
