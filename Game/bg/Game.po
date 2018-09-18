@@ -1,18 +1,17 @@
+﻿# Game Bulgarian translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-09-09 12:31\n"
-"PO-Revision-Date: 2018-09-10 22:16+0100\n"
+"POT-Creation-Date: 2018-09-18 21:16\n"
+"PO-Revision-Date: 2018-09-18 21:16\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.1.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1005,12 +1004,8 @@ msgstr "Помогнете и Вие с превода!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid ""
-"Temporary Ending\r\n"
-"More Content Soon!"
-msgstr ""
-"Временен завършване на играта.\r\n"
-"Повече съдържание очаквайте скоро!"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "Временен завършване на играта.\r\nПовече съдържание очаквайте скоро!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1604,18 +1599,8 @@ msgstr "ЗАРЕЖДАНЕ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
-"\r\n"
-"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr ""
-"Добре дошли в Estranged: Act II! Това е продължение в процес на разработка на Estranged: Act I, която също може да намерите в Steam.\n"
-"\n"
-"Act II е проект, който се разработва през свободното време (главно от един човек!) с помощта на звуков дизайнер, хора, които допринасят за дизайна на нивата, общество от преводачи и хора, които тестват.\n"
-"\n"
-"Ако имате някакви отзиви, ние сме винаги на разположение във форума на Steam, чрез прозореца за отзиви в играта или на discord.gg/estranged!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr "Добре дошли в Estranged: Act II! Това е продължение в процес на разработка на Estranged: Act I, която също може да намерите в Steam.\n\nAct II е проект, който се разработва през свободното време (главно от един човек!) с помощта на звуков дизайнер, хора, които допринасят за дизайна на нивата, общество от преводачи и хора, които тестват.\n\nАко имате някакви отзиви, ние сме винаги на разположение във форума на Steam, чрез прозореца за отзиви в играта или на discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1651,3 +1636,4 @@ msgstr "ТОЧКИ"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "ВРЕМЕ"
+
