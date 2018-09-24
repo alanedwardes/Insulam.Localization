@@ -1,17 +1,18 @@
-﻿# Game Hungarian translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-09-18 21:16\n"
-"PO-Revision-Date: 2018-09-18 21:16\n"
+"POT-Creation-Date: 2018-09-09 12:31\n"
+"PO-Revision-Date: 2018-09-24 20:36+0200\n"
 "Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -501,7 +502,7 @@ msgstr "A képkockaszám 30FPS-en tartása a mobil eszközök hűvösebben tart�
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxVSync"
 msgid "VSync"
-msgstr ""
+msgstr "VSync"
 
 #. Key:	DropdownAAMethod
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -515,7 +516,7 @@ msgstr "AA Metódus"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Culture"
-msgstr "Kultúra"
+msgstr "Nyelv"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -725,7 +726,7 @@ msgstr "Látótér"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderGamma"
 msgid "Gamma"
-msgstr ""
+msgstr "Gamma"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1004,8 +1005,12 @@ msgstr "Segíts lefordítani!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Ideiglenes befejezés\r\nTovábbi részek nemsokára!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Ideiglenes befejezés\r\n"
+"További részek nemsokára!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1572,7 +1577,7 @@ msgstr "A fertőzöttek a párás sötét részeken van. Maradj mozgásban, legy
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14a"
 msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
-msgstr ""
+msgstr "A rádió forgalom megerősödött, úgy néz ki hogy egy csapatot helyeztek előre."
 
 #. Key:	Radio14b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1599,8 +1604,18 @@ msgstr "TÖLTÉS"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Üdvözlünk az Estranged: II. részében! Ez a fejlesztés alatt lévő folytatása az első résznek. ami szintén elérhető Steam-en.\r\n\r\nNagyon kis csapat vagyunk. (3 ember!) A szabadidőnkben fejlesztjük a játékot, és folyamatosan frissíteni fogjuk új dolgokkal.\r\n\r\nHa van bármi visszajelzésed számunkra, mindig elérhetőek vagyunk a Steam fórumokon  vagy a játékon belüli visszajelzésen keresztül!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr ""
+"Üdvözlünk az Estranged: II. részében! Ez a fejlesztés alatt lévő folytatása az első résznek. ami szintén elérhető Steam-en.\r\n"
+"\r\n"
+"A II. rész szabadidős projekt (nagyrészt egy ember által fejlesztve!) egy hangmérnök segítségével, egy szint készítő,  közösségi fordítók és tesztelők segítségével\r\n"
+"\r\n"
+"Ha van bármi visszajelzésed számunkra, mindig elérhetőek vagyunk a Steam fórumokon, a játékon belüli visszajelzésen keresztül vagy discordon: discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1636,4 +1651,3 @@ msgstr "PONTOK"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "IDŐ"
-
