@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2018-09-18 21:16\n"
-"PO-Revision-Date: 2018-09-29 12:11+0200\n"
+"PO-Revision-Date: 2018-09-29 12:19+0200\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -810,7 +810,7 @@ msgstr "Začali sme študovať tie riasy a uh"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "Zistili sme , že po chvíli pozorovania začali žiariť."
+msgstr "Zistili sme , že po chvíli pozorovania začali žiariť"
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -873,14 +873,14 @@ msgstr "a um, bolo by dobré , keby si mi získal nový odznak. Tak Dobre."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "Vzorkom sa darí, len teraz pozorujeme, čo sa bude diať."
+msgstr "Vzorkom sa darí, len teraz pozorujeme, čo sa bude diať"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Hlavná kancelária poslala po nejaké vzorky takže sem aj nejaké prepravia v krabiciach."
+msgstr "Hlavná kancelária poslala po nejaké vzorky takže sem aj nejaké prepravia v krabiciach"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1080,7 +1080,7 @@ msgstr "Na vysielačke som chytil správu... znelo to ako človek"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John03"
 msgid "I think he said professor? Trying to override the curfew message"
-msgstr "Myslím , že povedal, že je profesor? Snaží sa prepísať správu o zákaze vychádzania."
+msgstr "Myslím , že povedal, že je profesor? Snaží sa prepísať správu o zákaze vychádzania"
 
 #. Key:	John04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1115,7 +1115,7 @@ msgstr "Musíme poslať SOS z ostrova a oznámiť, čo tu Arque robia"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John08"
 msgid "If we have any hope of getting help, we need to stop that curfew message"
-msgstr "Ak máme nejakú nádej na pomoc, musíme zastaviť tú správe o zákaze vychádzania."
+msgstr "Ak máme nejakú nádej na pomoc, musíme zastaviť tú správe o zákaze vychádzania"
 
 #. Key:	John09
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1143,7 +1143,7 @@ msgstr "Myslel som, že bola vyradená z prevádzky"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,John12"
 msgid "Someone will be watching - you need to get away from Arque buildings. It isn't safe."
-msgstr "Niekto ťa bude sledovať - musíš sa dostať preč od Arque budov. Nie je to bezpečné"
+msgstr "Niekto ťa bude sledovať - musíš sa dostať preč od Arque budov. Nie je to bezpečné."
 
 #. Key:	John13
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1171,7 +1171,7 @@ msgstr "Zober si túto prenosnú vysielačku na stole. Čoskoro sa ťa pokúsim 
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag01"
 msgid "Hello? Pick up, it's John"
-msgstr "Haló? Zodvihni to! To som ja, John!"
+msgstr "Haló? Zodvihni to! To som ja, John"
 
 #. Key:	JohnNag02
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1185,21 +1185,21 @@ msgstr "Vidím ťa na kamere, zodvihni tú vysielačku!"
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag03"
 msgid "Press the button to answer, it will secure the channel"
-msgstr "Stlač to tlačidlo, zabezpečí to kanál."
+msgstr "Stlač to tlačidlo, zabezpečí to kanál"
 
 #. Key:	JohnNag04
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag04"
 msgid "I don't know how long I can stay here, pick up"
-msgstr "Neviem ako dlho tu môžem zostať, zodvihni to!"
+msgstr "Neviem ako dlho tu môžem zostať, zodvihni to"
 
 #. Key:	JohnNag05
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
 #: /Game/Resources/Localisation/ST_John01.ST_John01
 msgctxt "ST_John01,JohnNag05"
 msgid "Come on, pick up... I can see you"
-msgstr "Ale no , zodvihni to... vidím ťa!"
+msgstr "Ale no , zodvihni to... vidím ťa."
 
 #. Key:	JohnNag06
 #. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
@@ -1346,7 +1346,7 @@ msgstr "na zamestnanca Arque Corporation na jednej z ich námorných vrtných pl
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "37-ročný zamestnanec sa vynoril na plážil potom, čo evidentne priplával z platformy"
+msgstr "37-ročný zamestnanec sa vynoril na plážil potom, čo evidentne priplával z platformy,"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1388,14 +1388,14 @@ msgstr "ale dnes ponúka obyvateľom severu deň kľudu."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorológovia radia všetkým v oblasti, že najhoršie ešte len príde"
+msgstr "Meteorológovia radia všetkým v oblasti, že najhoršie ešte len príde,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "Miestni by sa mali pripraviť naplnením vaní vodou a nahromadením jedla na aspoň dva dni."
+msgstr "miestni by sa mali pripraviť naplnením vaní vodou a nahromadením jedla na aspoň dva dni."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1416,7 +1416,7 @@ msgstr "Rád ťa znovu počujem. Fakt si ich tam podráždil."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01b"
 msgid "Keep the radio on. We've got work to do."
-msgstr "Nechaj si vysielačku zapnutú"
+msgstr "Nechaj si vysielačku zapnutú."
 
 #. Key:	Radio02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1458,7 +1458,7 @@ msgstr "...aspoň pre tých, čo sa neinfikovali."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03c"
 msgid "This has given THEM a license to kill on sight."
-msgstr "Toto IM dalo povolenie zabíjať na stretnutie"
+msgstr "Toto IM dalo povolenie zabíjať na stretnutie."
 
 #. Key:	Radio04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
