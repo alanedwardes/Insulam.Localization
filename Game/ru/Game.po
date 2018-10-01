@@ -53,7 +53,7 @@ msgstr "Игра сохранена"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr ""
+msgstr "Взаимодействие"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -249,7 +249,7 @@ msgstr "Графика"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr ""
+msgstr "Руководства"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -417,7 +417,7 @@ msgstr "Текстуры"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr ""
+msgstr "Отобразить расстояние"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1404,189 +1404,189 @@ msgstr "На этом у меня все, присоединяйтесь к на
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01a"
 msgid "It's good to hear from you again. You really stirred them up back there."
-msgstr ""
+msgstr "Это хорошо, слышать тебя снова. Ты тут всколыхнул всё в округе."
 
 #. Key:	Radio01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01b"
 msgid "Keep the radio on. We've got work to do."
-msgstr ""
+msgstr "Держи радио включенным. У нас тут есть работа."
 
 #. Key:	Radio02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02a"
 msgid "Arque security forces continue to canvas the island."
-msgstr ""
+msgstr "Охранные подразделения Arque продолжают закрывать остров."
 
 #. Key:	Radio02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02b"
 msgid "They're the shoot first, ask questions later type."
-msgstr ""
+msgstr "Они сначала выстрелят и лишь потом зададут вопросы."
 
 #. Key:	Radio02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02c"
 msgid "Stay away from them."
-msgstr ""
+msgstr "Держись от них подальше."
 
 #. Key:	Radio03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03a"
 msgid "There's a curfew in effect for everyone on the island..."
-msgstr ""
+msgstr "На острове для каждого введён комендантский час..."
 
 #. Key:	Radio03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03b"
 msgid "...at least, those that aren't infected."
-msgstr ""
+msgstr "...хотя б для тех, кто не инфицирован."
 
 #. Key:	Radio03c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03c"
 msgid "This has given THEM a license to kill on sight."
-msgstr ""
+msgstr "Это дало ИМ право стрелять без предупреждения."
 
 #. Key:	Radio04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04a"
 msgid "If we want to contact the outside world,"
-msgstr ""
+msgstr "Если мы хотим наладить контакт с внешним миром,"
 
 #. Key:	Radio04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04b"
 msgid "we need to stop Arque's curfew message and disable their signal jammer."
-msgstr ""
+msgstr "нам нужно приостановить сообщения корпорации о комендантском часе и отключить их станцию радиопомех."
 
 #. Key:	Radio05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05a"
 msgid "Arque have been broadcasting from an old"
-msgstr ""
+msgstr "Корпорация транслировала свои сигналы со старой орбитальной станции"
 
 #. Key:	Radio05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05b"
 msgid "satellite station on the other side of the island."
-msgstr ""
+msgstr "с другой стороны острова."
 
 #. Key:	Radio05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio05c"
 msgid "We need to get there, and stop it."
-msgstr ""
+msgstr "Нам нужно попасть туда и остановить это."
 
 #. Key:	Radio07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07a"
 msgid "Arque evacuated their office facilities when the infection first broke out."
-msgstr ""
+msgstr "Корпорация эвакуировала все свои лаборатории, когда инфекция впервые вышла из-под контроля."
 
 #. Key:	Radio07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07b"
 msgid "They managed to contain it for the first few hours... but it got out."
-msgstr ""
+msgstr "Они пытались сдерживать ее епрвые несколько часов... но она прорвалась."
 
 #. Key:	Radio08a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08a"
 msgid "Arque brought in their security force Sokol-Glockner to deal with the outbreak."
-msgstr ""
+msgstr "Корпорация бросила силы охранных подразделений Sokol-Glokner в борьбу со вспышкой инфекции."
 
 #. Key:	Radio08b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08b"
 msgid "The next few hours were a disaster."
-msgstr ""
+msgstr "Следующие несколько часов обернулись катастрофой."
 
 #. Key:	Radio09a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09a"
 msgid "With this infection people don't stay dead for long."
-msgstr ""
+msgstr "Зараженные этой инфекцией, люди не умирает насовсем."
 
 #. Key:	Radio09b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09b"
 msgid "Sokol and Arque killed many... but didn't count on them coming back."
-msgstr ""
+msgstr "Солдаты убили многих... но не рассчитывали на то, что существа снова появятся."
 
 #. Key:	Radio10a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10a"
 msgid "Sokol forces formed death squads, canvassing the island,"
-msgstr ""
+msgstr "Подразделения Sokol сорфмировали отряды зачистки, бороздящие остров"
 
 #. Key:	Radio10b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10b"
 msgid "killing anything that moved. Shoot first, ask questions later."
-msgstr ""
+msgstr "и убивающие все, что движется. Сначала огонь, потом вопросы."
 
 #. Key:	Radio11a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11a"
 msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
-msgstr ""
+msgstr "Предостережение, тут болтовня на радиоканале охраны."
 
 #. Key:	Radio11b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11b"
 msgid "It looks like they're sending over a team to the facility YOU just left."
-msgstr ""
+msgstr "Выглядит, будто они отправляют отряд в лабораторию, откуда ТЫ только что выбрался."
 
 #. Key:	Radio12a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio12a"
 msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
-msgstr ""
+msgstr "Основное место скопления инфицированных - сырые и темные места. Продолжай движение и будь начеку."
 
 #. Key:	Radio14a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14a"
 msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
-msgstr ""
+msgstr "Согласно радиоразговору, группа зачистки где-то неподалёку."
 
 #. Key:	Radio14b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14b"
 msgid "Be prepared for ANYTHING."
-msgstr ""
+msgstr "Будь готов КО ВСЕМУ"
 
 #. Key:	Radio15a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio15a"
 msgid "They stationed at least three guards where you are, so stay alert."
-msgstr ""
+msgstr "Они разместили как минимум три отряда в зоне твоего текущего местоположения, так что будь осторожен."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1600,7 +1600,7 @@ msgstr "ЗАГРУЗКА"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr ""
+msgstr "Добро пожаловать в Estranged: Act II! Это находящийся в разработке сиквел к игре Estranged: Act I, также доступной в Steam.\r\n\r\nAct II - это проект, разрабатывающийся в свободное время (по большей части сделанный 1 человеком) с помощью саунд-продюссера, вклада левел-дизайнера и сообщества переводчиков и тестеров.\r\n\r\nЕсли у вас есть какие-либо отзывы, вы всегда можете высказаться либо на форуме Steam, либо через внутриигровой отзыв, либо в чате Discord discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
