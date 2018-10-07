@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-09-18 21:16\n"
-"PO-Revision-Date: 2018-09-18 21:16\n"
+"POT-Creation-Date: 2018-10-07 14:25\n"
+"PO-Revision-Date: 2018-10-07 14:25\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -110,6 +110,20 @@ msgstr "Televizyonu Aç"
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
 msgstr "Bilgisayarı Kontrol Et"
+
+#. Key:	BindingNotSet
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingNotSet"
+msgid "None"
+msgstr ""
+
+#. Key:	BindingPressKey
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressKey"
+msgid "Press a key"
+msgstr ""
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1600,7 +1614,7 @@ msgstr "YÜKLENİYOR"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Estranged: Act II'ya hoşgeldin! Bu Estranged: Act I'in devam bölümüdür,oda Steam'da mevcut.Act II bir boş zaman projesi (genellikle bir kişi tarafından devam ediliyor!)ses tasarımcısından destek ile,seviye tasarımcısı ve topluluktan tercümanlar ve test edenler.Eğer her hangi bir geri dönüşün var ise, biz herzaman Steam forumlarında, oyun içi geri dönüş bildirmede veya Discorddayız discord.gg/estranged!
+msgstr "Estranged: Act II'ya hoşgeldin! Bu Estranged: Act I'in devam bölümüdür,oda Steam'da mevcut.Act II bir boş zaman projesi (genellikle bir kişi tarafından devam ediliyor!)ses tasarımcısından destek ile,seviye tasarımcısı ve topluluktan tercümanlar ve test edenler.Eğer her hangi bir geri dönüşün var ise, biz herzaman Steam forumlarında, oyun içi geri dönüş bildirmede veya Discorddayız discord.gg/estranged"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
