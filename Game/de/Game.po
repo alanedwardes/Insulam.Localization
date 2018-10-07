@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-09-18 21:16\n"
-"PO-Revision-Date: 2018-09-18 21:16\n"
+"POT-Creation-Date: 2018-10-07 14:25\n"
+"PO-Revision-Date: 2018-10-07 14:25\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -110,6 +110,20 @@ msgstr "Fernseher einschalten"
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
 msgstr "Computer benutzen"
+
+#. Key:	BindingNotSet
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingNotSet"
+msgid "None"
+msgstr ""
+
+#. Key:	BindingPressKey
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressKey"
+msgid "Press a key"
+msgstr ""
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
