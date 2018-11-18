@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-10-07 14:25\n"
-"PO-Revision-Date: 2018-10-07 14:25\n"
+"POT-Creation-Date: 2018-11-18 23:26\n"
+"PO-Revision-Date: 2018-11-18 23:26\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -1630,6 +1630,20 @@ msgctxt "Windows,StartupTitle"
 msgid "WELCOME TO ESTRANGED ACT II"
 msgstr "VÄLKOMMEN TILL ESTRANGED AKT II"
 
+#. Key:	DockEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingSubtitle"
+msgid "DAYS BEFORE THE EVENTS OF ACT I"
+msgstr ""
+
+#. Key:	DockEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingTitle"
+msgid "FAIR ISLE, SHETLAND, SCOTLAND"
+msgstr ""
+
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
@@ -1650,4 +1664,18 @@ msgstr "POÄNG"
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
 msgstr "TID"
+
+#. Key:	TheFallEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingSubtitle"
+msgid "HOURS AFTER THE EVENTS OF ACT I"
+msgstr ""
+
+#. Key:	TheFallEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingTitle"
+msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
+msgstr ""
 
