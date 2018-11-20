@@ -1,18 +1,17 @@
+﻿# Game Dutch translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-11-18 23:28\n"
-"PO-Revision-Date: 2018-11-19 17:46+0100\n"
+"POT-Creation-Date: 2018-11-20 20:58\n"
+"PO-Revision-Date: 2018-11-20 20:58\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.2\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1019,12 +1018,8 @@ msgstr "Help ook met vertalen!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid ""
-"Temporary Ending\r\n"
-"More Content Soon!"
-msgstr ""
-"Tijdelijk einde\r\n"
-"Binnenkort meer inhoud!"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "Tijdelijk einde\r\nBinnenkort meer inhoud!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1618,18 +1613,8 @@ msgstr "LADEN"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
-"\r\n"
-"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr ""
-"Welkom bij Estranged: Act II! Dit is het vervolg in ontwikkeling op Estranged: Act I, dat ook beschikbaar is op Steam.\r\n"
-"\r\n"
-"Act II is een vrijetijdsproject (voornamelijk ontwikkeld door één persoon!) met de hulp van een geluidsontwerper, bijdragen van een levelontwerper en communityvertalers en -testers.\r\n"
-"\r\n"
-"Als je feedback voor ons hebt zijn we altijd beschikbaar op de Steam-fora, via de feedbackoptie in het spel of op discord.gg/estranged!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr "Welkom bij Estranged: Act II! Dit is het vervolg in ontwikkeling op Estranged: Act I, dat ook beschikbaar is op Steam.\r\n\r\nAct II is een vrijetijdsproject (voornamelijk ontwikkeld door één persoon!) met de hulp van een geluidsontwerper, bijdragen van een levelontwerper en communityvertalers en -testers.\r\n\r\nAls je feedback voor ons hebt zijn we altijd beschikbaar op de Steam-fora, via de feedbackoptie in het spel of op discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1693,3 +1678,4 @@ msgstr "UREN NA DE GEBEURTENISSEN VAN ACT I"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "ONBEKEND EILAND, NOORSE ZEE"
+
