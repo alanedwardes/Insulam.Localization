@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-11-18 23:28\n"
-"PO-Revision-Date: 2018-11-18 23:28\n"
+"POT-Creation-Date: 2018-11-21 20:46\n"
+"PO-Revision-Date: 2018-11-21 20:46\n"
 "Language-Team: \n"
 "Language: pt-PT\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "para ligar/desligar lanterna"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr "para "
+msgstr "para correr"
 
 #. Key:	HintGameSaved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -53,7 +53,7 @@ msgstr "Jogo Guardado"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr ""
+msgstr "para interagir com objetos"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -116,14 +116,14 @@ msgstr "para utilizar o computador"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr ""
+msgstr "Não atribuído(a)"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr ""
+msgstr "Prime uma tecla"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -151,7 +151,7 @@ msgstr "Aplicar Alterações"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr ""
+msgstr "Arcade"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -172,21 +172,21 @@ msgstr "Voltar"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr ""
+msgstr "Capítulo 1"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr ""
+msgstr "Capítulo 2"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr ""
+msgstr "Capítulo 3"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -263,14 +263,14 @@ msgstr "Gráficos"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr ""
+msgstr "Guias"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr ""
+msgstr "Sobrevivência - Armazém"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -431,7 +431,7 @@ msgstr "Texturas"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr ""
+msgstr "Distância de "
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -634,7 +634,7 @@ msgstr "Estas opções são experimentais e poderão ser inutilizáveis no futur
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuArcade"
 msgid "ARCADE"
-msgstr ""
+msgstr "ARCADE"
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1299,84 +1299,84 @@ msgstr "A firma de segurança privada Sokol-Glockner foi alvo de críticas pela 
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport02"
 msgid "with its heavy handed use of live ammunition in its protective assignments."
-msgstr "pelo seu uso extremo de munições reais nas suas missões de segurança."
+msgstr "pelo seu uso indevido de munições reais nas suas missões de segurança."
 
 #. Key:	NewsReport03
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
 msgid "The company’s policy states that live ammunition is to be used on all assignments,"
-msgstr "A política da empresa declara que munições reais devem ser utilizadas em todas as suas missões"
+msgstr "A política da empresa declara que munições reais devem ser utilizadas em todas as suas missões,"
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr ""
+msgstr "contudo ativistas afirmam que são medidas desnecessárias, e que incitam à violência que eles procuram evitar."
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr ""
+msgstr "A empresa recusou-se a prestar comentários, mas outros dizem que é um desastre à espera de acontecer."
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
 msgid "The government contractor is responsible for a number of overseas operations,"
-msgstr ""
+msgstr "Esta empresa contratada pelo governo é responsável por várias operações além mar,"
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
 msgid "which sources say is why the government is not commenting on this matter."
-msgstr ""
+msgstr "sendo por esta razão, segundo fontes, que o governo não comenta sobre este assunto."
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr ""
+msgstr "A Sokol-Glockner foi tema de capa no início deste ano pelo seu papel no alvejamento acidental"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr ""
+msgstr "de um empregado da Arque Corporation em uma das suas plataformas de perfuração marítima."
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr ""
+msgstr "O empregado de 37 anos, surgiu numa praia após claramente ter nadado desde a plataforma,"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport11"
 msgid "while doctors later confirmed a bullet in his leg."
-msgstr ""
+msgstr "mais tarde tendo sido confirmado por médicos que possuía uma bala alojada numa perna."
 
 #. Key:	NewsReport12
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr ""
+msgstr "Sokol-Glockner confirmaram que a bala foi disparada por uma das armas da empresa,"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport13"
 msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
-msgstr ""
+msgstr "mas recusou comentar o assunto. Insistiu que estava a trabalhar com as autoridades competentes."
 
 #. Key:	NewsReport14
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1390,28 +1390,28 @@ msgstr "Agora na meterorologia - a tempestade Edwin continua ativa,"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr ""
+msgstr "mas hoje os habitantes mais a norte terão um dia calmo."
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr ""
+msgstr "Os meteorologistas avisam a todos os residentes na zona que o pior está para vir,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr ""
+msgstr "e que devem preparar-se ao encher banheiras com água, e armazenar comida para pelo menos dois dias."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr ""
+msgstr "É tudo por hoje, juntem-se a nós amanhã às 7h para o programa de pequeno-almoço."
 
 #. Key:	Radio01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1425,14 +1425,14 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio01b"
 msgid "Keep the radio on. We've got work to do."
-msgstr ""
+msgstr "Mantém o rádio ligado. Temos muito trabalho a fazer."
 
 #. Key:	Radio02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02a"
 msgid "Arque security forces continue to canvas the island."
-msgstr ""
+msgstr "As forças de segurança da Arque continuam a patrulhar a ilha."
 
 #. Key:	Radio02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1446,21 +1446,21 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio02c"
 msgid "Stay away from them."
-msgstr ""
+msgstr "Afasta-te delas."
 
 #. Key:	Radio03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03a"
 msgid "There's a curfew in effect for everyone on the island..."
-msgstr ""
+msgstr "Foi ativado um recolher para todos os habitantes na ilha..."
 
 #. Key:	Radio03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio03b"
 msgid "...at least, those that aren't infected."
-msgstr ""
+msgstr "…pelo menos aqueles que não estão infetados."
 
 #. Key:	Radio03c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1474,7 +1474,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04a"
 msgid "If we want to contact the outside world,"
-msgstr ""
+msgstr "Se queremoss contactar o mundo exterior,"
 
 #. Key:	Radio04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1614,7 +1614,7 @@ msgstr "A CARREGAR"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr ""
+msgstr "Bem-vindo(a) ao Estranged: Act II! Esta é a sequela em desenvolvimento do Estranged: Act I, que também está disponível no Steam.\n\nO Act II é um projeto desenvolvido por 1 pessoa nos tempos livres, com a ajuda de um designer de áudio, contribuições de um designer de níveis, tradutores comunitários e testadores.\n\nSe quiseres partilhar connosco o teu feedback, estaremos sempre atentos aos fóruns no Steam, ou deixa-nos um comentário pelo formulário de feedback no jogo, ou em discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1635,14 +1635,14 @@ msgstr "BEM-VINDO(A) AO ESTRANGED: ACT II"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr ""
+msgstr "DIAS ANTES DOS EVENTOS DO ESTRANGED: ACT I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr ""
+msgstr "FAIR ISLE, SHETLAND, ESCÓCIA"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1670,12 +1670,12 @@ msgstr "TEMPO"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr ""
+msgstr "HORAS DEPOIS DOS EVENTOS DO ESTRANGED: ACT I"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr ""
+msgstr "ILHA DESCONHECIDA, MAR DA NORUEGA"
 

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-11-18 23:28\n"
-"PO-Revision-Date: 2018-11-18 23:28\n"
+"POT-Creation-Date: 2018-11-21 20:46\n"
+"PO-Revision-Date: 2018-11-21 20:46\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -116,14 +116,14 @@ msgstr "Computer benutzen"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr ""
+msgstr "Nichts"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr ""
+msgstr "Drücke eine Taste"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1481,7 +1481,7 @@ msgstr "Wenn wir mit der Außenwelt in Kontakt treten wollen, müssen wir"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio04b"
 msgid "we need to stop Arque's curfew message and disable their signal jammer."
-msgstr "die Arque's Absperrmeldung stoppen und ihren Signalstörsender deaktivieren."
+msgstr "Arque's Absperrmeldung stoppen und ihren Signalstörsender deaktivieren."
 
 #. Key:	Radio05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1509,21 +1509,21 @@ msgstr "Wir müssen dort hinkommen und es stoppen."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07a"
 msgid "Arque evacuated their office facilities when the infection first broke out."
-msgstr "Arque hat all ihre Büroräume evakuiert, als die Infektion zum ersten Mal ausbrach."
+msgstr "Als die Infektion zum ersten Mal ausbrach, hat Arque all ihre Büroräume evakuiert."
 
 #. Key:	Radio07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio07b"
 msgid "They managed to contain it for the first few hours... but it got out."
-msgstr "Sie schafften es, sich die ersten Stunden zu halten....\r\naber sie brachen durch."
+msgstr "Ihnen gelang es, sich die ersten Stunden zu halten....\r\naber dann sie brachen durch."
 
 #. Key:	Radio08a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio08a"
 msgid "Arque brought in their security force Sokol-Glockner to deal with the outbreak."
-msgstr ""
+msgstr "Arque hat ihren Sicherheitstrupp Sokol-Glockner eingesetzt,\r\num mit dem Ausbruch fertig zu werden."
 
 #. Key:	Radio08b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1537,7 +1537,7 @@ msgstr "Die wenigen Stunden danach waren eine Katastrophe."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio09a"
 msgid "With this infection people don't stay dead for long."
-msgstr "Mit dieser Infektion blieben die Menschen nicht für lange tot."
+msgstr "Mit dieser Infektion waren die Menschen nicht für lange tot."
 
 #. Key:	Radio09b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1558,14 +1558,14 @@ msgstr "Die Sokol-Truppen bildeten Todesschwadronen, die diese Insel akquirierte
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio10b"
 msgid "killing anything that moved. Shoot first, ask questions later."
-msgstr "... und alles töteten, was sich bewegte.\r\nSie schossen zuerst und stellten dann Fragen."
+msgstr "... und alles töteten, was sich bewegte.\r\nSie schossen zuerst und stellten dann ihre Fragen."
 
 #. Key:	Radio11a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio11a"
 msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
-msgstr "Nur als Hinweis...\r\n...ich höre irgendein Geplappere über den Funkkanal der Sicherheitstruppe."
+msgstr "Nur als Hinweis...\r\n...ich habe über den Funkkanal dieser Sicherheitstruppe irgendein Geplappere mitgehört."
 
 #. Key:	Radio11b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1579,14 +1579,14 @@ msgstr "Es sieht so aus, als schickten sie ein Team\r\nin das Gebäude, das DU g
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio12a"
 msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
-msgstr "Die Infizierten entwickeln sich in feuchten und dunklen Bereichen.\r\nBleib in Bewegung, bleibe wachsam."
+msgstr "Die Infizierten entwickeln sich gut in feuchten und dunklen Bereichen.\r\nBleib in Bewegung, bleibe wachsam."
 
 #. Key:	Radio14a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio14a"
 msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
-msgstr "Habe ein Funkgeplappere aufgeschnappt und es sieht so aus,\r\nals hätten sie ein Team vor uns aufgestellt."
+msgstr "Habe ein Funkgespräch aufgeschnappt und es sieht so aus,\r\nals hätten sie vor dir einen Trupp positioniert."
 
 #. Key:	Radio14b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1600,7 +1600,7 @@ msgstr "Sei auf ALLES vorbereitet!"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,Radio15a"
 msgid "They stationed at least three guards where you are, so stay alert."
-msgstr "Sie haben dort wo du bist mindestens drei Wachen stationiert,...\r\n...also bleib wachsam."
+msgstr "Sie haben dort wo du jetzt bist mindestens drei Wachen stationiert,...\r\n...also bleib wachsam."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1635,14 +1635,14 @@ msgstr "WILLKOMMEN BEI ESTRANGED AKT II"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr ""
+msgstr "TAGE VOR DEN EREIGNISSEN VON AKT I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr ""
+msgstr "FAIR ISLE, SHETLAND, SCHOTTLAND"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1670,12 +1670,12 @@ msgstr "ZEIT"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr ""
+msgstr "STUNDEN NACH DEN EREIGNISSEN VON AKT I"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr ""
+msgstr "AUF EINER UNBEKANNTEN INSEL, IM NORWEGISCHEN MEER"
 
