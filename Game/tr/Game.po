@@ -452,7 +452,7 @@ msgstr "Oyun İçi Anlatım"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr ""
+msgstr "Ortam Aydınlatmasını Devre Dışı Bırak"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1103,7 +1103,7 @@ msgstr "Eğer bunu birisi duyarsa,benim adım Johnathan Derril."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr ""
+msgstr "Eğer bunu duyan biri varsa, yardıma ihtiyacım var."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1285,140 +1285,140 @@ msgstr "Bugün benden yeter, yarın saat 7 de bize Breakfast Burst'de eşlik edi
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque corporation."
-msgstr ""
+msgstr "Bu Arque şirketi tarafından bir otomatik mesajdır."
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr ""
+msgstr "Sokağa çıkma yasağı etkili. Lütfen içerde kalın."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr ""
+msgstr "Eğer BİRİ bunu duyuyorsa, Yardıma ihtiyacım var"
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr ""
+msgstr "Bir sokağa çıkma mesajı yayınlıyorlar, fakat"
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr ""
+msgstr "Neden olduğunu anlamadım. Belki de bir bozulmadır?"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr ""
+msgstr "Tanrım, umarım bunun üstünü örtmeye çalışmıyorlardır..."
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "I'm just going to... continue broadcasting until I can't anymore."
-msgstr ""
+msgstr "Ben sadece... yapamayana kadar radyo yayınına devam edeceğim."
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr ""
+msgstr "Geçen gemiler, uçaklar... BİRŞEYİN bu mesajı alması lazım"
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr ""
+msgstr "Bu şeyler geldiğinde kızım ve karımdan ayrıldım"
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
 msgid "We were on holiday... holiday! No-one is prepared for this. No-one can be."
-msgstr ""
+msgstr "Tatildeydik... tatil! Hiç kimse buna hazır değildi. Hiç kimse olamazdı."
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr ""
+msgstr "Radyoları tamir etmeyi biliyorum... başka birşey yok."
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05b"
 msgid "A fisherman crashed on the docks near to where I am."
-msgstr ""
+msgstr "Yakınında olduğum bir limana bir balıkçı çarptı."
 
 #. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr ""
+msgstr "İyiydi, ona erzak verdim, ve ona nasıl bunu durdurabilceğini söyledim"
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr ""
+msgstr "Onun geri geleceğine inanmıyorum. Daha ne yapabileceğimi düşünüyorum"
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr ""
+msgstr "Lütfen, bunu dinleyen BİRİSİ varsa. Eğer buranın kötü olduğunu düşünyorsan... daha kötü."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
 msgid "We need the military. Why has no-one come?"
-msgstr ""
+msgstr "Orduya ihtiyacımız var. Neden kimse gelmiyor?"
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr ""
+msgstr "O şirket iletişimi durdurmak  ilgili birşey yapıyordur."
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no-one checked up on us? This is a small island, but there's still people..."
-msgstr ""
+msgstr "Neden kimse bizi kontrol etmedi? Burası küçük bir ada, fakat hayla insanlar var"
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr ""
+msgstr "Keşke bu tatili almasaydım.. keşke bunu son aylar iptal etseydim... Tanrım..."
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr ""
+msgstr "...artık oynamanın sonu yok \"acaba\"."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
