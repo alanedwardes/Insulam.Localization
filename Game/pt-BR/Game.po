@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-01-26 12:55\n"
-"PO-Revision-Date: 2019-01-26 12:55\n"
+"POT-Creation-Date: 2019-01-26 23:50\n"
+"PO-Revision-Date: 2019-01-26 23:50\n"
 "Language-Team: \n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -1006,6 +1006,27 @@ msgstr "E Você!"
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
 msgstr "E {name} (Você!)"
+
+#. Key:	Chapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter1"
+msgid "Through the Cracks"
+msgstr ""
+
+#. Key:	Chapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter2"
+msgid "Post Abandon"
+msgstr ""
+
+#. Key:	Chapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter3"
+msgid "Fight or Flight"
+msgstr ""
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
