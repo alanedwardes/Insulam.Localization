@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-11-22 19:20\n"
-"PO-Revision-Date: 2018-11-22 19:20\n"
+"POT-Creation-Date: 2019-01-26 12:49\n"
+"PO-Revision-Date: 2019-01-26 12:49\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -187,6 +187,13 @@ msgstr "Hoofdstuk 2"
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
 msgstr "Hoofdstuk 3"
+
+#. Key:	ButtonChapter4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter4"
+msgid "Chapter 4"
+msgstr ""
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -439,6 +446,13 @@ msgstr "Gezichtsveld"
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
 msgstr "Commentaar in spel"
+
+#. Key:	CheckboxDisableAmbientOcclusion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableAmbientOcclusion"
+msgid "Disable Ambient Occlusion"
+msgstr ""
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1070,160 +1084,6 @@ msgctxt "ST_GuardChatter01,GuardChatter05"
 msgid "That's fine by me. Let's move."
 msgstr "Prima. Kom, we gaan."
 
-#. Key:	John01
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John01"
-msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
-msgstr "Ik ben blij dat je nog leeft. Ik begon te denken dat we elkaar nooit meer zouden spreken."
-
-#. Key:	John02
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John02"
-msgid "There was a message on my radio... it sounded like a man"
-msgstr "Ik ontving een bericht op mijn radio... Het klonk als een man."
-
-#. Key:	John03
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John03"
-msgid "I think he said professor? Trying to override the curfew message"
-msgstr "Ik denk dat hij professor zei? Probeerde boven het avondklokbericht uit te komen."
-
-#. Key:	John04
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John04"
-msgid "I left the hut to try to help"
-msgstr "Ik heb de hut verlaten om te helpen."
-
-#. Key:	John05
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John05"
-msgid "I followed the river for a while towards Wentworth, and found this abandoned guard post"
-msgstr "Ik volgde de rivier een tijdje richting Wentworth en heb deze verlaten wachtpost gevonden."
-
-#. Key:	John06
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John06"
-msgid "I was scavenging and noticed you on the CCTV... kind of lucky"
-msgstr "Ik keek wat rond en zag je op de camera... best toevallig."
-
-#. Key:	John07
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John07"
-msgid "We need to send an SOS off the island, about what Arque is doing here"
-msgstr "We moeten een SOS van het eiland sturen, over wat Arque hier doet."
-
-#. Key:	John08
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John08"
-msgid "If we have any hope of getting help, we need to stop that curfew message"
-msgstr "Als we ook maar enige hoop hebben op hulp, moeten we dat avondklokbericht stoppen."
-
-#. Key:	John09
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John09"
-msgid "Only something powerful could be sending that out, but..."
-msgstr "Alleen iets krachtigs kan dat verzenden, maar..."
-
-#. Key:	John10
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John10"
-msgid "I know of one very old satellite station on the island"
-msgstr "Ik weet dat er een oud satellietstation op het eiland staat."
-
-#. Key:	John11
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John11"
-msgid "I thought it was decommissioned"
-msgstr "Ik dacht dat het uit bedrijf genomen was."
-
-#. Key:	John12
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John12"
-msgid "Someone will be watching - you need to get away from Arque buildings. It isn't safe."
-msgstr "Er kijkt vast iemand. Je moet wegblijven van Arque-gebouwen. Het is niet veilig."
-
-#. Key:	John13
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John13"
-msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
-msgstr "Ze zijn allemaal zwaar bewapend. Tussen hen en de geïnfecteerden moet je enorm voorzichtig doen om geen aandacht te trekken."
-
-#. Key:	John14
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John14"
-msgid "I'm going to destroy this station and move on."
-msgstr "Ik vernietig dit station en ga dan verder."
-
-#. Key:	John15
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John15"
-msgid "Pick up the portable radio on the table. I'll try to make contact soon."
-msgstr "Pak de draagbare radio van de tafel. Ik probeer binnenkort contact te maken."
-
-#. Key:	JohnNag01
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag01"
-msgid "Hello? Pick up, it's John"
-msgstr "Hallo? Neem op, ik ben John."
-
-#. Key:	JohnNag02
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag02"
-msgid "I can see you on the CCTV, answer the radio!"
-msgstr "Ik kan je op de camera zien. Beantwoord de radio!"
-
-#. Key:	JohnNag03
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag03"
-msgid "Press the button to answer, it will secure the channel"
-msgstr "Druk op de knop om te antwoorden. Het zal het kanaal beveiligen."
-
-#. Key:	JohnNag04
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag04"
-msgid "I don't know how long I can stay here, pick up"
-msgstr "Ik weet niet hoelang ik hier kan blijven, antwoord nou."
-
-#. Key:	JohnNag05
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag05"
-msgid "Come on, pick up... I can see you"
-msgstr "Kom op, antwoord... Ik kan je zien."
-
-#. Key:	JohnNag06
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag06"
-msgid "Hello?"
-msgstr "Hallo?"
-
-#. Key:	JohnNag07
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag07"
-msgid "Is anyone there?"
-msgstr "Is daar iemand?"
-
 #. Key:	JohnActI01
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1237,6 +1097,13 @@ msgstr "Hallo?"
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
 msgstr "Als iemand dit kan horen, mijn naam is Johnathan Derril."
+
+#. Key:	JohnActI02Alt
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02Alt"
+msgid "If anyone can hear this, I need help."
+msgstr ""
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1413,194 +1280,145 @@ msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
 msgstr "Hiermee sluiten we af. Kijk morgen om 7 uur weer voor het ochtendnieuws."
 
-#. Key:	Radio01a
+#. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio01a"
-msgid "It's good to hear from you again. You really stirred them up back there."
-msgstr "Goed om weer van je te horen. Je hebt ze daar even flink opgeschud."
+msgctxt "ST_Radio,ArqueBroadcast01a"
+msgid "This is an automated message from Arque corporation."
+msgstr ""
 
-#. Key:	Radio01b
+#. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio01b"
-msgid "Keep the radio on. We've got work to do."
-msgstr "Houd de radio aan. We hebben werk te doen."
+msgctxt "ST_Radio,ArqueBroadcast01b"
+msgid "Mandatory curfew is in effect. Please stay inside."
+msgstr ""
 
-#. Key:	Radio02a
+#. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio02a"
-msgid "Arque security forces continue to canvas the island."
-msgstr "Het eiland is vergeven van Arque-veiligheidstroepen."
+msgctxt "ST_Radio,JohnBroadcast02a"
+msgid "If there's ANYONE listening to this, I need help."
+msgstr ""
 
-#. Key:	Radio02b
+#. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio02b"
-msgid "They're the shoot first, ask questions later type."
-msgstr "Ze zijn het soort dat eerst schiet en vervolgens pas vragen stelt."
+msgctxt "ST_Radio,JohnBroadcast02b"
+msgid "They're broadcasting a curfew message, but..."
+msgstr ""
 
-#. Key:	Radio02c
+#. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio02c"
-msgid "Stay away from them."
-msgstr "Blijf bij ze uit de buurt."
+msgctxt "ST_Radio,JohnBroadcast02c"
+msgid "I don't understand why. Is it a malfunction?"
+msgstr ""
 
-#. Key:	Radio03a
+#. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio03a"
-msgid "There's a curfew in effect for everyone on the island..."
-msgstr "Er is een avondklok van kracht voor iedereen op het eiland..."
+msgctxt "ST_Radio,JohnBroadcast02d"
+msgid "God I hope they're not trying to cover this up..."
+msgstr ""
 
-#. Key:	Radio03b
+#. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio03b"
-msgid "...at least, those that aren't infected."
-msgstr "…tenminste, voor degenen die niet geïnfecteerd zijn."
+msgctxt "ST_Radio,JohnBroadcast03a"
+msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgstr ""
 
-#. Key:	Radio03c
+#. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio03c"
-msgid "This has given THEM a license to kill on sight."
-msgstr "Nu hebben ZIJ toestemming om direct te doden."
+msgctxt "ST_Radio,JohnBroadcast03b"
+msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
+msgstr ""
 
-#. Key:	Radio04a
+#. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio04a"
-msgid "If we want to contact the outside world,"
-msgstr "Als we contact met de buitenwereld willen opnemen"
+msgctxt "ST_Radio,JohnBroadcast04a"
+msgid "I was split up from my wife and daughter when the things came."
+msgstr ""
 
-#. Key:	Radio04b
+#. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio04b"
-msgid "we need to stop Arque's curfew message and disable their signal jammer."
-msgstr "moeten we het avondklokbericht van Arque stoppen en hun stoorzender uitschakelen."
+msgctxt "ST_Radio,JohnBroadcast04b"
+msgid "We were on holiday... holiday! No-one is prepared for this. No-one can be."
+msgstr ""
 
-#. Key:	Radio05a
+#. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio05a"
-msgid "Arque have been broadcasting from an old"
-msgstr "Arque zendt uit vanaf een oud satellietstation"
+msgctxt "ST_Radio,JohnBroadcast05a"
+msgid "I know how to fix radios... not much else."
+msgstr ""
 
-#. Key:	Radio05b
+#. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio05b"
-msgid "satellite station on the other side of the island."
-msgstr "aan de andere kant van het eiland."
+msgctxt "ST_Radio,JohnBroadcast05b"
+msgid "A fisherman crashed on the docks near to where I am."
+msgstr ""
 
-#. Key:	Radio05c
+#. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio05c"
-msgid "We need to get there, and stop it."
-msgstr "We moeten daarheen en het stoppen."
+msgctxt "ST_Radio,JohnBroadcast05c"
+msgid "They were fine, I gave them supplies, and told them how to try and stop this."
+msgstr ""
 
-#. Key:	Radio07a
+#. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio07a"
-msgid "Arque evacuated their office facilities when the infection first broke out."
-msgstr "Arque heeft hun kantoorfaciliteiten geëvacueerd toen de infectie uitbrak."
+msgctxt "ST_Radio,JohnBroadcast05d"
+msgid "I don't think they're coming back though. I keep thinking I could have done more."
+msgstr ""
 
-#. Key:	Radio07b
+#. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio07b"
-msgid "They managed to contain it for the first few hours... but it got out."
-msgstr "Ze hadden het de eerste paar uur onder controle... maar het ging mis."
+msgctxt "ST_Radio,JohnBroadcast06a"
+msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr ""
 
-#. Key:	Radio08a
+#. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio08a"
-msgid "Arque brought in their security force Sokol-Glockner to deal with the outbreak."
-msgstr "Arque haalde hun beveiligingsbedrijf Sokol-Glockner erbij om de uitbraak af te handelen."
+msgctxt "ST_Radio,JohnBroadcast06b"
+msgid "We need the military. Why has no-one come?"
+msgstr ""
 
-#. Key:	Radio08b
+#. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio08b"
-msgid "The next few hours were a disaster."
-msgstr "De uren erna waren een ramp."
+msgctxt "ST_Radio,JohnBroadcast06c"
+msgid "That company must be doing something to stop the communication."
+msgstr ""
 
-#. Key:	Radio09a
+#. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio09a"
-msgid "With this infection people don't stay dead for long."
-msgstr "Met deze infectie blijven mensen niet lang dood."
+msgctxt "ST_Radio,JohnBroadcast07a"
+msgid "Why has no-one checked up on us? This is a small island, but there's still people..."
+msgstr ""
 
-#. Key:	Radio09b
+#. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio09b"
-msgid "Sokol and Arque killed many... but didn't count on them coming back."
-msgstr "Sokol en Arque hebben er veel gedood... maar ze rekenden er niet op dat ze terugkwamen."
+msgctxt "ST_Radio,JohnBroadcast07b"
+msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
+msgstr ""
 
-#. Key:	Radio10a
+#. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio10a"
-msgid "Sokol forces formed death squads, canvassing the island,"
-msgstr "Sokol-troepen hebben overal op het eiland doodseskaders gevormd"
-
-#. Key:	Radio10b
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio10b"
-msgid "killing anything that moved. Shoot first, ask questions later."
-msgstr "die alles doden wat beweegt. Ze schieten eerst en stellen vervolgens pas vragen."
-
-#. Key:	Radio11a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio11a"
-msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
-msgstr "Even dat je het weet; ik hoor gepraat op de radiokanalen van de veiligheidstroepen."
-
-#. Key:	Radio11b
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio11b"
-msgid "It looks like they're sending over a team to the facility YOU just left."
-msgstr "Het lijkt erop dat ze een team sturen naar de faciliteit die JIJ net hebt verlaten."
-
-#. Key:	Radio12a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio12a"
-msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
-msgstr "De geïnfecteerden gedijen in vochtige en donkere gebieden. Blijf in beweging en blijf alert."
-
-#. Key:	Radio14a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio14a"
-msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
-msgstr "De radiogesprekken zijn hervat. Het lijkt erop dat ze verderop een team hebben gestationeerd."
-
-#. Key:	Radio14b
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio14b"
-msgid "Be prepared for ANYTHING."
-msgstr "Wees voorbereid op ALLES."
-
-#. Key:	Radio15a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio15a"
-msgid "They stationed at least three guards where you are, so stay alert."
-msgstr "Ze hebben nog minstens drie bewakers gestationeerd op jouw locatie, dus blijf alert."
+msgctxt "ST_Radio,JohnBroadcast07c"
+msgid "...there's no point playing \"what if\"."
+msgstr ""
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows

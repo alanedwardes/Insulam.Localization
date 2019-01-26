@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-11-22 19:20\n"
-"PO-Revision-Date: 2018-11-22 19:20\n"
+"POT-Creation-Date: 2019-01-26 12:49\n"
+"PO-Revision-Date: 2019-01-26 12:49\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgstr "Spel sparat"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr "påverka"
+msgstr ""
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -116,14 +116,14 @@ msgstr "Styr datorn"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr "Ingen"
+msgstr ""
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr "Tryck på en knapp"
+msgstr ""
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -187,6 +187,13 @@ msgstr "Kapitel 2"
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
 msgstr "Kapitel 3"
+
+#. Key:	ButtonChapter4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter4"
+msgid "Chapter 4"
+msgstr ""
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -263,7 +270,7 @@ msgstr "Grafik"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr "Guider"
+msgstr ""
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -431,7 +438,7 @@ msgstr "Texturer"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr "Synlighetsavstånd"
+msgstr ""
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -439,6 +446,13 @@ msgstr "Synlighetsavstånd"
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
 msgstr "Spelkommentarer"
+
+#. Key:	CheckboxDisableAmbientOcclusion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableAmbientOcclusion"
+msgid "Disable Ambient Occlusion"
+msgstr ""
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1070,160 +1084,6 @@ msgctxt "ST_GuardChatter01,GuardChatter05"
 msgid "That's fine by me. Let's move."
 msgstr "Det är okej med mig. Nu går vi."
 
-#. Key:	John01
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John01"
-msgid "I'm glad you're alive, I was beginning to think we wouldn't speak again."
-msgstr "Jag är glad att du lever, jag började tro att vi inte skulle kunna prata igen."
-
-#. Key:	John02
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John02"
-msgid "There was a message on my radio... it sounded like a man"
-msgstr "Det var ett meddelande på min radio... det lät som en man"
-
-#. Key:	John03
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John03"
-msgid "I think he said professor? Trying to override the curfew message"
-msgstr "Jag tror att han sa professor? Försöker överskrida utegångsförbudsbudskapet"
-
-#. Key:	John04
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John04"
-msgid "I left the hut to try to help"
-msgstr "Jag lämnade stugan för att försöka hjälpa till"
-
-#. Key:	John05
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John05"
-msgid "I followed the river for a while towards Wentworth, and found this abandoned guard post"
-msgstr "Jag följde floden ett tag mot Wentworth och hittade den här övergivna vaktposten"
-
-#. Key:	John06
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John06"
-msgid "I was scavenging and noticed you on the CCTV... kind of lucky"
-msgstr "Jag rotade efter saker och märkte dig på övervakningsskärmen... typ av tur"
-
-#. Key:	John07
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John07"
-msgid "We need to send an SOS off the island, about what Arque is doing here"
-msgstr "Vi behöver skicka ett SOS från ön, angående vad Arque gör här"
-
-#. Key:	John08
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John08"
-msgid "If we have any hope of getting help, we need to stop that curfew message"
-msgstr "Om vi skall ha något hopp om att få hjälp, måste vi stoppa utegångsförbudsbudskapet"
-
-#. Key:	John09
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John09"
-msgid "Only something powerful could be sending that out, but..."
-msgstr "Bara något kraftfullt kan sända ut det, men..."
-
-#. Key:	John10
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John10"
-msgid "I know of one very old satellite station on the island"
-msgstr "Jag känner till en mycket gammal satellitstation på ön"
-
-#. Key:	John11
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John11"
-msgid "I thought it was decommissioned"
-msgstr "Jag trodde att den var avvecklad"
-
-#. Key:	John12
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John12"
-msgid "Someone will be watching - you need to get away from Arque buildings. It isn't safe."
-msgstr "Någon kommer kika - du måste komma bort från Arque byggnader. Det är inte säkert."
-
-#. Key:	John13
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John13"
-msgid "They're all heavily armed. Between them and the infected you need to be extremely careful not to attract attention."
-msgstr "De är alla kraftigt beväpnade. Mellan dem och de smittade måste du vara extremt försiktig så att du inte tillkallar till uppmärksamhet."
-
-#. Key:	John14
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John14"
-msgid "I'm going to destroy this station and move on."
-msgstr "Jag kommer att förstöra denna station och fortsätta."
-
-#. Key:	John15
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,John15"
-msgid "Pick up the portable radio on the table. I'll try to make contact soon."
-msgstr "Plocka upp den bärbara radion på bordet. Jag ska försöka ta kontakt snart."
-
-#. Key:	JohnNag01
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag01"
-msgid "Hello? Pick up, it's John"
-msgstr "Hallå? Svara, det är John"
-
-#. Key:	JohnNag02
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag02"
-msgid "I can see you on the CCTV, answer the radio!"
-msgstr "Jag kan se dig på övervakningsskärmen, svara på radion!"
-
-#. Key:	JohnNag03
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag03"
-msgid "Press the button to answer, it will secure the channel"
-msgstr "Tryck på knappen för att svara, den kommer att säkra kanalen"
-
-#. Key:	JohnNag04
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag04"
-msgid "I don't know how long I can stay here, pick up"
-msgstr "Jag vet inte hur länge jag kan stanna här, svara"
-
-#. Key:	JohnNag05
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag05"
-msgid "Come on, pick up... I can see you"
-msgstr "Kom igen, svara ... Jag kan se dig"
-
-#. Key:	JohnNag06
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag06"
-msgid "Hello?"
-msgstr "Hallå?"
-
-#. Key:	JohnNag07
-#. SourceLocation:	/Game/Resources/Localisation/ST_John01.ST_John01
-#: /Game/Resources/Localisation/ST_John01.ST_John01
-msgctxt "ST_John01,JohnNag07"
-msgid "Is anyone there?"
-msgstr "Är någon där?"
-
 #. Key:	JohnActI01
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1237,6 +1097,13 @@ msgstr "Hallå?"
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
 msgstr "Om någon kan höra detta, så heter jag Johnathan Derril."
+
+#. Key:	JohnActI02Alt
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02Alt"
+msgid "If anyone can hear this, I need help."
+msgstr ""
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1413,194 +1280,145 @@ msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
 msgstr "Det är allt från mig, följ oss i morgon vid 7 för Breakfast Burst."
 
-#. Key:	Radio01a
+#. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio01a"
-msgid "It's good to hear from you again. You really stirred them up back there."
-msgstr "Det är trevligt att höra från dig igen. Du rörde verlkigen till det där borta"
+msgctxt "ST_Radio,ArqueBroadcast01a"
+msgid "This is an automated message from Arque corporation."
+msgstr ""
 
-#. Key:	Radio01b
+#. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio01b"
-msgid "Keep the radio on. We've got work to do."
-msgstr "Håll radion igång. vi har arbete att göra."
+msgctxt "ST_Radio,ArqueBroadcast01b"
+msgid "Mandatory curfew is in effect. Please stay inside."
+msgstr ""
 
-#. Key:	Radio02a
+#. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio02a"
-msgid "Arque security forces continue to canvas the island."
-msgstr "Arque säkerhetsstyrkor förtsätter att sträcka ön."
+msgctxt "ST_Radio,JohnBroadcast02a"
+msgid "If there's ANYONE listening to this, I need help."
+msgstr ""
 
-#. Key:	Radio02b
+#. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio02b"
-msgid "They're the shoot first, ask questions later type."
-msgstr "De är typerna som skjuter först, och frågar sedan."
+msgctxt "ST_Radio,JohnBroadcast02b"
+msgid "They're broadcasting a curfew message, but..."
+msgstr ""
 
-#. Key:	Radio02c
+#. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio02c"
-msgid "Stay away from them."
-msgstr "Undvik dem"
+msgctxt "ST_Radio,JohnBroadcast02c"
+msgid "I don't understand why. Is it a malfunction?"
+msgstr ""
 
-#. Key:	Radio03a
+#. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio03a"
-msgid "There's a curfew in effect for everyone on the island..."
-msgstr "Det är utgångsförbud för alla på ön..."
+msgctxt "ST_Radio,JohnBroadcast02d"
+msgid "God I hope they're not trying to cover this up..."
+msgstr ""
 
-#. Key:	Radio03b
+#. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio03b"
-msgid "...at least, those that aren't infected."
-msgstr "...i alla fall, för de som inte är smittade."
+msgctxt "ST_Radio,JohnBroadcast03a"
+msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgstr ""
 
-#. Key:	Radio03c
+#. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio03c"
-msgid "This has given THEM a license to kill on sight."
-msgstr "Detta har gett DEM rätt att döda direkt."
+msgctxt "ST_Radio,JohnBroadcast03b"
+msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
+msgstr ""
 
-#. Key:	Radio04a
+#. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio04a"
-msgid "If we want to contact the outside world,"
-msgstr "Om vi vill kunna kontakta omvärlden,"
+msgctxt "ST_Radio,JohnBroadcast04a"
+msgid "I was split up from my wife and daughter when the things came."
+msgstr ""
 
-#. Key:	Radio04b
+#. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio04b"
-msgid "we need to stop Arque's curfew message and disable their signal jammer."
-msgstr "måste vi stoppa Arques utegångsförbudsbudskap och stoppa deras störsändare."
+msgctxt "ST_Radio,JohnBroadcast04b"
+msgid "We were on holiday... holiday! No-one is prepared for this. No-one can be."
+msgstr ""
 
-#. Key:	Radio05a
+#. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio05a"
-msgid "Arque have been broadcasting from an old"
-msgstr "Arque har sänt från en gammal"
+msgctxt "ST_Radio,JohnBroadcast05a"
+msgid "I know how to fix radios... not much else."
+msgstr ""
 
-#. Key:	Radio05b
+#. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio05b"
-msgid "satellite station on the other side of the island."
-msgstr "sattelitstation på andra sidan ön."
+msgctxt "ST_Radio,JohnBroadcast05b"
+msgid "A fisherman crashed on the docks near to where I am."
+msgstr ""
 
-#. Key:	Radio05c
+#. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio05c"
-msgid "We need to get there, and stop it."
-msgstr "vi behöver ta oss dit, och stoppa sändningen."
+msgctxt "ST_Radio,JohnBroadcast05c"
+msgid "They were fine, I gave them supplies, and told them how to try and stop this."
+msgstr ""
 
-#. Key:	Radio07a
+#. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio07a"
-msgid "Arque evacuated their office facilities when the infection first broke out."
-msgstr "Arque evakuerade sina kontorsanläggningar när smittan först bröt ut."
+msgctxt "ST_Radio,JohnBroadcast05d"
+msgid "I don't think they're coming back though. I keep thinking I could have done more."
+msgstr ""
 
-#. Key:	Radio07b
+#. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio07b"
-msgid "They managed to contain it for the first few hours... but it got out."
-msgstr "De lyckades att hindra spridningen av smittan under de första timmarna...men sedan spreds den."
+msgctxt "ST_Radio,JohnBroadcast06a"
+msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr ""
 
-#. Key:	Radio08a
+#. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio08a"
-msgid "Arque brought in their security force Sokol-Glockner to deal with the outbreak."
-msgstr "Arque använde sin säkerhetsstyrka, Sokol-Glockner, för att hantera utbrottet."
+msgctxt "ST_Radio,JohnBroadcast06b"
+msgid "We need the military. Why has no-one come?"
+msgstr ""
 
-#. Key:	Radio08b
+#. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio08b"
-msgid "The next few hours were a disaster."
-msgstr "De följande timmarna var en katastrof."
+msgctxt "ST_Radio,JohnBroadcast06c"
+msgid "That company must be doing something to stop the communication."
+msgstr ""
 
-#. Key:	Radio09a
+#. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio09a"
-msgid "With this infection people don't stay dead for long."
-msgstr "Med denna smitta var folk inte döda särskilt länge."
+msgctxt "ST_Radio,JohnBroadcast07a"
+msgid "Why has no-one checked up on us? This is a small island, but there's still people..."
+msgstr ""
 
-#. Key:	Radio09b
+#. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio09b"
-msgid "Sokol and Arque killed many... but didn't count on them coming back."
-msgstr "Sokol och Arque dödade många...men räknade inte med att de skulle komma tillbaka."
+msgctxt "ST_Radio,JohnBroadcast07b"
+msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
+msgstr ""
 
-#. Key:	Radio10a
+#. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio10a"
-msgid "Sokol forces formed death squads, canvassing the island,"
-msgstr "Sokol-styrkor skapade dödskvadroner, som sträckade ön."
-
-#. Key:	Radio10b
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio10b"
-msgid "killing anything that moved. Shoot first, ask questions later."
-msgstr "Dödade allt som rörde sig. Skjut först, fråga sedan."
-
-#. Key:	Radio11a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio11a"
-msgid "Just a heads up, I'm hearing chatter on the security force radio channels."
-msgstr "Som en förvarning, jag hör snack på säkerhetsstyrkans radiokanal."
-
-#. Key:	Radio11b
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio11b"
-msgid "It looks like they're sending over a team to the facility YOU just left."
-msgstr "Det verkar som om de skickar ett team till lokalen DU nyligen lämnade."
-
-#. Key:	Radio12a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio12a"
-msgid "The infected thrive in the damp and dark areas. Keep moving, stay alert."
-msgstr "De smittade trivs i fuktiga och mörka områden. Fortsätt, och var på hugget."
-
-#. Key:	Radio14a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio14a"
-msgid "The radio chatter has picked up, looks like they've stationed a team up ahead."
-msgstr "Radiosnacket har hämtat sig, det ser ut som om de har placerat en enhet längre fram."
-
-#. Key:	Radio14b
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio14b"
-msgid "Be prepared for ANYTHING."
-msgstr "Var beredd på ALLT."
-
-#. Key:	Radio15a
-#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
-#: /Game/Resources/Localisation/ST_Radio.ST_Radio
-msgctxt "ST_Radio,Radio15a"
-msgid "They stationed at least three guards where you are, so stay alert."
-msgstr "De har placerat minst tre vakter i ditt område, var på hugget."
+msgctxt "ST_Radio,JohnBroadcast07c"
+msgid "...there's no point playing \"what if\"."
+msgstr ""
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1614,7 +1432,7 @@ msgstr "LADDAR"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Välkomen till Estranged: Akt II! Detta är ett under arbete-efterföljare till Estranged: Akt I, som också finns tillgängligt på Steam. \r\n\r\nAndra akten är ett fritidsprojekt (huvudakligen utvecklat av 1 person!) med hjälp från en ljuddesigner, bidrag från en spelnivådesigner, översättare och testare från gemenskapen. \r\n\r\nOm du har något tips eller annan återkoppling så kan du nå oss i Steam-forumen, via spelets återkoppling eller på discord.gg/estranged!"
+msgstr ""
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1635,14 +1453,14 @@ msgstr "VÄLKOMMEN TILL ESTRANGED AKT II"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "DAGARNA FÖRE EVENTEN FRÅN AKT I"
+msgstr ""
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr "FAIR ISLE, SHETLANDSÖARNA, SKOTTLAND"
+msgstr ""
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1670,12 +1488,12 @@ msgstr "TID"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "TIMMAR FÖRE EVENTEN FRÅN AKT I"
+msgstr ""
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr "OKÄND Ö, NORSKA HAVET"
+msgstr ""
 
