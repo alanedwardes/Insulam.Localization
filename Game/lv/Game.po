@@ -1208,7 +1208,7 @@ msgstr "taču kampaņas dalībnieki saka, ka tas nav nepieciešams un tikai veic
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr "Uzņēmums atteicās komentēt, kad tika jautāts, bet citi saka, ka notikšot negadījums."
+msgstr "Uzņēmums atteicās komentēt, kad tika jautāts, bet citi saka, ka notiks negadījums."
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1229,7 +1229,7 @@ msgstr "kura avoti saka, kāpēc valdība nav komentējusi šo jautājumu."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner parādījās virsrakstos, bet notikuma, kad nejauši iešāva"
+msgstr "Sokol-Glockner parādījās virsrakstos pēc notikuma, kad kāds nejauši iešāva"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1271,7 +1271,7 @@ msgstr "bet atteicās komentēt. Viņi uzstāja, ka sadarbojas ar attiecīgajām
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "Laikasptākļi - vētra Edvins turpina piezemēties,"
+msgstr "Laikapstākļi - vētra Edvins turpina piezemēties,"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1292,7 +1292,7 @@ msgstr "Meteorologi visus brīdina, ka līdz stiprākai vētrai vēl kāds laiks
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "un tāpēc vajadzētu sagatavoties piepildot vannas at ūdeni, uzkrājot ēdienu vismaz divām dienām."
+msgstr "un tāpēc vajadzētu sagatavoties piepildot vannas ar ūdeni, uzkrājot ēdienu vismaz divām dienām."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1313,7 +1313,7 @@ msgstr "Šī ir automātiska ziņa no Arque korporācijas"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr "Komandanstunda vēl ir spēkā. Lūdzu paliec iekšā."
+msgstr "Komandantstunda vēl ir spēkā. Lūdzu paliec iekšā."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1355,7 +1355,7 @@ msgstr "Es vienkārši... turpināšu pārraidīt līdz es to vairs nespēšu."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr "Garāmejoši kuģi, lidmašīnas... KĀDAM to ir jāpaņem."
+msgstr "Garāmejoši kuģi, lidmašīnas... KĀDAM to ir jāuztver."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1376,7 +1376,7 @@ msgstr "Mēs bijām brīvdienās... brīvdienās! Neviens tam nebija gatavs. Nev
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr "Es zinu kā salabot radio... vairāk"
+msgstr "Es zinu kā salabot radio... neko vairāk"
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1397,7 +1397,7 @@ msgstr "Viņiem viss bija kārtībā, es viņus apgādāju ar krājumiem un teic
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr "Nedomāju, ka viņi nāk atpakaļ. Nevaru beigt nervozēt, ka es būtu varējis izdarīt vēl vairāk."
+msgstr "Nedomāju, ka viņi nāk atpakaļ. Nevaru beigt nervozēt par to, ka es būtu varējis izdarīt vēl vairāk."
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1488,7 +1488,7 @@ msgstr "FAIR ISLE, ŠETLENDA, SKOTIJA"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeLevelLabel"
 msgid "LEVEL"
-msgstr "lĪMENIS"
+msgstr "LĪMENIS"
 
 #. Key:	RangePointsLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
