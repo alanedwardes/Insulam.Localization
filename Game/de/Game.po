@@ -1,18 +1,17 @@
+﻿# Game German translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-01-26 23:50\n"
-"PO-Revision-Date: 2019-01-31 13:23+0100\n"
+"POT-Creation-Date: 2019-02-02 12:35\n"
+"PO-Revision-Date: 2019-02-02 12:35\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.2.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1306,8 +1305,8 @@ msgstr "Das war von mir vorerst alles, nehmen sie morgen um 7 Uhr am Breakfast B
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
-msgid "This is an automated message from Arque corporation."
-msgstr "Das ist eine automatisierte Nachricht von der Arque Corporation."
+msgid "This is an automated message from Arque Corporation."
+msgstr ""
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1369,8 +1368,8 @@ msgstr "Ich wurde von meiner Frau und meiner Tochter getrennt, als diese Dinger 
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
-msgid "We were on holiday... holiday! No-one is prepared for this. No-one can be."
-msgstr "Wir waren im Urlaub... im Urlaub! Niemand ist auf dies vorbereitet. Niemand kann das sein."
+msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
+msgstr ""
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1411,8 +1410,8 @@ msgstr "Eine Bitte, an JEDEM der dies hören kann.... Wenn Sie denken, dass es h
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
-msgid "We need the military. Why has no-one come?"
-msgstr "Wir benötigten das Militär. Aber warum ist niemand gekommen?"
+msgid "We need the military. Why has no one come?"
+msgstr ""
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1425,8 +1424,8 @@ msgstr "Diese Firma musste etwas unternommen haben, um die Übertragung zu stopp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
-msgid "Why has no-one checked up on us? This is a small island, but there's still people..."
-msgstr "Warum hat niemand nach uns gesucht? Das ist eine kleine Insel, aber es gibt hier immer noch Menschen..."
+msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgstr ""
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1518,3 +1517,4 @@ msgstr "STUNDEN NACH DEN EREIGNISSEN VON AKT I"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "AUF EINER UNBEKANNTEN INSEL, IM NORWEGISCHEN MEER"
+
