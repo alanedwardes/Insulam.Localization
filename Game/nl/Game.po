@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-01-26 23:50\n"
-"PO-Revision-Date: 2019-01-26 23:50\n"
+"POT-Creation-Date: 2019-02-02 12:35\n"
+"PO-Revision-Date: 2019-02-02 12:35\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -193,7 +193,7 @@ msgstr "Hoofdstuk 3"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
-msgstr ""
+msgstr "Hoofdstuk 4"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -452,7 +452,7 @@ msgstr "Commentaar in spel"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr ""
+msgstr "Omgevingsocclusie uitschakelen"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -795,7 +795,7 @@ msgstr "Y-as van de muis omkeren"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Dit is Gareth Thomas. We hebben de algenproefmonsters geanalyseerd"
+msgstr "Dit is Gareth Thomas. We hebben de algenproefmonsters geanalyseerd..."
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -816,21 +816,21 @@ msgstr "We verwachten niet dat ons gebruik van de algen door het plankton wordt 
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "We beschouwen het als volledig onschadelijk en verwachten niet dat het een probleem zal worden."
+msgstr "We beschouwen het als onschadelijk en verwachten niet dat het een probleem zal worden."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Dit is het uh, audiologboek, #1, uh, van Liam Jones."
+msgstr "Dit is het uh, audiologboek, #1, van Liam Jones."
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "We zijn net begonnen met het bestuderen van de algen, en uh..."
+msgstr "We zijn net begonnen met het bestuderen van de algen, en..."
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -844,14 +844,14 @@ msgstr "We realiseren ons dat het gloeit wanneer je het een tijdje met rust laat
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "Dus, uh, dat is cool! Uh, heb hier een monstertje bij me dat..."
+msgstr "Dus, dat is cool! Heb hier een monstertje bij me dat..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr "...ik even in mijn kantoor laat liggen, gewoon om te zien wat ermee gebeurt."
+msgstr "ik even in mijn kantoor laat liggen, gewoon om te zien wat ermee gebeurt."
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -865,35 +865,35 @@ msgstr "Dit is, uh, logboek #2, van Liam Jones."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "Doe dat gewoon, Hawthorne. Laat ze gewoon weten dat ik hem verkeerd heb weggelegd en dat ik een nieuwe nodig heb"
+msgstr "Doe dat gewoon. Laat ze weten dat ik hem verkeerd heb weggelegd en dat ik een nieuwe nodig heb."
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "of je kunt zelfs zeggen dat ik een reservepenning nodig heb, nog eentje... Ik weet niet zeker waar ie is"
+msgstr "Je kunt zelfs zeggen dat ik een reservepenning nodig heb, nog eentje... Ik weet niet zeker waar ie is."
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "...ik heb gewoon een nieuwe penning nodig. Daar gaat het om"
+msgstr "Ik heb gewoon een nieuwe penning nodig. Daar gaat het om."
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr "dus als je de penningmensen kunt mailen, Hawthorne"
+msgstr "Dus als je de penningmensen kunt mailen, Hawthorne..."
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr "en uh, een nieuwe penning voor me kunt regelen, zou dat fijn zijn. Oké."
+msgstr "en een nieuwe penning voor me kunt regelen, zou dat fijn zijn."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -921,28 +921,28 @@ msgstr "Hé, Hawthorne, als je de kans krijgt; ik ben m'n penning verloren..."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "maar als je met die penningmensen praat, zeg je gewoon, uhm... zo van, uh..."
+msgstr "maar als je met die penningmensen praat, zeg je gewoon... zo van..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "Weet ik veel, iemand- Nee, nee, niemand heeft hem gepakt, dat is een slechte reden."
+msgstr "Weet ik veel, iemand- Nee, niemand heeft hem gepakt, dat is een slechte reden."
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Een vos glipte naar binnen en pakte mijn penning, en uhm, nu kan ik niet in de hoofdfaciliteit komen."
+msgstr "Een vos glipte naar binnen en pakte mijn penning, en nu kan ik niet in de hoofdfaciliteit komen."
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Dus, um, als je ze gewoon dat kunt vertellen... omdat ze de vorige keer zeiden"
+msgstr "Dus, als je ze gewoon dat kunt vertellen... omdat ze de vorige keer zeiden..."
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -956,21 +956,21 @@ msgstr "dat het mijn fout was en ze een beetje terughoudend waren om hem te verv
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Dit is Liam Jones, de beveiligingstechnicus voor levende proefmonsters ter plaatse. We hebben"
+msgstr "Dit is Liam Jones, de beveiligingstechnicus voor levende proefmonsters ter plaatse. We hebben..."
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Dr. Frederick Prezella net in de observatiekamer gelaten. Hij werd, uh, agressief"
+msgstr "dr. Frederick Prezella net in de observatiekamer gelaten. Hij werd... agressief..."
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "en viel een van mijn personeelsleden aan, dus we houden hem"
+msgstr "en viel een van mijn personeelsleden aan, dus we houden hem..."
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1012,21 +1012,21 @@ msgstr "En {name} (jij!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr ""
+msgstr "Laten barsten"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr ""
+msgstr "Afgeloste wacht"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr ""
+msgstr "Vechten of vluchten"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1124,7 +1124,7 @@ msgstr "Als iemand dit kan horen, mijn naam is Johnathan Derril."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr ""
+msgstr "Als iemand dit kan horen, ik heb hulp nodig."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1180,7 +1180,7 @@ msgstr "Gaat u verder. Nog een fijne dag."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
 msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
-msgstr "Het particuliere beveiligingsbedrijf Sokol-Glockner is voor de tweede keer dit jaar bekritiseerd"
+msgstr "Het particuliere beveiligingsbedrijf Sokol-Glockner is voor de tweede keer dit jaar bekritiseerd..."
 
 #. Key:	NewsReport02
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1194,7 +1194,7 @@ msgstr "vanwege het met scherp schieten in beschermingstaken."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
 msgid "The company’s policy states that live ammunition is to be used on all assignments,"
-msgstr "Het beleid van het bedrijf stelt dat er bij elke taak met scherp geschoten dient te worden,"
+msgstr "Het bedrijfsbeleid stelt dat er bij elke taak met scherp geschoten dient te worden..."
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1215,7 +1215,7 @@ msgstr "Het bedrijf weigerde om commentaar te geven, maar anderen zeggen dat het
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
 msgid "The government contractor is responsible for a number of overseas operations,"
-msgstr "De overheidscontractant is verantwoordelijk voor een aantal overzeese operaties,"
+msgstr "De overheidscontractant is verantwoordelijk voor een aantal overzeese operaties..."
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1229,7 +1229,7 @@ msgstr "waarvan bronnen zeggen dat dat de reden is dat de overheid hier niet op 
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner kwam eerder dit jaar al in het nieuws vanwege de betrokkenheid bij een schietpartij"
+msgstr "Sokol-Glockner kwam eerder dit jaar al in het nieuws vanwege de betrokkenheid bij een schietpartij..."
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1257,7 +1257,7 @@ msgstr "Dokters bevestigden later dat er een kogel in zijn been zat."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr "Sokol-Glockner bevestigde dat de kogel uit een van hun wapens was afgeschoten,"
+msgstr "Sokol-Glockner bevestigde dat de kogel uit een van hun wapens was afgeschoten..."
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1271,7 +1271,7 @@ msgstr "maar weigerde op de zaak te reageren. Het drong erop aan dat met de rele
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "Nu tijd voor het weer: storm Edwin houdt aan op het land,"
+msgstr "Nu tijd voor het weer: storm Edwin houdt aan op het land..."
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1285,7 +1285,7 @@ msgstr "maar voor inwoners in het noorden blijft het vandaag rustig."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorologen waarschuwen echter dat de ergste storm nog moet komen"
+msgstr "Meteorologen waarschuwen echter dat de ergste storm nog moet komen..."
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1305,7 +1305,7 @@ msgstr "Hiermee sluiten we af. Kijk morgen om 7 uur weer voor het ochtendnieuws.
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
-msgid "This is an automated message from Arque corporation."
+msgid "This is an automated message from Arque Corporation."
 msgstr ""
 
 #. Key:	ArqueBroadcast01b
@@ -1313,62 +1313,62 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr ""
+msgstr "Er is een verplichte avondklok van kracht. Blijft u binnen."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr ""
+msgstr "Als IEMAND hiernaar luistert, ik heb hulp nodig."
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr ""
+msgstr "Ze zenden een avondklokbericht uit, maar..."
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr ""
+msgstr "Ik begrijp niet waarom. Is er een storing?"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr ""
+msgstr "God, ik hoop niet dat ze dit proberen te verdoezelen..."
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "I'm just going to... continue broadcasting until I can't anymore."
-msgstr ""
+msgstr "Ik blijf gewoon... uitzenden totdat ik niet meer kan."
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr ""
+msgstr "Schepen of vliegtuigen in de buurt... IETS moet dit toch kunnen oppikken."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr ""
+msgstr "Ik ben van mijn vrouw en dochter gescheiden toen die dingen kwamen."
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
-msgid "We were on holiday... holiday! No-one is prepared for this. No-one can be."
+msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
 msgstr ""
 
 #. Key:	JohnBroadcast05a
@@ -1376,41 +1376,41 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr ""
+msgstr "Ik weet hoe ik radio's kan repareren, maar dan houdt het ook op."
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05b"
 msgid "A fisherman crashed on the docks near to where I am."
-msgstr ""
+msgstr "Hier vlakbij is een visser op de steigers geknald."
 
 #. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr ""
+msgstr "Er was niets aan de hand. Ik heb hem voorraden gegeven en gezegd hoe hij dit kon proberen te stoppen."
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr ""
+msgstr "Ik denk alleen niet dat ie terugkomt. Misschien had ik meer kunnen doen."
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr ""
+msgstr "Alsjeblieft, als IEMAND hiernaar luistert. Als je denkt dat het hier erg is... het is nog erger."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
-msgid "We need the military. Why has no-one come?"
+msgid "We need the military. Why has no one come?"
 msgstr ""
 
 #. Key:	JohnBroadcast06c
@@ -1418,13 +1418,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr ""
+msgstr "Het bedrijf knoeit waarschijnlijk met de communicatie."
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
-msgid "Why has no-one checked up on us? This is a small island, but there's still people..."
+msgid "Why has no one checked up on us? This is a small island, but there's still people..."
 msgstr ""
 
 #. Key:	JohnBroadcast07b
@@ -1432,14 +1432,14 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr ""
+msgstr "Hadden we deze vakantie maar nooit geboekt... Konden we het maar terugdraaien. God..."
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr ""
+msgstr "Het heeft geen zin om te speculeren."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
