@@ -1,17 +1,18 @@
-﻿# Game Bulgarian translation.
 # Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-02-02 12:35\n"
-"PO-Revision-Date: 2019-02-02 12:35\n"
+"PO-Revision-Date: 2019-02-02 17:07+0000\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -116,21 +117,21 @@ msgstr "Използвай компютъра"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr ""
+msgstr "Нищо"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr ""
+msgstr "Натисни клавиш"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
-msgstr ""
+msgstr "Anti-Aliasing"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -193,7 +194,7 @@ msgstr "Глава 3"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
-msgstr ""
+msgstr "Глава 4"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -452,7 +453,7 @@ msgstr "Коментари в играта"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr ""
+msgstr "Изключване на обграждащите сянки"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -620,7 +621,7 @@ msgstr "ЧАСТ II РАНЕН ДОСТЪП"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTitle"
 msgid "ESTRANGED"
-msgstr ""
+msgstr "ESTRANGED"
 
 #. Key:	LabelEnterCheat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1012,21 +1013,21 @@ msgstr "И {name} (Ти!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr ""
+msgstr "През пукнатините"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr ""
+msgstr "След изоставянето"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr ""
+msgstr "Борба или полет"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1053,8 +1054,12 @@ msgstr "Помогнете и Вие с превода!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Временен завършване на играта.\r\nПовече съдържание очаквайте скоро!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Временен завършване на играта.\r\n"
+"Повече съдържание очаквайте скоро!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1124,7 +1129,7 @@ msgstr "Ако някой може да ме чуе, името ми е Джон
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr ""
+msgstr "Ако някой може да чуе това, имам нужда от помощ."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1306,140 +1311,140 @@ msgstr "Това е всичко от мен, бъдете със нас и ут
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque Corporation."
-msgstr ""
+msgstr "Това е автоматизирано съобщение от корпорация Арк."
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr ""
+msgstr "Задължителният вечерен час е в сила. Моля останете вътре."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr ""
+msgstr "Ако НЯКОЙ слуша това, имам нужда от помощ."
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr ""
+msgstr "Те разпространяват съобщението за вечерния час, но..."
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr ""
+msgstr "Не разбирам защо. Дали това е неизправност?"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr ""
+msgstr "Господи, надявам се не се опитват да покрият това..."
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "I'm just going to... continue broadcasting until I can't anymore."
-msgstr ""
+msgstr "Аз просто ще... продължа на пращам съобщението докато не мога повече."
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr ""
+msgstr "Преминаващи кораби, самолети... НЯКОЙ трябва да го засече."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr ""
+msgstr "Бях разделен от жена си и дъщеря си когато нещата дойдоха."
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
 msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
-msgstr ""
+msgstr "Ние бяхме на почивка... Почивка! Никой не е подготвен за това. Никой не може да бъде."
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr ""
+msgstr "Знам как да проправям радиостанции... няма какво друго на направя."
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05b"
 msgid "A fisherman crashed on the docks near to where I am."
-msgstr ""
+msgstr "Един рибар се разби на доковете близо до мястото където съм."
 
 #. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr ""
+msgstr "Той беше добре, дадох му провизии и му казах как да се опита да спре това."
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr ""
+msgstr "Не мисля, че ще се върне обаче. Все продължавам да си мисля, че можех да направя повече."
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr ""
+msgstr "Моля ви, КОЙТО и да слуша това. Ако мислите, че е лошо тук... много по-лошо е."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
 msgid "We need the military. Why has no one come?"
-msgstr ""
+msgstr "Нуждаем се от военните. Защо никой не е дошъл до сега?"
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr ""
+msgstr "Тази компания най-вероятно прави нещо, за да спира комуникацията."
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr ""
+msgstr "Защо никой не е проверил как сме? Това е малък остров, но все още има хора..."
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr ""
+msgstr "Иска ми се никога да не бяхме запазвали тази почивка... Ако можех да върна последните няколко месеца... Господи..."
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr ""
+msgstr "…няма смисъл да играя на \"Какво щеше да е ако\"."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1452,8 +1457,18 @@ msgstr "ЗАРЕЖДАНЕ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Добре дошли в Estranged: Act II! Това е продължение в процес на разработка на Estranged: Act I, която също може да намерите в Steam.\n\nAct II е проект, който се разработва през свободното време (главно от един човек!) с помощта на звуков дизайнер, хора, които допринасят за дизайна на нивата, общество от преводачи и хора, които тестват.\n\nАко имате някакви отзиви, ние сме винаги на разположение във форума на Steam, чрез прозореца за отзиви в играта или на discord.gg/estranged!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr ""
+"Добре дошли в Estranged: Act II! Това е продължение в процес на разработка на Estranged: Act I, която също може да намерите в Steam.\n"
+"\n"
+"Act II е проект, който се разработва през свободното време (главно от един човек!) с помощта на звуков дизайнер, хора, които допринасят за дизайна на нивата, общество от преводачи и хора, които тестват.\n"
+"\n"
+"Ако имате някакви отзиви, ние сме винаги на разположение във форума на Steam, чрез прозореца за отзиви в играта или на discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1474,14 +1489,14 @@ msgstr "ДОБРЕ ДОШЛИ В ESTRANGED ЧАСТ II"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr ""
+msgstr "ДНИ ПРЕДИ СЪБИТИЯТА ОТ ЧАСТ I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr ""
+msgstr "ФЕЪР АЙЛ, ШЕТЛАНД, ШОТЛАНДИЯ"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1509,12 +1524,11 @@ msgstr "ВРЕМЕ"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr ""
+msgstr "ЧАСОВЕ СЛЕД СЪБИТИЯТА ОТ ЧАСТ I"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr ""
-
+msgstr "НЕИЗВЕСТЕН ОСТРОВ, НОРВЕЖКО МОРЕ"
