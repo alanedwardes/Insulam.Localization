@@ -452,7 +452,7 @@ msgstr "Komentēšana spēles laikā"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr "Atspējot vides oklūziju"
+msgstr "Atspējot apkārtējās vides nosprostojumu"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1306,14 +1306,14 @@ msgstr "Tas šoreiz viss no manīm, pievinojieties mums rītdien septiņos Broka
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque Corporation."
-msgstr ""
+msgstr "Šis ir automātisks paziņojums no Arque Korporācijas."
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr "Komandantstunda vēl ir spēkā. Lūdzu paliec iekšā."
+msgstr "Komandantstunda vēl ir spēkā. Lūdzu palieciet iekšā."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1327,7 +1327,7 @@ msgstr "Ja KĀDS šo dzird, man nepieciešama palīdzība."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr "Viņi pārraida komandantstundas ziņu, bet"
+msgstr "Viņi pārraida paziņojumu par komandantstundu, bet"
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1355,7 +1355,7 @@ msgstr "Es vienkārši... turpināšu pārraidīt līdz es to vairs nespēšu."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr "Garāmejoši kuģi, lidmašīnas... KĀDAM to ir jāuztver."
+msgstr "Garāmejoši kuģi, lidmašīnas... KĀDAM mani ir jāuztver."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1369,7 +1369,7 @@ msgstr "Es tiku nošķirts no savas sievas un meitas, kad atnāca šīs būtnes.
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
 msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
-msgstr ""
+msgstr "Mēs bijām brīvdienās... brīvdienās! Neviens tam nebija gatavs. Neviens nevarēja būt tam gatavs."
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1390,7 +1390,7 @@ msgstr "Zvejnieks avaŗēja dokos netālu no manis."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr "Viņiem viss bija kārtībā, es viņus apgādāju ar krājumiem un teicu, lai mēgina to apturēt."
+msgstr "Viņam viss bija kārtībā, es viņu apgādāju ar krājumiem un teicu, lai mēgina šo apturēt."
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1404,14 +1404,14 @@ msgstr "Nedomāju, ka viņi nāk atpakaļ. Nevaru beigt nervozēt par to, ka es 
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr "Lūdzu, JEBKURŠ, kurš šo klausās. Ja domā, ka šeit iet slikti... te ir vēl sliktāk."
+msgstr "Lūdzu, JEBKURŠ, kurš šo ziņu klausās. Ja domā, ka šeit iet slikti... te ir vēl sliktāk."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
 msgid "We need the military. Why has no one come?"
-msgstr ""
+msgstr "Mums ir nepieciešama armija. Kāpēc neviens vēl nav atnācis?"
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1425,7 +1425,7 @@ msgstr "Tai kompānijai kaut kas jādara, lai apturētu saziņu."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr ""
+msgstr "Kāpēc mūs neviens vēl nav apmeklējis? Šī ir maza sala, taču te joprojām dzīvo cilvēki..."
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1439,7 +1439,7 @@ msgstr "Es vēlos kaut es nekad nebūtu pasūtījis šo brīvdienu... kaut es va
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr "... nav jēgas spēlēt \"kas būtu, ja\"."
+msgstr "... nav jēgas spriest \"kas būtu, ja\"."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
