@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-02-13 23:27\n"
-"PO-Revision-Date: 2019-02-13 23:27\n"
+"POT-Creation-Date: 2019-03-16 15:41\n"
+"PO-Revision-Date: 2019-03-16 15:41\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -81,6 +81,13 @@ msgstr "Muoviti"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
+msgstr ""
+
+#. Key:	HintPickaxe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickaxe"
+msgid "Pickaxe"
 msgstr ""
 
 #. Key:	HintPickUp
@@ -489,6 +496,13 @@ msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
 msgstr ""
 
+#. Key:	CheckboxDisableSubtitles
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSubtitles"
+msgid "Disable Subtitles"
+msgstr ""
+
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -789,6 +803,55 @@ msgstr "Volume della voce"
 msgctxt "Menus,TooltipInvertMouse"
 msgid "Invert the mouse Y axis"
 msgstr "Inverti l'asse Y del mouse"
+
+#. Key:	ArcheologistDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part1"
+msgid "The skeletons here are confirmed to be sailors and pirates."
+msgstr ""
+
+#. Key:	ArcheologistDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part2"
+msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
+msgstr ""
+
+#. Key:	ArcheologistDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part1"
+msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgstr ""
+
+#. Key:	ArcheologistDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part2"
+msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
+msgstr ""
+
+#. Key:	ArcheologistDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part3"
+msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
+msgstr ""
+
+#. Key:	ArcheologistDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part1"
+msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgstr ""
+
+#. Key:	ArcheologistDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part2"
+msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
+msgstr ""
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
