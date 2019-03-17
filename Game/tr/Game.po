@@ -88,7 +88,7 @@ msgstr "Kapıyı Aç"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickaxe"
 msgid "Pickaxe"
-msgstr ""
+msgstr "Kazma"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -501,7 +501,7 @@ msgstr "Ekran Saçağını Kapat"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSubtitles"
 msgid "Disable Subtitles"
-msgstr ""
+msgstr "Altyazıları Kapat"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -809,49 +809,49 @@ msgstr "Fareyi Y Ekseninde çevir"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "The skeletons here are confirmed to be sailors and pirates."
-msgstr ""
+msgstr "Bu iskeletlerin korsanlara ve denizcilere ait olduğu belirlendi."
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part2"
 msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
-msgstr ""
+msgstr "En iyi tahminimiz Britanya Deniz Kuvvetlerinden kaçıyorlardı ve adada kaldılar."
 
 #. Key:	ArcheologistDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "The pirates and sailors were involved in some kind of internal conflict."
-msgstr ""
+msgstr "Korsanlar ve denizciler bir çeşit iç çatışma girmişler."
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part2"
 msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
-msgstr ""
+msgstr "Bu alanda bulduğumuz değerli eserler yüzünden savaşa girdiklerini düşünüyoruz."
 
 #. Key:	ArcheologistDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part3"
 msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
-msgstr ""
+msgstr "Bu mağarada sarhoş oldukları düşünüyoruz ve kemiklerdeki ısırmaların insan tarafından yapıldığını düşünüyoruz."
 
 #. Key:	ArcheologistDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr ""
+msgstr "Birkaç kişiyi hasta olduklarından dolayı takımdan çıkardık"
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part2"
 msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
-msgstr ""
+msgstr "Bundan sonra TEHLİKELİ MMADDE kıyafetleri giyeceğiz.Güvenli olmadığını biliyoruz."
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1369,7 +1369,7 @@ msgstr "Bugün benden yeter, yarın saat 7 de bize Breakfast Burst'de eşlik edi
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque Corporation."
-msgstr ""
+msgstr "Bu Arque Şirketi tarafından gönderilen bir otomatik mesajdır."
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
