@@ -1,4 +1,4 @@
-﻿# Game Slovak translation.
+﻿# Game Khmer translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -7,627 +7,627 @@ msgstr ""
 "POT-Creation-Date: 2019-04-07 14:36\n"
 "PO-Revision-Date: 2019-04-07 14:36\n"
 "Language-Team: \n"
-"Language: sk\n"
+"Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
-msgstr "Zohnúť sa"
+msgstr "អោន"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "Vystreliť z M9"
+msgstr "បាញ់ M9"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
-msgstr "Prepnúť baterku"
+msgstr "កំណាត់នៃពិល"
 
 #. Key:	HintFlee
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr "Ujsť"
+msgstr "រត់ចេញ"
 
 #. Key:	HintGameSaved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr "Hra uložená"
+msgstr "បានរក្សាហ្វេម"
 
 #. Key:	HintInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr "Interakcia"
+msgstr "ចាប់អារម្មណ៏"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr "Vyskočiť"
+msgstr "លោត"
 
 #. Key:	HintLoading
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintLoading"
 msgid "Loading"
-msgstr "Načítavanie"
+msgstr "កំពុងដំណើរការ"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintMove"
 msgid "Move around"
-msgstr "Pohyb"
+msgstr "ផ្លាស់ប្ដូរទីកន្លែង"
 
 #. Key:	HintOpenGate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr "Otvoriť bránu"
+msgstr "បើករបង"
 
 #. Key:	HintPickaxe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickaxe"
 msgid "Pickaxe"
-msgstr "Čakan"
+msgstr "ជីកជប"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickUp"
 msgid "Pick up object"
-msgstr "Zodvyhnúť objekt"
+msgstr "លើកវត្ថុ"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintThrowRock"
 msgid "Throw rock"
-msgstr "Hodiť kameň"
+msgstr "គប់ដំថ្ម"
 
 #. Key:	HintTurnOnTv
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintTurnOnTv"
 msgid "Turn on TV"
-msgstr "Zapnúť televíziu"
+msgstr "បើកទូរទស្សន៏"
 
 #. Key:	HintUseMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
-msgstr "Ovládať počítač"
+msgstr "ប្រើប្រាស់កុំព្យូទ័រ"
 
 #. Key:	BindingNotSet
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr "Nič"
+msgstr "គ្មាន"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr "Stlačte klávesu"
+msgstr "ចុចបេតុង"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
-msgstr "Vyhladzovanie Hrán"
+msgstr "ប្រឆាំងការដូរឈ្មោះ/ក្លែងឈ្មោះ"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAdvanced"
 msgid "Advanced"
-msgstr "Pokročilé"
+msgstr "បន្ថែម"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
-msgstr "Použiť Zmeny"
+msgstr "ផ្លាស់ប្ដូរ"
 
 #. Key:	ButtonArcade
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr "Arkáda"
+msgstr "Arcade"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAutoDetectSettings"
 msgid "Auto-Detect Settings"
-msgstr "Automaticky Detekovať Nastavenia"
+msgstr "Settings​ ដំណើរការដោយខ្លួនឯង"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonBack"
 msgid "Back"
-msgstr "Späť"
+msgstr "ថយក្រោយ"
 
 #. Key:	ButtonChapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr "Kapitola 1"
+msgstr "ភាគ 1"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr "Kapitola 2"
+msgstr "ភាគ 2"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr "Kapitola 3"
+msgstr "ភាគ 3"
 
 #. Key:	ButtonChapter4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
-msgstr "Kapitola 4"
+msgstr "ភាគ 4"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr "Ovládanie"
+msgstr "ការបញ្ជា"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonCredits"
 msgid "Load Credits"
-msgstr "Načítať titulky"
+msgstr "កំពុងដំណើរការ Credits"
 
 #. Key:	ButtonEffects
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonEffects"
 msgid "Effects"
-msgstr "Efekty"
+msgstr "ការប្លាស់ប្ដូរ"
 
 #. Key:	ButtonExit
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExit"
 msgid "Exit"
-msgstr "Odísť"
+msgstr "ចាកចេញ"
 
 #. Key:	ButtonExitToMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExitToMenu"
 msgid "Exit to Menu"
-msgstr "Odísť do Menu"
+msgstr "ចាកចេញទៅមេនុយ"
 
 #. Key:	ButtonExtras
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExtras"
 msgid "Extras"
-msgstr "Bonusy"
+msgstr "បន្ថែម"
 
 #. Key:	ButtonFeedback
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFeedback"
 msgid "Send Feedback"
-msgstr "Poslať spätnú väzbu"
+msgstr "ផ្ដល់យូបល់"
 
 #. Key:	ButtonFoliage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
-msgstr "Vegetácia"
+msgstr "Foliage"
 
 #. Key:	ButtonGameplayOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGameplayOptions"
 msgid "Gameplay"
-msgstr "Hrateľnosť"
+msgstr "ការលេង"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
-msgstr "Grafika"
+msgstr "Graphics"
 
 #. Key:	ButtonGuides
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr "Návody"
+msgstr "ការណែនាំ"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr "Sklad (Horda)"
+msgstr "ក្រុមផ្ទះទុកអីវាន"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadGame"
 msgid "Load Game"
-msgstr "Načítať hru"
+msgstr "ដំណើរការ​ ហ្វេម"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonNewGame"
 msgid "New Game"
-msgstr "Nová Hra"
+msgstr "ហ្វេមថ្មី"
 
 #. Key:	ButtonPostProcess
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
-msgstr "Post Processing"
+msgstr "Post-process"
 
 #. Key:	ButtonPrelude
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPrelude"
 msgid "Prelude"
-msgstr "Predohra"
+msgstr "ការផ្ដើម"
 
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonRange"
 msgid "Shooting Range"
-msgstr "Streľnica"
+msgstr "Shooting Range"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
-msgstr "Pokračovať v Hre"
+msgstr "បន្ត ហ្វេម"
 
 #. Key:	ButtonSaveGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveGame"
 msgid "Save Game"
-msgstr "Uložiť hru"
+msgstr "រក្សា​​ ហ្វេម"
 
 #. Key:	ButtonSaveLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveLoad"
 msgid "Save / Load"
-msgstr "Uložiť / Načítať"
+msgstr "រក្សា/ដំណើរការ​ ហ្វេម"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonScreenOptions"
 msgid "Screen"
-msgstr "Obrazovka"
+msgstr "អេក្រង់"
 
 #. Key:	ButtonShadows
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShadows"
 msgid "Shadows"
-msgstr "Tiene"
+msgstr "ស្រមោល"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSoundOptions"
 msgid "Sound"
-msgstr "Zvuk"
+msgstr "សំលេង"
 
 #. Key:	ButtonSP01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP01"
 msgid "1. Fall"
-msgstr "1. Pád"
+msgstr "1. Fall"
 
 #. Key:	ButtonSP02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP02"
 msgid "2. Scaffolding"
-msgstr "2. Lešenie"
+msgstr "2. Scaffolding"
 
 #. Key:	ButtonSP03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP03"
 msgid "3. Pool"
-msgstr "3. Nádrž"
+msgstr "3. អាងទឹក"
 
 #. Key:	ButtonSP04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP04"
 msgid "4. Mine"
-msgstr "4. Baňa"
+msgstr "4. រុនក្រោមដី"
 
 #. Key:	ButtonSP05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP05"
 msgid "5. Lab"
-msgstr "5. Laboratórium"
+msgstr "5. ទីពិសាធន័"
 
 #. Key:	ButtonSP06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP06"
 msgid "6. Clearing"
-msgstr "6. Čistina"
+msgstr "6. Clearing"
 
 #. Key:	ButtonSP07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP07"
 msgid "7. Sewer"
-msgstr "7. Kanál"
+msgstr "7. Sewer"
 
 #. Key:	ButtonSP08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP08"
 msgid "8. Elevator"
-msgstr "8. Výťah"
+msgstr "8. ជណ្ដើរយន្ត"
 
 #. Key:	ButtonSP09
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP09"
 msgid "9. Forest"
-msgstr "9. Les"
+msgstr "9. ព្រៃឈើ"
 
 #. Key:	ButtonSP10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
-msgstr "10. Štrbina"
+msgstr "10. Crevice"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonTextures"
 msgid "Textures"
-msgstr "Textúry"
+msgstr "Textures"
 
 #. Key:	ButtonViewDistance
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr "Dohľadnosť"
+msgstr "View Distance"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
-msgstr "Herný Komentár"
+msgstr "In-Game Commentary"
 
 #. Key:	CheckboxDisableAmbientOcclusion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr "Vypnúť Zatienenie Okolia"
+msgstr "បិទ Ambient Occlusion"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
-msgstr "Vypnúť Hĺbku Ostrosti"
+msgstr "បិទ Depth of Field"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHighlight"
 msgid "Disable Object Highlight"
-msgstr "Vypnúť Označovanie Objektov"
+msgstr "បិទវត្ថុ Highlight"
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHUD"
 msgid "Disable HUD"
-msgstr "Skryť HUD"
+msgstr "បិទ HUD"
 
 #. Key:	CheckboxDisableMotionBlur
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr "Vypnúť Rozmazanie Pohybu"
+msgstr "បិទ Motion Blur"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr "Vypnúť Olemovanie Scény"
+msgstr "បិទ Scene Fringe"
 
 #. Key:	CheckboxDisableSubtitles
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSubtitles"
 msgid "Disable Subtitles"
-msgstr ""
+msgstr "បិទ Subtitles"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
-msgstr "Vypnúť Vinetáciu"
+msgstr "បិទ Vignette"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableStatsForNerds"
 msgid "Enable On-Screen Stats"
-msgstr "Zapnúť štatistiky na obrazovke"
+msgstr "បើក On-Screen Stats"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxInvertMouse"
 msgid "Invert Mouse"
-msgstr "Invertovať Myš"
+msgstr "Invert Mouse"
 
 #. Key:	CheckboxLaptopMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopMode"
 msgid "Laptop Mode"
-msgstr "Laptopový Mód"
+msgstr "ទំរង់លេបថប"
 
 #. Key:	CheckboxLaptopModeHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "Limituje snímkovú frekvenciu na 30FPS aby boli zariadenia ako napr. laptopy chladnejšie počas hrania."
+msgstr "កំណត់ frame rate ទៅ 30FPS ដើម្បី ទុក mobile devices ដូចជា laptops ត្រជាកពេលលេង."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxVSync"
 msgid "VSync"
-msgstr "Vertikálna Synchronizácia"
+msgstr "VSync"
 
 #. Key:	DropdownAAMethod
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownAAMethod"
 msgid "AA Method"
-msgstr "Metóda Vyhladzovania"
+msgstr "AA Method"
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Culture"
-msgstr "Kultúra"
+msgstr "វប្បធម៌"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeEpic"
 msgid "Epic"
-msgstr "Epické"
+msgstr "Epic"
 
 #. Key:	DropdownItemQualityModeHigh
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeHigh"
 msgid "High"
-msgstr "Vysoké"
+msgstr "ខ្លាំង"
 
 #. Key:	DropdownItemQualityModeLow
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeLow"
 msgid "Low"
-msgstr "Nízke"
+msgstr "ខ្សោយ"
 
 #. Key:	DropdownItemQualityModeMedium
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeMedium"
 msgid "Medium"
-msgstr "Stredné"
+msgstr "មធ្យម"
 
 #. Key:	DropdownItemWindowModeFullscreen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeFullscreen"
 msgid "Fullscreen"
-msgstr "Celá Obrazovka"
+msgstr "ពេញរូបភាព"
 
 #. Key:	DropdownItemWindowModelBorderless
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModelBorderless"
 msgid "Borderless"
-msgstr "Bez Okrajov"
+msgstr "គ្មានBorder"
 
 #. Key:	DropdownItemWindowModeWindowed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeWindowed"
 msgid "Window"
-msgstr "Okno"
+msgstr "Window"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownResolution"
 msgid "Resolution"
-msgstr "Rozlíšenie"
+msgstr "ទំហំ"
 
 #. Key:	DropdownWindowMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr "Režim Okna"
+msgstr "ទំរង់ Window"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II EARLY ACCESS"
-msgstr "ACT II PREDBEŽNÝ PRÍSTUP"
+msgstr "ACT II លេងមុន"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -641,126 +641,126 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr "Zadať Cheat"
+msgstr "បញ្ចូល កូដនៃការបញ្ឆោត (cheat)"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptions"
 msgid "Experimental Options"
-msgstr "Experimentálne Možnosti"
+msgstr "ការរើសយកពិសោទ Options"
 
 #. Key:	LabelExperimentalOptionsHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
-msgstr "Tieto možnosti sú experimentálne a môžu byť neskôr odstránené."
+msgstr "ការរើសយកទាំងនោះគឺជាការពិសាធ និងអាចបាត់បង់បា​ន។"
 
 #. Key:	MenuArcade
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuArcade"
 msgid "ARCADE"
-msgstr "ARKÁDA"
+msgstr "ARCADE"
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuControlOptions"
 msgid "CONTROLS"
-msgstr "OVLÁDANIE"
+msgstr "ការបញ្ជា"
 
 #. Key:	MenuExtraOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuExtraOptions"
 msgid "EXTRAS"
-msgstr "BONUSY"
+msgstr "បន្ថែម"
 
 #. Key:	MenuGameplay
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuGameplay"
 msgid "GAMEPLAY"
-msgstr "HRATEĽNOSŤ"
+msgstr "GAMEPLAY"
 
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuGraphicsOptions"
 msgid "GRAPHICS"
-msgstr "GRAFIKA"
+msgstr "GRAPHICS"
 
 #. Key:	MenuLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr "NAČÍTAŤ HRU"
+msgstr "ដំណើរការ​ ហ្វេម"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuNewGame"
 msgid "NEW GAME"
-msgstr "NOVÁ HRA"
+msgstr "ហ្វេមថ្មី"
 
 #. Key:	MenuOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuOptions"
 msgid "OPTIONS"
-msgstr "MOŽNOSTI"
+msgstr "OPTIONS"
 
 #. Key:	MenuSaveLoadOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr "ULOŽIŤ / NAČÍTAŤ"
+msgstr "រក្សា/កំពុងដំណើរការ​ ហ្វេម"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuScreenOptions"
 msgid "SCREEN"
-msgstr "OBRAZOVKA"
+msgstr "អេក្រង់"
 
 #. Key:	MenuSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSoundOptions"
 msgid "SOUND"
-msgstr "ZVUK"
+msgstr "សំលេង"
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,OptionsButton"
 msgid "Options"
-msgstr "Možnosti"
+msgstr "Options"
 
 #. Key:	SliderControllerSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderControllerSensitivity"
 msgid "Controller Sensitivity"
-msgstr "Citlivosť Ovládača"
+msgstr "ការត្រួតពិនិត្យភាពប្រែប្រួល"
 
 #. Key:	SliderEffectsVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
-msgstr "Hlasitosť Efektov"
+msgstr "Effects Volume"
 
 #. Key:	SliderFieldOfView
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderFieldOfView"
 msgid "Field of View"
-msgstr "Zorné Pole"
+msgstr "Field of View"
 
 #. Key:	SliderGamma
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -774,810 +774,810 @@ msgstr "Gamma"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMouseSensitivity"
 msgid "Mouse Sensitivity"
-msgstr "Citlivosť Myši"
+msgstr "Mouse Sensitivity"
 
 #. Key:	SliderMusicVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
-msgstr "Hlasitosť Hudby"
+msgstr "សំលេងចំរៀង"
 
 #. Key:	SliderScreenPercentage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
-msgstr "Percento Obrazovky"
+msgstr "Screen Percentage"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
-msgstr "Hlasitosť Hlasov"
+msgstr "សំលេងនិយាយ"
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipInvertMouse"
 msgid "Invert the mouse Y axis"
-msgstr "Invertovať osu Y myši"
+msgstr "Invert the mouse Y axis"
 
 #. Key:	ArcheologistDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "The skeletons here are confirmed to be sailors and pirates."
-msgstr "Bolo potvrdené, že tieto kosti patria námorníkom a pirátom."
+msgstr "គ្រោងឆ្អឹងនៅទីនេះបាន​សំគាល់ថាជា​ Sailor នឹង ចោរសមុទ្រ។"
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part2"
 msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
-msgstr "Napravdepodobnejšie je, že utekali pred Britským Námorníctvom a hľadali na ostrove útočisko."
+msgstr "ការទាយដ៏ល្អរបស់យើងគឺពួកគេបានរត់ពី British Navy និង Sought refuge នៅលើកោះនេះ។"
 
 #. Key:	ArcheologistDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "The pirates and sailors were involved in some kind of internal conflict."
-msgstr "Medzi pirátmi a námorníkmi prepukol nejaký konflikt."
+msgstr "ចោរសមុទ្រនឹងកងទ័ពជើងទឹកបានជាប់ទាក់ទងនឹងការប៉ះដង្កិចនេះ។"
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part2"
 msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
-msgstr "Myslíme si, že sa bojovalo o vzácne artefakty objavené v tejto jaskyni."
+msgstr "ពួកយើងបានស្មានថាវាបាន​ចប់ហើយដែលពួកយើងបាន​ទារវត្ថុបុរាណមកវិញពីរុននោះ។"
 
 #. Key:	ArcheologistDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part3"
 msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
-msgstr "Pravdepodobne boli vtedy opití a odtlačky zubov boli nájdené na niektorých kostiach, ktoré sa zdajú byť ľudské."
+msgstr "យើងគិតថាពួកគេដូចជា​ inebriated នៅក្នុងពេលខ្លះ, និងមានស្នាមខាំនៅលើឆ្អឹងខ្លះដែលអាចកត់សំគាល់ថាជាមនុស្ស។"
 
 #. Key:	ArcheologistDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "Museli sme stiahnuť časť týmu, keďže im prišlo zle. Musíme konštatovať, že sme vyrušili niečo v okolí tiel."
+msgstr "ពួកយើងត្រូវតែទាញយកក្រុមខ្លះ,​​ ដោយពួកគេបានឈឺ។ យើងត្រូវតែស្មានថាពួកគេរុកគុនអ្វីនៅជិតខ្លួនប្រាណនោះ។"
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part2"
 msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
-msgstr "Odteraz budeme používať HAZMAT obleky. Vieme, že to tu nie je bezpečné."
+msgstr "យើងនឹងប្រើអាវការពារពីពេលនេះ។ យើងដឹងថាវាមិនមានសុវត្តិភាពទេ។"
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Tu je Gareth Thomas. Analyzovali sme vzorky rias."
+msgstr "នេះគឺ Gareth Thomas. ពួកយើងបានវិភាគសាកសពវារិជាតិ​ធម្មតា"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "a zistili sme, že žiarenie je spôsobené planktónom, ktorý sa prirodzene vyskytuje v okolitej oblasti."
+msgstr "នឹងបានរកឃើញថា ពន្លឺនោះបានបញ្ចេញដោយធម្មជាតិ​នៃធារាសុខុមប្រាណ របស់កងទ័ពជើងទឹកនៅតំបន់ជុំវិញនេះ។"
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "Neočakávame, že naše použitie rias bude vôbec ovplyvnené planktónom."
+msgstr "យើងមិនបានស្មានទុកជាមុនថាការប្រើប្រាស់របស់យើងនឹងមានប្រតិកម្មទាំងអស់ទេដោយធារាសុខុមប្រាណ។"
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "A považujeme ho za úplne neškodný. Nepovažujeme ho za problém."
+msgstr "និងពួកយើងបានស្មានថាវាមិនមានផល់ប៉ះពាល់, យើងមិនបានមើលវាហើយវាបានក្លាយជាបញ្ហាមួយ។"
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Toto je... audio dennik Liama Jonesa, #1"
+msgstr "នេះគឺ uh, Liam Jones, កំណត់ហេតុសំលេងទី1, uh"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Práve sme začali študovať riasy a uh"
+msgstr "ពួកយើងទើបចាប់ផ្ដើមរៀនពី algae, នឹង uh"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "Zistili sme, že ak ich na chvíľu necháte tak, začnú svietiť"
+msgstr "យើងបានប្រកដថាវានឹងធំប្រសិនបើវានៅតែម្នាក់ឯងយូរបន្តិច"
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "Takže... to je skvelé! Eh, mám tu pri sebe menší vzorok, ktorý..."
+msgstr "So, uh, វាអស្ចារ្យ​ ! Uh, បាន​ផលធម្មតានៅទីនេះជាមួយខ្ញុំដែរ..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr "...sa chystám trochu nechať vo svojej kancelárií, len aby som zistil, čo sa bude diať."
+msgstr "...ខ្ញុំនឹងចាក់ចេញពីការរិយាល័យរបស់ខ្ញុំបន្តិច, គ្រាន់តែចង់ដឹងថាមានអ្វីកើតឡើងទៅលើវា។"
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "This is the uh, Liam Jones uh, diary #2"
-msgstr "Toto je eh, denník Liama Jonesa #2"
+msgstr "នេះគឺ uh, Liam Jones uh, កំណត់ហេតុទី2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "len to urob, Hawthorne ,oznám im, že som o neho prišiel a potrebujem nový"
+msgstr "គ្រាន់តែធ្វើទៅ Hawthorne, គ្រាន់តែឱ្យពួកគេដឹងថាខ្ញុំដាក់វាខុស,​ ហើយខ្ញុំត្រូរការមួយទៀត"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "alebo im môžeš povedať aj dokonca to, že potrebujem záložný odznak... Neviem , kam sa podel"
+msgstr "ឫសអ្នកអាចនិយាយថាខ្ញុំត្រូវការប្រើគ្រឿងការពារតែបន្តិច, ផ្សេងៗទៀត... ខ្ញុំមិនប្រាកដថាវាមកពីណា"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "...len potrebujem daľší odznak , to je v podstate dolná hranica"
+msgstr "... គ្រាន់តែខ្ញុំត្រូវការគ្រឿងការពារ គឺធម្មតានៅជួរក្រោម"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr "takže Hawthorne , keby si mohol poslať email tým odznakovým ľuďom"
+msgstr "បើអ្នកអាច Email ទៅមនុស្ស Hawthorne"
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr "a um, bolo by dobré , keby si pre mňa získal nový odznak. Tak dobre."
+msgstr "នឹង uh យកគ្រឿងការពារថ្មីឱ្យខ្ញុំវានឹងល្អ. OK."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "Vzorkom sa darí, len teraz pozorujeme, čo sa bude diať"
+msgstr "ទំរង់ធម្មតាគឺ OK, ពួកយើងគ្រាន់តែសង្កេតពួកវាអីឡូវនេះដើម្បីឱ្យដឹងថាមានអ្វីកើតឡើង"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Hlavná kancelária poslala po nejaké vzorky takže sem aj nejaké prepravia v krabiciach"
+msgstr "ការិយាល័យមេបាន​បញ្ចូនទំរង់ធម្មតាមកខ្លះដូចច្នោះពួកយើងនឹងកាត់វាទៅទីនោះខ្លះ ក្នុងប្រអប់ខ្លះ"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr "Taktiež, Hawthorne, keď budeš mať šancu, stratil som svoj bezpečnostný odznak..."
+msgstr "ហើយ, Hawthorne, ពេលអ្នកទទួលបាន​ឱកាស,​ ខ្ញុំបានបាត់គ្រឿងការពារសន្តិសុខ..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "ale keď budeš hovoriť s tými odznakovými ľuďmi tak povedz len, hmm... že..."
+msgstr "ប៉ុន្តែពេលអ្នកនិយាយទៅមនុស្សទុកគ្រឿងការពារ um... like uh..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "Neviem, niekto mi- nie , nie , nikto ju nezobral, to nie je pádny dôvod"
+msgstr "ខ្ញុំមិនដឹងទេ,​ នរណាម្នាក់- ទេ,​ ទេ,​ នរណាម្នាក់មិនបានយកវាទេ,​ នោះគឺជាចមើ្លយដ៏អាក្រក់"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Líška sa mi vkradla do kancelárie a ukradla mi odznak, takže sa um, nemôžem dostať do hlavného zariadenia"
+msgstr "កំប្រុកមួយ, រត់ចូល, នឹងយកគ្រឿងការពាររបស់ខ្ញុំ, នឹង um, ពេលនេះខ្ញុំមិនអាចចូលទៅក្នុង​ស្ថានការខាងក្នងទេ"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Takže , keby si im to len mohol povedať ... pretože keď sa to stalo naposledy, "
+msgstr "Um ដូចនេះ, ប្រសិនបើអ្នកអាចគ្រាន់តែប្រាប់ពួកគេថា... ពីព្រោះពីបេលមុនវាបានកើតឡើង,"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "povedali, že to bola moja chyba a boli trochu neochotní mi ho nahradiť"
+msgstr "ពួកគេនិយាយថាវាគឺជាកំហុសរបស់ខ្ញុំហើយពួកគេបានស្ទាក់ស្ទើរបន្ទេចអំពីការដាក់ពីលើវាផងដែល"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Tu je Liam Jones, bezpečnostný inžinier vzorkov na mieste, práve sme presunuli"
+msgstr "នេះគឺ Liam Jones, ការរស់នៅធម្មតាជាអ្នកការពារផ្នែក​វិស្វាករនៅលើ​ site - ពួកយើងទើបបានទទួលការងារ"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Dr. Frederika Prezellu do pozorovacej miestnosti,eh, stal sa agresívnym"
+msgstr "លោកដុកទ័រ Frederick Prezella, ទៅក្នុងបន្ទប់ observation, uh, គាត់បានក្លាយជាឃោឃៅ"
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "a zaútočil na jedného člena môjho týmu , takže ho necháme"
+msgstr "នឺងបានវាយលុកមនុស្សម្នាក់នៅក្រុមរបស់ខ្ញុំ ដូចនេះពួកយើងក៏បានទប់ទល់ជាមួយគាត់"
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "pod neustálym dohľadom a asi ho odvezieme z ostrova čím skôr"
+msgstr "ក្រោមការ observation និងដេញគាត់ចេញពីកោះនេះឱ្យលឿន​តាមដែលយើងអាចធ្វើបាន។"
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
-msgstr "Nie sme si istí, čo to spôsobilo."
+msgstr "ពួកយើងមីនប្រាកដថាអ្វីបាន បង្ករឿងនេះ"
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AdditionalContributors"
 msgid "ADDITIONAL CONTRIBUTORS"
-msgstr "ĎAĽŠÍ PRISPIEVATELIA"
+msgstr "អ្នកវិភាគបន្ថែម"
 
 #. Key:	AndYou
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYou"
 msgid "And You!"
-msgstr "A Ty!"
+msgstr "នឹងអ្នក!"
 
 #. Key:	AndYouTemplated
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
-msgstr "A  {name} (Ty!)"
+msgstr "នឹង {name} (អ្នក!)"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr "Medzi Trhlinami"
+msgstr "Through the Cracks"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr "Opustené Miesto"
+msgstr "Post Abandon"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr "Boj alebo Útek"
+msgstr "Fight or Flight"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,CreatedWithUnrealEngine"
 msgid "Created with Unreal Engine"
-msgstr "Vytvorené v Unreal Engine"
+msgstr "បង្កើតជាមួយ Unreal Engine"
 
 #. Key:	EstrangedTradeMark
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "\"Estranged\" je obchodná značka Alana Edwardesa"
+msgstr "\"Estranged\" is a trade mark of Alan Edwardes"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
-msgstr "Pomôžte nám s prekladom!"
+msgstr "ជួយបកបែ្រដែល !"
 
 #. Key:	MoreSoon
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
 msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Dočasný koniec\nViac obsahu prichádza už čoskoro!"
+msgstr "មិនទាន់ចប់ទេ\r\nនឹងមកក្នុងពេលឆាប់ៗនេះ!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Translators"
 msgid "TRANSLATORS"
-msgstr "PREKLADATELIA"
+msgstr "TRANSLATORS"
 
 #. Key:	WithThanksTo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
-msgstr "S POĎAKOVANÍM"
+msgstr "ជាមួយការអរគុណដល់"
 
 #. Key:	GuardChatter01
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter01"
 msgid "What do you think? He fell down there maybe?"
-msgstr "Čo si myslíš? Spadol tam?"
+msgstr "តើអ្នកគិតអ្វី? គាត់ប្រហែលធ្លាក់ទៅក្រោមទេដឹង?"
 
 #. Key:	GuardChatter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter02"
 msgid "I dunno... this place is falling apart."
-msgstr "Neviem... toto miesto sa rozpadá."
+msgstr "ខ្ញុំអត់ដឹងទេ... ទីនេះបានស្រុតមួយ​ចំហាង។"
 
 #. Key:	GuardChatter03
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter03"
 msgid "You know... if we report this, they're going to make us go down there."
-msgstr "Vieš... keby sme to nahlásili, prinútili by nás ísť tam dole."
+msgstr "អ្នកដឹងទេ...​ ប្រសិនបើយើងផ្ដឹងរឿងនេះ,ពួកគេនឹងឱ្យយើងចុះទៅទីនោះ។ "
 
 #. Key:	GuardChatter04
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter04"
 msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr "Áno, viem. Neoplatí sa to. Nechajme to na tie veci."
+msgstr "​ខ្ញុំ​ដឹងហើយ។ វាមិនមានតំលៃទេអនុញ្ញាតឱ្យវានោះបានគាត់។"
 
 #. Key:	GuardChatter05
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter05"
 msgid "That's fine by me. Let's move."
-msgstr "Som za to. Poďme."
+msgstr "នោះជាការល្អណាស់សម្រាប់ខ្ញុំ។ តោះផ្លាស់ទី។"
 
 #. Key:	JohnActI01
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
 msgid "Hello?"
-msgstr "Haló?"
+msgstr "សួស្ដី?"
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
-msgstr "Počuje ma niekto? Volám sa Johnathan Derril."
+msgstr "ប្រសិនបើនរណាម្នាក់អាចឮនោះ, ឈ្មោះខ្ញុំ Johnathan Derril។"
 
 #. Key:	JohnActI02Alt
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr "Počuje ma niekto? Potrebujem pomoc."
+msgstr "ប្រសិនបើនរណាម្នាក់អាចឮនោះ,​ ខ្ញុំត្រូវការជំនួយ។"
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI03"
 msgid "And I need help."
-msgstr "A potrebujem pomoc."
+msgstr "នឹងខ្ញុំត្រូវការជំនួយ។"
 
 #. Key:	JohnActI04
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr "Tieto veci, zamorili ostrov."
+msgstr "ពួកវា,​ ពួកវាទាំងនេះបានកាន់កាប់កោះ។"
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr "Niekto, prosím, mám zásoby, ale-"
+msgstr "នរណាម្នាក់, ខ្ញុំមានការស្បៀងប៉ុន្តែ -"
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
-msgstr "Sú tam vonku."
+msgstr "ពួកគេនៅក្រៅនោះ។"
 
 #. Key:	LaserScan01
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Welcome to Arque East. Please stand by for biological scan."
-msgstr "Vitajte v Arque Východ. Prosím počkajte na biologický sken."
+msgstr "សូមស្វាគមន៍មកកាន់ Arque East។ សូមក្រោកឡើងដើម្បីស្កេន។"
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan02"
 msgid "Biological scan completed. No foreign material found."
-msgstr "Biologický sken dokončený. Nebol nájdený cudzí materiál."
+msgstr "ការស្កេនជីវសាស្រ្តត្រូវបានបញ្ចប់។ គ្មានសម្ភារៈបែ្លកត្រូវបានរកឃើញ។"
 
 #. Key:	LaserScan03
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr "Prosím pokračujte a majte pekný deň."
+msgstr "សូមទៅបន្តនិងមានថ្ងៃល្អ។"
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
 msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
-msgstr "Súkromná bezpečnostná firma Sokol-Glockner bola terčom kritiky tento rok už po druhý krát."
+msgstr "ក្រុមហ៊ុនសន្តិសុខឯកជន Sokol-Glockner ត្រូវបានរិះគន់ជាលើកទី 2 នៅឆ្នាំនេះ"
 
 #. Key:	NewsReport02
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport02"
 msgid "with its heavy handed use of live ammunition in its protective assignments."
-msgstr "kvôli častému použitiu ostrej munície na ochranných úlohách."
+msgstr "ជាមួយនឹងការប្រើប្រាស់ធ្ងន់នៃដៃ ការបាញ់គ្រាប់ពិតនៅក្នុងការការពារកិច្ចការរបស់ខ្លួន។"
 
 #. Key:	NewsReport03
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
 msgid "The company’s policy states that live ammunition is to be used on all assignments,"
-msgstr "V pokynoch pre zamestnancov je napsané, že sa ostrá munícia má použivať na všetkých druhoch úloh,"
+msgstr "គោលនយោបាយរបស់ក្រុមហ៊ុននេះបានចែងថាការបាញ់គ្រាប់ពិតត្រូវបានប្រើនៅគ្រប់កិច្ចការទាំងអស់,"
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr "avšak protestujúci tvrdia, že to je nepotrebné a umocňuje násilie, ktorému sa snažia vyhnúť."
+msgstr "ទោះជាយ៉ាងណាក៏ដោយក្រុមអ្នកឃ្លាំមើលបាននិយាយថានេះគឺមិនចាំបាច់និងបង្កឱ្យមានអំពើហឹង្សាដែលពួកគេចង់ជៀសវាង។"
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr "Predstavitelia spoločnosti sa k veci odmietli vyjadriť, ale iní hovoria, že je len otázka času, než sa niečo stane."
+msgstr "ក្រុមហ៊ុននេះបានបដិសេធមិនធ្វើអត្ថាធិប្បាយនៅពេលត្រូវគេសាកសួរប៉ុន្តែអ្នកផ្សេងទៀតនិយាយថាវាជាគ្រោះថ្នាក់ចរាចរណ៍កំពុងកើតឡើង។"
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
 msgid "The government contractor is responsible for a number of overseas operations,"
-msgstr "Ide o vládneho kontraktora, ktorý je zodpovedný za veľké množstvo zámorských operácií,"
+msgstr "អ្នកម៉ៅការរដ្ឋាភិបាលត្រូវទទួលខុសត្រូវចំពោះប្រតិបត្តិការមួយចំនួន,"
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
 msgid "which sources say is why the government is not commenting on this matter."
-msgstr "a to je podľa zdrojov dôvodom, prečo sa k tomu odmieta vyjadriť vláda."
+msgstr "ប្រភពណាដែលនិយាយថាហេតុអ្វីបានជារដ្ឋាភិបាលមិនបានធ្វើអត្ថាធិប្បាយលើបញ្ហានេះទេ។"
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner sa dostali na titulky novín už skoršie tento rok kvôli účasti na neúmyselnej streľbe"
+msgstr "លោក Sokol-Glockner បានបញ្ចូលចំណងជើងព័ត៌មានកាលពីដើមឆ្នាំនេះសម្រាប់ដៃរបស់គាត់នៅក្នុងការបាញ់សម្លាប់ដោយចៃដន្យ"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr "na zamestnanca Arque Corporation na jednej z ich námorných vrtných plošín."
+msgstr "បុគ្គលិករបស់ក្រុមហ៊ុន Arque Corporation នៅលើវេទិកាខួងមួយនៅឯឈូងសមុទ្ររបស់ខ្លួន។"
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "37-ročný zamestnanec sa vynoril na plážil potom, čo evidentne priplával z platformy,"
+msgstr "បុគ្គលិកដែលមានអាយុ 37 ឆ្នាំបានផុសឡើងនៅលើឆ្នេរខ្សាច់មួយបន្ទាប់ពីហែលមកពីវេទិកា។"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport11"
 msgid "while doctors later confirmed a bullet in his leg."
-msgstr "a doktori neskôr potvrdili, že mal v nohe guľku."
+msgstr "ខណៈពេលដែលវេជ្ជបណ្ឌិតយឺតក្រោយមកបានបញ្ជាក់គ្រាប់កាំភ្លើងមួយនៅក្នុងជើងរបស់គាត់។"
 
 #. Key:	NewsReport12
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr "Sokol-Glockner potvrdili, že guľka bola vypálená z jednej z ich zbraní,"
+msgstr "លោក Sokol-Glockner បានបញ្ជាក់ថាគ្រាប់កាំភ្លើងនេះត្រូវបានគេបណ្តេញចេញពីអាវុធមួយរបស់ពួកគេ។"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport13"
 msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
-msgstr "ale odmietli sa k tomuto prípadu vyjadriť. Trvali na tom, že pracovali s príslušnými autoritami."
+msgstr "ប៉ុន្តែបានបដិសេធមិនធ្វើអត្ថាធិប្បាយលើករណីនេះ។ វាបានទទូចថាខ្លួនកំពុងធ្វើការជាមួយអាជ្ញាធរពាក់ព័ន្ធ។"
 
 #. Key:	NewsReport14
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "A teraz počasie- Hurikán Edwin pokračuje v pustošení,"
+msgstr "អាកាសធាតុឥឡូវនេះ - ព្យុះ Edwin បន្តធ្វើឱ្យបាក់ដី,"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr "ale dnes ponúka obyvateľom severu deň kľudu."
+msgstr "ប៉ុន្តែនាពេលបច្ចុប្បន្ននេះផ្តល់នូវប្រជាជននៅភាគខាងជើងជាមួយនឹងថ្ងៃនៃភាពស្ងប់ស្ងាត់។"
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorológovia radia všetkým v oblasti, že najhoršie ešte len príde,"
+msgstr "អ្នកឧតុនិយមបានផ្តល់ដំបូន្មានដល់មនុស្សគ្រប់គ្នានៅក្នុងតំបន់ថាព្យុះដ៏អាក្រក់បំផុតមិនទាន់មកដល់នៅឡើយ។"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "miestni by sa mali pripraviť naplnením vaní vodou a nahromadením jedla na aspoň dva dni."
+msgstr "ហើយពួកគេគួររៀបចំដោយការបំពេញអាងទឹកជាមួយទឹកនិងការស្តុកស្បៀងអាហារដើម្បីមានរយៈពេលយ៉ាងហោចណាស់ពីរថ្ងៃ។"
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr "To je odo mňa všetko, pripojte sa zajtra o siedmej kvôli Rannej Dávke."
+msgstr "នោះហើយជារបស់ខ្ញុំ, ចូលរួមជាមួយពួកយើងនៅថ្ងៃស្អែកនៅ 7 សម្រាប់ការផ្ទុះអាហារពេលព្រឹក។"
 
 #. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque Corporation."
-msgstr "Toto je automatizovaná správa od Arque Corporation."
+msgstr "នេះគឺជាសារស្វ័យប្រវត្តិពី Arque Corporation ។"
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr "Bol vydaný zákaz vychádzania. Prosím zostaňte vo vnútri."
+msgstr "បំរាមហាមឃាត់ចាំបាច់នៅមានប្រសិទ្ធិភាព។ សូមនៅខាងក្នុង។"
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr "Ak toto NIEKTO počuje, potrebujem pomoc."
+msgstr "បើមាននរណាម្នាក់ស្តាប់ខ្ញុំ, ខ្ញុំត្រូវការជំនួយ។"
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr "Vysielajú správu o zákaze vychádzania, ale..."
+msgstr "ពួកគេកំពុងផ្សព្វផ្សាយសារពនេចរ, ប៉ុន្តែ ..."
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr "Nerozumiem prečo. Žeby porucha?"
+msgstr "ខ្ញុំមិនយល់ពីមូលហេតុទេ។ តើវាមិនដំណើរការទេឬ?"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr "Bože, dúfam že sa to nesnažia ututlať..."
+msgstr "ព្រះអើយ ខ្ញុំសង្ឃឹមថាពួកគេមិនព្យាយាមគ្របដណ្តប់បញ្ហានេះ ..."
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "I'm just going to... continue broadcasting until I can't anymore."
-msgstr "Budem len... vysielať dokedy sa to dá."
+msgstr "ខ្ញុំនឹងបន្តចាក់ផ្សាយរហូតទាល់តែខ្ញុំលែងអាចធ្វើបានទៀត។"
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr "Prechádzajúce lode, lietadlá... NIEČO musí túto správu dostať."
+msgstr "ឆ្លងកាត់នាវា, យន្តហោះ ... អ្វីមួយដែលត្រូវជ្រើសរើសវា។"
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr "S mojou ženou a dcérou sme sa rozdelili, keď tie veci prišli."
+msgstr "ខ្ញុំត្រូវបានបែកបាក់ពីភរិយានិងកូនស្រីរបស់ខ្ញុំនៅពេលដែលរឿងនេះបានមកដល់។"
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
 msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
-msgstr "Boli sme na dovolenke... dovolenke! Na toto sa nedá pripraviť. Nedá."
+msgstr "យើងស្ថិតក្នុងថ្ងៃឈប់សម្រាក ... ឈប់សម្រាក! គ្មាននរណាម្នាក់ត្រៀមខ្លួនសម្រាប់រឿងនេះទេ។ គ្មាននរណាម្នាក់អាចគេច។"
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr "Viem, ako opravovať rádia... nič viac."
+msgstr "ខ្ញុំដឹងពីរបៀបជួសជុលវិទ្យុ ... មិនច្រើនទេ។"
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05b"
 msgid "A fisherman crashed on the docks near to where I am."
-msgstr "Rybár stroskotal v blízskych dokoch."
+msgstr "អ្នកនេសាទម្នាក់បានជួបគ្រោះថ្នាក់នៅជិតចំណត់ក្បែរកន្លែងដែលខ្ញុំនៅ។"
 
 #. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr "Bol v poriadku, dal som mu zásoby a povedal som mu, ako môže skúsiť toto zastaviť."
+msgstr "ពួកគេមានសុខភាពល្អខ្ញុំបានផ្តល់ឱ្យពួកគេនូវការផ្គត់ផ្គង់ហើយប្រាប់ពួកគេពីរបៀបព្យាយាមនិងបញ្ឈប់វា។"
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr "Pochybujem, že sa vôbec vráti. Stále rozmýšľam nad tým, že som toho mohol urobiť viac."
+msgstr "ខ្ញុំមិនគិតថាពួកគេនឹងត្រលប់មកវិញទេ។ ខ្ញុំគិតថាខ្ញុំអាចធ្វើបានច្រើន។"
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr "Prosím, KTOKOĽVEK toto počúva. Ak sy myslíte, že je to tu zlé... je to ešte horšie."
+msgstr "សូមស្ដាប់នរណាម្នាក់។ ប្រសិនបើអ្នកគិតថាវាអាក្រក់នៅទីនេះវាកាន់តែអាក្រក់។"
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
 msgid "We need the military. Why has no one come?"
-msgstr "Potrebujeme armádu. Prečo nikto neprišiel?"
+msgstr "យើងត្រូវការយោធា។ ហេតុអ្វីបានជាគ្មាននរណាម្នាក់មក?"
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr "Tá spoločnosť sa určite snaží nejako zastaviť komunikáciu."
+msgstr "ក្រុមហ៊ុននោះត្រូវតែធ្វើអ្វីមួយដើម្បីបញ្ឈប់ការទំនាក់ទំនង។"
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr "Prečo nás nikto neskontroloval? Je to malý ostrov, ale stále sú tu ľudia."
+msgstr "ហេតុអ្វីបានជាមិនមាននរណាម្នាក់ឆែកពួកយើង? នេះគ្រាន់តែកោះតូចមួយប៉ុន្តែនៅមានមនុស្សរស់នៅ..."
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr "Bodaj by sme si nikdy túto dovolenku nerezervovali... keby som mohol vrátiť tých pár posledných mesiacov... Bože"
+msgstr "ខ្ញុំសូមឱ្យយើង មិនចុះឈ្មោះលើថ្ងៃកំសាន្តនេះ... ប្រសិនខ្ញុំអាច មិនធ្វើកាលពីខែមុន... ព្រះអើយ..."
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr "...nemá zmyseľ premýšlať \"čo keby\"."
+msgstr "...នេះគ្មានចំនុចលេង \"ប្រសិនបើ\"។"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr "NAČÍTAVANIE"
+msgstr "កំពុងដំណើរការ"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Vitajte v Estranged: Act II! Toto je nedokončené pokračovanie Estranged: Act I, ktorý je takisto dostupný na obchode Steam.\n\nAct II je voľnočasový projekt (vyvýjaný hlavne 1 osobou!) s pomocou zvukového dizajnéra, príspevkami dizajnéra úrovní a komunitných prekladateľov a testerov.\n\nAk máte nejaké spätnú väzbu, sme vždy dostupní ná fórach, cez spätnú väzbu v hre alebo na discord.gg/estranged!"
+msgstr "សូមស្វាគមន៏មកកាន់ Estranged: Act II! នេះ គឺការធ្វើការ in progress sequel ទៅ Estranged: Act I, ហើយមានលើ Steam.\r\n\r\nAct II គឺ spare time project (បង្កើតដោយមនុស្សម្នាក់!) ជាមួយការជួយពី sound designer, វិភាគពី level designer,  និង  community translators និង testers.\r\n\r\nប្រសិនបើអ្នកមានយូបល់អ្វី, យើងតែងតែ on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupPlayButton"
 msgid "Play Estranged"
-msgstr "Hrať Estranged"
+msgstr "លេង Estranged"
 
 #. Key:	StartupTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupTitle"
 msgid "WELCOME TO ESTRANGED ACT II"
-msgstr "VITAJTE V ESTRANGED ACT II"
+msgstr "សូមស្វាគមន៏មកកាន់ ESTRANGED ACT II"
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "NIEKOĽKO DNÍ PRED UDALOSŤAMI ACT I"
+msgstr "ប៉ុន្មានថ្ងៃមុនហេតុការ ACT I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr "FAIR ISLE, SHETLANDY, ŠKÓTSKO"
+msgstr "FAIR ISLE, SHETLAND, SCOTLAND"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeLevelLabel"
 msgid "LEVEL"
-msgstr "ÚROVEŇ"
+msgstr "LEVEL"
 
 #. Key:	RangePointsLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangePointsLabel"
 msgid "POINTS"
-msgstr "BODY"
+msgstr "ចំនុច"
 
 #. Key:	RangeTimeLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
-msgstr "ČAS"
+msgstr "ពេលវេលា"
 
 #. Key:	TheFallEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "NIEKOĽKO HODÍN PO UDALOSTIACH ACT I"
+msgstr "ប៉ុន្មានម៉ោងក្រោយហេតុការ ACT I"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr "NEZNÁMY OSTROV, NÓRSKE MORE"
+msgstr "កោះគ្មានឈ្មោះ, ​សមុទ្រ NORWEGIAN"
 
