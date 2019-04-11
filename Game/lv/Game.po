@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-04-07 14:36\n"
-"PO-Revision-Date: 2019-04-07 14:36\n"
+"POT-Creation-Date: 2019-04-11 22:19\n"
+"PO-Revision-Date: 2019-04-11 22:19\n"
 "Language-Team: \n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -286,6 +286,13 @@ msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
 msgstr "Noliktavas horda"
 
+#. Key:	ButtonJoinDiscord
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonJoinDiscord"
+msgid "Join Discord"
+msgstr ""
+
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -432,6 +439,13 @@ msgstr "9. Mežs"
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
 msgstr "10. Aiza"
+
+#. Key:	ButtonSteamForums
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSteamForums"
+msgid "Steam Forums"
+msgstr ""
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
