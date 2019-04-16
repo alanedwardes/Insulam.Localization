@@ -1,4 +1,4 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -291,7 +291,7 @@ msgstr "Lagerhaus Horde"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
-msgstr ""
+msgstr "Tritt Discord bei"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -445,7 +445,7 @@ msgstr "10. Der steinige Weg"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSteamForums"
 msgid "Steam Forums"
-msgstr ""
+msgstr "Zum Steam Forum"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1594,4 +1594,3 @@ msgstr "STUNDEN NACH DEN EREIGNISSEN VON AKT I"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "AUF EINER UNBEKANNTEN INSEL, IM NORWEGISCHEN MEER"
-
