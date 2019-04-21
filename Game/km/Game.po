@@ -1,17 +1,17 @@
+﻿# Game Khmer translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-04-06 10:01\n"
-"PO-Revision-Date: 2019-04-17 10:21+0700\n"
-"Language-Team: https://raw.githubusercontent.com/alanedwardes/Insulam.Localization/master/Game/en/Game.po\n"
-"Language: km_KH\n"
+"POT-Creation-Date: 2019-04-21 09:36\n"
+"PO-Revision-Date: 2019-04-21 09:36\n"
+"Language-Team: \n"
+"Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.2.1\n"
-"X-Poedit-SourceCharset: UTF-8\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -286,6 +286,13 @@ msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
 msgstr "ក្រុមផ្ទះទុកអីវាន"
 
+#. Key:	ButtonJoinDiscord
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonJoinDiscord"
+msgid "Join Discord"
+msgstr ""
+
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -432,6 +439,13 @@ msgstr "9. ព្រៃឈើ"
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
 msgstr "10. Crevice"
+
+#. Key:	ButtonSteamForums
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSteamForums"
+msgid "Steam Forums"
+msgstr ""
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1116,12 +1130,8 @@ msgstr "ជួយបកបែ្រដែល !"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid ""
-"Temporary Ending\r\n"
-"More Content Soon!"
-msgstr ""
-"មិនទាន់ចប់ទេ\r\n"
-"នឹងមកក្នុងពេលឆាប់ៗនេះ!"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "មិនទាន់ចប់ទេ\r\nនឹងមកក្នុងពេលឆាប់ៗនេះ!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1519,18 +1529,8 @@ msgstr "កំពុងដំណើរការ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid ""
-"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
-"\r\n"
-"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
-"\r\n"
-"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr ""
-"សូមស្វាគមន៏មកកាន់ Estranged: Act II! នេះ គឺការធ្វើការ in progress sequel ទៅលើ Estranged: Act I, ហើយមានលើ Steam.\r\n"
-"\r\n"
-"Act II គឺជា spare time project (បង្កើតដោយមនុស្សម្នាក់!) ជាមួយការជួយពី sound designer, វិភាគពី level designer,  និង  community translators និង testers.\r\n"
-"\r\n"
-"ប្រសិនបើអ្នកមានយូបល់អ្វី, យើងតែងតែនៅលើ Steam forums, ដោយ in-game feedback, ឫ on discord.gg/estranged!"
+msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr "សូមស្វាគមន៏មកកាន់ Estranged: Act II! នេះ គឺការធ្វើការ in progress sequel ទៅលើ Estranged: Act I, ហើយមានលើ Steam.\r\n\r\nAct II គឺជា spare time project (បង្កើតដោយមនុស្សម្នាក់!) ជាមួយការជួយពី sound designer, វិភាគពី level designer,  និង  community translators និង testers.\r\n\r\nប្រសិនបើអ្នកមានយូបល់អ្វី, យើងតែងតែនៅលើ Steam forums, ដោយ in-game feedback, ឫ on discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1594,3 +1594,4 @@ msgstr "ប៉ុន្មានម៉ោងក្រោយហេតុការ
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "កោះគ្មានឈ្មោះ, ​សមុទ្រ NORWEGIAN"
+
