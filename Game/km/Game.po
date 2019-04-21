@@ -1,17 +1,17 @@
-﻿# Game Khmer translation.
-# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-04-11 22:19\n"
-"PO-Revision-Date: 2019-04-11 22:19\n"
-"Language-Team: \n"
-"Language: km\n"
+"POT-Creation-Date: 2019-04-06 10:01\n"
+"PO-Revision-Date: 2019-04-17 10:21+0700\n"
+"Language-Team: https://raw.githubusercontent.com/alanedwardes/Insulam.Localization/master/Game/en/Game.po\n"
+"Language: km_KH\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -151,21 +151,21 @@ msgstr "បន្ថែម"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
-msgstr "ផ្លាស់ប្ដូរ"
+msgstr "ផ្លាស់ប្ដូររហូត"
 
 #. Key:	ButtonArcade
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr "Arcade"
+msgstr "ល្បែងកំសាន"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAutoDetectSettings"
 msgid "Auto-Detect Settings"
-msgstr "Settings​ ដំណើរការដោយខ្លួនឯង"
+msgstr "ការកំណត់ចាប់ដោយខ្លួនឯង"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -263,14 +263,14 @@ msgstr "Foliage"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGameplayOptions"
 msgid "Gameplay"
-msgstr "ការលេង"
+msgstr "ការកំណត់នៃការលេង"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
-msgstr "Graphics"
+msgstr "ការកំណត់នៃរូបភាពពេលលេង"
 
 #. Key:	ButtonGuides
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -285,13 +285,6 @@ msgstr "ការណែនាំ"
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
 msgstr "ក្រុមផ្ទះទុកអីវាន"
-
-#. Key:	ButtonJoinDiscord
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonJoinDiscord"
-msgid "Join Discord"
-msgstr ""
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -326,7 +319,7 @@ msgstr "ការផ្ដើម"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonRange"
 msgid "Shooting Range"
-msgstr "Shooting Range"
+msgstr "កន្លែងបាញ់សាកល្បង"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -375,7 +368,7 @@ msgstr "សំលេង"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP01"
 msgid "1. Fall"
-msgstr "1. Fall"
+msgstr "1.ការធ្លាក់ចូលក្នុងរណ្ដៅមរណះ"
 
 #. Key:	ButtonSP02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -403,7 +396,7 @@ msgstr "4. រុនក្រោមដី"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP05"
 msgid "5. Lab"
-msgstr "5. ទីពិសាធន័"
+msgstr "5. មទ្ទីរពិសោធន៏ដ៏គ្រោះថ្នាក់"
 
 #. Key:	ButtonSP06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -439,13 +432,6 @@ msgstr "9. ព្រៃឈើ"
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
 msgstr "10. Crevice"
-
-#. Key:	ButtonSteamForums
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSteamForums"
-msgid "Steam Forums"
-msgstr ""
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -578,7 +564,7 @@ msgstr "វប្បធម៌"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeEpic"
 msgid "Epic"
-msgstr "Epic"
+msgstr "អស្ចារ្យ"
 
 #. Key:	DropdownItemQualityModeHigh
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -620,7 +606,7 @@ msgstr "គ្មានBorder"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeWindowed"
 msgid "Window"
-msgstr "Window"
+msgstr "អេក្រង់"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -676,7 +662,7 @@ msgstr "ការរើសយកទាំងនោះគឺជាការពិ
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuArcade"
 msgid "ARCADE"
-msgstr "ARCADE"
+msgstr "ល្បែងកំសាន"
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -725,7 +711,7 @@ msgstr "ហ្វេមថ្មី"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuOptions"
 msgid "OPTIONS"
-msgstr "OPTIONS"
+msgstr "ការកំណត់"
 
 #. Key:	MenuSaveLoadOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -753,7 +739,7 @@ msgstr "សំលេង"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,OptionsButton"
 msgid "Options"
-msgstr "Options"
+msgstr "ការកំណត់"
 
 #. Key:	SliderControllerSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -956,7 +942,7 @@ msgstr "ឫសអ្នកអាចនិយាយថាខ្ញុំត្រ
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "... គ្រាន់តែខ្ញុំត្រូវការគ្រឿងការពារ គឺធម្មតានៅជួរក្រោម"
+msgstr "... គ្រាន់តែខ្ញុំត្រូវការគ្រឿងការពារមួយទៀត គឺធម្មតានៅជួរក្រោម"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -984,7 +970,7 @@ msgstr "ទំរង់ធម្មតាគឺ OK, ពួកយើងគ្រ�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "ការិយាល័យមេបាន​បញ្ចូនទំរង់ធម្មតាមកខ្លះដូចច្នោះពួកយើងនឹងកាត់វាទៅទីនោះខ្លះ ក្នុងប្រអប់ខ្លះ"
+msgstr "ការិយាល័យធំបាន​បញ្ចូនទំរង់ធម្មតាមកខ្លះដូចច្នោះពួកយើងនឹងកាត់វាទៅទីនោះខ្លះ ក្នុងប្រអប់ខ្លះ"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -998,7 +984,7 @@ msgstr "ហើយ, Hawthorne, ពេលអ្នកទទួលបាន​ឱ�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "ប៉ុន្តែពេលអ្នកនិយាយទៅមនុស្សទុកគ្រឿងការពារ um... like uh..."
+msgstr "ប៉ុន្តែពេលអ្នកនិយាយទៅមនុស្សទុកគ្រឿងការពារ um... ដូចជា uh..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1019,7 +1005,7 @@ msgstr "កំប្រុកមួយ, រត់ចូល, នឹងយកគ�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Um ដូចនេះ, ប្រសិនបើអ្នកអាចគ្រាន់តែប្រាប់ពួកគេថា... ពីព្រោះពីបេលមុនវាបានកើតឡើង,"
+msgstr "Um ដូចនេះ, ប្រសិនបើអ្នកអាចគ្រាន់តែប្រាប់ពួកគេថា... ពីព្រោះពីពេលមុនវាបានកើតឡើង,"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1089,21 +1075,21 @@ msgstr "នឹង {name} (អ្នក!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr "Through the Cracks"
+msgstr "ការបែកបាក់"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr "Post Abandon"
+msgstr "សារមន្ទីរសារដែលបាន​បោះបង់ចោល"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr "Fight or Flight"
+msgstr "ការប្រកួតស្លាប់រស់"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1117,7 +1103,7 @@ msgstr "បង្កើតជាមួយ Unreal Engine"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr "\"Estranged\" គឺជានិមិត្តសញ្ញារបស់លោក Alan Edwardes"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1130,15 +1116,19 @@ msgstr "ជួយបកបែ្រដែល !"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "មិនទាន់ចប់ទេ\r\nនឹងមកក្នុងពេលឆាប់ៗនេះ!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"មិនទាន់ចប់ទេ\r\n"
+"នឹងមកក្នុងពេលឆាប់ៗនេះ!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Translators"
 msgid "TRANSLATORS"
-msgstr "TRANSLATORS"
+msgstr "អ្នកបកប្រែ"
 
 #. Key:	WithThanksTo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1264,7 +1254,7 @@ msgstr "ក្រុមហ៊ុនសន្តិសុខឯកជន Sokol-Gl
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport02"
 msgid "with its heavy handed use of live ammunition in its protective assignments."
-msgstr "ជាមួយនឹងការប្រើប្រាស់ធ្ងន់នៃដៃ ការបាញ់គ្រាប់ពិតនៅក្នុងការការពារកិច្ចការរបស់ខ្លួន។"
+msgstr "ជាមួយនឹងការប្រើប្រាស់ដ៏ធ្ងន់ធ្ងរក្នុងការបាញ់គ្រាប់ពិតនៅក្នុងការការពារកិច្ចការរបស់ខ្លួន។"
 
 #. Key:	NewsReport03
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1285,7 +1275,7 @@ msgstr "ទោះជាយ៉ាងណាក៏ដោយក្រុមអ្ន
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr "ក្រុមហ៊ុននេះបានបដិសេធមិនធ្វើអត្ថាធិប្បាយនៅពេលត្រូវគេសាកសួរប៉ុន្តែអ្នកផ្សេងទៀតនិយាយថាវាជាគ្រោះថ្នាក់ចរាចរណ៍កំពុងកើតឡើង។"
+msgstr "ក្រុមហ៊ុននេះបានបដិសេធមិនធ្វើអត្ថាធិប្បាយនៅពេលត្រូវគេសាកសួរប៉ុន្តែអ្នកផ្សេងទៀតនិយាយថាវាជាគ្រោះថ្នាក់មួយកំពុងកើតឡើង។"
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1299,42 +1289,42 @@ msgstr "អ្នកម៉ៅការរដ្ឋាភិបាលត្រូ
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
 msgid "which sources say is why the government is not commenting on this matter."
-msgstr "ប្រភពណាដែលនិយាយថាហេតុអ្វីបានជារដ្ឋាភិបាលមិនបានធ្វើអត្ថាធិប្បាយលើបញ្ហានេះទេ។"
+msgstr "ប្រភពណាដែលនិយាយថាហេតុអ្វីបានជារដ្ឋាភិបាលមិនបានធ្វើអត្ថាធិប្បាយលើបញ្ហានេះ។"
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "លោក Sokol-Glockner បានបញ្ចូលចំណងជើងព័ត៌មានកាលពីដើមឆ្នាំនេះសម្រាប់ដៃរបស់គាត់នៅក្នុងការបាញ់សម្លាប់ដោយចៃដន្យ"
+msgstr "លោក Sokol-Glockner បានបញ្ចូលចំណងជើងព័ត៌មានកាលពីដើមឆ្នាំនេះសម្រាប់ដៃរបស់វានៅក្នុងការបាញ់សម្លាប់ដោយចៃដន្យ"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr "បុគ្គលិករបស់ក្រុមហ៊ុន Arque Corporation នៅលើវេទិកាខួងមួយនៅឯឈូងសមុទ្ររបស់ខ្លួន។"
+msgstr "បុគ្គលិករបស់ក្រុមហ៊ុន Arque Corporation នៅលើគោលការខួងមួយនៅឯឈូងសមុទ្ររបស់ខ្លួន។"
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "បុគ្គលិកដែលមានអាយុ 37 ឆ្នាំបានផុសឡើងនៅលើឆ្នេរខ្សាច់មួយបន្ទាប់ពីហែលមកពីវេទិកា។"
+msgstr "បុគ្គលិកដែលមានអាយុ 37 ឆ្នាំបានផុសឡើងនៅលើឆ្នេរខ្សាច់មួយបន្ទាប់ពីហែលមកពីទឹក។"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport11"
 msgid "while doctors later confirmed a bullet in his leg."
-msgstr "ខណៈពេលដែលវេជ្ជបណ្ឌិតយឺតក្រោយមកបានបញ្ជាក់គ្រាប់កាំភ្លើងមួយនៅក្នុងជើងរបស់គាត់។"
+msgstr "ខណៈពេលដែលវេជ្ជបណ្ឌិតយឺត, ក្រោយមកគាត់បានបញ្ជាក់គ្រាប់កាំភ្លើងមួយនៅក្នុងជើងរបស់គាត់។"
 
 #. Key:	NewsReport12
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr "លោក Sokol-Glockner បានបញ្ជាក់ថាគ្រាប់កាំភ្លើងនេះត្រូវបានគេបណ្តេញចេញពីអាវុធមួយរបស់ពួកគេ។"
+msgstr "លោក Sokol-Glockner បានបញ្ជាក់ថាគ្រាប់កាំភ្លើងនេះត្រូវបានគេបាញ់ចេញពីសភាវុធណាមួយរបស់ពួកគេ។"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1509,7 +1499,7 @@ msgstr "ហេតុអ្វីបានជាមិនមាននរណាម
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr "ខ្ញុំសូមឱ្យយើង មិនចុះឈ្មោះលើថ្ងៃកំសាន្តនេះ... ប្រសិនខ្ញុំអាច មិនធ្វើកាលពីខែមុន... ព្រះអើយ..."
+msgstr "ខ្ញុំសូមឱ្យយើង មិនចុះឈ្មោះលើថ្ងៃកំសាន្តនេះ... ប្រសិនខ្ញុំអាចខ្ញុំនឹងមិនធ្វើកាលពីខែមុន... ព្រះអើយ..."
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1529,8 +1519,18 @@ msgstr "កំពុងដំណើរការ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "សូមស្វាគមន៏មកកាន់ Estranged: Act II! នេះ គឺការធ្វើការ in progress sequel ទៅ Estranged: Act I, ហើយមានលើ Steam.\r\n\r\nAct II គឺ spare time project (បង្កើតដោយមនុស្សម្នាក់!) ជាមួយការជួយពី sound designer, វិភាគពី level designer,  និង  community translators និង testers.\r\n\r\nប្រសិនបើអ្នកមានយូបល់អ្វី, យើងតែងតែ on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr ""
+"សូមស្វាគមន៏មកកាន់ Estranged: Act II! នេះ គឺការធ្វើការ in progress sequel ទៅលើ Estranged: Act I, ហើយមានលើ Steam.\r\n"
+"\r\n"
+"Act II គឺជា spare time project (បង្កើតដោយមនុស្សម្នាក់!) ជាមួយការជួយពី sound designer, វិភាគពី level designer,  និង  community translators និង testers.\r\n"
+"\r\n"
+"ប្រសិនបើអ្នកមានយូបល់អ្វី, យើងតែងតែនៅលើ Steam forums, ដោយ in-game feedback, ឫ on discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1551,14 +1551,14 @@ msgstr "សូមស្វាគមន៏មកកាន់ ESTRANGED ACT II"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "ប៉ុន្មានថ្ងៃមុនហេតុការ ACT I"
+msgstr "ប៉ុន្មានថ្ងៃមុនហេតុការក្នុង ACT I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr "FAIR ISLE, SHETLAND, SCOTLAND"
+msgstr "FAIR ISLE, ទីក្រុង SHETLAND, ប្រទេស SCOTLAND"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1572,7 +1572,7 @@ msgstr "LEVEL"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangePointsLabel"
 msgid "POINTS"
-msgstr "ចំនុច"
+msgstr "ប៉ុង"
 
 #. Key:	RangeTimeLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1594,4 +1594,3 @@ msgstr "ប៉ុន្មានម៉ោងក្រោយហេតុការ
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "កោះគ្មានឈ្មោះ, ​សមុទ្រ NORWEGIAN"
-
