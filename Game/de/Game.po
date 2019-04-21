@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-04-21 09:36\n"
-"PO-Revision-Date: 2019-04-21 09:36\n"
+"POT-Creation-Date: 2019-04-21 20:55\n"
+"PO-Revision-Date: 2019-04-21 20:55\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -96,6 +96,13 @@ msgstr "Spitzhacke"
 msgctxt "Hints,HintPickUp"
 msgid "Pick up object"
 msgstr "Objekt aufnehmen"
+
+#. Key:	HintSprintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintSprintJump"
+msgid "Run and Jump"
+msgstr ""
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1062,6 +1069,118 @@ msgstr "Und werden ihn so schnell wie möglich von der Insel wegbringen."
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
 msgstr "Wir sind nicht sicher, was das verursacht hat."
+
+#. Key:	ActionConsole
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionConsole"
+msgid "Console"
+msgstr ""
+
+#. Key:	ActionCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionCrouch"
+msgid "Crouch"
+msgstr ""
+
+#. Key:	ActionFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionFlashlight"
+msgid "Toggle Flashlight"
+msgstr ""
+
+#. Key:	ActionInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionInteract"
+msgid "Interact"
+msgstr ""
+
+#. Key:	ActionJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionJump"
+msgid "Jump"
+msgstr ""
+
+#. Key:	ActionMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMenu"
+msgid "Menu"
+msgstr ""
+
+#. Key:	ActionMoveBackward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveBackward"
+msgid "Move Backwards"
+msgstr ""
+
+#. Key:	ActionMoveForward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveForward"
+msgid "Move Forwards"
+msgstr ""
+
+#. Key:	ActionMoveLeft
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveLeft"
+msgid "Move Left"
+msgstr ""
+
+#. Key:	ActionMoveRight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveRight"
+msgid "Move Right"
+msgstr ""
+
+#. Key:	ActionPrimaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
+msgid "Primary Attack"
+msgstr ""
+
+#. Key:	ActionQuickLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickLoad"
+msgid "Quick Load"
+msgstr ""
+
+#. Key:	ActionQuickSave
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickSave"
+msgid "Quick Save"
+msgstr ""
+
+#. Key:	ActionReload
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionReload"
+msgid "Reload"
+msgstr ""
+
+#. Key:	ActionSecondaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
+msgid "Secondary Attack"
+msgstr ""
+
+#. Key:	ActionSprint
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSprint"
+msgid "Sprint"
+msgstr ""
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
