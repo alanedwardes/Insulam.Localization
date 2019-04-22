@@ -1,164 +1,165 @@
-﻿# Game English translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-04-21 20:55\n"
-"PO-Revision-Date: 2019-04-21 20:55\n"
+"PO-Revision-Date: 2019-04-22 13:41+0200\n"
 "Language-Team: \n"
-"Language: en\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
-msgstr "Crouch under"
+msgstr "Bukken"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "Fire M9"
+msgstr "M9 afvuren"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
-msgstr "Toggle flashlight"
+msgstr "Zaklamp aan/uit"
 
 #. Key:	HintFlee
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr "Flee"
+msgstr "Vluchten"
 
 #. Key:	HintGameSaved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr "Game saved"
+msgstr "Spel opgeslagen"
 
 #. Key:	HintInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr "Interact"
+msgstr "Interactie"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr "Jump up"
+msgstr "Springen"
 
 #. Key:	HintLoading
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintLoading"
 msgid "Loading"
-msgstr "Loading"
+msgstr "Laden"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintMove"
 msgid "Move around"
-msgstr "Move around"
+msgstr "Bewegen"
 
 #. Key:	HintOpenGate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr "Open gate"
+msgstr "Poort openen"
 
 #. Key:	HintPickaxe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickaxe"
 msgid "Pickaxe"
-msgstr "Pickaxe"
+msgstr "Pikhouweel"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickUp"
 msgid "Pick up object"
-msgstr "Pick up object"
+msgstr "Object oppakken"
 
 #. Key:	HintSprintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
-msgstr "Run and Jump"
+msgstr "Rennen en springen"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintThrowRock"
 msgid "Throw rock"
-msgstr "Throw rock"
+msgstr "Steen gooien"
 
 #. Key:	HintTurnOnTv
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintTurnOnTv"
 msgid "Turn on TV"
-msgstr "Turn on TV"
+msgstr "Tv aanzetten"
 
 #. Key:	HintUseMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
-msgstr "Control computer"
+msgstr "Computer gebruiken"
 
 #. Key:	BindingNotSet
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr "None"
+msgstr "Geen"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr "Press a key"
+msgstr "Druk op een toets"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
-msgstr "Anti-Aliasing"
+msgstr "Anti-aliasing"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAdvanced"
 msgid "Advanced"
-msgstr "Advanced"
+msgstr "Geavanceerd"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
-msgstr "Apply Changes"
+msgstr "Wijzigingen toepassen"
 
 #. Key:	ButtonArcade
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -172,98 +173,98 @@ msgstr "Arcade"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAutoDetectSettings"
 msgid "Auto-Detect Settings"
-msgstr "Auto-Detect Settings"
+msgstr "Instellingen autom. detecteren"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonBack"
 msgid "Back"
-msgstr "Back"
+msgstr "Terug"
 
 #. Key:	ButtonChapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr "Chapter 1"
+msgstr "Hoofdstuk 1"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr "Chapter 2"
+msgstr "Hoofdstuk 2"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr "Chapter 3"
+msgstr "Hoofdstuk 3"
 
 #. Key:	ButtonChapter4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
-msgstr "Chapter 4"
+msgstr "Hoofdstuk 4"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr "Controls"
+msgstr "Besturing"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonCredits"
 msgid "Load Credits"
-msgstr "Load Credits"
+msgstr "Credits laden"
 
 #. Key:	ButtonEffects
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonEffects"
 msgid "Effects"
-msgstr "Effects"
+msgstr "Effecten"
 
 #. Key:	ButtonExit
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExit"
 msgid "Exit"
-msgstr "Exit"
+msgstr "Afsluiten"
 
 #. Key:	ButtonExitToMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExitToMenu"
 msgid "Exit to Menu"
-msgstr "Exit to Menu"
+msgstr "Afsluiten naar menu"
 
 #. Key:	ButtonExtras
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExtras"
 msgid "Extras"
-msgstr "Extras"
+msgstr "Extra's"
 
 #. Key:	ButtonFeedback
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFeedback"
 msgid "Send Feedback"
-msgstr "Send Feedback"
+msgstr "Feedback verzenden"
 
 #. Key:	ButtonFoliage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
-msgstr "Foliage"
+msgstr "Gebladerte"
 
 #. Key:	ButtonGameplayOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -284,126 +285,126 @@ msgstr "Graphics"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr "Guides"
+msgstr "Gidsen"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr "Warehouse Horde"
+msgstr "Pakhuishorde"
 
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
-msgstr "Join Discord"
+msgstr "Discord-server"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadGame"
 msgid "Load Game"
-msgstr "Load Game"
+msgstr "Spel laden"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonNewGame"
 msgid "New Game"
-msgstr "New Game"
+msgstr "Nieuw spel"
 
 #. Key:	ButtonPostProcess
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
-msgstr "Post-process"
+msgstr "Nabewerking"
 
 #. Key:	ButtonPrelude
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPrelude"
 msgid "Prelude"
-msgstr "Prelude"
+msgstr "Inleiding"
 
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonRange"
 msgid "Shooting Range"
-msgstr "Shooting Range"
+msgstr "Schietbaan"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
-msgstr "Resume Game"
+msgstr "Spel hervatten"
 
 #. Key:	ButtonSaveGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveGame"
 msgid "Save Game"
-msgstr "Save Game"
+msgstr "Spel opslaan"
 
 #. Key:	ButtonSaveLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveLoad"
 msgid "Save / Load"
-msgstr "Save / Load"
+msgstr "Opslaan/laden"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonScreenOptions"
 msgid "Screen"
-msgstr "Screen"
+msgstr "Scherm"
 
 #. Key:	ButtonShadows
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShadows"
 msgid "Shadows"
-msgstr "Shadows"
+msgstr "Schaduwen"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSoundOptions"
 msgid "Sound"
-msgstr "Sound"
+msgstr "Geluid"
 
 #. Key:	ButtonSP01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP01"
 msgid "1. Fall"
-msgstr "1. Fall"
+msgstr "1. Val"
 
 #. Key:	ButtonSP02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP02"
 msgid "2. Scaffolding"
-msgstr "2. Scaffolding"
+msgstr "2. Steiger"
 
 #. Key:	ButtonSP03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP03"
 msgid "3. Pool"
-msgstr "3. Pool"
+msgstr "3. Zwembad"
 
 #. Key:	ButtonSP04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP04"
 msgid "4. Mine"
-msgstr "4. Mine"
+msgstr "4. Mijn"
 
 #. Key:	ButtonSP05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -417,147 +418,147 @@ msgstr "5. Lab"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP06"
 msgid "6. Clearing"
-msgstr "6. Clearing"
+msgstr "6. Open plek"
 
 #. Key:	ButtonSP07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP07"
 msgid "7. Sewer"
-msgstr "7. Sewer"
+msgstr "7. Riool"
 
 #. Key:	ButtonSP08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP08"
 msgid "8. Elevator"
-msgstr "8. Elevator"
+msgstr "8. Lift"
 
 #. Key:	ButtonSP09
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP09"
 msgid "9. Forest"
-msgstr "9. Forest"
+msgstr "9. Bos"
 
 #. Key:	ButtonSP10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSP10"
 msgid "10. Crevice"
-msgstr "10. Crevice"
+msgstr "10. Kloof"
 
 #. Key:	ButtonSteamForums
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSteamForums"
 msgid "Steam Forums"
-msgstr "Steam Forums"
+msgstr "Steam-forum"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonTextures"
 msgid "Textures"
-msgstr "Textures"
+msgstr "Texturen"
 
 #. Key:	ButtonViewDistance
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr "View Distance"
+msgstr "Gezichtsveld"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
-msgstr "In-Game Commentary"
+msgstr "Commentaar in spel"
 
 #. Key:	CheckboxDisableAmbientOcclusion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr "Disable Ambient Occlusion"
+msgstr "Omgevingsocclusie uitschakelen"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
-msgstr "Disable Depth of Field"
+msgstr "Scherptediepte uitschakelen"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHighlight"
 msgid "Disable Object Highlight"
-msgstr "Disable Object Highlight"
+msgstr "Objecten uitlichten uitschakelen"
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHUD"
 msgid "Disable HUD"
-msgstr "Disable HUD"
+msgstr "HUD uitschakelen"
 
 #. Key:	CheckboxDisableMotionBlur
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr "Disable Motion Blur"
+msgstr "Bewegingsonscherpte uitschakelen"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr "Disable Scene Fringe"
+msgstr "Randen kleurschifting uitschakelen"
 
 #. Key:	CheckboxDisableSubtitles
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSubtitles"
 msgid "Disable Subtitles"
-msgstr "Disable Subtitles"
+msgstr "Ondertitels uitschakelen"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
-msgstr "Disable Vignette"
+msgstr "Vignettering uitschakelen"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableStatsForNerds"
 msgid "Enable On-Screen Stats"
-msgstr "Enable On-Screen Stats"
+msgstr "Statistieken op scherm inschakelen"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxInvertMouse"
 msgid "Invert Mouse"
-msgstr "Invert Mouse"
+msgstr "Muis omkeren"
 
 #. Key:	CheckboxLaptopMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopMode"
 msgid "Laptop Mode"
-msgstr "Laptop Mode"
+msgstr "Laptopmodus"
 
 #. Key:	CheckboxLaptopModeHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr "Beperk de framerate tot 30 FPS om mobiele apparaten zoals laptops koeler te houden wanneer je speelt."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -571,84 +572,84 @@ msgstr "VSync"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownAAMethod"
 msgid "AA Method"
-msgstr "AA Method"
+msgstr "AA-methode"
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Culture"
-msgstr "Culture"
+msgstr "Cultuur"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeEpic"
 msgid "Epic"
-msgstr "Epic"
+msgstr "Episch"
 
 #. Key:	DropdownItemQualityModeHigh
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeHigh"
 msgid "High"
-msgstr "High"
+msgstr "Hoog"
 
 #. Key:	DropdownItemQualityModeLow
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeLow"
 msgid "Low"
-msgstr "Low"
+msgstr "Laag"
 
 #. Key:	DropdownItemQualityModeMedium
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeMedium"
 msgid "Medium"
-msgstr "Medium"
+msgstr "Gemiddeld"
 
 #. Key:	DropdownItemWindowModeFullscreen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeFullscreen"
 msgid "Fullscreen"
-msgstr "Fullscreen"
+msgstr "Volledig scherm"
 
 #. Key:	DropdownItemWindowModelBorderless
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModelBorderless"
 msgid "Borderless"
-msgstr "Borderless"
+msgstr "Zonder rand"
 
 #. Key:	DropdownItemWindowModeWindowed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeWindowed"
 msgid "Window"
-msgstr "Window"
+msgstr "Venster"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownResolution"
 msgid "Resolution"
-msgstr "Resolution"
+msgstr "Resolutie"
 
 #. Key:	DropdownWindowMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr "Window Mode"
+msgstr "Venstermodus"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II EARLY ACCESS"
-msgstr "ACT II EARLY ACCESS"
+msgstr "ACT II - VROEGTIJDIGE TOEGANG"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -662,21 +663,21 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr "Enter Cheat"
+msgstr "Cheat invoeren"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptions"
 msgid "Experimental Options"
-msgstr "Experimental Options"
+msgstr "Experimentele opties"
 
 #. Key:	LabelExperimentalOptionsHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
-msgstr "These options are experimental and may be lost."
+msgstr "Deze opties zijn experimenteel en kunnen worden verwijderd."
 
 #. Key:	MenuArcade
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -690,14 +691,14 @@ msgstr "ARCADE"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuControlOptions"
 msgid "CONTROLS"
-msgstr "CONTROLS"
+msgstr "BESTURING"
 
 #. Key:	MenuExtraOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuExtraOptions"
 msgid "EXTRAS"
-msgstr "EXTRAS"
+msgstr "EXTRA'S"
 
 #. Key:	MenuGameplay
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -718,70 +719,70 @@ msgstr "GRAPHICS"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr "LOAD GAME"
+msgstr "SPEL LADEN"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuNewGame"
 msgid "NEW GAME"
-msgstr "NEW GAME"
+msgstr "NIEUW SPEL"
 
 #. Key:	MenuOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuOptions"
 msgid "OPTIONS"
-msgstr "OPTIONS"
+msgstr "OPTIES"
 
 #. Key:	MenuSaveLoadOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr "SAVE / LOAD"
+msgstr "OPSLAAN/LADEN"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuScreenOptions"
 msgid "SCREEN"
-msgstr "SCREEN"
+msgstr "SCHERM"
 
 #. Key:	MenuSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSoundOptions"
 msgid "SOUND"
-msgstr "SOUND"
+msgstr "GELUID"
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,OptionsButton"
 msgid "Options"
-msgstr "Options"
+msgstr "Opties"
 
 #. Key:	SliderControllerSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderControllerSensitivity"
 msgid "Controller Sensitivity"
-msgstr "Controller Sensitivity"
+msgstr "Controllergevoeligheid"
 
 #. Key:	SliderEffectsVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
-msgstr "Effects Volume"
+msgstr "Volume effecten"
 
 #. Key:	SliderFieldOfView
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderFieldOfView"
 msgid "Field of View"
-msgstr "Field of View"
+msgstr "Gezichtsveld"
 
 #. Key:	SliderGamma
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -795,280 +796,280 @@ msgstr "Gamma"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMouseSensitivity"
 msgid "Mouse Sensitivity"
-msgstr "Mouse Sensitivity"
+msgstr "Muisgevoeligheid"
 
 #. Key:	SliderMusicVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
-msgstr "Music Volume"
+msgstr "Volume muziek"
 
 #. Key:	SliderScreenPercentage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
-msgstr "Screen Percentage"
+msgstr "Schermpercentage"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
-msgstr "Voice Volume"
+msgstr "Volume stemmen"
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipInvertMouse"
 msgid "Invert the mouse Y axis"
-msgstr "Invert the mouse Y axis"
+msgstr "Y-as van de muis omkeren"
 
 #. Key:	ArcheologistDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "The skeletons here are confirmed to be sailors and pirates."
-msgstr "The skeletons here are confirmed to be sailors and pirates."
+msgstr "Het is bevestigd dat de skeletten hier zeelieden en piraten waren."
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part2"
 msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
-msgstr "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
+msgstr "Onze beste gok is dat ze voor de Britse marine vluchtten en hun toevlucht op het eiland zochten."
 
 #. Key:	ArcheologistDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "The pirates and sailors were involved in some kind of internal conflict."
-msgstr "The pirates and sailors were involved in some kind of internal conflict."
+msgstr "De piraten en zeelieden waren betrokken bij een soort intern conflict."
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part2"
 msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
-msgstr "We were assuming it was over the precious artefacts that we recovered from this cave."
+msgstr "We namen aan dat het om kostbare artefacten ging die we in deze grot hebben gevonden."
 
 #. Key:	ArcheologistDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part3"
 msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
-msgstr "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
+msgstr "We denken dat ze op dat moment dronken waren. Er zitten tandafdrukken op een aantal botten die menselijk lijken."
 
 #. Key:	ArcheologistDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgstr "We moesten een deel van het team evacueren, omdat ze ziek werden. We nemen aan dat ze iets bij de lichamen verstoorden."
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part2"
 msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
-msgstr "We're going to be using our HAZMAT suits from now on. We know it's not safe."
+msgstr "Vanaf nu gaan we onze gaspakken gebruiken. We weten dat het niet veilig is."
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "Dit is Gareth Thomas. We hebben de algenproefmonsters geanalyseerd..."
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr "en ontdekt dat het gloeien wordt veroorzaakt door een natuurlijk voorkomende zeeplankton in de omgeving."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "We don't anticipate that our usage of the algae will be affected at all by the plankton."
+msgstr "We verwachten niet dat ons gebruik van de algen door het plankton wordt beïnvloed."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr "We beschouwen het als onschadelijk en verwachten niet dat het een probleem zal worden."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr "Dit is het uh, audiologboek, #1, van Liam Jones."
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "We just started studying the algae, and uh"
+msgstr "We zijn net begonnen met het bestuderen van de algen, en..."
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "We realised that it actually glows if you leave it alone for a little while"
+msgstr "We realiseren ons dat het gloeit wanneer je het een tijdje met rust laat."
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr "Dus, dat is cool! Heb hier een monstertje bij me dat..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr "...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr "ik even in mijn kantoor laat liggen, gewoon om te zien wat ermee gebeurt."
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "This is the uh, Liam Jones uh, diary #2"
-msgstr "This is the uh, Liam Jones uh, diary #2"
+msgstr "Dit is, uh, logboek #2, van Liam Jones."
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "Doe dat gewoon. Laat ze weten dat ik hem verkeerd heb weggelegd en dat ik een nieuwe nodig heb."
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "Je kunt zelfs zeggen dat ik een reservepenning nodig heb, nog eentje... Ik weet niet zeker waar ie is."
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "... just I need another badge is basically the bottom line"
+msgstr "Ik heb gewoon een nieuwe penning nodig. Daar gaat het om."
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr "so if you could email the badge people Hawthorne"
+msgstr "Dus als je de penningmensen kunt mailen, Hawthorne..."
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr "and uh get me a new badge that would be good. OK."
+msgstr "en een nieuwe penning voor me kunt regelen, zou dat fijn zijn."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "The samples are doing OK, we're just observing them now to see what happens"
+msgstr "De proefmonsters doen het goed. We observeren ze nu om te zien wat er gebeurt."
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr "Het hoofdkantoor heeft wat monsters aangevraagd, dus we sturen er daar ook een paar in dozen heen."
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr "Hé, Hawthorne, als je de kans krijgt; ik ben m'n penning verloren..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "but when you talk to the badge people just say um... like uh..."
+msgstr "maar als je met die penningmensen praat, zeg je gewoon... zo van..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr "Weet ik veel, iemand- Nee, niemand heeft hem gepakt, dat is een slechte reden."
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr "Een vos glipte naar binnen en pakte mijn penning, en nu kan ik niet in de hoofdfaciliteit komen."
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Um so, if you could just tell them that... because last time it happened, "
+msgstr "Dus, als je ze gewoon dat kunt vertellen... omdat ze de vorige keer zeiden..."
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "they said it was my fault and they were a little bit reluctant about replacing it so"
+msgstr "dat het mijn fout was en ze een beetje terughoudend waren om hem te vervangen."
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr "Dit is Liam Jones, de beveiligingstechnicus voor levende proefmonsters ter plaatse. We hebben..."
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr "dr. Frederick Prezella net in de observatiekamer gelaten. Hij werd... agressief..."
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "and attacked one of my members of staff so we're going to keep him"
+msgstr "en viel een van mijn personeelsleden aan, dus we houden hem..."
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "under observation and probably move him off the island as soon as we can."
+msgstr "vast ter observatie en vervoeren hem waarschijnlijk van het eiland wanneer dat kan."
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
-msgstr "We're not sure what caused this."
+msgstr "We weten niet zeker waardoor dit komt."
 
 #. Key:	ActionConsole
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1082,28 +1083,28 @@ msgstr "Console"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionCrouch"
 msgid "Crouch"
-msgstr "Crouch"
+msgstr "Bukken"
 
 #. Key:	ActionFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionFlashlight"
 msgid "Toggle Flashlight"
-msgstr "Toggle Flashlight"
+msgstr "Zaklamp aan/uit"
 
 #. Key:	ActionInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionInteract"
 msgid "Interact"
-msgstr "Interact"
+msgstr "Interactie"
 
 #. Key:	ActionJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionJump"
 msgid "Jump"
-msgstr "Jump"
+msgstr "Springen"
 
 #. Key:	ActionMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1117,567 +1118,581 @@ msgstr "Menu"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveBackward"
 msgid "Move Backwards"
-msgstr "Move Backwards"
+msgstr "Achteruit"
 
 #. Key:	ActionMoveForward
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveForward"
 msgid "Move Forwards"
-msgstr "Move Forwards"
+msgstr "Vooruit"
 
 #. Key:	ActionMoveLeft
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveLeft"
 msgid "Move Left"
-msgstr "Move Left"
+msgstr "Naar links"
 
 #. Key:	ActionMoveRight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveRight"
 msgid "Move Right"
-msgstr "Move Right"
+msgstr "Naar rechts"
 
 #. Key:	ActionPrimaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
 msgid "Primary Attack"
-msgstr "Primary Attack"
+msgstr "Primaire aanval"
 
 #. Key:	ActionQuickLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickLoad"
 msgid "Quick Load"
-msgstr "Quick Load"
+msgstr "Snel laden"
 
 #. Key:	ActionQuickSave
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickSave"
 msgid "Quick Save"
-msgstr "Quick Save"
+msgstr "Snel opslaan"
 
 #. Key:	ActionReload
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionReload"
 msgid "Reload"
-msgstr "Reload"
+msgstr "Herladen"
 
 #. Key:	ActionSecondaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
 msgid "Secondary Attack"
-msgstr "Secondary Attack"
+msgstr "Secundaire aanval"
 
 #. Key:	ActionSprint
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSprint"
 msgid "Sprint"
-msgstr "Sprint"
+msgstr "Rennen"
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AdditionalContributors"
 msgid "ADDITIONAL CONTRIBUTORS"
-msgstr "ADDITIONAL CONTRIBUTORS"
+msgstr "ANDERE BIJDRAGERS"
 
 #. Key:	AndYou
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYou"
 msgid "And You!"
-msgstr "And You!"
+msgstr "En jij!"
 
 #. Key:	AndYouTemplated
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
-msgstr "And {name} (You!)"
+msgstr "En {name} (jij!)"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr "Through the Cracks"
+msgstr "Laten barsten"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr "Post Abandon"
+msgstr "Afgeloste wacht"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr "Fight or Flight"
+msgstr "Vechten of vluchten"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,CreatedWithUnrealEngine"
 msgid "Created with Unreal Engine"
-msgstr "Created with Unreal Engine"
+msgstr "Gemaakt met Unreal Engine"
 
 #. Key:	EstrangedTradeMark
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr "\"Estranged\" is een handelsmerk van Alan Edwardes"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
-msgstr "Help Translate Too!"
+msgstr "Help ook met vertalen!"
 
 #. Key:	MoreSoon
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Temporary Ending\r\nMore Content Soon!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Tijdelijk einde\r\n"
+"Binnenkort meer inhoud!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Translators"
 msgid "TRANSLATORS"
-msgstr "TRANSLATORS"
+msgstr "VERTALERS"
 
 #. Key:	WithThanksTo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
-msgstr "WITH THANKS TO"
+msgstr "MET DANK AAN"
 
 #. Key:	GuardChatter01
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter01"
 msgid "What do you think? He fell down there maybe?"
-msgstr "What do you think? He fell down there maybe?"
+msgstr "Wat denk je? Is hij naar beneden gevallen?"
 
 #. Key:	GuardChatter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter02"
 msgid "I dunno... this place is falling apart."
-msgstr "I dunno... this place is falling apart."
+msgstr "Geen idee... Deze plek staat in ieder geval wel op instorten."
 
 #. Key:	GuardChatter03
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter03"
 msgid "You know... if we report this, they're going to make us go down there."
-msgstr "You know... if we report this, they're going to make us go down there."
+msgstr "Weet je... Als we dit melden, laten ze ons daarin afdalen."
 
 #. Key:	GuardChatter04
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter04"
 msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr "Yeah, I know. It's not worth it, let's just let the things get him."
+msgstr "Ja, ik weet het. Het is het niet waard. Laat die dingen hem maar pakken."
 
 #. Key:	GuardChatter05
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter05"
 msgid "That's fine by me. Let's move."
-msgstr "That's fine by me. Let's move."
+msgstr "Prima. Kom, we gaan."
 
 #. Key:	JohnActI01
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
 msgid "Hello?"
-msgstr "Hello?"
+msgstr "Hallo?"
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
-msgstr "If anyone can hear this, my name is Johnathan Derril."
+msgstr "Als iemand dit kan horen, mijn naam is Johnathan Derril."
 
 #. Key:	JohnActI02Alt
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr "If anyone can hear this, I need help."
+msgstr "Als iemand dit kan horen, ik heb hulp nodig."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI03"
 msgid "And I need help."
-msgstr "And I need help."
+msgstr "En ik heb hulp nodig."
 
 #. Key:	JohnActI04
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr "These things, they've taken over the island."
+msgstr "Deze dingen, ze hebben het eiland overgenomen."
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr "Anyone, please, I have supplies, but-"
+msgstr "Iemand, alsjeblieft, ik heb voorraden, maar-"
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
-msgstr "They're out there."
+msgstr "Ze zijn daarbuiten."
 
 #. Key:	LaserScan01
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Welcome to Arque East. Please stand by for biological scan."
-msgstr "Welcome to Arque East. Please stand by for biological scan."
+msgstr "Welkom bij Arque East. Blijft u staan voor de biologische scan."
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan02"
 msgid "Biological scan completed. No foreign material found."
-msgstr "Biological scan completed. No foreign material found."
+msgstr "Biologische scan voltooid. Geen vreemd materiaal gevonden."
 
 #. Key:	LaserScan03
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr "Please proceed, and have a nice day."
+msgstr "Gaat u verder. Nog een fijne dag."
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
 msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
-msgstr "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgstr "Het particuliere beveiligingsbedrijf Sokol-Glockner is voor de tweede keer dit jaar bekritiseerd..."
 
 #. Key:	NewsReport02
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport02"
 msgid "with its heavy handed use of live ammunition in its protective assignments."
-msgstr "with its heavy handed use of live ammunition in its protective assignments."
+msgstr "vanwege het met scherp schieten in beschermingstaken."
 
 #. Key:	NewsReport03
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
 msgid "The company’s policy states that live ammunition is to be used on all assignments,"
-msgstr "The company’s policy states that live ammunition is to be used on all assignments,"
+msgstr "Het bedrijfsbeleid stelt dat er bij elke taak met scherp geschoten dient te worden..."
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
+msgstr "maar activisten verwerpen dit en zeggen dat het juist aanzet tot het geweld dat ze willen vermijden."
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr "The company declined to comment when asked, but others say it’s an accident waiting to happen."
+msgstr "Het bedrijf weigerde om commentaar te geven, maar anderen zeggen dat het nu slechts wachten op een ongeluk is."
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
 msgid "The government contractor is responsible for a number of overseas operations,"
-msgstr "The government contractor is responsible for a number of overseas operations,"
+msgstr "De overheidscontractant is verantwoordelijk voor een aantal overzeese operaties..."
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
 msgid "which sources say is why the government is not commenting on this matter."
-msgstr "which sources say is why the government is not commenting on this matter."
+msgstr "waarvan bronnen zeggen dat dat de reden is dat de overheid hier niet op ingaat."
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
+msgstr "Sokol-Glockner kwam eerder dit jaar al in het nieuws vanwege de betrokkenheid bij een schietpartij..."
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr "an Arque Corporation employee on one of its offshore drilling platforms."
+msgstr "met een medewerker van Arque Corporation op een van hun aflandige boorplatformen."
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
+msgstr "De 37-jarige medewerker dook op op een strand nadat hij klaarblijkelijk van het platform was gezwommen."
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport11"
 msgid "while doctors later confirmed a bullet in his leg."
-msgstr "while doctors later confirmed a bullet in his leg."
+msgstr "Dokters bevestigden later dat er een kogel in zijn been zat."
 
 #. Key:	NewsReport12
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgstr "Sokol-Glockner bevestigde dat de kogel uit een van hun wapens was afgeschoten..."
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport13"
 msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
-msgstr "but refused to comment on the case. It insisted it was working with the relevant authorities."
+msgstr "maar weigerde op de zaak te reageren. Het drong erop aan dat met de relevante autoriteiten werd gewerkt."
 
 #. Key:	NewsReport14
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "Weather now - storm Edwin continues to make landfall,"
+msgstr "Nu tijd voor het weer: storm Edwin houdt aan op het land..."
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr "but today provides residents in the north with a day of calm."
+msgstr "maar voor inwoners in het noorden blijft het vandaag rustig."
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
+msgstr "Meteorologen waarschuwen echter dat de ergste storm nog moet komen..."
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
+msgstr "en raden iedereen in het gebied aan om badkuipen met water te vullen en voedsel voor minstens twee dagen in te slaan."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr "Hiermee sluiten we af. Kijk morgen om 7 uur weer voor het ochtendnieuws."
 
 #. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque Corporation."
-msgstr "This is an automated message from Arque Corporation."
+msgstr "Dit is een automatisch bericht van Arque Corporation."
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr "Mandatory curfew is in effect. Please stay inside."
+msgstr "Er is een verplichte avondklok van kracht. Blijft u binnen."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr "If there's ANYONE listening to this, I need help."
+msgstr "Als IEMAND hiernaar luistert, ik heb hulp nodig."
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr "They're broadcasting a curfew message, but..."
+msgstr "Ze zenden een avondklokbericht uit, maar..."
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr "I don't understand why. Is it a malfunction?"
+msgstr "Ik begrijp niet waarom. Is er een storing?"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr "God I hope they're not trying to cover this up..."
+msgstr "God, ik hoop niet dat ze dit proberen te verdoezelen..."
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "I'm just going to... continue broadcasting until I can't anymore."
-msgstr "I'm just going to... continue broadcasting until I can't anymore."
+msgstr "Ik blijf gewoon... uitzenden totdat ik niet meer kan."
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr "Passing ships, aeroplanes... SOMETHING has to pick this up."
+msgstr "Schepen of vliegtuigen in de buurt... IETS moet dit toch kunnen oppikken."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr "I was split up from my wife and daughter when the things came."
+msgstr "Ik ben van mijn vrouw en dochter gescheiden toen die dingen kwamen."
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
 msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
-msgstr "We were on holiday... holiday! No one is prepared for this. No-one can be."
+msgstr "We waren op vakantie... vakantie! Niemand is hierop voorbereid. Dat kan niet."
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr "I know how to fix radios... not much else."
+msgstr "Ik weet hoe ik radio's kan repareren, maar dan houdt het ook op."
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05b"
 msgid "A fisherman crashed on the docks near to where I am."
-msgstr "A fisherman crashed on the docks near to where I am."
+msgstr "Hier vlakbij is een visser op de steigers geknald."
 
 #. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr "They were fine, I gave them supplies, and told them how to try and stop this."
+msgstr "Er was niets aan de hand. Ik heb hem voorraden gegeven en gezegd hoe hij dit kon proberen te stoppen."
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr "I don't think they're coming back though. I keep thinking I could have done more."
+msgstr "Ik denk alleen niet dat ie terugkomt. Misschien had ik meer kunnen doen."
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr "Alsjeblieft, als IEMAND hiernaar luistert. Als je denkt dat het hier erg is... het is nog erger."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
 msgid "We need the military. Why has no one come?"
-msgstr "We need the military. Why has no one come?"
+msgstr "We hebben het leger nodig. Waarom is niemand gekomen?"
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr "That company must be doing something to stop the communication."
+msgstr "Het bedrijf knoeit waarschijnlijk met de communicatie."
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr "Why has no one checked up on us? This is a small island, but there's still people..."
+msgstr "Waarom kijkt niemand hoe het met ons gaat? Dit is een klein eiland, maar er wonen nog steeds mensen."
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr "I wish we'd never booked this holiday... if I could undo the last few months... God..."
+msgstr "Hadden we deze vakantie maar nooit geboekt... Konden we het maar terugdraaien. God..."
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr "...there's no point playing \"what if\"."
+msgstr "Het heeft geen zin om te speculeren."
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr "LOADING"
+msgstr "LADEN"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr ""
+"Welkom bij Estranged: Act II! Dit is het vervolg in ontwikkeling op Estranged: Act I, dat ook beschikbaar is op Steam.\r\n"
+"\r\n"
+"Act II is een vrijetijdsproject (voornamelijk ontwikkeld door één persoon!) met de hulp van een geluidsontwerper, bijdragen van een levelontwerper en communityvertalers en -testers.\r\n"
+"\r\n"
+"Als je feedback voor ons hebt zijn we altijd beschikbaar op de Steam-fora, via de feedbackoptie in het spel of op discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupPlayButton"
 msgid "Play Estranged"
-msgstr "Play Estranged"
+msgstr "Estranged spelen"
 
 #. Key:	StartupTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupTitle"
 msgid "WELCOME TO ESTRANGED ACT II"
-msgstr "WELCOME TO ESTRANGED ACT II"
+msgstr "WELKOM BIJ ESTRANGED: ACT II"
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "DAYS BEFORE THE EVENTS OF ACT I"
+msgstr "DAGEN VOOR DE GEBEURTENISSEN VAN ACT I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr "FAIR ISLE, SHETLAND, SCOTLAND"
+msgstr "FAIR ISLE, SHETLAND, SCHOTLAND"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -1691,26 +1706,25 @@ msgstr "LEVEL"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangePointsLabel"
 msgid "POINTS"
-msgstr "POINTS"
+msgstr "PUNTEN"
 
 #. Key:	RangeTimeLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
-msgstr "TIME"
+msgstr "TIJD"
 
 #. Key:	TheFallEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "HOURS AFTER THE EVENTS OF ACT I"
+msgstr "UREN NA DE GEBEURTENISSEN VAN ACT I"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr "UNKNOWN ISLAND, NORWEGIAN SEA"
-
+msgstr "ONBEKEND EILAND, NOORSE ZEE"
