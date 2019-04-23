@@ -1,17 +1,18 @@
-﻿# Game Hungarian translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-04-21 20:55\n"
-"PO-Revision-Date: 2019-04-21 20:55\n"
+"PO-Revision-Date: 2019-04-23 12:43+0200\n"
 "Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -32,7 +33,7 @@ msgstr "M9 Elsütése"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
-msgstr "Zseblámba kapcsolása"
+msgstr "Zseblámpa kapcsolása"
 
 #. Key:	HintFlee
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -102,7 +103,7 @@ msgstr "Tárgy felvétele"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
-msgstr ""
+msgstr "Futás és ugrás"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -298,7 +299,7 @@ msgstr "Raktár horda"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
-msgstr ""
+msgstr "Csatlakozz Discordon"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -452,7 +453,7 @@ msgstr "10. Hasadék"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSteamForums"
 msgid "Steam Forums"
-msgstr ""
+msgstr "Steam Fórumok"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1075,112 +1076,112 @@ msgstr "Nem tudjuk mi okozhatta ezt."
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionConsole"
 msgid "Console"
-msgstr ""
+msgstr "Terminál"
 
 #. Key:	ActionCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionCrouch"
 msgid "Crouch"
-msgstr ""
+msgstr "Gugolás"
 
 #. Key:	ActionFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionFlashlight"
 msgid "Toggle Flashlight"
-msgstr ""
+msgstr "Zseblámpa kapcsolása"
 
 #. Key:	ActionInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionInteract"
 msgid "Interact"
-msgstr ""
+msgstr "Kezel"
 
 #. Key:	ActionJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionJump"
 msgid "Jump"
-msgstr ""
+msgstr "Ugrás"
 
 #. Key:	ActionMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMenu"
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
 #. Key:	ActionMoveBackward
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveBackward"
 msgid "Move Backwards"
-msgstr ""
+msgstr "Hátrafelé haladás"
 
 #. Key:	ActionMoveForward
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveForward"
 msgid "Move Forwards"
-msgstr ""
+msgstr "Előre haladás"
 
 #. Key:	ActionMoveLeft
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveLeft"
 msgid "Move Left"
-msgstr ""
+msgstr "Balra haladás"
 
 #. Key:	ActionMoveRight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveRight"
 msgid "Move Right"
-msgstr ""
+msgstr "Jobbra Haladás"
 
 #. Key:	ActionPrimaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
 msgid "Primary Attack"
-msgstr ""
+msgstr "Elsődleges támadás"
 
 #. Key:	ActionQuickLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickLoad"
 msgid "Quick Load"
-msgstr ""
+msgstr "Gyors töltés"
 
 #. Key:	ActionQuickSave
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickSave"
 msgid "Quick Save"
-msgstr ""
+msgstr "Gyors mentés"
 
 #. Key:	ActionReload
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionReload"
 msgid "Reload"
-msgstr ""
+msgstr "Újratöltés"
 
 #. Key:	ActionSecondaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
 msgid "Secondary Attack"
-msgstr ""
+msgstr "Másodlagos támadás"
 
 #. Key:	ActionSprint
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSprint"
 msgid "Sprint"
-msgstr ""
+msgstr "Futás"
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1249,8 +1250,12 @@ msgstr "Segíts lefordítani!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Ideiglenes befejezés\r\nTovábbi részek nemsokára!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Ideiglenes befejezés\r\n"
+"További részek nemsokára!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1648,8 +1653,18 @@ msgstr "TÖLTÉS"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Üdvözlünk az Estranged: II. részében! Ez a fejlesztés alatt lévő folytatása az első résznek. ami szintén elérhető Steam-en.\r\n\r\nA II. rész szabadidős projekt (nagyrészt egy ember által fejlesztve!) egy hangmérnök segítségével, egy szint készítő,  közösségi fordítók és tesztelők segítségével\r\n\r\nHa van bármi visszajelzésed számunkra, mindig elérhetőek vagyunk a Steam fórumokon, a játékon belüli visszajelzésen keresztül vagy discordon: discord.gg/estranged!"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr ""
+"Üdvözlünk az Estranged: II. részében! Ez a fejlesztés alatt lévő folytatása az első résznek. ami szintén elérhető Steam-en.\r\n"
+"\r\n"
+"A II. rész szabadidős projekt (nagyrészt egy ember által fejlesztve!) egy hangmérnök segítségével, egy szint készítő,  közösségi fordítók és tesztelők segítségével\r\n"
+"\r\n"
+"Ha van bármi visszajelzésed számunkra, mindig elérhetőek vagyunk a Steam fórumokon, a játékon belüli visszajelzésen keresztül vagy discordon: discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -1713,4 +1728,3 @@ msgstr "PÁR ÓRÁVAL AZ ELSŐ RÉSZ UTÁN"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "ISMERETLEN SZIGET, NORVÉG TENGER"
-
