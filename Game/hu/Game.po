@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-04-27 18:43\n"
-"PO-Revision-Date: 2019-04-27 18:43\n"
+"POT-Creation-Date: 2019-05-06 13:04\n"
+"PO-Revision-Date: 2019-05-06 13:04\n"
 "Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -577,8 +577,8 @@ msgstr "AA Metódus"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
-msgid "Culture"
-msgstr "Nyelv"
+msgid "Language"
+msgstr ""
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1181,6 +1181,69 @@ msgstr "Másodlagos támadás"
 msgctxt "ST_ActionAxisNames,ActionSprint"
 msgid "Sprint"
 msgstr "Futás"
+
+#. Key:	CaptureGuard01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01a"
+msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgstr ""
+
+#. Key:	CaptureGuard01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01b"
+msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
+msgstr ""
+
+#. Key:	CaptureGuard01c
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01c"
+msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
+msgstr ""
+
+#. Key:	CaptureGuard01d
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01d"
+msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your manged body inside."
+msgstr ""
+
+#. Key:	CaptureGuard01e
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01e"
+msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
+msgstr ""
+
+#. Key:	CaptureGuard01f
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01f"
+msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
+msgstr ""
+
+#. Key:	CaptureGuard01g
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01g"
+msgid "Thousands, millions, billions of people. You have no idea what we're protecting here. The \"greater good\" doesn't quite cover it."
+msgstr ""
+
+#. Key:	CaptureGuard01h
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01h"
+msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
+msgstr ""
+
+#. Key:	CaptureGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard02"
+msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+msgstr ""
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
