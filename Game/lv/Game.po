@@ -578,7 +578,7 @@ msgstr "AA Metode"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Language"
-msgstr ""
+msgstr "Valoda"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1187,63 +1187,63 @@ msgstr "Skriet"
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
 msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
-msgstr ""
+msgstr "Vai mēs nolēmām, ka vienkārši atļausim tev klaiņot apkārt pa salu un nogalināt Sokol-Glockner personālu?"
 
 #. Key:	CaptureGuard01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01b"
 msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
-msgstr ""
+msgstr "Tu esi kauns un negods. Vai tu vispār zini kas šeit notiek? Vai tu domā, ka šeit notiek kaut kas tāds, ko TU VARĒTU apturēt?"
 
 #. Key:	CaptureGuard01c
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01c"
 msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
-msgstr ""
+msgstr "Tu esi kukainis. Tādai starptautiskai korporācijai kā Arque nav problēmu tevi nospiest un aizmest projām."
 
 #. Key:	CaptureGuard01d
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01d"
 msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your manged body inside."
-msgstr ""
+msgstr "Mēs patvaļīgi uzņēmāmies sameklēt tavu būdu Šetlendas salās. Tas tiešām ir slikti, ka būda sadega ar visu tavu ķermeni."
 
 #. Key:	CaptureGuard01e
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01e"
 msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
-msgstr ""
+msgstr "Kāpēc tu esi šeit? Vai domā, ka vari mainīt to, kas te notiek? Mēs aizsargājam pasauli, vai tu to nesaproti?"
 
 #. Key:	CaptureGuard01f
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01f"
 msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
-msgstr ""
+msgstr "Šis viss ir daļa no Arque ļoti nepieciešamā piesardzības plāna, kura darbību tu netraucēsi."
 
 #. Key:	CaptureGuard01g
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01g"
 msgid "Thousands, millions, billions of people. You have no idea what we're protecting here. The \"greater good\" doesn't quite cover it."
-msgstr ""
+msgstr "Tūkstoši, miljoni, miljardi cilvēku. Tev nav ne jausmas ko mēs šeit sargājam. \"Lielais labais\" īsti nepaskaidro kas tas ir."
 
 #. Key:	CaptureGuard01h
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01h"
 msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
-msgstr ""
+msgstr "Pasaki man ar ko tu sadarbojies! Citādi, Elle nav pietiekami skarbs vārds, lai aprakstītu sāpes, kurām tu tiksi vests cauri."
 
 #. Key:	CaptureGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
-msgstr ""
+msgstr "Kurš to būtu domājis? Sokol-Glockner, viens no lielākajiem privātās drošības darbuzņēmējiem, zin kā radīt sāpes."
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1425,7 +1425,7 @@ msgstr "Sveicināts Arque East. Lūdzu uzgaidiet kamēr tiks veikta bioloģiskā
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan02"
 msgid "Biological scan completed. No foreign material found."
-msgstr "Bioloģiskā skenēšana pabeigta. Nav atrasts svešs materiāls."
+msgstr "Bioloģiskā skenēšana pabeigta. Nav atrasti sveši materiāli."
 
 #. Key:	LaserScan03
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
@@ -1488,7 +1488,7 @@ msgstr "kura avoti saka, kāpēc valdība nav komentējusi šo jautājumu."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner parādījās virsrakstos pēc notikuma, kad kāds nejauši iešāva"
+msgstr "Sokol-Glockner parādījās virsrakstos pēc notikuma par netīšu iešaušanu"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1502,7 +1502,7 @@ msgstr "Arque Corporation darbiniekam uz vienas no piekrastes urbšanas platform
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "37 gadus vecais darbinieks uzpeldēja pludmalē pēc acīmredzamas peldēšanas no platformas,"
+msgstr "37 gadus vecais darbinieks izpeldēja pludmalē pēc acīmredzamas peldēšanas no platformas,"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1530,35 +1530,35 @@ msgstr "bet atteicās komentēt. Viņi uzstāja, ka sadarbojas ar attiecīgajām
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "Laikapstākļi - vētra Edvins turpina piezemēties,"
+msgstr "Laikapstākļi - vētra Edvins turpina plosīties,"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr "bet šī diena ziemeļu iedzīvotājiem sniedz mierīgu laiku."
+msgstr "taču šī diena ziemeļu iedzīvotājiem sniedz mierīgu laiku."
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorologi visus brīdina, ka līdz stiprākai vētrai vēl kāds laiks,"
+msgstr "Meteorologi visus brīdina, ka līdz stiprākajai vētrai vēl ir kāds laiks,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "un tāpēc vajadzētu sagatavoties piepildot vannas ar ūdeni, uzkrājot ēdienu vismaz divām dienām."
+msgstr "un tāpēc vajadzētu sagatavoties piepildīt vannas ar ūdeni, uzkrāt ēdienu vismaz divām dienām."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr "Tas šoreiz viss no manīm, pievinojieties mums rītdien septiņos Brokastīs."
+msgstr "Tas šoreiz viss, pievinojieties mums rītdien septiņos Brokastīs."
 
 #. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
