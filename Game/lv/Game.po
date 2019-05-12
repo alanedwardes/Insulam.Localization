@@ -270,7 +270,7 @@ msgstr "Lapas"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGameplayOptions"
 msgid "Gameplay"
-msgstr "Spēlēšana"
+msgstr "Spēle"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -557,7 +557,7 @@ msgstr "Klēpjdatora režīms"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "Aprobežot kadru maiņu līdz 30FPS, lai nepieļautu mobilo ierīču, kā piemēram planšetdatoru, pārkaršanu."
+msgstr "Aprobežot kadru maiņu līdz 30FPS, lai nepieļautu mobilo ierīču, kā piemēram, planšetdatoru, pārkaršanu."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -830,7 +830,7 @@ msgstr "Apgriezt peles Y asi"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "The skeletons here are confirmed to be sailors and pirates."
-msgstr "Apstiprināts, ka skeleti ir kuģotāji un pirāti."
+msgstr "Apstiprināts, ka skeleti bija kuģotāji un pirāti."
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -858,7 +858,7 @@ msgstr "Mēs pieņemam, ka tas bija virs vērtīgiem artefaktiem, kurus mēs atg
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part3"
 msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
-msgstr "Mēs domājam, ka tie visticamāk bija apreibuši, un uz dažiem kauliem tika atrastas cilvēka kodummu pēdas."
+msgstr "Mēs domājam, ka viņi visticamāk bija apreibuši, un uz dažiem kauliem tika atrastas cilvēka kodummu pēdas."
 
 #. Key:	ArcheologistDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -872,21 +872,21 @@ msgstr "Mums bija jāizvelk daži no komandas, jo viņi jutās slikti. Mums bija
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part2"
 msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
-msgstr "Mēs izmantosim mūsu HAZMAT tērpus, jo saprotam, ka te nav droši."
+msgstr "Mēs izmantosim HAZMAT tērpus, jo saprotam, ka šeit nav droši."
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Runā Garets Tomass. Esam analizējuši aļģu paraugus"
+msgstr "Runā Garets Tomass. Mēs esam analizējuši aļģu paraugus"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "un uzzinājām, ka spīdumu izraisa dabiski radies jūras planktons, kas atrodas tuvākajā apkārtnē."
+msgstr "un esam uzzinājuši, ka spīdumu izraisa dabiski radies jūras planktons tuvākajā apkārtnē."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -900,35 +900,35 @@ msgstr "Mēs nedomājam, ka aļģu izmantojamību planktons vispār ietekmēs."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "Mēs to uzskatam par pilnīgi nekaitīgu un nedomājam, ka tas var rast problēmas."
+msgstr "Mēs to uzskatām par pilnīgi nekaitīgu un nedomājam, ka tas var radīt problēmas."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Šī ir ē, Laiama Džonsa audio dienasgrāmata #1, ē"
+msgstr "Šī ir, ē, Laiama Džonsa audio dienasgrāmata #1, ē"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Mēs tikko sākām pētīt aļģes un ē"
+msgstr "Mēs esam sākuši sākām pētīt aļģes un ē"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "Uzzinājām, ka tā sāk spīdēt, ja kādu brīdi tiek atstāta viena."
+msgstr "Uzzinājām, ka tās sāk spīdēt, ja kādu brīdi tiek atstātas vienas."
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "Tātad, ē, tad ir stilīgi! Un..., ieguvu arī nelielu aļģu paraugu..."
+msgstr "Tātad, ē, tas ir stilīgi! Un..., ieguvu arī nelielu aļģu paraugu..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -949,21 +949,21 @@ msgstr "Šī ir, ē, Laiama Džonsa, ē, dienasgrāmata #2"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "dari to, Hāvtorn, vienkārši pasaki viņiem, ka es to atstāju nevietā, un, ka man vajag jaunu"
+msgstr "izdari to, Hāvtorn! Vienkārši pasaki viņiem, ka es to atstāju nevietā, un, ka man vajag jaunu"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "vai arī tu pat vari pateikt, ka man vajag lieku zīmi... Neesmu pārliecināts kur tā palika"
+msgstr "vai arī tu pat vari pateikt, ka man vajag lieku karti... Neesmu pārliecināts kur tā palika"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "... vienkārši nepieciešama jauna zīme"
+msgstr "... vienkārši nepieciešama jauna drošības karte"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -977,14 +977,14 @@ msgstr "tātad, ja tu varētu nosūtīt e-pastu cilvēkiem, kuri atbild par šī
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr "un, ē, dabūt jaunu zīmi tieši manis dēļ, tad būtu lieliski."
+msgstr "un, ē, dabūt jaunu tieši manis dēļ, tas būtu lieliski."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "Paraugiem sokas lieliski, pašreiz mēs tos novērojam, lai redzētu, kas notiek"
+msgstr "Paraugiem sokas lieliski, mēs tos pašlaik novērojam, lai redzētu, kas notiek"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1005,7 +1005,7 @@ msgstr "Vēl kas Hāvtorn, kad rodas iespēja, es pazaudēju savu drošības zī
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "bet tad, kad tu runā ar cilvēkiem, kuri atbild par drošības zīmēm, saki, ka... ammmm, tā kā... "
+msgstr "bet tad, kad tu runā ar cilvēkiem, kuri atbild par drošības kartēm, saki, ka... ammmm, tā kā... "
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1019,21 +1019,21 @@ msgstr "Es nezinu, kāds- nē, nē, neviens to nepaņēma, tas ir slikts ataisno
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Lapsa, ielavījās iekšā, paķēra manu drošības zīmi, un, ēm, tagad es nevaru tikt iekšā galvenajā ēkā"
+msgstr "Lapsa, ielavījās iekšā, paķēra manu drošības karti, un, ēm, tagad es nevaru tikt iekšā galvenajā ēkā"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Ē, tātad, ja tu vienkārši to viņiem pateiksi, tad... jo, kad pēdējoreiz tas notika"
+msgstr "Ē, tātad, ja tu vienkārši to varētu viņiem pateikt... tad, kad pēdējoreiz tas notika"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "viņi teica, ka tā bija mana vaina, un viņi bija nepakļāvīgi zīmes nomainīšanas jautājumā, tāpēc"
+msgstr "viņi teica, ka tā bija mana vaina, un viņi bija nepakļāvīgi drošības kartes nomainīšanas jautājumā, tāpēc"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1397,14 +1397,14 @@ msgstr "Un man nepieciešama palīdzība."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr "Šīs būtnes, tās ir pārņēmušas visu salu."
+msgstr "Tās būtnes, tās ir pārņēmušas visu salu."
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr "Jebkurš, lūdzu, man ir krājumi, bet-"
+msgstr "Kāds, lūdzu, man ir krājumi, bet-"
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1418,7 +1418,7 @@ msgstr "Tie ir tur ārā.."
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Welcome to Arque East. Please stand by for biological scan."
-msgstr "Sveicināts Arque East. Lūdzu uzgaidiet kamēr tiks veikta bioloģiskā skenēšana."
+msgstr "Sveicināts Arque East. Lūdzu uzgaidiet kamēr tiek veikta bioloģiskā skenēšana."
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
@@ -1600,7 +1600,7 @@ msgstr "Es nesaprotu kāpēc. Vai tie ir darbības traucējumi?"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr "Ak Dievs, es ceru, ka viņi nemēģina šito piesegt"
+msgstr "Ak Dievs, es ceru, ka viņi nemēģina šito atklāt..."
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1621,7 +1621,7 @@ msgstr "Garāmejoši kuģi, lidmašīnas... KĀDAM mani ir jāuztver."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr "Es tiku nošķirts no savas sievas un meitas, kad atnāca šīs būtnes."
+msgstr "Es tiku nošķirts no sievas un meitas, kad atnāca šīs būtnes."
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1649,21 +1649,21 @@ msgstr "Zvejnieks avaŗēja dokos netālu no manis."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr "Viņam viss bija kārtībā, es viņu apgādāju ar krājumiem un teicu, lai mēgina šo apturēt."
+msgstr "Viņam viss bija kārtībā, es viņu apgādāju ar krājumiem un teicu, lai mēgina šo visu apturēt."
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr "Nedomāju, ka viņi nāk atpakaļ. Nevaru beigt nervozēt par to, ka es būtu varējis izdarīt vēl vairāk."
+msgstr "Nedomāju, ka viņš nāks atpakaļ. Nevaru beigt nervozēt par to, ka es būtu varējis izdarīt vēl vairāk."
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr "Lūdzu, JEBKURŠ, kurš šo ziņu klausās. Ja domā, ka šeit iet slikti... te ir vēl sliktāk."
+msgstr "Lūdzu, JEBKURŠ, kurš šo ziņu klausās. Ja domā, ka šeit iet slikti... te iet vēl sliktāk."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -1684,7 +1684,7 @@ msgstr "Tai kompānijai kaut kas jādara, lai apturētu saziņu."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr "Kāpēc mūs neviens vēl nav apmeklējis? Šī ir maza sala, taču te joprojām dzīvo cilvēki..."
+msgstr "Kāpēc mūs neviens vēl nav apmeklējis? Šī ir maza sala, taču te joprojām ir cilvēki..."
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
