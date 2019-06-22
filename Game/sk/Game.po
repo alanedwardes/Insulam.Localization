@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-05-09 20:17\n"
-"PO-Revision-Date: 2019-05-09 20:17\n"
+"POT-Creation-Date: 2019-06-22 13:46\n"
+"PO-Revision-Date: 2019-06-22 13:46\n"
 "Language-Team: \n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -1182,6 +1182,69 @@ msgctxt "ST_ActionAxisNames,ActionSprint"
 msgid "Sprint"
 msgstr "Šprint"
 
+#. Key:	CallElevator
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,CallElevator"
+msgid "CALL ELEVATOR"
+msgstr ""
+
+#. Key:	EnterTwoFactor01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
+msgid "Enter two-factor authentication code to override"
+msgstr ""
+
+#. Key:	LockdownBody01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody01"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr ""
+
+#. Key:	LockdownBody02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody02"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr ""
+
+#. Key:	LockdownBody03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody03"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr ""
+
+#. Key:	LockdownTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle01"
+msgid "LOCKDOWN ENABLED"
+msgstr ""
+
+#. Key:	LockdownTitle02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle02"
+msgid "LOCKDOWN DISABLED"
+msgstr ""
+
+#. Key:	PhoneTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,PhoneTitle01"
+msgid "AUTH CODE"
+msgstr ""
+
+#. Key:	ReSendCode
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,ReSendCode"
+msgid "RE-SEND CODE"
+msgstr ""
+
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1244,6 +1307,237 @@ msgstr "Povedz mi, s kým spolupracuješ. Inak \"peklo\" nebude nič v porovnan�
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Kdo by to čakal? Sokol-Glockner, jeden z najväčších súkromných kontraktorov na svete, vie, ako spôsobiť bolesť."
+
+#. Key:	Chat01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat01"
+msgid "Unknown: Hello?"
+msgstr ""
+
+#. Key:	Chat02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat02"
+msgid "You: hi"
+msgstr ""
+
+#. Key:	Chat03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat03"
+msgid "Unknown: Hello"
+msgstr ""
+
+#. Key:	Chat04
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat04"
+msgid "You: yes, we did that bit"
+msgstr ""
+
+#. Key:	Chat05
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat05"
+msgid "You: ?"
+msgstr ""
+
+#. Key:	Chat06
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat06"
+msgid "You: can I help you?"
+msgstr ""
+
+#. Key:	Chat07
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat07"
+msgid "You: are you still there? hello?"
+msgstr ""
+
+#. Key:	Chat08
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat08"
+msgid "Unknown: mic?"
+msgstr ""
+
+#. Key:	Chat09
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat09"
+msgid "You: hello, what do you want?"
+msgstr ""
+
+#. Key:	Chat10
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat10"
+msgid "You: ??? just tell me what you need"
+msgstr ""
+
+#. Key:	Chat11
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat11"
+msgid "You: what is your problem? can you please stop bugging me now, i need to work"
+msgstr ""
+
+#. Key:	Chat12
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat12"
+msgid "You: STOP IT FFS"
+msgstr ""
+
+#. Key:	Chat13
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat13"
+msgid "You are now offline."
+msgstr ""
+
+#. Key:	ChatTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,ChatTitle"
+msgid "Chat with Unknown"
+msgstr ""
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
+msgid "AGO Facilities"
+msgstr ""
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
+msgid "Air Vent"
+msgstr ""
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email03_Content"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr ""
+
+#. Key:	Email01_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Content"
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr ""
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Sender"
+msgid "AGO Badge Services"
+msgstr ""
+
+#. Key:	Email01_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Subject"
+msgid "Thank you for your request"
+msgstr ""
+
+#. Key:	Email02_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Content"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr ""
+
+#. Key:	Email02_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Sender"
+msgid "Hugo Webber"
+msgstr ""
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Subject"
+msgid "RE: AGO15824"
+msgstr ""
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Content"
+msgid "> Message from Liam Jones <liam.jones@arqueglobal.com>\r\n>\r\n> Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n>\r\n> thanks\r\n\r\nLiam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr ""
+
+#. Key:	Email03_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Subject"
+msgid "RE: RE: AGO15824"
+msgstr ""
+
+#. Key:	Email04_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Content"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr ""
+
+#. Key:	Email04_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Sender"
+msgid "Lucy Beeshaw"
+msgstr ""
+
+#. Key:	Email04_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Subject"
+msgid "Wentworth Herald #317"
+msgstr ""
+
+#. Key:	Chat
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Chat"
+msgid "Chat"
+msgstr ""
+
+#. Key:	CorporateFooter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter01"
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world. Fuck coal."
+msgstr ""
+
+#. Key:	CorporateFooter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter02"
+msgid "This message has been scanned by the Arque security scanner. There is probably no malware. ¯\\_(ツ)_/¯"
+msgstr ""
+
+#. Key:	Email
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Email"
+msgid "Email"
+msgstr ""
+
+#. Key:	OK
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,OK"
+msgid "OK"
+msgstr ""
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1433,6 +1727,237 @@ msgstr "Biologický sken dokončený. Nebol nájdený cudzí materiál."
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
 msgstr "Prosím pokračujte a majte pekný deň."
+
+#. Key:	CallOut1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,CallOut1"
+msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
+msgstr ""
+
+#. Key:	Headline
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline"
+msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
+msgstr ""
+
+#. Key:	Headline2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline2"
+msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
+msgstr ""
+
+#. Key:	Headline3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline3"
+msgid "RED ALGAE NUMBERS STRONG"
+msgstr ""
+
+#. Key:	Navigation1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Navigation1"
+msgid "MORE ON PAGE 11"
+msgstr ""
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph01"
+msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
+msgstr ""
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph02"
+msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
+msgstr ""
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph03"
+msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
+msgstr ""
+
+#. Key:	Paragraph04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph04"
+msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
+msgstr ""
+
+#. Key:	Paragraph05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph05"
+msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
+msgstr ""
+
+#. Key:	Paragraph06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph06"
+msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
+msgstr ""
+
+#. Key:	Paragraph07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph07"
+msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
+msgstr ""
+
+#. Key:	Paragraph08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph08"
+msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
+msgstr ""
+
+#. Key:	Paragraph09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph09"
+msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
+msgstr ""
+
+#. Key:	Paragraph10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph10"
+msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
+msgstr ""
+
+#. Key:	Paragraph11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph11"
+msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
+msgstr ""
+
+#. Key:	Paragraph12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph12"
+msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
+msgstr ""
+
+#. Key:	Body01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body01"
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr ""
+
+#. Key:	Body02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body02"
+msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
+msgstr ""
+
+#. Key:	Body03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body03"
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr ""
+
+#. Key:	Body04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body04"
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr ""
+
+#. Key:	Body05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body05"
+msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
+msgstr ""
+
+#. Key:	Body06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body06"
+msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
+msgstr ""
+
+#. Key:	Callout01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Callout01"
+msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
+msgstr ""
+
+#. Key:	Headline01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline01"
+msgid "LIGHTHOUSE DECOMMISSIONED"
+msgstr ""
+
+#. Key:	Headline02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline02"
+msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
+msgstr ""
+
+#. Key:	Headline03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline03"
+msgid "LOST"
+msgstr ""
+
+#. Key:	Headline04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline04"
+msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
+msgstr ""
+
+#. Key:	ReadMore01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore01"
+msgid "MORE ON PAGE 7"
+msgstr ""
+
+#. Key:	ReadMore02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore02"
+msgid "MORE ON PAGE 10"
+msgstr ""
+
+#. Key:	ReadMore
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,ReadMore"
+msgid "MORE INSIDE"
+msgstr ""
+
+#. Key:	Tagline
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Tagline"
+msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
+msgstr ""
+
+#. Key:	Title
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Title"
+msgid "WENTWORTH HERALD"
+msgstr ""
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
