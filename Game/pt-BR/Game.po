@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-27 21:32\n"
-"PO-Revision-Date: 2019-06-27 21:32\n"
+"POT-Creation-Date: 2019-06-28 20:22\n"
+"PO-Revision-Date: 2019-06-28 20:22\n"
 "Language-Team: \n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -2224,6 +2224,132 @@ msgstr "Eu gostaria que nunca tivéssemos reservado este feriado ... se eu pudes
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
 msgstr "... não faz sentido jogar \"e se\"."
+
+#. Key:	CoastGuard01
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard01"
+msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgstr ""
+
+#. Key:	CoastGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard02"
+msgid "OK"
+msgstr ""
+
+#. Key:	CoastGuard03
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard03"
+msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgstr ""
+
+#. Key:	CoastGuard04
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard04"
+msgid "We are requesting clearance. Stand by."
+msgstr ""
+
+#. Key:	Dispatcher01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01a"
+msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgstr ""
+
+#. Key:	Dispatcher01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01b"
+msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
+msgstr ""
+
+#. Key:	John01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01a"
+msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgstr ""
+
+#. Key:	John01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01b"
+msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
+msgstr ""
+
+#. Key:	John02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02a"
+msgid "Does anyone copy? The island has been overrun."
+msgstr ""
+
+#. Key:	John02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02b"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgstr ""
+
+#. Key:	John03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John03a"
+msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgstr ""
+
+#. Key:	John04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John04a"
+msgid "Uh, it's John."
+msgstr ""
+
+#. Key:	John05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05a"
+msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgstr ""
+
+#. Key:	John05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05b"
+msgid "What Government Defense operation? What are you talking about?"
+msgstr ""
+
+#. Key:	John05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05c"
+msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgstr ""
+
+#. Key:	John06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06a"
+msgid "Oh no... no no no no no... no this isn't happening!"
+msgstr ""
+
+#. Key:	John06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06b"
+msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
+msgstr ""
+
+#. Key:	John06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06c"
+msgid "Anyone on this frequency just go! Why the hell would they do this?"
+msgstr ""
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
