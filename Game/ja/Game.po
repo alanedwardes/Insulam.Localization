@@ -1,0 +1,2524 @@
+﻿# Game English translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-06-28 20:22\n"
+"PO-Revision-Date: 2019-06-29 18:33+0900\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.3\n"
+
+#. Key:	HintCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintCrouch"
+msgid "Crouch under"
+msgstr "しゃがむ"
+
+#. Key:	HintFireM9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFireM9"
+msgid "Fire M9"
+msgstr "M9を撃つ"
+
+#. Key:	HintFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlashlight"
+msgid "Toggle flashlight"
+msgstr "懐中電灯を切り替える"
+
+#. Key:	HintFlee
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlee"
+msgid "Flee"
+msgstr "逃げる"
+
+#. Key:	HintGameSaved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintGameSaved"
+msgid "Game saved"
+msgstr "ゲームが保存されました"
+
+#. Key:	HintInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintInteract"
+msgid "Interact"
+msgstr "インタラクト"
+
+#. Key:	HintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintJump"
+msgid "Jump up"
+msgstr "ジャンプ"
+
+#. Key:	HintLoading
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintLoading"
+msgid "Loading"
+msgstr "ロード中"
+
+#. Key:	HintMove
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintMove"
+msgid "Move around"
+msgstr "動き回る"
+
+#. Key:	HintOpenGate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintOpenGate"
+msgid "Open gate"
+msgstr "門を開く"
+
+#. Key:	HintPickaxe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickaxe"
+msgid "Pickaxe"
+msgstr "つるはし"
+
+#. Key:	HintPickUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickUp"
+msgid "Pick up object"
+msgstr "物を拾う"
+
+#. Key:	HintSprintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintSprintJump"
+msgid "Run and Jump"
+msgstr "走ってジャンプ"
+
+#. Key:	HintThrowRock
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintThrowRock"
+msgid "Throw rock"
+msgstr "石を投げる"
+
+#. Key:	HintTurnOnTv
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintTurnOnTv"
+msgid "Turn on TV"
+msgstr "テレビの電源を入れる"
+
+#. Key:	HintUseMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintUseMouse"
+msgid "Control computer"
+msgstr "コンピュータを操作する"
+
+#. Key:	BindingNotSet
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingNotSet"
+msgid "None"
+msgstr "なし"
+
+#. Key:	BindingPressKey
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressKey"
+msgid "Press a key"
+msgstr "キーを押してください"
+
+#. Key:	ButtonAA
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAA"
+msgid "Anti-Aliasing"
+msgstr "アンチエイリアス"
+
+#. Key:	ButtonAdvanced
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAdvanced"
+msgid "Advanced"
+msgstr "高度な設定"
+
+#. Key:	ButtonApply
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonApply"
+msgid "Apply Changes"
+msgstr "変更を適用"
+
+#. Key:	ButtonArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonArcade"
+msgid "Arcade"
+msgstr "アーケード"
+
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr "自動検出設定"
+
+#. Key:	ButtonBack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonBack"
+msgid "Back"
+msgstr "戻る"
+
+#. Key:	ButtonChapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter1"
+msgid "Chapter 1"
+msgstr "Chapter 1"
+
+#. Key:	ButtonChapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter2"
+msgid "Chapter 2"
+msgstr "Chapter 2"
+
+#. Key:	ButtonChapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter3"
+msgid "Chapter 3"
+msgstr "Chapter 3"
+
+#. Key:	ButtonChapter4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter4"
+msgid "Chapter 4"
+msgstr "Chapter 4"
+
+#. Key:	ButtonControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControlOptions"
+msgid "Controls"
+msgstr "コントロール"
+
+#. Key:	ButtonCredits
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonCredits"
+msgid "Load Credits"
+msgstr "クレジットをロード"
+
+#. Key:	ButtonEffects
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonEffects"
+msgid "Effects"
+msgstr "効果"
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExit"
+msgid "Exit"
+msgstr "終了"
+
+#. Key:	ButtonExitToMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExitToMenu"
+msgid "Exit to Menu"
+msgstr "メニューに戻る"
+
+#. Key:	ButtonExtras
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExtras"
+msgid "Extras"
+msgstr "エクストラ"
+
+#. Key:	ButtonFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFeedback"
+msgid "Send Feedback"
+msgstr "フィードバックを送信"
+
+#. Key:	ButtonFoliage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFoliage"
+msgid "Foliage"
+msgstr "植物"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr "ゲームプレイ"
+
+#. Key:	ButtonGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGraphicsOptions"
+msgid "Graphics"
+msgstr "グラフィックス"
+
+#. Key:	ButtonGuides
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGuides"
+msgid "Guides"
+msgstr "ガイド"
+
+#. Key:	ButtonHordeWarehouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonHordeWarehouse"
+msgid "Warehouse Horde"
+msgstr "倉庫群"
+
+#. Key:	ButtonJoinDiscord
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonJoinDiscord"
+msgid "Join Discord"
+msgstr "Discordに参加する"
+
+#. Key:	ButtonLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr "ゲームをロード"
+
+#. Key:	ButtonNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonNewGame"
+msgid "New Game"
+msgstr "新しいゲーム"
+
+#. Key:	ButtonPostProcess
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPostProcess"
+msgid "Post-process"
+msgstr "ポストプロセス"
+
+#. Key:	ButtonPrelude
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPrelude"
+msgid "Prelude"
+msgstr "プロローグ"
+
+#. Key:	ButtonRange
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonRange"
+msgid "Shooting Range"
+msgstr "射撃練習場"
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonResume"
+msgid "Resume Game"
+msgstr "ゲームを再開"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr "ゲームを保存する"
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr "セーブ / ロード"
+
+#. Key:	ButtonScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonScreenOptions"
+msgid "Screen"
+msgstr "画面"
+
+#. Key:	ButtonShadows
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShadows"
+msgid "Shadows"
+msgstr "影"
+
+#. Key:	ButtonSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSoundOptions"
+msgid "Sound"
+msgstr "サウンド"
+
+#. Key:	ButtonSP01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP01"
+msgid "1. Fall"
+msgstr "1. 落下"
+
+#. Key:	ButtonSP02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP02"
+msgid "2. Scaffolding"
+msgstr "2. 工事現場"
+
+#. Key:	ButtonSP03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP03"
+msgid "3. Pool"
+msgstr "3.プール"
+
+#. Key:	ButtonSP04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP04"
+msgid "4. Mine"
+msgstr "4. 鉱山"
+
+#. Key:	ButtonSP05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP05"
+msgid "5. Lab"
+msgstr "5. 研究所"
+
+#. Key:	ButtonSP06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP06"
+msgid "6. Clearing"
+msgstr "6. クリアリング"
+
+#. Key:	ButtonSP07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP07"
+msgid "7. Sewer"
+msgstr "7. 下水道"
+
+#. Key:	ButtonSP08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP08"
+msgid "8. Elevator"
+msgstr "8.エレベーター"
+
+#. Key:	ButtonSP09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP09"
+msgid "9. Forest"
+msgstr "9. 森"
+
+#. Key:	ButtonSP10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSP10"
+msgid "10. Crevice"
+msgstr "10. 割れ目"
+
+#. Key:	ButtonSteamForums
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSteamForums"
+msgid "Steam Forums"
+msgstr "Steam フォーラム"
+
+#. Key:	ButtonTextures
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonTextures"
+msgid "Textures"
+msgstr "テクスチャ"
+
+#. Key:	ButtonViewDistance
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonViewDistance"
+msgid "View Distance"
+msgstr "距離を表示"
+
+#. Key:	CheckboxCommentary
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxCommentary"
+msgid "In-Game Commentary"
+msgstr "ゲーム内解説"
+
+#. Key:	CheckboxDisableAmbientOcclusion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableAmbientOcclusion"
+msgid "Disable Ambient Occlusion"
+msgstr "アンビエントオクルージョンを無効にする"
+
+#. Key:	CheckboxDisableDepthOfField
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableDepthOfField"
+msgid "Disable Depth of Field"
+msgstr "被写界深度を無効にする"
+
+#. Key:	CheckboxDisableHighlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHighlight"
+msgid "Disable Object Highlight"
+msgstr "オブジェクトのハイライトを無効にする"
+
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr "HUDを無効にする"
+
+#. Key:	CheckboxDisableMotionBlur
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableMotionBlur"
+msgid "Disable Motion Blur"
+msgstr "モーションブラーを無効にする"
+
+#. Key:	CheckboxDisableSceneFringe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSceneFringe"
+msgid "Disable Scene Fringe"
+msgstr "シーンフリンジを無効にする"
+
+#. Key:	CheckboxDisableSubtitles
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSubtitles"
+msgid "Disable Subtitles"
+msgstr "字幕を無効にする"
+
+#. Key:	CheckboxDisableVignette
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableVignette"
+msgid "Disable Vignette"
+msgstr "ビネットを無効にする"
+
+#. Key:	CheckboxEnableStatsForNerds
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableStatsForNerds"
+msgid "Enable On-Screen Stats"
+msgstr "画面上の統計情報を有効にする"
+
+#. Key:	CheckboxInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertMouse"
+msgid "Invert Mouse"
+msgstr "マウスを反転"
+
+#. Key:	CheckboxLaptopMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopMode"
+msgid "Laptop Mode"
+msgstr "ノートPCモード"
+
+#. Key:	CheckboxLaptopModeHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopModeHelp"
+msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr "プレイ中にノートPCなどの携帯端末が熱を持ちすぎないようにフレームレートを30FPSに制限する。"
+
+#. Key:	CheckboxVSync
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxVSync"
+msgid "VSync"
+msgstr "VSync"
+
+#. Key:	DropdownAAMethod
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownAAMethod"
+msgid "AA Method"
+msgstr "AA 方式"
+
+#. Key:	DropdownCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownCulture"
+msgid "Language"
+msgstr "言語"
+
+#. Key:	DropdownItemQualityModeEpic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeEpic"
+msgid "Epic"
+msgstr "最高"
+
+#. Key:	DropdownItemQualityModeHigh
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeHigh"
+msgid "High"
+msgstr "高"
+
+#. Key:	DropdownItemQualityModeLow
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeLow"
+msgid "Low"
+msgstr "低"
+
+#. Key:	DropdownItemQualityModeMedium
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeMedium"
+msgid "Medium"
+msgstr "中"
+
+#. Key:	DropdownItemWindowModeFullscreen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeFullscreen"
+msgid "Fullscreen"
+msgstr "全画面表示"
+
+#. Key:	DropdownItemWindowModelBorderless
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModelBorderless"
+msgid "Borderless"
+msgstr "ボーダレス"
+
+#. Key:	DropdownItemWindowModeWindowed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeWindowed"
+msgid "Window"
+msgstr "ウィンドウ"
+
+#. Key:	DropdownResolution
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownResolution"
+msgid "Resolution"
+msgstr "解像度"
+
+#. Key:	DropdownWindowMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownWindowMode"
+msgid "Window Mode"
+msgstr "ウィンドウモード"
+
+#. Key:	GameTag
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTag"
+msgid "ACT II EARLY ACCESS"
+msgstr "ACT II 早期アクセス"
+
+#. Key:	GameTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTitle"
+msgid "ESTRANGED"
+msgstr "ESTRANGED"
+
+#. Key:	LabelEnterCheat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelEnterCheat"
+msgid "Enter Cheat"
+msgstr "チートを入力"
+
+#. Key:	LabelExperimentalOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptions"
+msgid "Experimental Options"
+msgstr "実験的オプション"
+
+#. Key:	LabelExperimentalOptionsHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptionsHelp"
+msgid "These options are experimental and may be lost."
+msgstr "これらのオプションは実験的なものであり、利用できなくなる場合があります。"
+
+#. Key:	MenuArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuArcade"
+msgid "ARCADE"
+msgstr "アーケード"
+
+#. Key:	MenuControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuControlOptions"
+msgid "CONTROLS"
+msgstr "操作"
+
+#. Key:	MenuExtraOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuExtraOptions"
+msgid "EXTRAS"
+msgstr "エクストラ"
+
+#. Key:	MenuGameplay
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGameplay"
+msgid "GAMEPLAY"
+msgstr "ゲームプレイ"
+
+#. Key:	MenuGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGraphicsOptions"
+msgid "GRAPHICS"
+msgstr "グラフィックス"
+
+#. Key:	MenuLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuLoadGame"
+msgid "LOAD GAME"
+msgstr "ゲームをロード"
+
+#. Key:	MenuNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuNewGame"
+msgid "NEW GAME"
+msgstr "新しいゲーム"
+
+#. Key:	MenuOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuOptions"
+msgid "OPTIONS"
+msgstr "オプション"
+
+#. Key:	MenuSaveLoadOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSaveLoadOptions"
+msgid "SAVE / LOAD"
+msgstr "セーブ / ロード"
+
+#. Key:	MenuScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuScreenOptions"
+msgid "SCREEN"
+msgstr "画面"
+
+#. Key:	MenuSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSoundOptions"
+msgid "SOUND"
+msgstr "サウンド"
+
+#. Key:	OptionsButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,OptionsButton"
+msgid "Options"
+msgstr "オプション"
+
+#. Key:	SliderControllerSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderControllerSensitivity"
+msgid "Controller Sensitivity"
+msgstr "コントローラ感度"
+
+#. Key:	SliderEffectsVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderEffectsVolume"
+msgid "Effects Volume"
+msgstr "効果音の音量"
+
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr "視野"
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr "ガンマ"
+
+#. Key:	SliderMouseSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "マウス感度"
+
+#. Key:	SliderMusicVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMusicVolume"
+msgid "Music Volume"
+msgstr "ミュージックの音量"
+
+#. Key:	SliderScreenPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderScreenPercentage"
+msgid "Screen Percentage"
+msgstr "画面割合"
+
+#. Key:	SliderVoiceVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderVoiceVolume"
+msgid "Voice Volume"
+msgstr "音声の音量"
+
+#. Key:	TooltipInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipInvertMouse"
+msgid "Invert the mouse Y axis"
+msgstr "マウスのY軸を反転"
+
+#. Key:	ArcheologistDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part1"
+msgid "The skeletons here are confirmed to be sailors and pirates."
+msgstr "ここの骸骨らは船員と海賊であるとわかっている。"
+
+#. Key:	ArcheologistDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part2"
+msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
+msgstr "イギリス海軍から逃げ出して、この島に避難しようとしていたというのが最もありそうな推論だ。"
+
+#. Key:	ArcheologistDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part1"
+msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgstr "海賊と船員はある種の内部紛争に巻き込まれていた。"
+
+#. Key:	ArcheologistDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part2"
+msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
+msgstr "この洞窟から回収した貴重なアーティファクトが原因だと考えていた。"
+
+#. Key:	ArcheologistDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part3"
+msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
+msgstr "おそらく彼らはその時、影響を受けて興奮してしまったのだろう。人間のものと思しき骨の中に噛んだ跡がある。"
+
+#. Key:	ArcheologistDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part1"
+msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgstr "病気のため、チームのうち幾人かを抜き出す羽目になった。彼らが死体の近くの何かを不用意に動かしたのだと思っておいたほうがいい。"
+
+#. Key:	ArcheologistDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part2"
+msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
+msgstr "これからはHAZMATスーツを使用する。安全ではないからだ。"
+
+#. Key:	GarethThomasDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part1"
+msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "こちらはガレス・トーマスだ。藻類のサンプルを分析し"
+
+#. Key:	GarethThomasDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part2"
+msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr "発光が周辺地域で自然発生する海洋プランクトンによって引き起こされるものだと突き止めた。"
+
+#. Key:	GarethThomasDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part3"
+msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
+msgstr "藻類の使用がこのプランクトンの影響を受けてのものだとは全く予想しなかった。"
+
+#. Key:	GarethThomasDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part4"
+msgid "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr "そして、我々はこれが完全に無害だと考えており、問題になるとは思っていない。"
+
+#. Key:	LiamJonesDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part1"
+msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr "ええと、これはリアム・ジョーンズの、ええと、音声日記第一回だ。"
+
+#. Key:	LiamJonesDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part2"
+msgid "We just started studying the algae, and uh"
+msgstr "藻の研究を始めたばかりだ。"
+
+#. Key:	LiamJonesDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part3"
+msgid "We realised that it actually glows if you leave it alone for a little while"
+msgstr "しばらく放置しておくと、本当に光ることがわかった。"
+
+#. Key:	LiamJonesDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part4"
+msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr "だから、ええと、すごいだろ！えっと、これまでにわずかなサンプルでわかったのは……"
+
+#. Key:	LiamJonesDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part5"
+msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr "……少しの間オフィスを離れる。何が起きているのか確認しないと。"
+
+#. Key:	LiamJonesDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part1"
+msgid "This is the uh, Liam Jones uh, diary #2"
+msgstr "ええと、これはリアム・ジョーンズの音声日記、ええと、第二回だ。"
+
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "ホーソーン、頼むよ、僕があれを置き忘れてしまって、代わりが必要だと彼らに伝えてくれ"
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "予備のバッジ、代わりが必要だとも言えるな……どこに行ったのかわからないんだ"
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr "……代わりのバッジが必要だというのが要点だよ"
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr "ああ、バッジを電子メールで送れたらな、ホーソーン"
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr "そして新しいバッジをもらえたらいいんだけど。OK。"
+
+#. Key:	LiamJonesDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part2"
+msgid "The samples are doing OK, we're just observing them now to see what happens"
+msgstr "サンプルは上手くいってる、何が起こるのかいま観察しているところだ"
+
+#. Key:	LiamJonesDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part3"
+msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr "本社からサンプルがいくつか送られてきたので、箱に入れて向こうで出荷する予定だ。"
+
+#. Key:	LiamJonesDiary2Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part4"
+msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr "あと、ホーソーン、チャンスがあったら、セキュリティバッジをなくしてしまって……"
+
+#. Key:	LiamJonesDiary2Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part5"
+msgid "but when you talk to the badge people just say um... like uh..."
+msgstr "だけどバッジの担当者と話をするときに、えっと、そうだな……"
+
+#. Key:	LiamJonesDiary2Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part6"
+msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr "わからないが、誰かが、いや、いや、誰かがとったわけじゃない、ひどい理由なんだが"
+
+#. Key:	LiamJonesDiary2Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part7"
+msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr "狐が、噛みついてきて、僕のバッジをとったんだ。そして今、メイン施設に入れない"
+
+#. Key:	LiamJonesDiary2Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part8"
+msgid "Um so, if you could just tell them that... because last time it happened, "
+msgstr "あのね、もし彼らに伝えることができたら……この前無くしたとき、"
+
+#. Key:	LiamJonesDiary2Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part9"
+msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
+msgstr "僕の失敗だといって、交換するのにちょっと消極的だったんだ、だから"
+
+#. Key:	LiamJonesDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part1"
+msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr "こちらは、現場の生体サンプルのセキュリティエンジニアことリアム・ジョーンズだ-ちょうど"
+
+#. Key:	LiamJonesDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part2"
+msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr "フレデリック・プレゼら博士が観察しつに立ち入るのを認めたところだ、彼は暴力的になって"
+
+#. Key:	LiamJonesDiary3Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part3"
+msgid "and attacked one of my members of staff so we're going to keep him"
+msgstr "僕のスタッフの一人を攻撃し始めたので、彼を観察下において"
+
+#. Key:	LiamJonesDiary3Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part4"
+msgid "under observation and probably move him off the island as soon as we can."
+msgstr "おそらくできる限り早く島から遠ざけるつもりだ。"
+
+#. Key:	LiamJonesDiary3Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part5"
+msgid "We're not sure what caused this."
+msgstr "何が原因なのかはわからない。"
+
+#. Key:	ActionConsole
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionConsole"
+msgid "Console"
+msgstr "コンソール"
+
+#. Key:	ActionCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionCrouch"
+msgid "Crouch"
+msgstr "しゃがむ"
+
+#. Key:	ActionFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionFlashlight"
+msgid "Toggle Flashlight"
+msgstr "懐中電灯の切り替え"
+
+#. Key:	ActionInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionInteract"
+msgid "Interact"
+msgstr "インタラクト"
+
+#. Key:	ActionJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionJump"
+msgid "Jump"
+msgstr "ジャンプ"
+
+#. Key:	ActionMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMenu"
+msgid "Menu"
+msgstr "メニュー"
+
+#. Key:	ActionMoveBackward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveBackward"
+msgid "Move Backwards"
+msgstr "後方に移動"
+
+#. Key:	ActionMoveForward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveForward"
+msgid "Move Forwards"
+msgstr "前方に移動"
+
+#. Key:	ActionMoveLeft
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveLeft"
+msgid "Move Left"
+msgstr "左に移動"
+
+#. Key:	ActionMoveRight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveRight"
+msgid "Move Right"
+msgstr "右に移動"
+
+#. Key:	ActionPrimaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
+msgid "Primary Attack"
+msgstr "プライマリ攻撃"
+
+#. Key:	ActionQuickLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickLoad"
+msgid "Quick Load"
+msgstr "クイックロード"
+
+#. Key:	ActionQuickSave
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickSave"
+msgid "Quick Save"
+msgstr "クイックセーブ"
+
+#. Key:	ActionReload
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionReload"
+msgid "Reload"
+msgstr "リロード"
+
+#. Key:	ActionSecondaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
+msgid "Secondary Attack"
+msgstr "セカンダリ攻撃"
+
+#. Key:	ActionSprint
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSprint"
+msgid "Sprint"
+msgstr "ダッシュ"
+
+#. Key:	CallElevator
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,CallElevator"
+msgid "CALL ELEVATOR"
+msgstr "エレベーターを呼ぶ"
+
+#. Key:	EnterTwoFactor01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
+msgid "Enter two-factor authentication code to override"
+msgstr "解除するには、二要素認証コードを入力してください"
+
+#. Key:	LockdownBody01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody01"
+msgid ""
+"ANOMALY DETECTED\r\n"
+"Overrides located in areas A and B"
+msgstr "異常を検知\r\nエリアAおよびBで解除を確認"
+
+#. Key:	LockdownBody02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody02"
+msgid ""
+"AREA DESIGNATED SAFE\r\n"
+"WORKSTATION LOCKED"
+msgstr "安全指定エリア\r\nワークステーションはロックされています"
+
+#. Key:	LockdownBody03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody03"
+msgid ""
+"Enter passcode to override\r\n"
+"HINT: Specimen count"
+msgstr "解除するにはパスコードを入力してください\r\nヒント: 標本数"
+
+#. Key:	LockdownTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle01"
+msgid "LOCKDOWN ENABLED"
+msgstr "ロックダウンが有効"
+
+#. Key:	LockdownTitle02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle02"
+msgid "LOCKDOWN DISABLED"
+msgstr "ロックダウンが無効"
+
+#. Key:	PhoneTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,PhoneTitle01"
+msgid "AUTH CODE"
+msgstr "認証コード"
+
+#. Key:	ReSendCode
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,ReSendCode"
+msgid "RE-SEND CODE"
+msgstr "コードを再送信"
+
+#. Key:	CaptureGuard01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01a"
+msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgstr "我々がお前がこの島をさまよいながら、Sokol-Glocknerの要員を殺し続けるのを容認したとでも？"
+
+#. Key:	CaptureGuard01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01b"
+msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
+msgstr "お前は恥さらしだ。自分がここで何が起きているのかわかっていると思うか？それはお前が止められることだとでも？"
+
+#. Key:	CaptureGuard01c
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01c"
+msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
+msgstr "お前は虫けらだ。Arqueのような多国籍企業はお前ごとき虫ケラを何の問題もなく消し去れる。"
+
+#. Key:	CaptureGuard01d
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01d"
+msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your mangled body inside."
+msgstr "失礼ながら、シェトランド諸島沖でお前の船室を捜索させてもらった。お前のズタズタに傷ついた体を中に、あの船が燃え上がってしまったのは本当に残念だよ。"
+
+#. Key:	CaptureGuard01e
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01e"
+msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
+msgstr "なぜお前はここにいる？起きていることを変えられると思っているのか？我々は世界を守っているんだ、それがわからないのか？"
+
+#. Key:	CaptureGuard01f
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01f"
+msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
+msgstr "これは全て、世界に必要とされるArqueの予防計画の一部であり、お前が邪魔をすることは許されない事態なのだ。"
+
+#. Key:	CaptureGuard01g
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01g"
+msgid "Thousands, millions, billions of people. You have no idea what we're protecting here. The \"greater good\" doesn't quite cover it."
+msgstr "数千、数百万、数十億の人々。お前には我々がここで何を守っているのか知る由も無いだろう。 「より大きな善」では完全に説明しきれない。"
+
+#. Key:	CaptureGuard01h
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01h"
+msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
+msgstr "誰と協力しているのか教えろ。でなければ、地獄すら生ぬるいほど痛い目を見ることになるぞ。"
+
+#. Key:	CaptureGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard02"
+msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+msgstr "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+
+#. Key:	Chat01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat01"
+msgid "Unknown: Hello?"
+msgstr "不明: よう？"
+
+#. Key:	Chat02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat02"
+msgid "You: hi"
+msgstr "あなた：ああ"
+
+#. Key:	Chat03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat03"
+msgid "Unknown: Hello"
+msgstr "不明: よう"
+
+#. Key:	Chat04
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat04"
+msgid "You: yes, we did that bit"
+msgstr "あなた: ああ、もうやったよ"
+
+#. Key:	Chat05
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat05"
+msgid "You: ?"
+msgstr "あなた: ？"
+
+#. Key:	Chat06
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat06"
+msgid "You: can I help you?"
+msgstr "あなた: なんか用か？"
+
+#. Key:	Chat07
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat07"
+msgid "You: are you still there? hello?"
+msgstr "あなた: まだいるのか？おい？"
+
+#. Key:	Chat08
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat08"
+msgid "Unknown: mic?"
+msgstr "不明: マイク？"
+
+#. Key:	Chat09
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat09"
+msgid "You: hello, what do you want?"
+msgstr "あなた: よう、望みはなんだ？"
+
+#. Key:	Chat10
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat10"
+msgid "You: ??? just tell me what you need"
+msgstr "あなた: ？？？望みを言え。"
+
+#. Key:	Chat11
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat11"
+msgid "You: what is your problem? can you please stop bugging me now, i need to work"
+msgstr "あなた: 何が問題なんだ？俺を悩ますのをやめてくれ、働かなきゃいけないんだ"
+
+#. Key:	Chat12
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat12"
+msgid "You: STOP IT FFS"
+msgstr "あなた: やめろ、いい加減にしろ"
+
+#. Key:	Chat13
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat13"
+msgid "You are now offline."
+msgstr "現在あなたはオフラインです。"
+
+#. Key:	ChatTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,ChatTitle"
+msgid "Chat with Unknown"
+msgstr "不明とのチャット"
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
+msgid "AGO Facilities"
+msgstr "AGの施設"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
+msgid "Air Vent"
+msgstr "換気口"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email03_Content"
+msgid ""
+"Hello,\r\n"
+"\r\n"
+"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
+"\r\n"
+"We apologise for the inconveneince this may cause.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "こんにちは、\r\n\r\nあなたのオフィスにあるエアコンの通気口が破損しているという報告を受けました。\r\n\r\nご迷惑をおかけするかもしれず、申し訳ございません。\r\n\r\nよろしくお願いします。\r\n\r\nArque グローバルオペレーションズ クロスジオファシリティ 共同コーディネーションサポート"
+
+#. Key:	Email01_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Content"
+msgid ""
+"Hi,\r\n"
+"\r\n"
+"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
+"\r\n"
+"What are the next steps?\r\n"
+"\r\n"
+"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Badge Services\r\n"
+"\r\n"
+"This is an automated email, please do not respond."
+msgstr "こんにちは、\r\n\r\n新しいセキュリティバッジの申請ありがとうございました。\r\n\r\n次のステップは次の通りです。\r\n\r\nAGOチームのメンバーが本件に対応します。用件の重要度によっては、追加の情報提供を求められる場合があることにご注意ください。\r\n\r\nよろしくお願いします。\r\n\r\nArque グローバルオペレーションズ バッジサービス\r\n\r\nこれは自動送信メールです。返信しないでください。"
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Sender"
+msgid "AGO Badge Services"
+msgstr "AGOバッジサービス"
+
+#. Key:	Email01_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Subject"
+msgid "Thank you for your request"
+msgstr "ご依頼ありがとうございます"
+
+#. Key:	Email02_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Content"
+msgid ""
+"Hi Liam,\r\n"
+"\r\n"
+"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
+"\r\n"
+"Please respond with as much detail as you can about the incident.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr "こんにちはリアムさん、\r\n\r\n新しいバッジの申請をいただきました。あなたの職務のクリアランスレベルにより、バッジをどう起き忘れてしまったのかについてもう少し詳細を伺いたく思います。\r\n\r\n本件について出来るだけ詳しくご回答願います。\r\n\r\nよろしくお願いします。\r\n\r\nヒューゴ・ウェバー\r\nArque グローバルファシリティーズセキュリティサポート シニアスペシャリスト"
+
+#. Key:	Email02_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Sender"
+msgid "Hugo Webber"
+msgstr "ヒューゴ・ウェバー"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Subject"
+msgid "RE: AGO15824"
+msgstr "RE: AGO15824"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Content"
+msgid ""
+"> Message from Liam Jones <liam.jones@arqueglobal.com>\r\n"
+">\r\n"
+"> Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
+">\r\n"
+"> thanks\r\n"
+"\r\n"
+"Liam,\r\n"
+"\r\n"
+"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
+"\r\n"
+"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
+"\r\n"
+"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
+"\r\n"
+"Tell me, where do you believe your badge to be?\r\n"
+"\r\n"
+"Yours,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr "> リアムジョーンズ <liam.jones@arqueglobal.com> からのメッセージ\r\n>\r\n> こんにちは、申し訳ありませんが、私のバッジはキツネに取られてしまって、どこに行ったのかはわかりませんが、もうドアを開けることができず、仕事ができません。\r\n>\r\n> ありがとうございます\r\n\r\リアムさん、\r\n\r\nどうバッジを置き忘れてしまったのか、今どこにあるのかかいつまんで教えていただけませんか？施設の外にあるのかどうか - 会社にとって極めて深刻な問題なのかどうか知りたいのです。\r\n\r\n狐というのは文字通り赤い毛で覆われた動物のことですか？それは非常にありそうに無いことだと思われます。あなたの主張は狐が我々の基地のセキュリティを破ったということでしょうか？それはつまりあなたが仕事を適切にしていないということでは？誰でもあなたの施設内をうろつけるということでは？\r\n\r\nあなたの現在地にはグローバルインターネットサービスとArqueのグローバルVPNに安定したアクセスがないため、遠隔から有効なバッジを無効にすることはできかねます。\r\n\r\n教えてください、バッジはどこにあるのだと思いますか？\r\n\r\n敬具、\r\n\r\nヒューゴ・ウェバー\r\nArque グローバルファシリティーズセキュリティサポート シニアスペシャリスト"
+
+#. Key:	Email03_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Subject"
+msgid "RE: RE: AGO15824"
+msgstr "RE: RE: AGO15824"
+
+#. Key:	Email04_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Content"
+msgid ""
+"Team,\r\n"
+"\r\n"
+"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
+"\r\n"
+"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
+"\r\n"
+"Lucy Beeshaw\r\n"
+"\r\n"
+"PR Senior Specialist"
+msgstr "各位、\r\n\r\nウェントワース・ヘラルドの最新版については添付ファイルをご覧ください - これを調査する必要がありますか？\r\n\r\n念のためですが、適切な許可なしに地元のメディアに話をしないでください。\r\n\r\nルーシー・ビーショー\r\n\r\n広報シニアスペシャリスト"
+
+#. Key:	Email04_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Sender"
+msgid "Lucy Beeshaw"
+msgstr "ルーシー・ビーショー"
+
+#. Key:	Email04_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Subject"
+msgid "Wentworth Herald #317"
+msgstr "ウェントワース・ヘラルド＃317"
+
+#. Key:	Chat
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Chat"
+msgid "Chat"
+msgstr "チャット"
+
+#. Key:	CorporateFooter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter01"
+msgid ""
+"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
+"\r\n"
+"In fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world. Fuck coal."
+msgstr "このメッセージを印刷する前に考えてください。環境が危険にさらされています。木々はここArqueにおける主要な関心事の1つです。\ r \ n \ r \ n実際、すべての従業員が自分のログファイルを石炭の火に置き換えることが求められます。木々を救い、世界を救えと心しましょう。石炭はクソです。"
+
+#. Key:	CorporateFooter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter02"
+msgid "This message has been scanned by the Arque security scanner. There is probably no malware. ¯\\_(ツ)_/¯"
+msgstr "このメッセージは、Arqueセキュリティスキャナーによってスキャンされました。おそらくマルウェアはありません。 ¯\\ _（ツ）_ /¯"
+
+#. Key:	Email
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Email"
+msgid "Email"
+msgstr "電子メール"
+
+#. Key:	OK
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,OK"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	AdditionalContributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AdditionalContributors"
+msgid "ADDITIONAL CONTRIBUTORS"
+msgstr "その他の貢献者"
+
+#. Key:	AndYou
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYou"
+msgid "And You!"
+msgstr "そしてあなたです！"
+
+#. Key:	AndYouTemplated
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYouTemplated"
+msgid "And {name} (You!)"
+msgstr "そして{名前}（あなたです！）"
+
+#. Key:	Chapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter1"
+msgid "Through the Cracks"
+msgstr "亀裂を通って"
+
+#. Key:	Chapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter2"
+msgid "Post Abandon"
+msgstr "捨てられた地位"
+
+#. Key:	Chapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter3"
+msgid "Fight or Flight"
+msgstr "戦うのか、逃げるのか"
+
+#. Key:	CreatedWithUnrealEngine
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,CreatedWithUnrealEngine"
+msgid "Created with Unreal Engine"
+msgstr "Unreal Engineで作成されました"
+
+#. Key:	EstrangedTradeMark
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,EstrangedTradeMark"
+msgid "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr "「Estranged」はAlan Edwardesの商標です。"
+
+#. Key:	HelpTranslate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,HelpTranslate"
+msgid "Help Translate Too!"
+msgstr "翻訳も手伝ってください！"
+
+#. Key:	MoreSoon
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,MoreSoon"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr "一時的なエンディング\r\nまもなくコンテンツが追加予定！"
+
+#. Key:	Translators
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Translators"
+msgid "TRANSLATORS"
+msgstr "翻訳者"
+
+#. Key:	WithThanksTo
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,WithThanksTo"
+msgid "WITH THANKS TO"
+msgstr "以下の人々に感謝します:"
+
+#. Key:	GuardChatter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter01"
+msgid "What do you think? He fell down there maybe?"
+msgstr "どう思う？そこで落ちたんじゃないか？"
+
+#. Key:	GuardChatter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter02"
+msgid "I dunno... this place is falling apart."
+msgstr "わからないが……この場所はバラバラになってる。"
+
+#. Key:	GuardChatter03
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter03"
+msgid "You know... if we report this, they're going to make us go down there."
+msgstr "知ってるだろ……これを報告すると、あいつらは俺たちをそこに行かせるぜ。"
+
+#. Key:	GuardChatter04
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter04"
+msgid "Yeah, I know. It's not worth it, let's just let the things get him."
+msgstr "ああ、知ってるよ。そんな価値はないし、追い込んで捕まえよう。"
+
+#. Key:	GuardChatter05
+#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
+msgctxt "ST_GuardChatter01,GuardChatter05"
+msgid "That's fine by me. Let's move."
+msgstr "俺はそれでいい。移動しよう。"
+
+#. Key:	JohnActI01
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI01"
+msgid "Hello?"
+msgstr "やあ？"
+
+#. Key:	JohnActI02
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02"
+msgid "If anyone can hear this, my name is Johnathan Derril."
+msgstr "誰でもこれを聞けるなら、私はジョナサン・デリルと申すものだ。"
+
+#. Key:	JohnActI02Alt
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02Alt"
+msgid "If anyone can hear this, I need help."
+msgstr "誰でもこれを聞けるなら、私は助けを必要としている。"
+
+#. Key:	JohnActI03
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI03"
+msgid "And I need help."
+msgstr "そして、助けが必要だ。"
+
+#. Key:	JohnActI04
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI04"
+msgid "These things, they've taken over the island."
+msgstr "これだけのことが……奴らが島を占領した。"
+
+#. Key:	JohnActI05
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI05"
+msgid "Anyone, please, I have supplies, but-"
+msgstr "誰でもいい、頼む、私は物資を持っている、だが-"
+
+#. Key:	JohnActI06
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI06"
+msgid "They're out there."
+msgstr "奴らが向こうにいる。"
+
+#. Key:	LaserScan01
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan01"
+msgid "Welcome to Arque East. Please stand by for biological scan."
+msgstr "Arque Eastへようこそ。生体スキャンが行われるまで待機してください。"
+
+#. Key:	LaserScan02
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan02"
+msgid "Biological scan completed. No foreign material found."
+msgstr "生体スキャンが完了しました。異物は検知されませんでした。"
+
+#. Key:	LaserScan03
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan03"
+msgid "Please proceed, and have a nice day."
+msgstr "前に進み、素敵な一日を過ごしてください。"
+
+#. Key:	CallOut1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,CallOut1"
+msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
+msgstr "「フィリップスで10年以上働いていたのに、解雇されたんです。心無い対応だと思います。」"
+
+#. Key:	Headline
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline"
+msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
+msgstr "ARQUE CORPORATIONがフィリップス製薬の買収を完了"
+
+#. Key:	Headline2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline2"
+msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
+msgstr "灯台がなく、船が危うく衝突"
+
+#. Key:	Headline3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline3"
+msgid "RED ALGAE NUMBERS STRONG"
+msgstr "赤い藻が大発生"
+
+#. Key:	Navigation1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Navigation1"
+msgid "MORE ON PAGE 11"
+msgstr "11面の詳細"
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph01"
+msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
+msgstr "地元の製薬会社フィリップス製薬の買収は先週遅くに完了し、50人の従業員全員が解雇され、当初予定されていたよりも20人以上多い従業員が解雇された。"
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph02"
+msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
+msgstr "このニュースは、Arque Corporationが未発表の研究目的でこの地域に進出する計画を発表するのに伴って公表された。"
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph03"
+msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
+msgstr "元オーナーで創設者のフィリップ・ボーモント氏は、精神異常が公然となった後、会社から身を引くことを余儀なくされた。島中を全裸で走り回った後に逮捕されたためだ。本紙はフィリップ社にコメントを求めることができなかったが、同氏の元妻はこの買収について「おそらく戦略的なもの」だと述べた。"
+
+#. Key:	Paragraph04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph04"
+msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
+msgstr "今では、新しい所有者はフィリップス製薬とその従業員に関心を持っておらず、代わりに施設とそれが建っている土地により関心を示した。"
+
+#. Key:	Paragraph05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph05"
+msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
+msgstr "元従業員のベン・キラモックは、職が奪われたことにいらだちを隠せない。島での雇用の機会は極めて少なく、元従業員の大部分は、島から離れることが唯一の選択肢となる。"
+
+#. Key:	Paragraph06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph06"
+msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
+msgstr "伝えられるところによると、現在閉鎖されているリアム・ブラザーズの鉱山用地の現在の所有者も、Arque Corporationと協議中であるようだ。鉱山はフィリップス製薬の施設に近く、同社にとって戦略的価値があるようにみえる。"
+
+#. Key:	Paragraph07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph07"
+msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
+msgstr "我々はArque Corporationにコメントを求めたが、同社はコメントを辞し、「弊社は現地のすべての雇用法を遵守し、再雇用された従業員全員に適正な補償を行いました」と述べた。本紙は、この「補償」が秘密保持契約の対象となっているため、元従業員に提供される実際の金額は不明であることを突き止めた。"
+
+#. Key:	Paragraph08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph08"
+msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
+msgstr "漁師のジョン・アレキサンダーによれば、レストン灯台の閉鎖に伴い、島の近くを通過した船は危うく衝突するところだった。"
+
+#. Key:	Paragraph09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph09"
+msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
+msgstr "ウェントワース・ヘラルドは先週、本灯台のコストが有用性を上回るという提言の中で灯台が閉鎖される予定であるというスクープを独占的に報道した。"
+
+#. Key:	Paragraph10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph10"
+msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
+msgstr "海上交通捜査局は先週号で 「通過する船舶には影響がないだろうと確信している」と述べ、コメントを辞した。"
+
+#. Key:	Paragraph11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph11"
+msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
+msgstr "島にある藻類のコロニーは依然として強い勢力を保っており、最近の調査でいわゆる「紅藻類」の量が大幅に増加していることが示されたように、この島の固有種の藻類が湖やその他の自然の水域を乗っ取り続けている。"
+
+#. Key:	Paragraph12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph12"
+msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
+msgstr "地元の住人のロイズ・ハードマンは藻類は脅威であると考えており、「それ（藻類）が我が物顔をしているから、なるべく早く取り除かないといけない。この島の全部の水を澱ませたくはない。とにかくこれは何かの役に立つのだろうか？」と述べ、藻類がなくなれば彼はもっと幸せになるだろう。"
+
+#. Key:	Body01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body01"
+msgid ""
+"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
+"\r\n"
+"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "本島の突出部レストンにある灯台は、沿岸警備隊による調査の結果、現地のジョン・メン市長によって廃止される予定だ。\r\n\r\n「これが通過する船舶に影響することはないと確信している。」と海上交通捜査局のビル・ハヤック氏がコメントした。「かつてはレストンの沖合に貨物船が見えたが、本土からの輸送ルートが変更されため、今ではもう当てはまらない。」と付け加えた。"
+
+#. Key:	Body02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body02"
+msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
+msgstr "質問を受けると、市長は灯台の閉鎖に関する公式声明の発表までコメントを控えた。"
+
+#. Key:	Body03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body03"
+msgid ""
+"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
+"\r\n"
+"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "地元住民はこの変更に不満を感じており、ある地元住民は今でも島に寄港している小規模な貿易船への影響を懸念し、この廃止が島の静かな波止場にとどめを刺すだろうと述べた。 「島の産業の多くを滞らさせる」と彼は述べた。\r\n\r\n時に灯台は小さい船が地元の企業と取引するための唯一の生命線であり、我々全員が懸念していることである - この島に輸入業がなくなってしまったらどうなるだろうか？"
+
+#. Key:	Body04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body04"
+msgid ""
+"One of the most popular competitions Redton holds is back for its annual event.\r\n"
+"\r\n"
+"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
+"\r\n"
+"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
+"\r\n"
+"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
+"\r\n"
+"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "レストンが主催する最も人気のある競技の1つが、毎年恒例のイベントに向けて開催される。\r\n\r\nコミュニティが毎年集まって、鳥を寄せ付けないよう、もっとも恐ろしく残忍な案山子を作っている。昨年の優勝者は現地の学校の生徒のジョシュア・フェントンくん（８歳）で、彼の祖母の代理で出場し、審査員団を魅了した。\r\n\r\n本コンテストの今年の優勝者は島に最近ケーキ店をオープンした市長の妻ジュリア・メンさんから厳選されたケーキをいただける。\r\n\r\nお祭りはかかしだけでは終わらない。かかしは一週間ずっと展示されていて、屋台やその他の活動が町中で行われている。かかしをまだ見ていない人は、毎年恒例のイベントに行って、この大騒ぎが一体なんなのかその目で見て、レストンで口にできる最高の食べ物と飲み物を試してみよう。\r\n\r\nかかしを見ることができない場合は、次号を確認してほしい。参加作品の全てを紹介する。"
+
+#. Key:	Body05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body05"
+msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
+msgstr "Arqueの地元従業員クリスティアン・プリセの元から黒猫の「ラッキー」が姿を消してから二週間が過ぎた。猫を見かけた人はすぐに彼に連絡するように求めている。"
+
+#. Key:	Body06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body06"
+msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
+msgstr "大企業のArque Corporation が地元の製薬会社フィリップス製薬の買収を完了した先週初め、30人の労働者に通知が手渡された。この買収は以前の所有者の重大な精神異常が公のものとなってからのもので、結果として投資家を探すこととなっていた。"
+
+#. Key:	Callout01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Callout01"
+msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
+msgstr "船が「あまりにも少ない」ことが安全に問題となるだろうと沿岸警備隊"
+
+#. Key:	Headline01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline01"
+msgid "LIGHTHOUSE DECOMMISSIONED"
+msgstr "灯台の廃止"
+
+#. Key:	Headline02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline02"
+msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
+msgstr "地域の案山子コンテストが進行中"
+
+#. Key:	Headline03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline03"
+msgid "LOST"
+msgstr "尋ね猫"
+
+#. Key:	Headline04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline04"
+msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
+msgstr "ARQUE CORPORATIONがフィリップス製薬を買収"
+
+#. Key:	ReadMore01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore01"
+msgid "MORE ON PAGE 7"
+msgstr "7面の詳細"
+
+#. Key:	ReadMore02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore02"
+msgid "MORE ON PAGE 10"
+msgstr "10面の詳細"
+
+#. Key:	ReadMore
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,ReadMore"
+msgid "MORE INSIDE"
+msgstr "もっと詳しく"
+
+#. Key:	Tagline
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Tagline"
+msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
+msgstr "ニュース、ゴシップ、スポーツ、芸能、ビジネス、クロスワードの最初の選択肢。それはあなたの新聞、あなたの人生。"
+
+#. Key:	Title
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Title"
+msgid "WENTWORTH HERALD"
+msgstr "ウェントワース・ヘラルド"
+
+#. Key:	NewsReport01
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport01"
+msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgstr "民間警備会社Sokol-Glocknerが防護任務で実弾を手荒く使用している件で"
+
+#. Key:	NewsReport02
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport02"
+msgid "with its heavy handed use of live ammunition in its protective assignments."
+msgstr "今年に入って二度目の批判を受けた。"
+
+#. Key:	NewsReport03
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport03"
+msgid "The company’s policy states that live ammunition is to be used on all assignments,"
+msgstr "同社の方針では、実弾はすべての任務で使用されることになっている。"
+
+#. Key:	NewsReport04
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport04"
+msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
+msgstr "しかし、活動家たちはこれは不必要であり、避けたい暴力を扇動するものだと主張している。"
+
+#. Key:	NewsReport05
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport05"
+msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
+msgstr "同社は尋ねられた際にはコメントを控えたが、それは起こるまで待っている事故だと言われている。"
+
+#. Key:	NewsReport06
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport06"
+msgid "The government contractor is responsible for a number of overseas operations,"
+msgstr "この政府の請負業者は多くの海外事業を担当しているため"
+
+#. Key:	NewsReport07
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport07"
+msgid "which sources say is why the government is not commenting on this matter."
+msgstr "政府はコメントしないという。"
+
+#. Key:	NewsReport08
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport08"
+msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
+msgstr "Sokol-Glocknerは今年の初めに、銃乱射事件に関与したとして注目を集めた。"
+
+#. Key:	NewsReport09
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport09"
+msgid "an Arque Corporation employee on one of its offshore drilling platforms."
+msgstr "Arque Corporationの海上掘削プラットフォームの1つで働く従業員。"
+
+#. Key:	NewsReport10
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport10"
+msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
+msgstr "37歳の従業員は、明らかにプラットフォームから泳いで、浜辺に現れたが"
+
+#. Key:	NewsReport11
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport11"
+msgid "while doctors later confirmed a bullet in his leg."
+msgstr "その後、医師たちは彼の脚に銃弾が入っていることを確認した。"
+
+#. Key:	NewsReport12
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport12"
+msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgstr "Sokol-Glocknerは、弾丸が彼らの武器の1つから発射されたことを確認したが"
+
+#. Key:	NewsReport13
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport13"
+msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
+msgstr "事件についてのコメントを拒否した。関係当局と協力していると主張した。"
+
+#. Key:	NewsReport14
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport14"
+msgid "Weather now - storm Edwin continues to make landfall,"
+msgstr "今の天気-嵐のエドウィンは上陸を続けているが"
+
+#. Key:	NewsReport15
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport15"
+msgid "but today provides residents in the north with a day of calm."
+msgstr "今日は北部の住民に穏やかな一日を贈っている。"
+
+#. Key:	NewsReport16
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport16"
+msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
+msgstr "気象学者たちは、この地域では最悪の嵐がまだ来ていないことを皆に助言しています"
+
+#. Key:	NewsReport17
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport17"
+msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
+msgstr "気象学者は、この地域のすべての人々に、嵐の最悪の状態はまだ来ておらず、少なくとも2日間は持ちこたえるように"
+
+#. Key:	NewsReport18
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport18"
+msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr "浴槽に水を満たし、食料を蓄えるといった準備をすべきだと忠告している。"
+
+#. Key:	ArqueBroadcast01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01a"
+msgid "This is an automated message from Arque Corporation."
+msgstr "これはArque Corporationからの自動メッセージです。"
+
+#. Key:	ArqueBroadcast01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01b"
+msgid "Mandatory curfew is in effect. Please stay inside."
+msgstr "夜間外出禁止令が発令中です。外に出ないでください。"
+
+#. Key:	JohnBroadcast02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02a"
+msgid "If there's ANYONE listening to this, I need help."
+msgstr "誰かこれを聞いているなら、私は助けを必要としている。"
+
+#. Key:	JohnBroadcast02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02b"
+msgid "They're broadcasting a curfew message, but..."
+msgstr "奴らは外出禁止のメッセージを放送しているが……"
+
+#. Key:	JohnBroadcast02c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02c"
+msgid "I don't understand why. Is it a malfunction?"
+msgstr "理由がわからない。機械の不具合か？"
+
+#. Key:	JohnBroadcast02d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02d"
+msgid "God I hope they're not trying to cover this up..."
+msgstr "神よ、奴らがこれを隠そうとしていないことを願う……"
+
+#. Key:	JohnBroadcast03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03a"
+msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgstr "私はこれから……もうできなくなるまで放送し続けるつもりだ。"
+
+#. Key:	JohnBroadcast03b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03b"
+msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
+msgstr "付近を通る船や飛行機なんかがこれを拾ってくれるはずだ。"
+
+#. Key:	JohnBroadcast04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04a"
+msgid "I was split up from my wife and daughter when the things came."
+msgstr "事態が起こった時、妻と娘と離れ離れになった。"
+
+#. Key:	JohnBroadcast04b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04b"
+msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
+msgstr "私たちは休日だった……休日だったんだ！誰もこの事態に備えていなかった。誰一人としてだ。"
+
+#. Key:	JohnBroadcast05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05a"
+msgid "I know how to fix radios... not much else."
+msgstr "無線機の修理の方法は知っている……他はからっきしだが。"
+
+#. Key:	JohnBroadcast05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05b"
+msgid "A fisherman crashed on the docks near to where I am."
+msgstr "ある漁師が私のいるところ近くの波止場で座礁した。"
+
+#. Key:	JohnBroadcast05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05c"
+msgid "They were fine, I gave them supplies, and told them how to try and stop this."
+msgstr "彼らは大丈夫だった。私は彼らに物資を与え、どうやってこれを止めるのか、そのやり方を伝えた。"
+
+#. Key:	JohnBroadcast05d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05d"
+msgid "I don't think they're coming back though. I keep thinking I could have done more."
+msgstr "私は彼らが戻ってきているとは思わないが。もっとできることがあればと考え続けている。"
+
+#. Key:	JohnBroadcast06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06a"
+msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr "頼む、誰かこれを聞いていないか。もしここがヤバいと思うなら……それ以上だ。"
+
+#. Key:	JohnBroadcast06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06b"
+msgid "We need the military. Why has no one come?"
+msgstr "私たちには軍が必要だった。なぜ誰もきてくれなかったんだ？"
+
+#. Key:	JohnBroadcast06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06c"
+msgid "That company must be doing something to stop the communication."
+msgstr "あの会社は通信を止めるために何かしてくるはずだ。"
+
+#. Key:	JohnBroadcast07a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07a"
+msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgstr "なぜ誰も私たちのことを調べてくれないんだ？小さな島だけど、まだ人がいるのに……"
+
+#. Key:	JohnBroadcast07b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07b"
+msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
+msgstr "私たちがこの休暇を取っていなければと思うよ……この数ヶ月間を元に戻すことができれば……神よ……"
+
+#. Key:	JohnBroadcast07c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07c"
+msgid "...there's no point playing \"what if\"."
+msgstr "……たらればを語っても意味はない。"
+
+#. Key:	CoastGuard01
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard01"
+msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgstr "こちらはノルウェーの沿岸警備隊です。あなたの座標を教えてください。"
+
+#. Key:	CoastGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard02"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	CoastGuard03
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard03"
+msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgstr "お伝えしなければならないことがあります…….その位置で目下、政府の防衛作戦が進行中です。"
+
+#. Key:	CoastGuard04
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard04"
+msgid "We are requesting clearance. Stand by."
+msgstr "正式な許可を求めています。待機してください。"
+
+#. Key:	Dispatcher01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01a"
+msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgstr "抹消、目撃者の一掃を開始"
+
+#. Key:	Dispatcher01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01b"
+msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
+msgstr "北緯72度59分6秒、東経2度51分54秒"
+
+#. Key:	John01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01a"
+msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgstr "待て、それはなんだ……それはラジオか？おい？おい！おお、神よ、やったな！"
+
+#. Key:	John01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01b"
+msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
+msgstr "誰かいますか？これはSOSです、繰り返します、SOS"
+
+#. Key:	John02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02a"
+msgid "Does anyone copy? The island has been overrun."
+msgstr "誰か聞こえますか？この島は占領されています。"
+
+#. Key:	John02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02b"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgstr "Arque Corporationは島からのすべての放送メッセージを停止しています。我々はいますぐ軍事支援が必要です。"
+
+#. Key:	John03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John03a"
+msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgstr "我々の位置はおよそ北緯72度59分6秒、東経2度51分54秒です。"
+
+#. Key:	John04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John04a"
+msgid "Uh, it's John."
+msgstr "ええと、ジョンです。"
+
+#. Key:	John05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05a"
+msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgstr "もしもし！もしもし？沿岸警備隊？！誰かいますか？"
+
+#. Key:	John05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05b"
+msgid "What Government Defense operation? What are you talking about?"
+msgstr "どんな政府防衛作戦だ？一体何について話してる？"
+
+#. Key:	John05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05c"
+msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgstr "沿岸警備隊がそこにいるのか？誰かいないのか？誰か助けてくれ……"
+
+#. Key:	John06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06a"
+msgid "Oh no... no no no no no... no this isn't happening!"
+msgstr "なんてことだ、違う、違う、違う、違う、こんなの現実じゃない！"
+
+#. Key:	John06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06b"
+msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
+msgstr "ここから出て行け！誰か、これを聞いている誰か、島を離れろ、いますぐにだ、どんな手段を使っても！"
+
+#. Key:	John06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06c"
+msgid "Anyone on this frequency just go! Why the hell would they do this?"
+msgstr "この周波数を聞いている奴はいますぐ出ろ！一体奴らはなんでこんなことをしでかしたんだ？"
+
+#. Key:	LoadingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,LoadingLabel"
+msgid "LOADING"
+msgstr "ロード中"
+
+#. Key:	StartupContent
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupContent"
+msgid ""
+"Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n"
+"\r\n"
+"Act II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n"
+"\r\n"
+"If you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
+msgstr "Estranged: Act IIへようこそ！これは絶賛製作中の、Estranged: Act I（これもSteamでプレイできます）の続編です。\r\n\r\nAct IIはサウンドデザイナーやレベルデザイナー、コミュニティ翻訳者、テスターたちの支援を受けながら、（主に一人で開発された！）余暇を使ったプロジェクトです。\r\n\r\nもし何かフィードバックがあれば、Steamフォーラム上、ゲーム内フィードバック、discord.gg/estrangedのいずれからでもいつでも受け付けています！"
+
+#. Key:	StartupPlayButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupPlayButton"
+msgid "Play Estranged"
+msgstr "プレイ"
+
+#. Key:	StartupTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,StartupTitle"
+msgid "WELCOME TO ESTRANGED ACT II"
+msgstr "ESTANGED ACT IIへようこそ"
+
+#. Key:	DockEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingSubtitle"
+msgid "DAYS BEFORE THE EVENTS OF ACT I"
+msgstr "ACT Iの出来事の数日前"
+
+#. Key:	DockEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingTitle"
+msgid "FAIR ISLE, SHETLAND, SCOTLAND"
+msgstr "スコットランド　シェトランド諸島　フェアアイル"
+
+#. Key:	RangeLevelLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeLevelLabel"
+msgid "LEVEL"
+msgstr "ステージ"
+
+#. Key:	RangePointsLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangePointsLabel"
+msgid "POINTS"
+msgstr "ポイント"
+
+#. Key:	RangeTimeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeTimeLabel"
+msgid "TIME"
+msgstr "時間"
+
+#. Key:	TheFallEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingSubtitle"
+msgid "HOURS AFTER THE EVENTS OF ACT I"
+msgstr "ACT Iの出来事から数時間後"
+
+#. Key:	TheFallEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingTitle"
+msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
+msgstr "ノルウェー海、未知の島"
+
