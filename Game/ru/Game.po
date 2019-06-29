@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-29 12:57\n"
-"PO-Revision-Date: 2019-06-29 12:57\n"
+"POT-Creation-Date: 2019-06-29 19:34\n"
+"PO-Revision-Date: 2019-06-29 19:34\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1425,84 +1425,84 @@ msgstr "Воздушный Вент"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
 msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
+msgstr "Здравствуйте!\n\nНам сообщили, что в вашем офисе поврежден вентилятор системы кондиционирования.\n\nМы приносим извинения за возможные неудобства.\n\nСпасибо,\n\nКоординационная поддержка международных объектов Arque Global Operations"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
 msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr ""
+msgstr "Здравствуйте!\n\nБлагодарим за запрос нового пропуска. Для справки: номер Вашего обращения AGO15824.\n\nЧто предпринять дальше?\n\nЧлен команды AGO ответит на Ваш запрос. Пожалуйста, учтите, что Вас могут попросить предоставить дополнительную информацию в зависимости от степени серьезности запроса.\n\nСпасибо,\n\nСлужба пропусков Arque Global Operations\n\nЭто автоматическое письмо. Пожалуйста, не отвечайте на него."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Sender"
 msgid "AGO Badge Services"
-msgstr ""
+msgstr "Служба пропусков AGO"
 
 #. Key:	Email01_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Subject"
 msgid "Thank you for your request"
-msgstr ""
+msgstr "Благодарим за Ваш запрос"
 
 #. Key:	Email02_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
 msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
+msgstr "Здравствуйте, Лиам!\n\nМы получили Ваш запрос на новый пропуск. Из-за уровня доступа к секретной информации Вашей должности мне нужно проверить несколько моментов, касающихся утери пропуска.\n\nПожалуйста,  максимально подробно опишите в ответе, как это было.\n\nСпасибо,\n\nХьюго Уэббер\nСтарший специалист поддержки по вопросам безопасности имущества Arque Global"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Sender"
 msgid "Hugo Webber"
-msgstr ""
+msgstr "Хьюго Уэббер"
 
 #. Key:	Email02_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Subject"
 msgid "RE: AGO15824"
-msgstr ""
+msgstr "RE: AGO15824"
 
 #. Key:	Email03_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
+msgstr "Лиам!\n\nНе могли бы Вы точно описать, как пропал пропуск и где он сейчас? Нам нужно убедиться, что он не за пределами объекта, иначе это будет весьма серьезной проблемой для компании.\n\nПод лисой Вы имеете в виду в прямом смысле рыжее пушистое животное? Ваше заявление о том, что лиса обошла наши меры безопасности и пробралась на базу, кажется крайне маловероятным. Ведь это наверняка означает, что Вы не выполняете свою работу как следует? Значит ли это, что люди могут вот так просто зайти на Ваш объект?\n\nТак как там, где Вы находитесь, очень слабый доступ к сервисам глобальной сети и VPN Arque Global, деактивировать действующие пропуска удаленно невозможно.\n\nСкажите, где, по-Вашему, сейчас находится Ваш пропуск?\n\nС уважением,\n\nХьюго Уэббер,\nСтарший специалист поддержки по вопросам безопасности имущества Arque Global"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
 msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr ""
+msgstr "Здравствуйте извините мой пропуск унесла лиса , я не уверен, куда она улша, но я больше не могу открыть дверь и выполнять свою работу\n\nспасибо"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Subject"
 msgid "RE: RE: AGO15824"
-msgstr ""
+msgstr "RE: RE: AGO15824"
 
 #. Key:	Email04_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
 msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr ""
+msgstr "Уважаемые коллеги!\n\nПожалуйста, ознакомьтесь с последним выпуском Wentworth Herald во вложении. Обратите внимание на упоминание Arque – надо ли нам это расследовать?\n\nТакже напоминаю: не разговаривайте, пожалуйста, с местными СМИ без соответствующего разрешения.\n\nЛюси Бишоу,\n\nСтарший специалист по связям с общественностью"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Sender"
 msgid "Lucy Beeshaw"
-msgstr ""
+msgstr "Люси Бишоу"
 
 #. Key:	Email04_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1516,7 +1516,7 @@ msgstr "Вестник Вентворта #317"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email_Author"
 msgid "Liam Jones"
-msgstr ""
+msgstr "Лиам Джонс"
 
 #. Key:	Chat
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1530,14 +1530,14 @@ msgstr "Чат"
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
 msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
-msgstr ""
+msgstr "Просим подумать прежде чем распечатать данное сообщение. Деревья являются одним из предметов вызывающих озабоченность в Arque.\n\nНа самом деле, мы требуем, чтобы все сотрудники заменили свои дровяные камины на угольные камины. Помните, сохранив деревья, вы сохраните мир."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
 msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
-msgstr ""
+msgstr "Данное сообщение было отсканировано сканером безопасности Arque. Скорее всего в нем нет вредоносной программы."
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1579,21 +1579,21 @@ msgstr "И {name} (Ты!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr ""
+msgstr "Сквозь Щели"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr ""
+msgstr "Заброшенный Пост"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr ""
+msgstr "бей или беги"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -2370,21 +2370,21 @@ msgstr "Все, слушающие эту частоту, просто свал�
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr ""
+msgstr "АКТИВНЫЙ"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr ""
+msgstr "СТАТУС ПОДАВИТЕЛЯ УВЧ-СИГНАЛОВ "
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr ""
+msgstr "УДАЛЕННОЕ БЛОКИРОВАНИЕ "
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
