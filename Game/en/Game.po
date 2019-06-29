@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-29 07:54\n"
-"PO-Revision-Date: 2019-06-29 07:54\n"
+"POT-Creation-Date: 2019-06-29 09:11\n"
+"PO-Revision-Date: 2019-06-29 09:11\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1515,15 +1515,15 @@ msgstr "Chat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world. Fuck coal."
-msgstr "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world. Fuck coal."
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
+msgstr "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
-msgid "This message has been scanned by the Arque security scanner. There is probably no malware. ¯\\_(ツ)_/¯"
-msgstr "This message has been scanned by the Arque security scanner. There is probably no malware. ¯\\_(ツ)_/¯"
+msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
+msgstr "This message has been scanned by the Arque security scanner. There is probably no malware."
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2350,6 +2350,27 @@ msgstr "Get out of there! Anyone, anyone listening to this, leave the island, ri
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
 msgstr "Anyone on this frequency just go! Why the hell would they do this?"
+
+#. Key:	ActiveLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,ActiveLabel"
+msgid "ACTIVE"
+msgstr "ACTIVE"
+
+#. Key:	RadioSignalJammerLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
+msgid "UHF SIGNAL JAMMER STATUS:"
+msgstr "UHF SIGNAL JAMMER STATUS:"
+
+#. Key:	RemoteOverrideLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
+msgid "REMOTE OVERRIDE"
+msgstr "REMOTE OVERRIDE"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
