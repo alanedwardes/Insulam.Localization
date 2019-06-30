@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-30 12:15\n"
-"PO-Revision-Date: 2019-06-30 12:15\n"
+"POT-Creation-Date: 2019-06-30 12:31\n"
+"PO-Revision-Date: 2019-06-30 12:31\n"
 "Language-Team: \n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
@@ -2462,6 +2462,20 @@ msgstr "ប៉ុន្មានថ្ងៃមុនហេតុការក្
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
 msgstr "FAIR ISLE, ទីក្រុង SHETLAND, ប្រទេស SCOTLAND"
+
+#. Key:	HangarPendingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarPendingLabel"
+msgid "PENDING"
+msgstr ""
+
+#. Key:	HangarRoundLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarRoundLabel"
+msgid "ROUND"
+msgstr ""
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
