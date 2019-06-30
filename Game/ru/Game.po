@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-29 19:34\n"
-"PO-Revision-Date: 2019-06-29 19:34\n"
+"POT-Creation-Date: 2019-06-30 12:15\n"
+"PO-Revision-Date: 2019-06-30 12:15\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -2364,6 +2364,41 @@ msgstr "Убирайтесь отсюда! Все, все, кто это слу�
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
 msgstr "Все, слушающие эту частоту, просто сваливайте! Какого черта они это делают?"
+
+#. Key:	Copyright01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright01"
+msgid "Half-Life is a registered trademark of Valve Corporation"
+msgstr "Half-Life является зарегистрированным товарным знаком Valve Corporation"
+
+#. Key:	Copyright02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright02"
+msgid "Estranged is copyright © 2011 Alan Edwardes"
+msgstr "Estranged является авторским правом © 2011 Alan Edwardes"
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph01"
+msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
+msgstr ""
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph02"
+msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
+msgstr ""
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph03"
+msgid "To get help, report bugs and submit feedback, join the community!"
+msgstr ""
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
