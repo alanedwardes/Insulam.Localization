@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-30 12:31\n"
-"PO-Revision-Date: 2019-06-30 12:31\n"
+"POT-Creation-Date: 2019-06-30 12:49\n"
+"PO-Revision-Date: 2019-06-30 12:49\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -907,21 +907,21 @@ msgstr "そして、我々はこれが完全に無害だと考えており、問
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "ええと、これはリアム・ジョーンズの、ええと、音声日記第一回だ。"
+msgstr "ええと、これはリアム・ジョーンズの、ええと、音声日記第一回だ"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "藻の研究を始めたばかりだ。"
+msgstr "藻の研究を始めたばかりだ"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part3"
 msgid "We realised that it actually glows if you leave it alone for a little while"
-msgstr "しばらく放置しておくと、本当に光ることがわかった。"
+msgstr "しばらく放置しておくと、本当に光ることがわかった"
 
 #. Key:	LiamJonesDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -942,7 +942,7 @@ msgstr "……少しの間オフィスを離れる。何が起きているのか
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "This is the uh, Liam Jones uh, diary #2"
-msgstr "ええと、これはリアム・ジョーンズの音声日記、ええと、第二回だ。"
+msgstr "ええと、これはリアム・ジョーンズの音声日記、ええと、第二回だ"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -991,7 +991,7 @@ msgstr "サンプルは上手くいってる、何が起こるのかいま観察
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "本社からサンプルがいくつか送られてきたので、箱に入れて向こうで出荷する予定だ。"
+msgstr "本社からサンプルがいくつか送られてきたので、箱に入れて向こうで出荷する予定だ"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1026,7 +1026,7 @@ msgstr "狐が、噛みついてきて、僕のバッジをとったんだ。そ
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "あのね、もし彼らに伝えることができたら……この前無くしたとき、"
+msgstr "えっと、もし彼らに伝えることができたら……この前無くしたとき"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1264,14 +1264,14 @@ msgstr "お前は恥さらしだ。自分がここで何が起きているのか
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01c"
 msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
-msgstr "お前は虫けらだ。Arqueのような多国籍企業はお前ごとき虫ケラを何の問題もなく消し去れる。"
+msgstr "お前は虫けらだ。Arqueほどの多国籍企業ならばお前ごとき虫ケラ、何の問題もなく消し去れる。"
 
 #. Key:	CaptureGuard01d
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01d"
 msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your mangled body inside."
-msgstr "失礼ながら、シェトランド諸島沖でお前の船室を捜索させてもらった。お前のズタズタに傷ついた体を中に、あの船が燃え上がってしまったのは本当に残念だよ。"
+msgstr "失礼ながら、シェトランド諸島沖でお前の船室を捜索させてもらった。お前のズタズタに傷ついた体もろとも、あの船が燃え上がってしまったのは本当に残念だよ。"
 
 #. Key:	CaptureGuard01e
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1285,7 +1285,7 @@ msgstr "なぜお前はここにいる？起きていることを変えられる
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01f"
 msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
-msgstr "これは全て、世界に必要とされるArqueの予防計画の一部であり、お前が邪魔をすることは許されない事態なのだ。"
+msgstr "これは全て、Arqueの不可欠な予防計画の一部であり、お前が邪魔をすることは許されない事態なのだ。"
 
 #. Key:	CaptureGuard01g
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1306,7 +1306,7 @@ msgstr "誰と協力しているのか教えろ。でなければ、地獄すら
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
-msgstr "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+msgstr "これは驚いたな。世界最大の民間軍事会社の一つ、Sokol-Glocknerが苦痛の与え方をご存知とはな。"
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1369,14 +1369,14 @@ msgstr "不明: マイク？"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat09"
 msgid "You: hello, what do you want?"
-msgstr "あなた: よう、望みはなんだ？"
+msgstr "あなた: よう、用件はなんだ？"
 
 #. Key:	Chat10
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat10"
 msgid "You: ??? just tell me what you need"
-msgstr "あなた: ？？？望みを言え。"
+msgstr "あなた: ？？？用件を言え"
 
 #. Key:	Chat11
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1481,7 +1481,7 @@ msgstr "リアムさん、\r\n\r\nどうバッジを置き忘れてしまった�
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
 msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr "こんにちは、申し訳ありませんが、私のバッジはキツネに取られてしまって、どこに行ったのかはわかりませんが、もうドアを開けることができず、仕事ができません。\r\n\r\nありがとうございます"
+msgstr "こんにちは、申し訳ありませんが、私のバッジはキツネに取られてしまって、どこに行ったのかはわかりませんが、もうドアを開けることができず、仕事ができません。\r\n\r\nよろしくお願いします"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1516,7 +1516,7 @@ msgstr "ウェントワース・ヘラルド＃317"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email_Author"
 msgid "Liam Jones"
-msgstr ""
+msgstr "リアム・ジョーンズ"
 
 #. Key:	Chat
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1607,7 +1607,7 @@ msgstr "Unreal Engineで作成されました"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "「Estranged」はAlan Edwardesの商標です。"
+msgstr "「Estranged」はAlan Edwardesの商標です"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1782,7 +1782,7 @@ msgstr "11面の詳細"
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr "地元の製薬会社フィリップス製薬の買収は先週遅くに完了し、50人の従業員全員が解雇され、当初予定されていたよりも20人以上多い従業員が解雇された。"
+msgstr "地元の製薬会社フィリップス製薬の買収は先週遅くに完了し、50人の従業員全員が解雇され、当初予定されていたよりも20人以上多くの従業員が解雇された。"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1796,14 +1796,14 @@ msgstr "このニュースは、Arque Corporationが未発表の研究目的で�
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph03"
 msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
-msgstr "元オーナーで創設者のフィリップ・ボーモント氏は、精神異常が公然となった後、会社から身を引くことを余儀なくされた。島中を全裸で走り回った後に逮捕されたためだ。本紙はフィリップ社にコメントを求めることができなかったが、同氏の元妻はこの買収について「おそらく戦略的なもの」だと述べた。"
+msgstr "元オーナーで創設者のフィリップ・ボーモント氏は、精神異常が公然となった後、会社から身を引くことを余儀なくされた。島中を全裸で走り回った後に逮捕されたためだ。本紙はフィリップ氏にコメントを求めることができなかったが、同氏の元妻はこの買収について「おそらく戦略的なもの」だと述べた。"
 
 #. Key:	Paragraph04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph04"
 msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
-msgstr "今では、新しい所有者はフィリップス製薬とその従業員に関心を持っておらず、代わりに施設とそれが建っている土地により関心を示した。"
+msgstr "今では、新しい所有者はフィリップス製薬とその従業員に関心を持っておらず、むしろ施設とそれが建っている土地に関心を示した。"
 
 #. Key:	Paragraph05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1831,7 +1831,7 @@ msgstr "我々はArque Corporationにコメントを求めたが、同社はコ�
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph08"
 msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
-msgstr "漁師のジョン・アレキサンダーによれば、レストン灯台の閉鎖に伴い、島の近くを通過した船は危うく衝突するところだった。"
+msgstr "漁師のジョン・アレキサンダーによれば、レストン灯台の閉鎖に伴い、島の付近を通過した船は危うく衝突するところだったそうだ。"
 
 #. Key:	Paragraph09
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1845,7 +1845,7 @@ msgstr "ウェントワース・ヘラルドは先週、本灯台のコストが
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph10"
 msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
-msgstr "海上交通捜査局は先週号で 「通過する船舶には影響がないだろうと確信している」と述べ、コメントを辞した。"
+msgstr "海上交通捜査局は先週号で 「付近の交通に影響を与えることは絶対にありません」と述べ、コメントを辞した。"
 
 #. Key:	Paragraph11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1859,42 +1859,42 @@ msgstr "島にある藻類のコロニーは依然として強い勢力を保っ
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph12"
 msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
-msgstr "地元の住人のロイズ・ハードマンは藻類は脅威であると考えており、「それ（藻類）が我が物顔をしているから、なるべく早く取り除かないといけない。この島の全部の水を澱ませたくはない。とにかくこれは何かの役に立つのだろうか？」と述べ、藻類がなくなれば彼はもっと幸せになるだろう。"
+msgstr "地元の住人のロイズ・ハードマンは藻類は脅威であると考えており、「それ（藻類）が我が物顔をしているから、なるべく早く取り除かないといけない。この島の水を全部澱ませたくはない。とはいえ、これは何かの役に立つのだろうか？」と述べ、藻類がなくなれば彼はもっと幸せになるだろう。"
 
 #. Key:	Body01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
 msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr "本島の突出部レストンにある灯台は、沿岸警備隊による調査の結果、現地のジョン・メン市長によって廃止される予定だ。\r\n\r\n「これが通過する船舶に影響することはないと確信している。」と海上交通捜査局のビル・ハヤック氏がコメントした。「かつてはレストンの沖合に貨物船が見えたが、本土からの輸送ルートが変更されため、今ではもう当てはまらない。」と付け加えた。"
+msgstr "沿岸警備隊による調査の結果、レストンの岬に建造された灯台は、現地のジョン・メン市長によって廃止されることが決定された。\r\n\r\n「この決定が付近の交通に影響を与えることは絶対にありません。」と海上交通捜査局のビル・ハイエクは言う。「かつてはレストン沿岸を発つ貨物船を見たものですが、本土からの航路が変更された今はそれも無いのです。」"
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body02"
 msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
-msgstr "質問を受けると、市長は灯台の閉鎖に関する公式声明の発表までコメントを控えた。"
+msgstr "本件について質問を受けると、市長は灯台の閉鎖に関する公式声明の発表までコメントを控えた。"
 
 #. Key:	Body03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
 msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr "地元住民はこの変更に不満を感じており、ある地元住民は今でも島に寄港している小規模な貿易船への影響を懸念し、この廃止が島の静かな波止場にとどめを刺すだろうと述べた。 「島の産業の多くを滞らさせる」と彼は述べた。\r\n\r\n時に灯台は小さい船が地元の企業と取引するための唯一の生命線であり、我々全員が懸念していることである - この島に輸入業がなくなってしまったらどうなるだろうか？"
+msgstr "地元住民はこの変化を良く思っていない。1人の地元住民は、この島を今も行き来する小型の交易船に影響を与えることを懸念している。今回の決定が今ですら人気の少ない島の港に止めを刺した、とのことだ。「島のビジネスの多くが停滞するだろう」と彼は言う。\r\n\r\nそうした小型船はこの灯台だけを頼りにこの地の会社と交易へ来ていたと言っても過言でない。そして人々の不安はそこなのだ。すなわち輸入業が全て消滅した時一体どうなるのか、ということである。"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
 msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr "レストンが主催する最も人気のある競技の1つが、毎年恒例のイベントに向けて開催される。\r\n\r\nコミュニティが毎年集まって、鳥を寄せ付けないよう、もっとも恐ろしく残忍な案山子を作っている。昨年の優勝者は現地の学校の生徒のジョシュア・フェントンくん（８歳）で、彼の祖母の代理で出場し、審査員団を魅了した。\r\n\r\n本コンテストの今年の優勝者は島に最近ケーキ店をオープンした市長の妻ジュリア・メンさんから厳選されたケーキをいただける。\r\n\r\nお祭りはかかしだけでは終わらない。かかしは一週間ずっと展示されていて、屋台やその他の活動が町中で行われている。かかしをまだ見ていない人は、毎年恒例のイベントに行って、この大騒ぎが一体なんなのかその目で見て、レストンで口にできる最高の食べ物と飲み物を試してみよう。\r\n\r\nかかしを見ることができない場合は、次号を確認してほしい。参加作品の全てを紹介する。"
+msgstr "毎年恒例、レストンで最も人気の品評会が再び開催される。\r\n\r\n最も恐ろしくおぞましい鳥除けのカカシを作るべく、毎年地域が一体となる。昨年度は地元の小学生である8歳のジョシュア・フェントン君が、自身の祖母を表現したというカカシにより審査員の評価を勝ち取り優勝した。\r\n\r\n本コンテストの今年の優勝者には島に最近ケーキ店をオープンした市長の妻ジュリア・メンさんから厳選されたケーキが贈られる。\r\n\r\n祭はカカシだけに留まらない。カカシは今週いっぱい展示されているし、加えて他のイベントも町のあちこちで開催される予定だ。だがまだカカシを見たことがないというなら、この毎年恒例のイベントで喧騒を見てみるのも良い。レイソンが誇る最高の食べ物飲み物を試食するのもお忘れなく。\r\n\r\nもしカカシを見に行く暇がないなら、次号は要チェックだ。全参加者のカカシを特集する予定である。"
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body05"
 msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
-msgstr "Arqueの地元従業員クリスティアン・プリセの元から黒猫の「ラッキー」が姿を消してから二週間が過ぎた。猫を見かけた人はすぐに彼に連絡するように求めている。"
+msgstr "Arqueの従業員クリスチャン・プライスの黒猫「ラッキー」の失踪以来2週間が経過しました。猫を目撃した方は彼にすぐに連絡を入れてほしいとのことです。"
 
 #. Key:	Body06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1908,21 +1908,21 @@ msgstr "大企業のArque Corporation が地元の製薬会社フィリップス
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Callout01"
 msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
-msgstr "船が「あまりにも少ない」ことが安全に問題となるだろうと沿岸警備隊"
+msgstr "沿岸警備隊曰く、船の交通量は非常に少なく安全性を考慮するに至らない"
 
 #. Key:	Headline01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline01"
 msgid "LIGHTHOUSE DECOMMISSIONED"
-msgstr "灯台の廃止"
+msgstr "灯台　廃灯へ"
 
 #. Key:	Headline02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline02"
 msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
-msgstr "地域の案山子コンテストが進行中"
+msgstr "ご当地名物カカシ品評会　開催中"
 
 #. Key:	Headline03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1964,7 +1964,7 @@ msgstr "もっと詳しく"
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Tagline"
 msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
-msgstr "ニュース、ゴシップ、スポーツ、芸能、ビジネス、クロスワードの最初の選択肢。それはあなたの新聞、あなたの人生。"
+msgstr "ニュースにゴシップ、スポーツ、芸能、ビジネス、クロスワードを素早くお届け。これぞ新聞、そしてあなたの生活へ。"
 
 #. Key:	Title
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
@@ -1992,56 +1992,56 @@ msgstr "今年に入って二度目の批判を受けた。"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
 msgid "The company’s policy states that live ammunition is to be used on all assignments,"
-msgstr "同社の方針では、実弾はすべての任務で使用されることになっている。"
+msgstr "同社の方針では、実弾はすべての任務で使用されることになっているが、"
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr "しかし、活動家たちはこれは不必要であり、避けたい暴力を扇動するものだと主張している。"
+msgstr "活動家たちはこれは不必要であり、避けられる暴力を助長するものだと主張している。"
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr "同社は尋ねられた際にはコメントを控えたが、それは起こるまで待っている事故だと言われている。"
+msgstr "同社はコメントを求められたが拒否した。これは起こるべくして起きた事故ではないかと言われている。"
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
 msgid "The government contractor is responsible for a number of overseas operations,"
-msgstr "この政府の請負業者は多くの海外事業を担当しているため"
+msgstr "政府の請負業者の顔を持つ同社は多くの海外事業を担当しているため、"
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
 msgid "which sources say is why the government is not commenting on this matter."
-msgstr "政府はコメントしないという。"
+msgstr "政府は本件についてコメントしないという。"
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glocknerは今年の初めに、銃乱射事件に関与したとして注目を集めた。"
+msgstr "Sokol-Glocknerは今年の初めに、Arque Corporationの海上掘削プラットフォームの1つで働く"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr "Arque Corporationの海上掘削プラットフォームの1つで働く従業員。"
+msgstr "従業員への誤射事件に関与したとして注目を集めた。"
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "37歳の従業員は、明らかにプラットフォームから泳いで、浜辺に現れたが"
+msgstr "37歳の従業員は、明らかにプラットフォームから泳いで、浜辺に現れたが、"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2055,7 +2055,7 @@ msgstr "その後、医師たちは彼の脚に銃弾が入っていることを
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr "Sokol-Glocknerは、弾丸が彼らの武器の1つから発射されたことを確認したが"
+msgstr "Sokol-Glocknerは、弾丸が彼らの武器の1つから発射されたことを認めたが、"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2069,35 +2069,35 @@ msgstr "事件についてのコメントを拒否した。関係当局と協力
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "今の天気-嵐のエドウィンは上陸を続けているが"
+msgstr "今の天気-嵐のエドウィンは上陸を続けているが、"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr "今日は北部の住民に穏やかな一日を贈っている。"
+msgstr "今の所北部では穏やかな天気が続いている。"
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "気象学者たちは、この地域では最悪の嵐がまだ来ていないことを皆に助言しています"
+msgstr "気象学者らによれば、嵐の最悪の状態はまだ来ておらず少なくとも2日間は持ちこたえるように、"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "気象学者は、この地域のすべての人々に、嵐の最悪の状態はまだ来ておらず、少なくとも2日間は持ちこたえるように"
+msgstr "浴槽に水を満たし、食料を蓄えるといった準備がこの地域の住人には必要となるそうだ。"
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr "浴槽に水を満たし、食料を蓄えるといった準備をすべきだと忠告している。"
+msgstr "私からは以上です。明朝の7時にブレックファスト・バーストに参加しよう。"
 
 #. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2307,7 +2307,7 @@ msgstr "誰か聞こえますか？この島は占領されています。"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
-msgstr "Arque Corporationは島からのすべての放送メッセージを停止しています。我々はいますぐ軍事支援が必要です。"
+msgstr "Arque Corporationは島からのすべての放送メッセージを停止しています。我々は即急に軍事支援を必要としています！"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2405,21 +2405,21 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr ""
+msgstr "有効"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr ""
+msgstr "UHF シグナルジャマーのステータス:"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr ""
+msgstr "遠隔から解除"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
