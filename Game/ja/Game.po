@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-02 21:51\n"
-"PO-Revision-Date: 2019-07-02 21:51\n"
+"POT-Creation-Date: 2019-07-02 21:57\n"
+"PO-Revision-Date: 2019-07-02 21:57\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -376,76 +376,6 @@ msgstr "影"
 msgctxt "Menus,ButtonSoundOptions"
 msgid "Sound"
 msgstr "サウンド"
-
-#. Key:	ButtonSP01
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP01"
-msgid "1. Fall"
-msgstr "1. 落下"
-
-#. Key:	ButtonSP02
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP02"
-msgid "2. Scaffolding"
-msgstr "2. 工事現場"
-
-#. Key:	ButtonSP03
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP03"
-msgid "3. Pool"
-msgstr "3.プール"
-
-#. Key:	ButtonSP04
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP04"
-msgid "4. Mine"
-msgstr "4. 鉱山"
-
-#. Key:	ButtonSP05
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP05"
-msgid "5. Lab"
-msgstr "5. 研究所"
-
-#. Key:	ButtonSP06
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP06"
-msgid "6. Clearing"
-msgstr "6. クリアリング"
-
-#. Key:	ButtonSP07
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP07"
-msgid "7. Sewer"
-msgstr "7. 下水道"
-
-#. Key:	ButtonSP08
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP08"
-msgid "8. Elevator"
-msgstr "8.エレベーター"
-
-#. Key:	ButtonSP09
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP09"
-msgid "9. Forest"
-msgstr "9. 森"
-
-#. Key:	ButtonSP10
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,ButtonSP10"
-msgid "10. Crevice"
-msgstr "10. 割れ目"
 
 #. Key:	ButtonSteamForums
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2427,27 +2357,6 @@ msgstr "遠隔から解除"
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
 msgstr "ロード中"
-
-#. Key:	StartupContent
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,StartupContent"
-msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Estranged: Act IIへようこそ！これは絶賛製作中の、Estranged: Act I（これもSteamでプレイできます）の続編です。\r\n\r\nAct IIはサウンドデザイナーやレベルデザイナー、コミュニティ翻訳者、テスターたちの支援を受けながら、（主に一人で開発された！）余暇を使ったプロジェクトです。\r\n\r\nもし何かフィードバックがあれば、Steamフォーラム上、ゲーム内フィードバック、discord.gg/estrangedのいずれからでもいつでも受け付けています！"
-
-#. Key:	StartupPlayButton
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,StartupPlayButton"
-msgid "Play Estranged"
-msgstr "プレイ"
-
-#. Key:	StartupTitle
-#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
-#: /Game/Resources/Localisation/ST_Windows.ST_Windows
-msgctxt "Windows,StartupTitle"
-msgid "WELCOME TO ESTRANGED ACT II"
-msgstr "ESTANGED ACT IIへようこそ"
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
