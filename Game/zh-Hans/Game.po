@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-30 15:46\n"
-"PO-Revision-Date: 2019-06-30 15:46\n"
+"POT-Creation-Date: 2019-07-02 21:25\n"
+"PO-Revision-Date: 2019-07-02 21:25\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -18,364 +18,364 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
-msgstr ""
+msgstr "克劳奇下"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr ""
+msgstr "消防M9"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
-msgstr ""
+msgstr "切换手电筒"
 
 #. Key:	HintFlee
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr ""
+msgstr "逃跑"
 
 #. Key:	HintGameSaved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr ""
+msgstr "游戏已保存"
 
 #. Key:	HintInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr ""
+msgstr "相互作用"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr ""
+msgstr "上跳"
 
 #. Key:	HintLoading
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintLoading"
 msgid "Loading"
-msgstr ""
+msgstr "载入中"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintMove"
 msgid "Move around"
-msgstr ""
+msgstr "四处走走"
 
 #. Key:	HintOpenGate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr ""
+msgstr "打开门"
 
 #. Key:	HintPickaxe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickaxe"
 msgid "Pickaxe"
-msgstr ""
+msgstr "鹤嘴锄"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickUp"
 msgid "Pick up object"
-msgstr ""
+msgstr "拿起物体"
 
 #. Key:	HintSprintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
-msgstr ""
+msgstr "跑步和跳跃"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintThrowRock"
 msgid "Throw rock"
-msgstr ""
+msgstr "扔石头"
 
 #. Key:	HintTurnOnTv
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintTurnOnTv"
 msgid "Turn on TV"
-msgstr ""
+msgstr "打开电视"
 
 #. Key:	HintUseMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
-msgstr ""
+msgstr "控制电脑"
 
 #. Key:	BindingNotSet
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr ""
+msgstr "请按键"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
-msgstr ""
+msgstr "抗锯齿"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAdvanced"
 msgid "Advanced"
-msgstr ""
+msgstr "高级"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonApply"
 msgid "Apply Changes"
-msgstr ""
+msgstr "应用更改"
 
 #. Key:	ButtonArcade
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr ""
+msgstr "拱廊"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAutoDetectSettings"
 msgid "Auto-Detect Settings"
-msgstr ""
+msgstr "自动检测设置"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonBack"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. Key:	ButtonChapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr ""
+msgstr "第1章"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr ""
+msgstr "第2章"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr ""
+msgstr "第3章"
 
 #. Key:	ButtonChapter4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
-msgstr ""
+msgstr "第4章"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr ""
+msgstr "控制"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonCredits"
 msgid "Load Credits"
-msgstr ""
+msgstr "学分"
 
 #. Key:	ButtonEffects
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonEffects"
 msgid "Effects"
-msgstr ""
+msgstr "效果"
 
 #. Key:	ButtonExit
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExit"
 msgid "Exit"
-msgstr ""
+msgstr "退出"
 
 #. Key:	ButtonExitToMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExitToMenu"
 msgid "Exit to Menu"
-msgstr ""
+msgstr "退出菜单"
 
 #. Key:	ButtonExtras
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExtras"
 msgid "Extras"
-msgstr ""
+msgstr "附加功能"
 
 #. Key:	ButtonFeedback
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFeedback"
 msgid "Send Feedback"
-msgstr ""
+msgstr "发送反馈"
 
 #. Key:	ButtonFoliage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonFoliage"
 msgid "Foliage"
-msgstr ""
+msgstr "叶子"
 
 #. Key:	ButtonGameplayOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGameplayOptions"
 msgid "Gameplay"
-msgstr ""
+msgstr "游戏内容"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
-msgstr ""
+msgstr "图形"
 
 #. Key:	ButtonGuides
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr ""
+msgstr "指南"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr ""
+msgstr "仓库拱廊"
 
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
-msgstr ""
+msgstr "加入Discord"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadGame"
 msgid "Load Game"
-msgstr ""
+msgstr "载入游戏"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonNewGame"
 msgid "New Game"
-msgstr ""
+msgstr "新游戏"
 
 #. Key:	ButtonPostProcess
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
-msgstr ""
+msgstr "后期过程"
 
 #. Key:	ButtonPrelude
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPrelude"
 msgid "Prelude"
-msgstr ""
+msgstr "序幕"
 
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonRange"
 msgid "Shooting Range"
-msgstr ""
+msgstr "射击范围"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
-msgstr ""
+msgstr "继续"
 
 #. Key:	ButtonSaveGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveGame"
 msgid "Save Game"
-msgstr ""
+msgstr "保存游戏"
 
 #. Key:	ButtonSaveLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveLoad"
 msgid "Save / Load"
-msgstr ""
+msgstr "保存/加载"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonScreenOptions"
 msgid "Screen"
-msgstr ""
+msgstr "屏幕"
 
 #. Key:	ButtonShadows
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShadows"
 msgid "Shadows"
-msgstr ""
+msgstr "阴影"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSoundOptions"
 msgid "Sound"
-msgstr ""
+msgstr "声音"
 
 #. Key:	ButtonSP01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -452,378 +452,378 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSteamForums"
 msgid "Steam Forums"
-msgstr ""
+msgstr "Steam论坛"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonTextures"
 msgid "Textures"
-msgstr ""
+msgstr "贴图"
 
 #. Key:	ButtonViewDistance
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr ""
+msgstr "可视距离"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
-msgstr ""
+msgstr "开发者评论"
 
 #. Key:	CheckboxDisableAmbientOcclusion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr ""
+msgstr "禁用环境光遮蔽"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
-msgstr ""
+msgstr "禁用景深"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHighlight"
 msgid "Disable Object Highlight"
-msgstr ""
+msgstr "禁用对象突出显示"
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHUD"
 msgid "Disable HUD"
-msgstr ""
+msgstr "禁用HUD"
 
 #. Key:	CheckboxDisableMotionBlur
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr ""
+msgstr "禁用运动模糊"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr ""
+msgstr "禁用场景边缘"
 
 #. Key:	CheckboxDisableSubtitles
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSubtitles"
 msgid "Disable Subtitles"
-msgstr ""
+msgstr "禁用字幕"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
-msgstr ""
+msgstr "禁用晕影"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableStatsForNerds"
 msgid "Enable On-Screen Stats"
-msgstr ""
+msgstr "启用屏幕统计信息"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxInvertMouse"
 msgid "Invert Mouse"
-msgstr ""
+msgstr "鼠标反转"
 
 #. Key:	CheckboxLaptopMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopMode"
 msgid "Laptop Mode"
-msgstr ""
+msgstr "笔记本模式"
 
 #. Key:	CheckboxLaptopModeHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr ""
+msgstr "将帧速率限制为30FPS，以便在播放时保持笔记本电脑等移动设备的温度更低。"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxVSync"
 msgid "VSync"
-msgstr ""
+msgstr "垂直同步"
 
 #. Key:	DropdownAAMethod
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownAAMethod"
 msgid "AA Method"
-msgstr ""
+msgstr "AA方法"
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeEpic"
 msgid "Epic"
-msgstr ""
+msgstr "史诗"
 
 #. Key:	DropdownItemQualityModeHigh
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeHigh"
 msgid "High"
-msgstr ""
+msgstr "高"
 
 #. Key:	DropdownItemQualityModeLow
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeLow"
 msgid "Low"
-msgstr ""
+msgstr "低"
 
 #. Key:	DropdownItemQualityModeMedium
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeMedium"
 msgid "Medium"
-msgstr ""
+msgstr "中"
 
 #. Key:	DropdownItemWindowModeFullscreen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeFullscreen"
 msgid "Fullscreen"
-msgstr ""
+msgstr "全屏"
 
 #. Key:	DropdownItemWindowModelBorderless
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModelBorderless"
 msgid "Borderless"
-msgstr ""
+msgstr "无边界"
 
 #. Key:	DropdownItemWindowModeWindowed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeWindowed"
 msgid "Window"
-msgstr ""
+msgstr "窗口"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownResolution"
 msgid "Resolution"
-msgstr ""
+msgstr "分辨率"
 
 #. Key:	DropdownWindowMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr ""
+msgstr "窗口模式"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II EARLY ACCESS"
-msgstr ""
+msgstr "ACT II早期访问"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTitle"
 msgid "ESTRANGED"
-msgstr ""
+msgstr "ESTRANGED"
 
 #. Key:	LabelEnterCheat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr ""
+msgstr "输入作弊"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptions"
 msgid "Experimental Options"
-msgstr ""
+msgstr "实验选项"
 
 #. Key:	LabelExperimentalOptionsHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
-msgstr ""
+msgstr "这些选项是实验性的，可能会丢失。"
 
 #. Key:	MenuArcade
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuArcade"
 msgid "ARCADE"
-msgstr ""
+msgstr "拱廊"
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuControlOptions"
 msgid "CONTROLS"
-msgstr ""
+msgstr "控制"
 
 #. Key:	MenuExtraOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuExtraOptions"
 msgid "EXTRAS"
-msgstr ""
+msgstr "额外区域"
 
 #. Key:	MenuGameplay
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuGameplay"
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "游戏"
 
 #. Key:	MenuGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuGraphicsOptions"
 msgid "GRAPHICS"
-msgstr ""
+msgstr "图学"
 
 #. Key:	MenuLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "加载游戏"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuNewGame"
 msgid "NEW GAME"
-msgstr ""
+msgstr "新游戏"
 
 #. Key:	MenuOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuOptions"
 msgid "OPTIONS"
-msgstr ""
+msgstr "设置"
 
 #. Key:	MenuSaveLoadOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr ""
+msgstr "保存/加载"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuScreenOptions"
 msgid "SCREEN"
-msgstr ""
+msgstr "屏幕"
 
 #. Key:	MenuSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSoundOptions"
 msgid "SOUND"
-msgstr ""
+msgstr "声音"
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,OptionsButton"
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 #. Key:	SliderControllerSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderControllerSensitivity"
 msgid "Controller Sensitivity"
-msgstr ""
+msgstr "控制器灵敏度"
 
 #. Key:	SliderEffectsVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
-msgstr ""
+msgstr "效果音量"
 
 #. Key:	SliderFieldOfView
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderFieldOfView"
 msgid "Field of View"
-msgstr ""
+msgstr "视场"
 
 #. Key:	SliderGamma
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderGamma"
 msgid "Gamma"
-msgstr ""
+msgstr "伽马"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMouseSensitivity"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "鼠标灵敏度"
 
 #. Key:	SliderMusicVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
-msgstr ""
+msgstr "音乐音量"
 
 #. Key:	SliderScreenPercentage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
-msgstr ""
+msgstr "屏幕百分比"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
-msgstr ""
+msgstr "语音音量"
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipInvertMouse"
 msgid "Invert the mouse Y axis"
-msgstr ""
+msgstr "反转鼠标Y轴"
 
 #. Key:	ArcheologistDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1075,126 +1075,126 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionConsole"
 msgid "Console"
-msgstr ""
+msgstr "控制台"
 
 #. Key:	ActionCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionCrouch"
 msgid "Crouch"
-msgstr ""
+msgstr "蹲伏"
 
 #. Key:	ActionFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionFlashlight"
 msgid "Toggle Flashlight"
-msgstr ""
+msgstr "切换手电筒"
 
 #. Key:	ActionInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionInteract"
 msgid "Interact"
-msgstr ""
+msgstr "相互作用"
 
 #. Key:	ActionJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionJump"
 msgid "Jump"
-msgstr ""
+msgstr "跳跃"
 
 #. Key:	ActionMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMenu"
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #. Key:	ActionMoveBackward
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveBackward"
 msgid "Move Backwards"
-msgstr ""
+msgstr "向后移动"
 
 #. Key:	ActionMoveForward
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveForward"
 msgid "Move Forwards"
-msgstr ""
+msgstr "向前移动"
 
 #. Key:	ActionMoveLeft
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveLeft"
 msgid "Move Left"
-msgstr ""
+msgstr "向左移动"
 
 #. Key:	ActionMoveRight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveRight"
 msgid "Move Right"
-msgstr ""
+msgstr "向右移动"
 
 #. Key:	ActionPrimaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
 msgid "Primary Attack"
-msgstr ""
+msgstr "主攻击"
 
 #. Key:	ActionQuickLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickLoad"
 msgid "Quick Load"
-msgstr ""
+msgstr "快速加载"
 
 #. Key:	ActionQuickSave
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickSave"
 msgid "Quick Save"
-msgstr ""
+msgstr "快速保存"
 
 #. Key:	ActionReload
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionReload"
 msgid "Reload"
-msgstr ""
+msgstr "重装武器"
 
 #. Key:	ActionSecondaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
 msgid "Secondary Attack"
-msgstr ""
+msgstr "二次攻击"
 
 #. Key:	ActionSprint
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSprint"
 msgid "Sprint"
-msgstr ""
+msgstr "冲刺"
 
 #. Key:	CallElevator
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,CallElevator"
 msgid "CALL ELEVATOR"
-msgstr ""
+msgstr "呼叫电梯"
 
 #. Key:	EnterTwoFactor01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
 msgid "Enter two-factor authentication code to override"
-msgstr ""
+msgstr "输入双因素身份验证代码"
 
 #. Key:	LockdownBody01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1215,7 +1215,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
 msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr ""
+msgstr "输入密码以覆盖\r\n提示：标本计数"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1236,14 +1236,14 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,PhoneTitle01"
 msgid "AUTH CODE"
-msgstr ""
+msgstr "授权码"
 
 #. Key:	ReSendCode
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,ReSendCode"
 msgid "RE-SEND CODE"
-msgstr ""
+msgstr "重新发送验证码"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1551,7 +1551,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,OK"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1565,77 +1565,77 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYou"
 msgid "And You!"
-msgstr ""
+msgstr "谢谢你的演奏！"
 
 #. Key:	AndYouTemplated
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
-msgstr ""
+msgstr "谢谢你的演奏，{name}!"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr ""
+msgstr "通过裂缝"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr ""
+msgstr "岗位弃"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr ""
+msgstr "战斗或逃跑"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,CreatedWithUnrealEngine"
 msgid "Created with Unreal Engine"
-msgstr ""
+msgstr "创建于虚幻引擎"
 
 #. Key:	EstrangedTradeMark
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr ""
+msgstr "“Estranged”是Alan Edwardes的商标"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
-msgstr ""
+msgstr "帮助翻译！"
 
 #. Key:	MoreSoon
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
 msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr ""
+msgstr "临时结束\r\n更多内容很快！"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Translators"
 msgid "TRANSLATORS"
-msgstr ""
+msgstr "译者"
 
 #. Key:	WithThanksTo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
-msgstr ""
+msgstr "谢谢"
 
 #. Key:	GuardChatter01
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
@@ -2027,7 +2027,7 @@ msgstr "消息来源指出这就是为什么政府不对此事发表评论。"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "今年早些时候，索科尔格洛克纳因为阿克公司 (Arque Corporation) "
+msgstr "今年早些时候，索科尔格洛克纳因为阿克公司 (Arque Corporation)"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2104,140 +2104,140 @@ msgstr "这就是今天的新闻。明早 7 点请准时收看早餐新闻会 (B
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "This is an automated message from Arque Corporation."
-msgstr ""
+msgstr "这是来自Arque Corporation的自动消息。"
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr ""
+msgstr "强制宵禁正在生效。请留在里面。"
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr ""
+msgstr "如果此刻有人听到这个，我真的需要帮助。"
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr ""
+msgstr "他们在播放一则宵禁消息，但是……"
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr ""
+msgstr "我不知道为什么？是发生故障了吗？"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02d"
 msgid "God I hope they're not trying to cover this up..."
-msgstr ""
+msgstr "上帝啊，我希望他们并不是在尝试掩盖真相……"
 
 #. Key:	JohnBroadcast03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "I'm just going to... continue broadcasting until I can't anymore."
-msgstr ""
+msgstr "我只是需要……继续广播，直到最后一刻。"
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr ""
+msgstr "过往的船只，飞机……肯定有人会听到求救的消息的。"
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr ""
+msgstr "当丧尸来的时候，我和我的妻子、女儿分开了。"
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04b"
 msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
-msgstr ""
+msgstr "我们正在度假……度假啊！没人会想到发生这种事情，没人会想到。"
 
 #. Key:	JohnBroadcast05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "I know how to fix radios... not much else."
-msgstr ""
+msgstr "我知道怎么修理无线电……别的不太会。"
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05b"
 msgid "A fisherman crashed on the docks near to where I am."
-msgstr ""
+msgstr "有个渔民撞到了我所在附近的码头。"
 
 #. Key:	JohnBroadcast05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr ""
+msgstr "他们没事，我给了他们供给物资，告诉他们如何尝试和结束这里发生的事情。"
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr ""
+msgstr "但是我认为他们不会回来。我一直在想我可以做的更多。"
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr ""
+msgstr "求求你了，有没有人听到这条消息。如果你认为这儿的情况只是不好……其实比你想象的更糟。"
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06b"
 msgid "We need the military. Why has no one come?"
-msgstr ""
+msgstr "我们需要军队援助。为什么没有军队过来？"
 
 #. Key:	JohnBroadcast06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr ""
+msgstr "公司一定是做了什么事阻止了这次沟通。"
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr ""
+msgstr "为什么没有人来看看我们的情况呢？我知道这只是个小岛，但是上面还有人啊……"
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr ""
+msgstr "我真希望我们从来没有预定这趟度假之旅……如果过去几个月能从来的话……上帝啊……"
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07c"
 msgid "...there's no point playing \"what if\"."
-msgstr ""
+msgstr "……现在不停地说“如果当时”也没有用了。"
 
 #. Key:	CoastGuard01
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2370,63 +2370,63 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr ""
+msgstr "《Half-Life》是威尔乌集团 (Valve Corporation) 的注册商标"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr ""
+msgstr "《Estranged》的版权归 © 2011 Alan Edwardes 所有"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
 msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
-msgstr ""
+msgstr "《ESTRANGED ACT II》是由一个人在业余时间开发制作，制作期间，得到了音效设计师、关卡设计师、3D 美术师以及翻译和测试团体的帮助。"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr ""
+msgstr "这款游戏是 2014 年《Half-Life 2》游戏模组《ESTRANGED ACT I》的独立续集，可在 Steam 上免费领取， Windows、Mac 和 Linux 均适用。"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr ""
+msgstr "如需获取帮助、报告错误以及提交反馈，请加入社区！"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr ""
+msgstr "激活"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr ""
+msgstr "超高频信号干扰器状态:"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr ""
+msgstr "远程控制"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr ""
+msgstr "读取中"
 
 #. Key:	StartupContent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2440,7 +2440,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupPlayButton"
 msgid "Play Estranged"
-msgstr ""
+msgstr "玩Estranged"
 
 #. Key:	StartupTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2454,21 +2454,21 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr ""
+msgstr "第一场比赛前几天"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr ""
+msgstr "费尔岛，设得兰群岛，苏格兰"
 
 #. Key:	HangarPendingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarPendingLabel"
 msgid "PENDING"
-msgstr ""
+msgstr "待定"
 
 #. Key:	HangarRoundLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -2496,19 +2496,19 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangeTimeLabel"
 msgid "TIME"
-msgstr ""
+msgstr "时间"
 
 #. Key:	TheFallEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr ""
+msgstr "第一场比赛后的小时"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
-msgstr ""
+msgstr "未知的岛屿，挪威海"
 
