@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-06-30 15:46\n"
-"PO-Revision-Date: 2019-06-30 15:46\n"
+"POT-Creation-Date: 2019-07-02 21:25\n"
+"PO-Revision-Date: 2019-07-02 21:25\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -2258,7 +2258,7 @@ msgstr "ОК"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "I have to inform you... there is an active government defence operation underway at your position."
-msgstr "Я должен вам сообщить... Рядом с вами ведутся активные правительственные оборонные действия. "
+msgstr "Я должен вам сообщить... Рядом с вами ведутся активные правительственные оборонные действия."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2335,7 +2335,7 @@ msgstr "Алло! Алло? Береговая охрана? Есть там к�
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05b"
 msgid "What Government Defense operation? What are you talking about?"
-msgstr "Какое правительственное оборонительное действие? О чем вы говорите? "
+msgstr "Какое правительственное оборонительное действие? О чем вы говорите?"
 
 #. Key:	John05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2398,7 +2398,7 @@ msgstr "Данная игра является отдельным сиквело
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr "Присоединяйтесь к сообществу для получения помощи, сообщения об ошибках и отправки отзывов! "
+msgstr "Присоединяйтесь к сообществу для получения помощи, сообщения об ошибках и отправки отзывов!"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
@@ -2412,14 +2412,14 @@ msgstr "АКТИВНЫЙ"
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr "СТАТУС ПОДАВИТЕЛЯ УВЧ-СИГНАЛОВ "
+msgstr "СТАТУС ПОДАВИТЕЛЯ УВЧ-СИГНАЛОВ"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr "УДАЛЕННОЕ БЛОКИРОВАНИЕ "
+msgstr "УДАЛЕННОЕ БЛОКИРОВАНИЕ"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
