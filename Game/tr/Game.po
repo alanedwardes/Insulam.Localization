@@ -1432,7 +1432,7 @@ msgstr "Merhaba,ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrend
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
 msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr "Merhaba,\r\n\r\nYeni güvenlik rozeti istediğiniz için teşekkürler. Referans için, biletiniz AGO15824.\r\n\r\nSonraki adımlar mı ney?\r\n\r\nBir AGO takımı üyesi size cevap vericek.Lütfen isteğinizin ciddiyetine bağlı olarak opsiyonel yardım alabileceğinizi unutmayın.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Rozet Hizmetleri\r\n\r\nBu bir otomatik maildir,lütfen cevap vermeyin.
+msgstr "Merhaba,\r\n\r\nYeni güvenlik rozeti istediğiniz için teşekkürler. Referans için, biletiniz AGO15824.\r\n\r\nSonraki adımlar mı ney?\r\n\r\nBir AGO takımı üyesi size cevap vericek.Lütfen isteğinizin ciddiyetine bağlı olarak opsiyonel yardım alabileceğinizi unutmayın.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Rozet Hizmetleri\r\n\r\nBu bir otomatik maildir,lütfen cevap vermeyin."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1530,7 +1530,7 @@ msgstr "Sohbet"
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
 msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
-msgstr "Lütfen, bu mesajı yazıdmradan önce tekrar düşünün. Çevre tehlike içinde. Ağaçlar Arque'nin ana kaygılarından biri.\r\n\r\nGerçekte,tüm çalışanlar geçmiş dosyalarını kömür ateşi ile değiştirmeli.Hatırlayın,ağaçları kurtarın, dünyayı kurtarın"
+msgstr "Lütfen, bu mesajı yazırmadan önce tekrar düşünün. Çevre tehlike içinde. Ağaçlar Arque'nin ana kaygılarından biri.\r\n\r\nGerçekte,tüm çalışanlar geçmiş dosyalarını kömür ateşi ile değiştirmeli.Hatırlayın,ağaçları kurtarın, dünyayı kurtarın"
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1789,7 +1789,7 @@ msgstr"Yerel ilaç şirketi Phillip's Pharmaceuticals'ın satın alınması geç
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph02"
 msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
-msgstr "Haberler Arque Şirketinin bölgeyi büyülterek belirlenmemiş araştırma amaçlarını açıklamasıyla geldi.
+msgstr "Haberler Arque Şirketinin bölgeyi büyülterek belirlenmemiş araştırma amaçlarını açıklamasıyla geldi."
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1804,7 +1804,7 @@ msgstr "Eski mülk sahibi ve kurucusu Phillip Beaumont, adaçıplak dolaştıkta
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph04"
 msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
-msgstr "Artık yeni sahiplerin Phillip’in Eczacılık ve çalışanlarına ilgisinin olmadığı, bunun yerine tesis ve inşa edildiği arazi ile daha fazla ilgilendikleri anlaşılıyor. ”"
+msgstr "Artık yeni sahiplerin Phillip’in Eczacılık ve çalışanlarına ilgisinin olmadığı, bunun yerine tesis ve inşa edildiği arazi ile daha fazla ilgilendikleri anlaşılıyor."
 
 #. Key:	Paragraph05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1838,7 +1838,7 @@ msgtr "Balıkçı John Alexanders'a göre, adanın yakınından geçen gemiler, 
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph09"
 msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
-msgstr "Wentworth Herald, deniz fenerinin, maliyetinin faydalarından daha ağır basan önerileri arasında hizmetten kaldırılmaya ayarlandığı için sadece geçen hafta gereksiz olduğunu keşfetti"
+msgstr "Wentworth Herald, deniz fenerinin, maliyetinin faydalarından daha ağır basan önerileri arasında hizmetten kaldırılmaya ayarlandığı için sadece geçen hafta gereksiz olduğunu keşfetti."
 
 #. Key:	Paragraph10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1887,7 +1887,7 @@ msgstr "Yerel sakinler değişiklikten memnun değil, bir yerel sakin, hala adad
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
 msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr "Redton'un sahip olduğu en popüler yarışmalardan biri, yıl etkinliği için geri döndü. \ R \ n \ r \ nTopluluk her yıl, kuşları uzak tutmak için en korkunç ve korkunç korkuluklar yaratmak için bir araya geliyor. Geçen yılın galibi sekiz yaşında bir yerel okul çocuğu oldu"
+msgstr "Redton'un sahip olduğu en popüler yarışmalardan biri, yıl etkinliği için geri döndü. \ R \ n \ r \ nTopluluk her yıl, kuşları uzak tutmak için en korkunç ve korkunç korkuluklar yaratmak için bir araya geliyor. Geçen yılın galibi sekiz yaşında bir yerel okul çocuğu oldu."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
