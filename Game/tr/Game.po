@@ -1425,7 +1425,7 @@ msgstr "Havalandırma Borusu"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
 msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr "Merhaba,ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrendik.\r\n\r\Verdiğimiz rahatsızlıktan dolayı özür dileriz.\r\n\r\ Teşekkürler,\r\n\r\ Arque Küresel Operasyonlar Cross-Geo Tesisi Koordinasyon Desteği
+msgstr "Merhaba,ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrendik.\r\n\r\Verdiğimiz rahatsızlıktan dolayı özür dileriz.\r\n\r\ Teşekkürler,\r\n\r\ Arque Küresel Operasyonlar Cross-Geo Tesisi Koordinasyon Desteği"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1782,7 +1782,7 @@ msgstr "SAYFA 11 DE DAHA FAZLA"
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr"Yerel ilaç şirketi Phillip's Pharmaceuticals'ın satın alınması geçtiğimiz hafta sonunda tamamlandı, çünkü elli çalışanın tamamı serbest bırakıldı, başlangıçta planlanandan yirmi daha fazla işçi çalıştı."
+msgstr "Yerel ilaç şirketi Phillip's Pharmaceuticals'ın satın alınması geçtiğimiz hafta sonunda tamamlandı, çünkü elli çalışanın tamamı serbest bırakıldı, başlangıçta planlanandan yirmi daha fazla işçi çalıştı."
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2265,7 +2265,7 @@ msgstr "Size söylemem lazım...pozisyonunuzda devam eden bir devlet savunma ope
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard04"
 msgid "We are requesting clearance. Stand by."
-msgstr "İzin istiyoruz. Hatta kalın.
+msgstr "İzin istiyoruz. Hatta kalın."
 
 #. Key:	Dispatcher01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2279,14 +2279,14 @@ msgstr "COMMENCE EXPUNGE, GÖZLENEN TEMİZLEME"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01b"
 msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
-msgstr "72 DERECE,59 DAKİKA VE 6 SANİYE KUZEYE,2 DERECE,51 DAKİKA VE 54 SANİYE DOĞU
+msgstr "72 DERECE,59 DAKİKA VE 6 SANİYE KUZEYE,2 DERECE,51 DAKİKA VE 54 SANİYE DOĞU"
 
 #. Key:	John01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr "Bu,birsaniye...bu radyomu?Merhaba? Merhaba! Tanrım başardın!
+msgstr "Bu,birsaniye...bu radyomu?Merhaba? Merhaba! Tanrım başardın!"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2377,7 +2377,7 @@ msgstr "Half Life Valve Corporation'a aittir."
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr "Estranged tüm hakları saklıdır © 2011 Alan Edwardes
+msgstr "Estranged tüm hakları saklıdır © 2011 Alan Edwardes"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -2391,7 +2391,7 @@ msgstr "ESTRANGED ACT II bir kişinin boş zamanları ile yapıldı,ses dizaynı
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr "Bu 2014 Half-Life 2 modu ESTRANGED ACT I'in devamıdır,Windows, Mac ve Linux için Steamda bedava olarak mevcut""
+msgstr "Bu 2014 Half-Life 2 modu ESTRANGED ACT I'in devamıdır,Windows, Mac ve Linux için Steamda bedava olarak mevcut"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -2468,14 +2468,14 @@ msgstr "FAİR ADASI, SHETLAND, İSKOÇYA"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarPendingLabel"
 msgid "PENDING"
-msgstr ""
+msgstr "HAZIRLANMA SÜRECİ"
 
 #. Key:	HangarRoundLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarRoundLabel"
 msgid "ROUND"
-msgstr ""
+msgstr "RAUND"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
