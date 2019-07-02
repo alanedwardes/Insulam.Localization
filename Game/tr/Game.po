@@ -557,7 +557,7 @@ msgstr "Dizüstü Modu"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "Dizüstü bilgisayarda bilgisayarın serin kalması için kare hızını 30FPS'ye sabitleyiniz"
+msgstr "Dizüstü bilgisayarda bilgisayarın serin kalması için kare hızını 30FPS'ye sabitleyiniz."
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -865,7 +865,7 @@ msgstr "Bu mağarada sarhoş oldukları düşünüyoruz ve kemiklerdeki ısırma
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "Birkaç kişiyi hasta olduklarından dolayı takımdan çıkardık"
+msgstr "Birkaç kişiyi hasta olduklarından dolayı takımdan çıkardık."
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -886,14 +886,14 @@ msgstr "Gareth Thomas konuşuyor.Yosun örneklerini analiz ettik"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part2"
 msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
-msgstr "ve parlamanın doğal bir şekilde deniz planktonu salgılamasından dolayı olduğunu fark ettik"
+msgstr "ve parlamanın doğal bir şekilde deniz planktonu salgılamasından dolayı olduğunu fark ettik."
 
 #. Key:	GarethThomasDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part3"
 msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
-msgstr "Tüm yosunların planktondan etkilendiğini tahmint etmiyoruz"
+msgstr "Tüm yosunların planktondan etkilendiğini tahmint etmiyoruz."
 
 #. Key:	GarethThomasDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -935,7 +935,7 @@ msgstr "Yani, uh, bu iyi!,Uh,benimle birlikte küçük bir örneğim var.."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr "...onu bir süre ofisimde bırakacağım,ne olacağını görmek için"
+msgstr "...onu bir süre ofisimde bırakacağım,ne olacağını görmek için."
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -977,7 +977,7 @@ msgstr "yani rozet yetkililerine e-posta atarsan Hawthorne"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr "bana birtane rozet alırsan iyi olur.Tamam"
+msgstr "bana birtane rozet alırsan iyi olur. Tamam."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1026,7 +1026,7 @@ msgstr "Bir tilki içeri sızdı ve rozetimi aldı,ve um,şimdide ana tesise gir
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Um yan,onlara anlatırsan... çünkü geçen olduğunda,"
+msgstr "Um yan,onlara anlatırsan... çünkü geçen olduğunda, "
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1187,35 +1187,35 @@ msgstr "Depar"
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,CallElevator"
 msgid "CALL ELEVATOR"
-msgstr ""
+msgstr "ASANSÖR ÇAĞIR"
 
 #. Key:	EnterTwoFactor01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
 msgid "Enter two-factor authentication code to override"
-msgstr ""
+msgstr "İki haneli doğrulama kodu girin"
 
 #. Key:	LockdownBody01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
 msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
-msgstr ""
+msgstr "BİLİNMEYEN BİRİ TESPİT EDİLDİ\r\nGeçersiz kılma noktaları A ve B alanındadır"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
 msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
-msgstr ""
+msgstr "ALAN GÜVENLİ\r\n\\İŞ İSTASYONU KİLİTLİ"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
 msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr ""
+msgstr "Geçersiz kılmak için şifreyi girin\r\nİPUCU:Numune Sayısı"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1236,14 +1236,14 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,PhoneTitle01"
 msgid "AUTH CODE"
-msgstr ""
+msgstr "DOĞRULAMA KODU"
 
 #. Key:	ReSendCode
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,ReSendCode"
 msgid "RE-SEND CODE"
-msgstr ""
+msgstr "KODU TEKRAR GÖNDER"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1299,7 +1299,7 @@ msgstr "Binlerce, milyonlarca, bilyonlarca insan. Burda neyi koruduğumuzun hakk
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01h"
 msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
-msgstr "Bana kimle çalıştığını söyle, Yoksa cehennem demek yeterli olmayacak, o senin hangi acıya katlanacağını açıklayacak"
+msgstr "Bana kimle çalıştığını söyle, Yoksa cehennem demek yeterli olmayacak, o senin hangi acıya katlanacağını açıklayacak."
 
 #. Key:	CaptureGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1313,245 +1313,245 @@ msgstr "Bizi kim sandın? Sokol-Glockner, dünyanın en büyük özel güvenlik 
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat01"
 msgid "Unknown: Hello?"
-msgstr ""
+msgstr "Bilinmeyen: Merhaba?"
 
 #. Key:	Chat02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat02"
 msgid "You: hi"
-msgstr ""
+msgstr "Sen: merhaba"
 
 #. Key:	Chat03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat03"
 msgid "Unknown: Hello"
-msgstr ""
+msgstr "Bilinmeyen: Merhaba"
 
 #. Key:	Chat04
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat04"
 msgid "You: yes, we did that bit"
-msgstr ""
+msgstr "Sen: evet, ondan biraz yaptık"
 
 #. Key:	Chat05
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat05"
 msgid "You: ?"
-msgstr ""
+msgstr "Sen: ?"
 
 #. Key:	Chat06
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat06"
 msgid "You: can I help you?"
-msgstr ""
+msgstr "Sen: sana yardımcı olabilirmiyim?"
 
 #. Key:	Chat07
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat07"
 msgid "You: are you still there? hello?"
-msgstr ""
+msgstr "Sen: hayla ordamısın? alo?"
 
 #. Key:	Chat08
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat08"
 msgid "Unknown: mic?"
-msgstr ""
+msgstr "Bilinmeyen: mikrafon?"
 
 #. Key:	Chat09
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat09"
 msgid "You: hello, what do you want?"
-msgstr ""
+msgstr "Sen merhaba, ne istiyorsun?"
 
 #. Key:	Chat10
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat10"
 msgid "You: ??? just tell me what you need"
-msgstr ""
+msgstr "Sen: ??? sadece neye ihtiyacın olduğunu söyle"
 
 #. Key:	Chat11
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat11"
 msgid "You: what is your problem? can you please stop bugging me now, i need to work"
-msgstr ""
+msgstr "Sen: problemin ney? beni rahatsız etmeyi kesermisin, çalışmam lazım"
 
 #. Key:	Chat12
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat12"
 msgid "You: STOP IT FFS"
-msgstr ""
+msgstr "Sen: TANRI AŞKINA YETER"
 
 #. Key:	Chat13
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat13"
 msgid "You are now offline."
-msgstr ""
+msgstr "Şuanda çevrimdışısınız."
 
 #. Key:	ChatTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,ChatTitle"
 msgid "Chat with Unknown"
-msgstr ""
+msgstr "Bilinmeyenle Görüşme"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
 msgid "AGO Facilities"
-msgstr ""
+msgstr "AGO Tesisleri"
 
 #. Key:	Email02_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
 msgid "Air Vent"
-msgstr ""
+msgstr "Havalandırma Borusu"
 
 #. Key:	Email03_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
 msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
+msgstr "Merhaba,ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrendik.\r\n\r\nVerdiğimiz rahatsızlıktan dolayı özür dileriz.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Cross-Geo Tesisi Koordinasyon Desteği"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
 msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr ""
+msgstr "Merhaba,\r\n\r\nYeni güvenlik rozeti istediğiniz için teşekkürler. Referans için, biletiniz AGO15824.\r\n\r\nSonraki adımlar mı ney?\r\n\r\nBir AGO takımı üyesi size cevap vericek.Lütfen isteğinizin ciddiyetine bağlı olarak opsiyonel yardım alabileceğinizi unutmayın.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Rozet Hizmetleri\r\n\r\nBu bir otomatik maildir,lütfen cevap vermeyin."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Sender"
 msgid "AGO Badge Services"
-msgstr ""
+msgstr "AGO Rozet Servisleri"
 
 #. Key:	Email01_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Subject"
 msgid "Thank you for your request"
-msgstr ""
+msgstr "İsteğiniz için teşekkürler"
 
 #. Key:	Email02_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
 msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
+msgstr "Merhaba Liam,\r\n\r\nYeni rozet istediğini duyduk.Rolunun seviyesinden dolayı, rozetinin nasıl yanlış yerleştirdiği hakkında birkaç detayı onaylamam lazım.\r\n\r\nLütfen bu olay hakkında en fazla detay ile cevap verin.\r\n\r\nTeşekkürler,\r\n\r\nHugo Webber\r\nKıdemli Arque Küresel Tesisler Güvenlik Desteği Uzmanı"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Sender"
 msgid "Hugo Webber"
-msgstr ""
+msgstr "Hugo Webber"
 
 #. Key:	Email02_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Subject"
 msgid "RE: AGO15824"
-msgstr ""
+msgstr "Cevap AGO15824"
 
 #. Key:	Email03_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
+msgstr "Liam,\r\n\r\nLütfen bana rozetinin nasıl yanlış yerleştirildiğini anlatırmısın ve şimdi nerede.Tesisin dışında oldup olduğunu bilmemiz lazım - eğer öyle birşeyse şirket için çok ciddi problem.\r\n\r\nTilki derken gerçekten kızıl hayvanı mı kastettin?Böyle birşey imkansız gibi,tilki üssümüzdeki güvenliği geçtiğini söylüyorsun?BU senin işini doğru düzgün yapmadığının kanıtı galiba?Bu senin tesiine insanların elini kolunu sallayarak girebileceğinimi gösteriyor?\r\n\r\nSenin lokasyonun zor birşekilde küresel iinternet ve Arque Küresel VPN ile bulunması çok zor olduğundan, geçerli rozetleri uzaktan deaktif etmek imkansız.\r\n\r\nSöyle bana, rozetin nerede olabilir?\r\n\r\nSenin,\r\n\r\nHugo Webber\r\n Kıdemli Arque Küresel Tesisi Güvenlik Desteği Uzmanı"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
 msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr ""
+msgstr "Merhaba benim rozetim tilki tarafından alındı, nereye gittiğini bilmiyorum fakat kapıdan geçemiyorum ve işimi yapamıyorum\r\n\r\nteşekkürler"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Subject"
 msgid "RE: RE: AGO15824"
-msgstr ""
+msgstr "CEVAP:CEVAP: AGO15824"
 
 #. Key:	Email04_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
 msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr ""
+msgstr "Takım,\r\n\r\nLütfen en güncel Wentworth Herald gazatesine bakın.Arque'yi bahsetlitmişler - bunu araştırmamız gerekirmi?\r\n\r\nHatırlatıcı olarak,lütfen bölgesel medya ile gerekli izin olmadan konuşmayın.\r\n\r\nLucy Beeshaw\r\n\r\nPR Kıdemli Uzman"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Sender"
 msgid "Lucy Beeshaw"
-msgstr ""
+msgstr "Lucy Beeshaw"
 
 #. Key:	Email04_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Subject"
 msgid "Wentworth Herald #317"
-msgstr ""
+msgstr "Wenworth Herald #317"
 
 #. Key:	Email_Author
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email_Author"
 msgid "Liam Jones"
-msgstr ""
+msgstr "Liam Jones"
 
 #. Key:	Chat
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,Chat"
 msgid "Chat"
-msgstr ""
+msgstr "Sohbet"
 
 #. Key:	CorporateFooter01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
 msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
-msgstr ""
+msgstr "Lütfen, bu mesajı yazırmadan önce tekrar düşünün. Çevre tehlike içinde. Ağaçlar Arque'nin ana kaygılarından biri.\r\n\r\nGerçekte,tüm çalışanlar geçmiş dosyalarını kömür ateşi ile değiştirmeli.Hatırlayın,ağaçları kurtarın, dünyayı kurtarın."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
 msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
-msgstr ""
+msgstr "Bu mesaj Arque güvenlik tarayıcısı tarafından tarandı.Muhtemelen virüs yok."
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,Email"
 msgid "Email"
-msgstr ""
+msgstr "E-Posta"
 
 #. Key:	OK
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,OK"
 msgid "OK"
-msgstr ""
+msgstr "TAMAM"
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1607,7 +1607,7 @@ msgstr "Unreal Engine İle Yapıldı"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "\"Estranged\\"
+msgstr "\"Estranged\" tüm hakları saklıdır © 2011 Alan Edwardes"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1663,7 +1663,7 @@ msgstr "Biliyorsun... bunu bildirirsek, aşağı inmemizi isteyecekler."
 #: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
 msgctxt "ST_GuardChatter01,GuardChatter04"
 msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr "Biliyorum.Buna deymez,sadece o şeylerin onu yakalamasına izin verelim"
+msgstr "Biliyorum. Buna deymez,sadece o şeylerin onu yakalamasına izin verelim."
 
 #. Key:	GuardChatter05
 #. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
@@ -1705,7 +1705,7 @@ msgstr "Ve yardıma ihtiyacım var."
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr "O şeyler, adayı ele geçirdiler"
+msgstr "O şeyler, adayı ele geçirdiler."
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -1726,7 +1726,7 @@ msgstr "Tükendiler."
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Welcome to Arque East. Please stand by for biological scan."
-msgstr "Doğu Arque ye hoşgeldiniz.Biyolojik tarama için bekleyiniz"
+msgstr "Doğu Arque ye hoşgeldiniz.Biyolojik tarama için bekleyiniz."
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
@@ -1740,91 +1740,91 @@ msgstr "Biyolojik tarama tamamlandı. Yabancı madde bulunmadı."
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr "Devam edin,ve iyi günler"
+msgstr "Devam edin,ve iyi günler."
 
 #. Key:	CallOut1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,CallOut1"
 msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
-msgstr ""
+msgstr "Ben Phille 10 yıl üzerinde çalışıyorum ve benim gitmeme izin verdiler. Bu vicdansızlık."
 
 #. Key:	Headline
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr ""
+msgstr "ARQUE ŞİRKETİ PHİLLİP'İN İLAÇLARINI ALMAYI TAMAMLADI"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline2"
 msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
-msgstr ""
+msgstr "GEMİLER \"TEHLİKELİ DERECEDE YAKIN\" DENİZ FENERİ OLMADAN BİRBİRLERİYLE ÇARPIŞABİLİR"
 
 #. Key:	Headline3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline3"
 msgid "RED ALGAE NUMBERS STRONG"
-msgstr ""
+msgstr "KIRMIZI YOSUN GÜÇLÜLÜĞÜ SİMGELER"
 
 #. Key:	Navigation1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Navigation1"
 msgid "MORE ON PAGE 11"
-msgstr ""
+msgstr "SAYFA 11 DE DAHA FAZLA"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr ""
+msgstr "Yerel ilaç şirketi Phillip's Pharmaceuticals'ın satın alınması geçtiğimiz hafta sonunda tamamlandı, çünkü elli çalışanın tamamı serbest bırakıldı, başlangıçta planlanandan yirmi daha fazla işçi çalıştı."
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph02"
 msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
-msgstr ""
+msgstr "Haberler Arque Şirketinin bölgeyi büyülterek belirlenmemiş araştırma amaçlarını açıklamasıyla geldi."
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph03"
 msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
-msgstr ""
+msgstr "Eski mülk sahibi ve kurucusu Phillip Beaumont, adaçıplak dolaştıktan sonra tutuklandığı genel kamuoyunun dağılmasından sonra şirketten çıkarıldı. Yorum yapmak için Phillip ile iletişim kuramadık, ancak eski karısı devralmayı “muhtemelen stratejik” olarak nitelendirdi."
 
 #. Key:	Paragraph04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph04"
 msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
-msgstr ""
+msgstr "Artık yeni sahiplerin Phillip’in Eczacılık ve çalışanlarına ilgisinin olmadığı, bunun yerine tesis ve inşa edildiği arazi ile daha fazla ilgilendikleri anlaşılıyor."
 
 #. Key:	Paragraph05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph05"
 msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
-msgstr ""
+msgstr "Eski bir çalışan olan Ben Killamock geçiminin ondan alındığı için hayal kırıklığına uğradı. Adadaki iş olanakları çok az ve eski çalışanların çoğunluğu için adadan uzaklaşmak tek seçenektir."
 
 #. Key:	Paragraph06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph06"
 msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
-msgstr ""
+msgstr "Kapalı Liam Brothers’ın Maden sahasının mevcut sahiplerinin de Arque Corporation ile görüşmelerde bulunduğu bildiriliyor. Maden, Phillip’in Eczacılık tesisine yakın ve şirket için stratejik bir değer taşımaktadır."
 
 #. Key:	Paragraph07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph07"
 msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
-msgstr ""
+msgstr "Yorum yapmak için Arque Corporation ile iletişime geçtik, ancak “şirketin tüm yerel istihdam yasalarına uyduğunu ve yeniden işe alınan tüm çalışanlara adil tazminat sunduğunu” belirterek reddetti. Gazete, “tazminatın” bir gizlilik anlaşması kapsamında olduğunu keşfetti, bu nedenle eski çalışanlara sağlanan gerçek parasal rakamlar bilinmiyor."
 
 #. Key:	Paragraph08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1838,140 +1838,140 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph09"
 msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
-msgstr ""
+msgstr "Wentworth Herald, deniz fenerinin, maliyetinin faydalarından daha ağır basan önerileri arasında hizmetten kaldırılmaya ayarlandığı için sadece geçen hafta gereksiz olduğunu keşfetti."
 
 #. Key:	Paragraph10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph10"
 msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
-msgstr ""
+msgstr "Deniz Trafik Araştırması Dairesi, geçtiğimiz haftalarda bunun herhangi bir trafiği etkilemeyeceğinden emin olduklarını belirttikten sonra yorum yapmaktan kaçındı."
 
 #. Key:	Paragraph11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph11"
 msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
-msgstr ""
+msgstr "Adada bulunan alg kolonileri güçlü olduğu belirlendi, çünkü son araştırmalar “kırmızı alg” denilen miktarda büyük bir artış gösterdiğinden, adanın kendine özgü benzersiz alg türleri gölleri ve diğer doğal cisimleri ele geçirmeye devam etmektedir. Su canlıları ve diğer göllere yayılmaya devam ediyor."
 
 #. Key:	Paragraph12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph12"
 msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
-msgstr ""
+msgstr "Yerel sakin Rosie Hardman, algi bir tehdit olarak görüyor ve gitmiş olsaydı daha mutlu olurdu, diyerek şöyle dedi: “[Alg] suyu devraldı, mümkün olan en kısa sürede kurtulmamız gerekiyor. Adadaki suyun durgun olmasını istemiyorum. Zaten neye yarar ki?"
 
 #. Key:	Body01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
 msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr ""
+msgstr "Kara çıkışında Redton'da bulunan deniz feneri, sahil güvenlik görevlisi tarafından yürütülen bir soruşturmanın ardından yerel belediye başkanı John Menn tarafından görevden alınmak üzere ayarlandı.\r\n\r\n\"Bunun etkilemeyeceğinden eminiz Herhangi bir trafik etkilemiyor \"yorumunu yaptı. “Bir kerede Redton sahilinin hemen dışında kargo gemileri görebiliyorken, artık ana karadan nakliye rotalarının değişmesi artık geçerli değil” dedi."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body02"
 msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
-msgstr ""
+msgstr "Sorgulandığında belediye başkanı, deniz fenerinin kapanışı hakkında resmi bir açıklama yayınlayana kadar yorum yapmayı reddetti."
 
 #. Key:	Body03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
 msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr ""
+msgstr "Yerel sakinler değişiklikten memnun değil, bir yerel sakin, hala adada bulunan küçük ticaret gemileri üzerindeki etkilerinden endişe duyuyordu ve bu, adanın sessiz iskelesinin tabutundaki son çivi olduğunu söyledi. \"Adanın işinin çoğunu durdurur\" dedi.\r\n\r\nBazen deniz feneri daha küçük gemilerin yerel işletmelerle gelip ticaret yapmasına izin veren tek şey, hepimiz için endişe ettiğimiz bir şey - burada ithalat işi kalmazsa ne olur?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
 msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr ""
+msgstr "Redton'un sahip olduğu en popüler yarışmalardan biri, yıl etkinliği için geri döndü.\r\n\r\nTopluluk her yıl, kuşları uzak tutmak için en korkunç ve korkunç korkuluklar yaratmak için bir araya geliyor. Geçen yılın galibi sekiz yaşında bir yerel okul çocuğu oldu."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body05"
 msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
-msgstr ""
+msgstr "Yerel Arque çalışanı Christian Plithe'nin kara kedisi 'Lucky'i kaybetmesinden bu yana iki hafta geçti. Kediyi gören herkesle hemen iletişim kurmasını istedi."
 
 #. Key:	Body06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body06"
 msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
-msgstr ""
+msgstr "Büyük Arque Şirketi, yerel ilaç üreticisi Phillips Pharmaceuticals'ı satın almasını tamamladığından, otuz işçi geçen hafta başında haber verildi. Bu satın alma, önceki sahibinin kamuya açık bir şekilde bölünmesini takiben yatırımcıların aranmasına neden oldu."
 
 #. Key:	Callout01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Callout01"
 msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
-msgstr ""
+msgstr "\"ÇOK FAZLA\" SAHİL GÜVENLİK GEMİLER GÜVENLİK SIKINTISI ÇIKARACAK DEDİ"
 
 #. Key:	Headline01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline01"
 msgid "LIGHTHOUSE DECOMMISSIONED"
-msgstr ""
+msgstr "DENİZ FENERİ GÖREVDEN ALINDI"
 
 #. Key:	Headline02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline02"
 msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
-msgstr ""
+msgstr "YEREL KORKULUK KAPIŞMASI DEVAM EDİYOR"
 
 #. Key:	Headline03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline03"
 msgid "LOST"
-msgstr ""
+msgstr "KAYIP"
 
 #. Key:	Headline04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline04"
 msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
-msgstr ""
+msgstr "ARQUE ŞİRKETİ PHİLLİPS PHARMACEUTICALS'I DEVRALIYOR"
 
 #. Key:	ReadMore01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,ReadMore01"
 msgid "MORE ON PAGE 7"
-msgstr ""
+msgstr "SAYFA 7 DE DAHA FAZLA"
 
 #. Key:	ReadMore02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,ReadMore02"
 msgid "MORE ON PAGE 10"
-msgstr ""
+msgstr "SAYFA 10 DA DAHA FAZLA"
 
 #. Key:	ReadMore
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,ReadMore"
 msgid "MORE INSIDE"
-msgstr ""
+msgstr "İÇİNDE DAHA FAZLA"
 
 #. Key:	Tagline
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Tagline"
 msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
-msgstr ""
+msgstr "HABERLER İÇİN İLK, SOHBET, SPOR, EĞLENCE SEKTÖRÜ, PİYASALAR VE  BULMACA. SENİN GAZATEN, SENİN HAYATIN."
 
 #. Key:	Title
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Title"
 msgid "WENTWORTH HERALD"
-msgstr ""
+msgstr "WENWORTH HERALD"
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -1985,63 +1985,63 @@ msgstr "Özel güvenlik firması Sokol-Glockner bu yıl ikinci kez eleştirildi"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport02"
 msgid "with its heavy handed use of live ammunition in its protective assignments."
-msgstr "görevlerinde gerçek cephane kullanmakla birlikte,"
+msgstr "görevlerinde gerçek cephane kullanmakla birlikte."
 
 #. Key:	NewsReport03
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport03"
 msgid "The company’s policy states that live ammunition is to be used on all assignments,"
-msgstr "Şirketin politikaları tüm görevlerde gerçek cephanenin kullanılmasını söyliyor."
+msgstr "Şirketin politikaları tüm görevlerde gerçek cephanenin kullanılmasını söyliyor,"
 
 #. Key:	NewsReport04
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr "ancak kampanyacılılar bunun gereksiz olduğunu söyliyor ve kaçınmak istedikleri şiddeti kışkırtıyor"
+msgstr "ancak kampanyacılılar bunun gereksiz olduğunu söyliyor ve kaçınmak istedikleri şiddeti kışkırtıyor."
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport05"
 msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
-msgstr "Firma bu konu sorulduğunda konuşmayı reddetti, fakat diğerleri bir kazanın beklendiğini söylüyor"
+msgstr "Firma bu konu sorulduğunda konuşmayı reddetti, fakat diğerleri bir kazanın beklendiğini söylüyor."
 
 #. Key:	NewsReport06
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport06"
 msgid "The government contractor is responsible for a number of overseas operations,"
-msgstr "Hükümet müteahhiti deniz operasyonları hakkında sorumlu."
+msgstr "Hükümet müteahhiti deniz operasyonları hakkında sorumlu,"
 
 #. Key:	NewsReport07
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport07"
 msgid "which sources say is why the government is not commenting on this matter."
-msgstr "bazı kaynaklar neden hükümetin bunu umursamadığını "
+msgstr "bazı kaynaklar neden hükümetin bunu umursamadığını."
 
 #. Key:	NewsReport08
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner bu yılın başlarında yanlışlıkla adam vurma başlıklarımıza girdi."
+msgstr "Sokol-Glockner bu yılın başlarında yanlışlıkla adam vurma başlıklarımıza girdi"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr "Arque Şirketinde açık deniz sondaj platformlarından bir çalışan"
+msgstr "Arque Şirketinde açık deniz sondaj platformlarından bir çalışan."
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "37 yaşındaki çalışan, platformdan belli bir şekilde yüzdükten sonra bir plajda görüldü."
+msgstr "37 yaşındaki çalışan, platformdan belli bir şekilde yüzdükten sonra bir plajda görüldü,"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2069,21 +2069,21 @@ msgstr "ama dava hakkında yorum yapmayı reddetti. İlgili yetkililerle çalı�
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "Hava şimdi -Edwin fırtınası karayı parçalamayı devam ediyor"
+msgstr "Hava şimdi -Edwin fırtınası karayı parçalamayı devam ediyor,"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr "ama bugün kuzeyde ki sakinler bu günü sakinlikle geçiriyor"
+msgstr "ama bugün kuzeyde ki sakinler bu günü sakinlikle geçiriyor."
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorologlar bölgedeki herkese fırtınanın en kötüsünün gelmeyeceğini bildiriyorlar."
+msgstr "Meteorologlar bölgedeki herkese fırtınanın en kötüsünün gelmeyeceğini bildiriyorlar,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2118,14 +2118,14 @@ msgstr "Sokağa çıkma yasağı etkili. Lütfen içerde kalın."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "If there's ANYONE listening to this, I need help."
-msgstr "Eğer BİRİ bunu duyuyorsa, Yardıma ihtiyacım var"
+msgstr "Eğer BİRİ bunu duyuyorsa, Yardıma ihtiyacım var."
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02b"
 msgid "They're broadcasting a curfew message, but..."
-msgstr "Bir sokağa çıkma mesajı yayınlıyorlar, fakat"
+msgstr "Bir sokağa çıkma mesajı yayınlıyorlar, fakat..."
 
 #. Key:	JohnBroadcast02c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2153,14 +2153,14 @@ msgstr "Ben sadece... yapamayana kadar radyo yayınına devam edeceğim."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr "Geçen gemiler, uçaklar... BİRŞEYİN bu mesajı alması lazım"
+msgstr "Geçen gemiler, uçaklar... BİRŞEYİN bu mesajı alması lazım."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "I was split up from my wife and daughter when the things came."
-msgstr "Bu şeyler geldiğinde kızım ve karımdan ayrıldım"
+msgstr "Bu şeyler geldiğinde kızım ve karımdan ayrıldım."
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2188,14 +2188,14 @@ msgstr "Yakınında olduğum bir limana bir balıkçı çarptı."
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05c"
 msgid "They were fine, I gave them supplies, and told them how to try and stop this."
-msgstr "İyiydi, ona erzak verdim, ve ona nasıl bunu durdurabilceğini söyledim"
+msgstr "İyiydi, ona erzak verdim, ve ona nasıl bunu durdurabilceğini söyledim."
 
 #. Key:	JohnBroadcast05d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05d"
 msgid "I don't think they're coming back though. I keep thinking I could have done more."
-msgstr "Onun geri geleceğine inanmıyorum. Daha ne yapabileceğimi düşünüyorum"
+msgstr "Onun geri geleceğine inanmıyorum. Daha ne yapabileceğimi düşünüyorum."
 
 #. Key:	JohnBroadcast06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2244,182 +2244,182 @@ msgstr "...artık oynamanın sonu yok \"acaba\"."
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
 msgid "This is the Norwegian Coast Guard. Please state your coordinates."
-msgstr ""
+msgstr "Bu Norveç Sahil Güvenlik.Lütfen Koordinasyonlarınızı verin."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
 msgid "OK"
-msgstr ""
+msgstr "TAMAM"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "I have to inform you... there is an active government defence operation underway at your position."
-msgstr ""
+msgstr "Size söylemem lazım...pozisyonunuzda devam eden bir devlet savunma operasyonu var."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard04"
 msgid "We are requesting clearance. Stand by."
-msgstr ""
+msgstr "İzin istiyoruz. Hatta kalın."
 
 #. Key:	Dispatcher01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
 msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
-msgstr ""
+msgstr "COMMENCE EXPUNGE, GÖZLENEN TEMİZLEME"
 
 #. Key:	Dispatcher01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01b"
 msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
-msgstr ""
+msgstr "72 DERECE,59 DAKİKA VE 6 SANİYE KUZEYE,2 DERECE,51 DAKİKA VE 54 SANİYE DOĞU"
 
 #. Key:	John01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr ""
+msgstr "Bu,birsaniye...bu radyomu?Merhaba? Merhaba! Tanrım başardın!"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01b"
 msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
-msgstr ""
+msgstr "Orada kimse varmı?! Bu bir acil yardım sinyali,tekrarlıyorum,bu bir acil yardım sinyalı"
 
 #. Key:	John02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02a"
 msgid "Does anyone copy? The island has been overrun."
-msgstr ""
+msgstr "Kimse duyuromu? Ada istilada."
 
 #. Key:	John02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
-msgstr ""
+msgstr "Arque şirketi TÜM adadaki mesajları blokluyor.ACİL askeri yardıma ihtiyacımız var!"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr ""
+msgstr "72 derece,59 dakika 6 saniye kuzeye,ve uh,2 derece ,51 dakika ve 54 saniye doğu."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "Uh, it's John."
-msgstr ""
+msgstr "Uh, bu John."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
 msgid "Hello! Hello? Coastguard?! Anyone there?"
-msgstr ""
+msgstr "Merhaba! Merhaba? Sahil Güvenlik?! Orda kimse varmı?"
 
 #. Key:	John05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05b"
 msgid "What Government Defense operation? What are you talking about?"
-msgstr ""
+msgstr "Ne tür bir Devlet savunması? Ne hakkında konuşuyorsun?"
 
 #. Key:	John05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
 msgid "Coastguard are you there? Is anyone there? Someone pick up..."
-msgstr ""
+msgstr "Sahil Güvenlik ordamısınız? Orada kimse varmı? Birisi cevap versin..."
 
 #. Key:	John06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06a"
 msgid "Oh no... no no no no no... no this isn't happening!"
-msgstr ""
+msgstr "Oh olamaz, hayır hayır hayır... bu olamaz!"
 
 #. Key:	John06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06b"
 msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
-msgstr ""
+msgstr "Terkedin burayı! Herkes, bunu dinleyen herkes adayı ne olursa olsun terk edin!"
 
 #. Key:	John06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
-msgstr ""
+msgstr "Bu frekansdaki herkes sadece gidin! Neden bunu yapıyorlar?"
 
 #. Key:	Copyright01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr ""
+msgstr "Half Life Valve Corporation'a aittir"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr ""
+msgstr "Estranged tüm hakları saklıdır © 2011 Alan Edwardes"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
 msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
-msgstr ""
+msgstr "ESTRANGED ACT II bir kişinin boş zamanları ile yapıldı,ses dizaynırı, seviye dizaynırı, 3D artist ve topluluktan tercümanlar ve test oyuncuları yardımıyla yapıldı"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr ""
+msgstr "Bu 2014 Half-Life 2 modu ESTRANGED ACT I'in devamıdır,Windows, Mac ve Linux için Steamda bedava olarak mevcut"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr ""
+msgstr "Yardım almak için,hatları raporlamak ve destek vermek için, topluluğa katılın!"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr ""
+msgstr "AKTİF"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr ""
+msgstr "UHF SİNYAL BOZUCU DURUMU:"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr ""
+msgstr "UZAKTAN GEÇERSİZ KILMA"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2433,7 +2433,7 @@ msgstr "YÜKLENİYOR"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,StartupContent"
 msgid "Welcome to Estranged: Act II! This is the work in progress sequel to Estranged: Act I, also available on Steam.\r\n\r\nAct II is a spare time project (developed mainly by 1 person!) with help from a sound designer, contributions from a level designer, and community translators and testers.\r\n\r\nIf you have any feedback, we are always available on the Steam forums, via the in-game feedback, or on discord.gg/estranged!"
-msgstr "Estranged: Act II'ya hoşgeldin! Bu Estranged: Act I'in devam bölümüdür,oda Steam'da mevcut.Act II bir boş zaman projesi (genellikle bir kişi tarafından devam ediliyor!)ses tasarımcısından destek ile,seviye tasarımcısı ve topluluktan tercümanlar ve test edenler.Eğer her hangi bir geri dönüşün var ise, biz herzaman Steam forumlarında, oyun içi geri dönüş bildirmede veya Discorddayız discord.gg/estranged"
+msgstr "Estranged: Act II'ya hoşgeldin! Bu Estranged: Act I'in devam bölümüdür,oda Steam'da mevcut.\n\nAct II bir boş zaman projesi (genellikle bir kişi tarafından devam ediliyor!)ses tasarımcısından destek ile,seviye tasarımcısı ve topluluktan tercümanlar ve test edenler.\n\nEğer her hangi bir geri dönüşün var ise, biz herzaman Steam forumlarında, oyun içi geri dönüş bildirmede veya Discorddayız discord.gg/estranged!"
 
 #. Key:	StartupPlayButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2468,14 +2468,14 @@ msgstr "FAİR ADASI, SHETLAND, İSKOÇYA"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarPendingLabel"
 msgid "PENDING"
-msgstr ""
+msgstr "HAZIRLANMA SÜRECİ"
 
 #. Key:	HangarRoundLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarRoundLabel"
 msgid "ROUND"
-msgstr ""
+msgstr "RAUND"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
