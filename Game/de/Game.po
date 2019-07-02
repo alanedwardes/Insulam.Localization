@@ -1,11 +1,11 @@
-# Game German translation.
+﻿# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-01 22:14\n"
-"PO-Revision-Date: 2019-07-01 22:14\n"
+"POT-Creation-Date: 2019-07-02 21:25\n"
+"PO-Revision-Date: 2019-07-02 21:25\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1473,8 +1473,8 @@ msgstr "RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid "> Message from Liam Jones <liam.jones@arqueglobal.com>\r\n>\r\n> Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n>\r\n> thanks\r\n\r\nLiam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "> Nachricht von Liam Jones <liam.jones@arqueglobal.com>\r\n>\r\n> Hallo, Entschuldigung, mein Ausweis wurde von einem Fuchs entwendet, ich bin mir nicht sicher, wo er abgeblieben ist, aber ich komme nicht mehr durch das Tor und ich kann meinen Job nicht mehr machen.\r\n>\r\n> Danke\r\n\r\nLiam,\r\n\r\nKönnten Sie bitte exakt erläutern, wie genau Ihr Ausweis abhanden gekommen ist und wo ist er jetzt? Wir müssen wissen, ob er nicht außerhalb der Anlage ist - Wenn es so ist, ist das ein sehr ernsthaftes Problem für das Unternehmen.\r\n\r\nMit einem Fuchs meinen Sie da wörtlich das rote Pelztier? Das ist sehr unwahrscheinlich, wenn das Ihre Behauptung ist, dass ein Fuchs unsere Sicherung dieser Basis durchbrochen hätte? Das heißt doch, dass Sie Ihre Arbeit nicht richtig machen? Bedeutet das, dass Menschen einfach in Ihre Anlage hinein spazieren können?\r\n\r\nSeit Ihr Standort einen sehr lückenhaften Zugriff auf die globalen Internetdienste und das Arque Global VPN haben, ist es nicht möglich, aktive Ausweise aus der Ferne zu deaktivieren.\r\n\r\nSagen Sie mir, wo glauben Sie, ist Ihr Ausweis?\r\n\r\nIhr,\r\n\r\nHugo Webber\r\nLeitender Arque Global Facilities Security Support Specialist"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr ""
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1529,15 +1529,15 @@ msgstr "Chat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world. Fuck coal."
-msgstr "Denken Sie bitte nach, bevor Sie diese Nachricht ausdrucken. Die Umgebung ist in Gefahr. Bäume sind eine unserer wichtigsten Anliegen hier bei Arque.\r\n\r\nEigentlich ist es eine Aufforderung, dass alle Mitarbeiter ihre Protokolldateien durch Kohlepapier ersetzen. Denken Sie daran, die Bäume zu retten, die Welt retten. Scheiß auf die Kohle."
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
+msgstr ""
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
-msgid "This message has been scanned by the Arque security scanner. There is probably no malware. ¯\\_(ツ)_/¯"
-msgstr "Diese Nachricht wurde vom Arque-Sicherheitsscanner gescannt. Da gib es vermutlich keine Malware. ¯\\_(ツ)_/¯"
+msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
+msgstr ""
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1902,7 +1902,6 @@ msgstr "Zwei Wochen sind schon vergangen, seit der ansässige Arque-Mitarbeiter 
 msgctxt "ST_Newspaper02,Body06"
 msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
 msgstr "Anfang letzter Woche erhielten 30 Mitarbeiter eine Mitteilung, als die riesige Arque Corporation den Erwerb des hier ansässigen Pharmaherstellers Phillips Pharmaceuticals abschloss. Der Aufkauf erfolgte bei einem sehr öffentlichen Nervenzusammenbruches des Vorbesitzers, was zu einer Suche nach Investoren führte."
-
 
 #. Key:	Callout01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
