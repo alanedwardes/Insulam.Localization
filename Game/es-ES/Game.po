@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-03 19:11\n"
-"PO-Revision-Date: 2019-07-03 19:11\n"
+"POT-Creation-Date: 2019-07-03 19:16\n"
+"PO-Revision-Date: 2019-07-03 19:16\n"
 "Language-Team: \n"
 "Language: es-ES\n"
 "MIME-Version: 1.0\n"
@@ -1566,41 +1566,6 @@ msgstr "TRADUCTORES"
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
 msgstr "CON AGRADECIMIENTO A"
-
-#. Key:	GuardChatter01
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter01"
-msgid "What do you think? He fell down there maybe?"
-msgstr "¿Qué piensas? ¿Se cayó allí tal vez?"
-
-#. Key:	GuardChatter02
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter02"
-msgid "I dunno... this place is falling apart."
-msgstr "No lo sé... este lugar se está desmoronando."
-
-#. Key:	GuardChatter03
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter03"
-msgid "You know... if we report this, they're going to make us go down there."
-msgstr "Ya sabes... si informamos de esto, nos harán bajar allí."
-
-#. Key:	GuardChatter04
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter04"
-msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr "Sí, lo sé. No vale la pena, dejémoslo."
-
-#. Key:	GuardChatter05
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter05"
-msgid "That's fine by me. Let's move."
-msgstr "Bien por mi parte. Continuemos."
 
 #. Key:	JohnActI01
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI

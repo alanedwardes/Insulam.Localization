@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-03 19:11\n"
-"PO-Revision-Date: 2019-07-03 19:11\n"
+"POT-Creation-Date: 2019-07-03 19:16\n"
+"PO-Revision-Date: 2019-07-03 19:16\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -1566,41 +1566,6 @@ msgstr "翻訳者"
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
 msgstr "以下の人々に感謝します:"
-
-#. Key:	GuardChatter01
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter01"
-msgid "What do you think? He fell down there maybe?"
-msgstr "どう思う？そこで落ちたんじゃないか？"
-
-#. Key:	GuardChatter02
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter02"
-msgid "I dunno... this place is falling apart."
-msgstr "わからないが……この場所はバラバラになってる。"
-
-#. Key:	GuardChatter03
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter03"
-msgid "You know... if we report this, they're going to make us go down there."
-msgstr "知ってるだろ……これを報告すると、あいつらは俺たちをそこに行かせるぜ。"
-
-#. Key:	GuardChatter04
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter04"
-msgid "Yeah, I know. It's not worth it, let's just let the things get him."
-msgstr "ああ、知ってるよ。そんな価値はないし、追い込んで捕まえよう。"
-
-#. Key:	GuardChatter05
-#. SourceLocation:	/Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-#: /Game/Resources/Localisation/ST_GuardChatter01.ST_GuardChatter01
-msgctxt "ST_GuardChatter01,GuardChatter05"
-msgid "That's fine by me. Let's move."
-msgstr "俺はそれでいい。移動しよう。"
 
 #. Key:	JohnActI01
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
