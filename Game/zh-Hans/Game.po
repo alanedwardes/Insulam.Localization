@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-02 21:57\n"
-"PO-Revision-Date: 2019-07-02 21:57\n"
+"POT-Creation-Date: 2019-07-03 19:11\n"
+"PO-Revision-Date: 2019-07-03 19:11\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -760,49 +760,49 @@ msgstr "反转鼠标Y轴"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "The skeletons here are confirmed to be sailors and pirates."
-msgstr ""
+msgstr "这里的骷髅被证实是水手和海盗。"
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part2"
 msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
-msgstr ""
+msgstr "我们猜最有可能是他们逃离英国海军，在岛上避难。"
 
 #. Key:	ArcheologistDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "The pirates and sailors were involved in some kind of internal conflict."
-msgstr ""
+msgstr "海盗和水手产生了某种内鬥。"
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part2"
 msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
-msgstr ""
+msgstr "我们假设那是为了从这个洞穴中找出的珍贵文物。"
 
 #. Key:	ArcheologistDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part3"
 msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
-msgstr ""
+msgstr "我们认为他们当时可能已经醉了，而且在一些看似人类的骨头上有咬痕。"
 
 #. Key:	ArcheologistDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr ""
+msgstr "因为有人生病时，我们不得不调离部分团队。 我们只能假设他们在尸体附近打扰了某些东西。"
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part2"
 msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
-msgstr ""
+msgstr "从现在开始，我们将使用 HAZMAT 套装。 我们知道这里不安全。"
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1180,63 +1180,63 @@ msgstr "重新发送验证码"
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
 msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
-msgstr ""
+msgstr "你以为我们会让你一直在岛上闲逛，杀死索科尔 格洛克纳的人？"
 
 #. Key:	CaptureGuard01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01b"
 msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
-msgstr ""
+msgstr "你是个耻辱。你以为你知道这里发生了什么？ 你以为这是你可以阻止的吗？"
 
 #. Key:	CaptureGuard01c
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01c"
 msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
-msgstr ""
+msgstr "你是一只小虫。 像阿克这样的跨国公司可以轻松踩死的小虫。"
 
 #. Key:	CaptureGuard01d
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01d"
 msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your mangled body inside."
-msgstr ""
+msgstr "我们可以随便搜索你在设得兰岛上的小屋。小屋内部烧毁，而你残缺的尸身在里面，真是太惨了。"
 
 #. Key:	CaptureGuard01e
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01e"
 msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
-msgstr ""
+msgstr "你为什么会在这？ 你认为你可以改变正在发生的事情吗？ 我们在保护世界，你不明白吗？"
 
 #. Key:	CaptureGuard01f
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01f"
 msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
-msgstr ""
+msgstr "这是阿克非常必要预防计划的一部分，而你无法干涉。"
 
 #. Key:	CaptureGuard01g
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01g"
 msgid "Thousands, millions, billions of people. You have no idea what we're protecting here. The \"greater good\" doesn't quite cover it."
-msgstr ""
+msgstr "数百万、数千万、甚至数十亿人。你不懂我们在这里保护什么。 “更远大的美好”也不足以完全表达。"
 
 #. Key:	CaptureGuard01h
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01h"
 msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
-msgstr ""
+msgstr "告诉我你和谁合作。否则，地狱就不再是一个可怕的词，它还是你将要经历的痛苦。"
 
 #. Key:	CaptureGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
-msgstr ""
+msgstr "谁有想过呢？身为世界上最大的私人保安承包商之一，索科尔格洛克纳当然知道如何施加痛苦。"
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
