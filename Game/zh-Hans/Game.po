@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-03 19:16\n"
-"PO-Revision-Date: 2019-07-03 19:16\n"
+"POT-Creation-Date: 2019-07-04 19:55\n"
+"PO-Revision-Date: 2019-07-04 19:55\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -1243,140 +1243,126 @@ msgstr "谁有想过呢？身为世界上最大的私人保安承包商之一，
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat01"
 msgid "Unknown: Hello?"
-msgstr ""
+msgstr "未知人士：你好？"
 
 #. Key:	Chat02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat02"
 msgid "You: hi"
-msgstr ""
+msgstr "您：你好"
 
 #. Key:	Chat03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat03"
 msgid "Unknown: Hello"
-msgstr ""
+msgstr "未知人士：你好"
 
 #. Key:	Chat04
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat04"
 msgid "You: yes, we did that bit"
-msgstr ""
+msgstr "您：是的，我们以前做过。"
 
 #. Key:	Chat05
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat05"
 msgid "You: ?"
-msgstr ""
+msgstr "您：？"
 
 #. Key:	Chat06
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat06"
 msgid "You: can I help you?"
-msgstr ""
+msgstr "您：有什么能为你效劳吗？"
 
 #. Key:	Chat07
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat07"
 msgid "You: are you still there? hello?"
-msgstr ""
+msgstr "您：你还在吗？你好？"
 
 #. Key:	Chat08
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat08"
 msgid "Unknown: mic?"
-msgstr ""
+msgstr "未知人士：麦克风？"
 
 #. Key:	Chat09
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat09"
 msgid "You: hello, what do you want?"
-msgstr ""
+msgstr "您：你好，你需要什么？"
 
 #. Key:	Chat10
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat10"
 msgid "You: ??? just tell me what you need"
-msgstr ""
+msgstr "您：？？？麻烦你告诉我你需要什么。"
 
 #. Key:	Chat11
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat11"
 msgid "You: what is your problem? can you please stop bugging me now, i need to work"
-msgstr ""
+msgstr "您：你有什么问题吗？可否请你不要骚扰我，我需要工作。"
 
 #. Key:	Chat12
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat12"
 msgid "You: STOP IT FFS"
-msgstr ""
+msgstr "您：好烦啊，这人有病吧！"
 
 #. Key:	Chat13
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat13"
 msgid "You are now offline."
-msgstr ""
+msgstr "您已下线。"
 
 #. Key:	ChatTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,ChatTitle"
 msgid "Chat with Unknown"
-msgstr ""
+msgstr "与未知人士聊天"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
 msgid "AGO Facilities"
-msgstr ""
+msgstr "AGO 设施"
 
 #. Key:	Email02_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
 msgid "Air Vent"
-msgstr ""
+msgstr "通风口"
 
 #. Key:	Email03_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
 msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
+msgstr "您好，\n\n我们收到报告称，在您的办公室有一个空调通风口已经损坏。\n\n对于可能造成的不便，我们深表歉意。\n\n谢谢，\n\n阿克全球运营跨地域设施协调支持"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
 msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr ""
-"你好，\n"
-"\n"
-"感谢你请求新的安全徽章。 作为参考，你的票证为AGO15824。\n"
-"\n"
-"接下来的步骤是什么？\n"
-"\n"
-"AGO团队的成员将回复你的请求。 请注意，我们可能会要求你提供其他信息，具体取决于你的请求的严重程度。\n"
-"\n"
-"\n"
-"谢谢，\n"
-"\n"
-"阿克全球运营徽章服务\n"
-"\n"
-"这封电子邮件为自动发送，请不要回复。"
+msgstr "你好，\n\n感谢你请求新的安全徽章。 作为参考，你的票证为AGO15824。\n\n接下来的步骤是什么？\n\nAGO团队的成员将回复你的请求。 请注意，我们可能会要求你提供其他信息，具体取决于你的请求的严重程度。\n\n\n谢谢，\n\n阿克全球运营徽章服务\n\n这封电子邮件为自动发送，请不要回复。"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1397,19 +1383,7 @@ msgstr "感谢你的请求"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
 msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"利亚姆，你好，\n"
-"\n"
-"我们已收到你的新徽章请求。由于你的职位的安全许可级别，我需要验证一些有关徽章是如何被放错地方的细节。\n"
-"\n"
-"\n"
-"请尽可能多地回复相关事件的细节。\n"
-"\n"
-"\n"
-"谢谢,\n"
-"\n"
-"雨果·韦伯\n"
-"阿克全球设施高级安全支持专家"
+msgstr "利亚姆，你好，\n\n我们已收到你的新徽章请求。由于你的职位的安全许可级别，我需要验证一些有关徽章是如何被放错地方的细节。\n\n\n请尽可能多地回复相关事件的细节。\n\n\n谢谢,\n\n雨果·韦伯\n阿克全球设施高级安全支持专家"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1430,34 +1404,14 @@ msgstr "回复：AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"利亚姆，\n"
-"\n"
-"你能否详细说明你的徽章是如何被放错了地方，以及徽章现在的位置？ 我们需要知道它仍然在设施之内，因为如果不是的话，这对公司来说是一个非常严重的问题。\n"
-"\n"
-"\n"
-"你说到狐狸，指的是字面意思上的，红色毛茸茸的动物吗？ 这似乎不太可能，你是说有只狐狸闯入了我们基地的安全系统？ 当然这意味着你没有做好自己的工作是吗？ 这是否意味着人们可以随便进入到你的设施？\n"
-"\n"
-"\n"
-"由于你所在的位置对全球互联网服务和阿克全球VPN的访问非常不稳定，因此无法远程停用处于使用状态的徽章。\n"
-"\n"
-"\n"
-"告诉我，你认为你的徽章在哪里？\n"
-"\n"
-"你的，\n"
-"\n"
-"雨果·韦伯\n"
-"阿克全球设施高级安全支持专家"
+msgstr "利亚姆，\n\n你能否详细说明你的徽章是如何被放错了地方，以及徽章现在的位置？ 我们需要知道它仍然在设施之内，因为如果不是的话，这对公司来说是一个非常严重的问题。\n\n\n你说到狐狸，指的是字面意思上的，红色毛茸茸的动物吗？ 这似乎不太可能，你是说有只狐狸闯入了我们基地的安全系统？ 当然这意味着你没有做好自己的工作是吗？ 这是否意味着人们可以随便进入到你的设施？\n\n\n由于你所在的位置对全球互联网服务和阿克全球VPN的访问非常不稳定，因此无法远程停用处于使用状态的徽章。\n\n\n告诉我，你认为你的徽章在哪里？\n\n你的，\n\n雨果·韦伯\n阿克全球设施高级安全支持专家"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
 msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr ""
-"你好，对不起，我的徽章被一只狐狸叼走了，我不知道这只狐狸去了哪里，但是我无法进门了，我没办法做我的工作。\n"
-"\n"
-"谢谢"
+msgstr "你好，对不起，我的徽章被一只狐狸叼走了，我不知道这只狐狸去了哪里，但是我无法进门了，我没办法做我的工作。\n\n谢谢"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1471,17 +1425,7 @@ msgstr "回复：回复：AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
 msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr ""
-"团队成员，\n"
-"\n"
-"请查看附件中的最新版本的温特沃斯先驱报。注意其中对阿克的提及，我们需要调查一下这个情况吗？\n"
-"\n"
-"\n"
-"提醒大家一下，请不要在没有适当授权的情况下对当地媒体说任何事情。\n"
-"\n"
-"露西·比肖\n"
-"\n"
-"公共关系高级专家"
+msgstr "团队成员，\n\n请查看附件中的最新版本的温特沃斯先驱报。注意其中对阿克的提及，我们需要调查一下这个情况吗？\n\n\n提醒大家一下，请不要在没有适当授权的情况下对当地媒体说任何事情。\n\n露西·比肖\n\n公共关系高级专家"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
