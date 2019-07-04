@@ -1,0 +1,2388 @@
+﻿# Game Persian translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-07-04 19:05\n"
+"PO-Revision-Date: 2019-07-04 19:05\n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	HintCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintCrouch"
+msgid "Crouch under"
+msgstr "نشستن"
+
+#. Key:	HintFireM9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFireM9"
+msgid "Fire M9"
+msgstr "شلیک کلت ام9"
+
+#. Key:	HintFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlashlight"
+msgid "Toggle flashlight"
+msgstr "خاموش روشن کردن چراغ قوه"
+
+#. Key:	HintFlee
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlee"
+msgid "Flee"
+msgstr "فرار کن"
+
+#. Key:	HintGameSaved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintGameSaved"
+msgid "Game saved"
+msgstr "Game Saved"
+
+#. Key:	HintInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintInteract"
+msgid "Interact"
+msgstr "تعامل"
+
+#. Key:	HintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintJump"
+msgid "Jump up"
+msgstr "پریدن"
+
+#. Key:	HintLoading
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintLoading"
+msgid "Loading"
+msgstr "Loading"
+
+#. Key:	HintMove
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintMove"
+msgid "Move around"
+msgstr "حرکت کردن"
+
+#. Key:	HintOpenGate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintOpenGate"
+msgid "Open gate"
+msgstr "باز کردن دروازه"
+
+#. Key:	HintPickaxe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickaxe"
+msgid "Pickaxe"
+msgstr "کلنگ"
+
+#. Key:	HintPickUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickUp"
+msgid "Pick up object"
+msgstr "برداشتن شیئ"
+
+#. Key:	HintSprintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintSprintJump"
+msgid "Run and Jump"
+msgstr "بدو و بپر"
+
+#. Key:	HintThrowRock
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintThrowRock"
+msgid "Throw rock"
+msgstr "سنگ پرت کن"
+
+#. Key:	HintTurnOnTv
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintTurnOnTv"
+msgid "Turn on TV"
+msgstr "روشن کردن تلویزیون"
+
+#. Key:	HintUseMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintUseMouse"
+msgid "Control computer"
+msgstr "استفاده از کامپیوتر"
+
+#. Key:	BindingNotSet
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingNotSet"
+msgid "None"
+msgstr "هیجی"
+
+#. Key:	BindingPressKey
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressKey"
+msgid "Press a key"
+msgstr "کلیدی را فشار بده"
+
+#. Key:	ButtonAA
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAA"
+msgid "Anti-Aliasing"
+msgstr "Anti-Aliasing"
+
+#. Key:	ButtonAdvanced
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAdvanced"
+msgid "Advanced"
+msgstr "Advanced"
+
+#. Key:	ButtonApply
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonApply"
+msgid "Apply Changes"
+msgstr "ثبت تغییرات"
+
+#. Key:	ButtonArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonArcade"
+msgid "Arcade"
+msgstr "آرکید"
+
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr "Auto-Detect Setting"
+
+#. Key:	ButtonBack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonBack"
+msgid "Back"
+msgstr "بازگشت"
+
+#. Key:	ButtonChapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter1"
+msgid "Chapter 1"
+msgstr "فصل 1"
+
+#. Key:	ButtonChapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter2"
+msgid "Chapter 2"
+msgstr "فصل 2"
+
+#. Key:	ButtonChapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter3"
+msgid "Chapter 3"
+msgstr "فصل 3"
+
+#. Key:	ButtonChapter4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter4"
+msgid "Chapter 4"
+msgstr "فصل 4"
+
+#. Key:	ButtonControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControlOptions"
+msgid "Controls"
+msgstr "Controls"
+
+#. Key:	ButtonCredits
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonCredits"
+msgid "Load Credits"
+msgstr "نمایش سازندگان"
+
+#. Key:	ButtonEffects
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonEffects"
+msgid "Effects"
+msgstr "Effects"
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExit"
+msgid "Exit"
+msgstr "خروج"
+
+#. Key:	ButtonExitToMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExitToMenu"
+msgid "Exit to Menu"
+msgstr "بازگشت به منوی اصلی"
+
+#. Key:	ButtonExtras
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExtras"
+msgid "Extras"
+msgstr "اضافه ها"
+
+#. Key:	ButtonFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFeedback"
+msgid "Send Feedback"
+msgstr "ارسال نظر"
+
+#. Key:	ButtonFoliage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFoliage"
+msgid "Foliage"
+msgstr "Foliage"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr "Gameplay"
+
+#. Key:	ButtonGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGraphicsOptions"
+msgid "Graphics"
+msgstr "Graphics"
+
+#. Key:	ButtonGuides
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGuides"
+msgid "Guides"
+msgstr "راهنما ها"
+
+#. Key:	ButtonHordeWarehouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonHordeWarehouse"
+msgid "Warehouse Horde"
+msgstr "زنده‌ماندن در انبار"
+
+#. Key:	ButtonJoinDiscord
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonJoinDiscord"
+msgid "Join Discord"
+msgstr "عضو شدن در دیسکورد"
+
+#. Key:	ButtonLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr "ادامه از یک سیو"
+
+#. Key:	ButtonNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonNewGame"
+msgid "New Game"
+msgstr "بازی جدید"
+
+#. Key:	ButtonPostProcess
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPostProcess"
+msgid "Post-process"
+msgstr "Post-process"
+
+#. Key:	ButtonPrelude
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPrelude"
+msgid "Prelude"
+msgstr "مقدمه"
+
+#. Key:	ButtonRange
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonRange"
+msgid "Shooting Range"
+msgstr "میدان تیر"
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonResume"
+msgid "Resume Game"
+msgstr "ادامه‌ی بازی"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr "Save Game"
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr "Save / Load"
+
+#. Key:	ButtonScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonScreenOptions"
+msgid "Screen"
+msgstr "Screen"
+
+#. Key:	ButtonShadows
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShadows"
+msgid "Shadows"
+msgstr "سایه ها"
+
+#. Key:	ButtonSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSoundOptions"
+msgid "Sound"
+msgstr "صدا"
+
+#. Key:	ButtonSteamForums
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSteamForums"
+msgid "Steam Forums"
+msgstr "انجمن استیم"
+
+#. Key:	ButtonTextures
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonTextures"
+msgid "Textures"
+msgstr "بافت و ظاهر"
+
+#. Key:	ButtonViewDistance
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonViewDistance"
+msgid "View Distance"
+msgstr "فاصله‌ی قابل مشاهده"
+
+#. Key:	CheckboxCommentary
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxCommentary"
+msgid "In-Game Commentary"
+msgstr "یادداشت های داخل بازی"
+
+#. Key:	CheckboxDisableAmbientOcclusion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableAmbientOcclusion"
+msgid "Disable Ambient Occlusion"
+msgstr "Disable Ambient Occlusion"
+
+#. Key:	CheckboxDisableDepthOfField
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableDepthOfField"
+msgid "Disable Depth of Field"
+msgstr "غیرفعال کردن تاری فواصل دور"
+
+#. Key:	CheckboxDisableHighlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHighlight"
+msgid "Disable Object Highlight"
+msgstr "غیرفعال کردن روشن شدن اشیاء"
+
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr "Disable HUD"
+
+#. Key:	CheckboxDisableMotionBlur
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableMotionBlur"
+msgid "Disable Motion Blur"
+msgstr "Disable Motion Blur"
+
+#. Key:	CheckboxDisableSceneFringe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSceneFringe"
+msgid "Disable Scene Fringe"
+msgstr "Disable Scene Fringe"
+
+#. Key:	CheckboxDisableSubtitles
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSubtitles"
+msgid "Disable Subtitles"
+msgstr "غیر فعال کردن زیرنیس"
+
+#. Key:	CheckboxDisableVignette
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableVignette"
+msgid "Disable Vignette"
+msgstr "Disable Vignette"
+
+#. Key:	CheckboxEnableStatsForNerds
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableStatsForNerds"
+msgid "Enable On-Screen Stats"
+msgstr "Disable On-Screen Stats"
+
+#. Key:	CheckboxInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertMouse"
+msgid "Invert Mouse"
+msgstr "Invert Mouse"
+
+#. Key:	CheckboxLaptopMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopMode"
+msgid "Laptop Mode"
+msgstr "حالت لپتاپ"
+
+#. Key:	CheckboxLaptopModeHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopModeHelp"
+msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr "محدود کردن fps به 30 برای خنک نگه داشتن دستگاه‎‌هایی مثل لپتاپ."
+
+#. Key:	CheckboxVSync
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxVSync"
+msgid "VSync"
+msgstr "VSync"
+
+#. Key:	DropdownAAMethod
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownAAMethod"
+msgid "AA Method"
+msgstr "AA Method"
+
+#. Key:	DropdownCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownCulture"
+msgid "Language"
+msgstr "زبان"
+
+#. Key:	DropdownItemQualityModeEpic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeEpic"
+msgid "Epic"
+msgstr "ماکسیموم"
+
+#. Key:	DropdownItemQualityModeHigh
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeHigh"
+msgid "High"
+msgstr "بالا"
+
+#. Key:	DropdownItemQualityModeLow
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeLow"
+msgid "Low"
+msgstr "پایین"
+
+#. Key:	DropdownItemQualityModeMedium
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeMedium"
+msgid "Medium"
+msgstr "متوسط"
+
+#. Key:	DropdownItemWindowModeFullscreen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeFullscreen"
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#. Key:	DropdownItemWindowModelBorderless
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModelBorderless"
+msgid "Borderless"
+msgstr "Borderless"
+
+#. Key:	DropdownItemWindowModeWindowed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeWindowed"
+msgid "Window"
+msgstr "Window"
+
+#. Key:	DropdownResolution
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownResolution"
+msgid "Resolution"
+msgstr "Resolution"
+
+#. Key:	DropdownWindowMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownWindowMode"
+msgid "Window Mode"
+msgstr "Window Mode"
+
+#. Key:	GameTag
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTag"
+msgid "ACT II EARLY ACCESS"
+msgstr "بخش 2 - کامل نشده"
+
+#. Key:	GameTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTitle"
+msgid "ESTRANGED"
+msgstr "دلسرد شده"
+
+#. Key:	LabelEnterCheat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelEnterCheat"
+msgid "Enter Cheat"
+msgstr "وارد کردن کد تقلب"
+
+#. Key:	LabelExperimentalOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptions"
+msgid "Experimental Options"
+msgstr "Experimental Options"
+
+#. Key:	LabelExperimentalOptionsHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptionsHelp"
+msgid "These options are experimental and may be lost."
+msgstr "این تنظیمات آزمایشی هستند و ممکن از حذف شوند."
+
+#. Key:	MenuArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuArcade"
+msgid "ARCADE"
+msgstr "آرکید"
+
+#. Key:	MenuControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuControlOptions"
+msgid "CONTROLS"
+msgstr "کنترل ها"
+
+#. Key:	MenuExtraOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuExtraOptions"
+msgid "EXTRAS"
+msgstr "اضافه ها"
+
+#. Key:	MenuGameplay
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGameplay"
+msgid "GAMEPLAY"
+msgstr "GAMEPLAY"
+
+#. Key:	MenuGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGraphicsOptions"
+msgid "GRAPHICS"
+msgstr "گرافیک"
+
+#. Key:	MenuLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuLoadGame"
+msgid "LOAD GAME"
+msgstr "LOAD GAME"
+
+#. Key:	MenuNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuNewGame"
+msgid "NEW GAME"
+msgstr "SAVE GAME"
+
+#. Key:	MenuOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuOptions"
+msgid "OPTIONS"
+msgstr "تنظیمات"
+
+#. Key:	MenuSaveLoadOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSaveLoadOptions"
+msgid "SAVE / LOAD"
+msgstr "SAVE / LOAD"
+
+#. Key:	MenuScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuScreenOptions"
+msgid "SCREEN"
+msgstr "صفحه"
+
+#. Key:	MenuSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSoundOptions"
+msgid "SOUND"
+msgstr "صدا"
+
+#. Key:	OptionsButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,OptionsButton"
+msgid "Options"
+msgstr "تنظیمات"
+
+#. Key:	SliderControllerSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderControllerSensitivity"
+msgid "Controller Sensitivity"
+msgstr "حساسیت دسته کنترلر"
+
+#. Key:	SliderEffectsVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderEffectsVolume"
+msgid "Effects Volume"
+msgstr "بلندی اتفاقات"
+
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr "میدان دید"
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr "گاما"
+
+#. Key:	SliderMouseSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "حساسیت موس"
+
+#. Key:	SliderMusicVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMusicVolume"
+msgid "Music Volume"
+msgstr "بلندی موزیک"
+
+#. Key:	SliderScreenPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderScreenPercentage"
+msgid "Screen Percentage"
+msgstr "Screen Percentage"
+
+#. Key:	SliderVoiceVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderVoiceVolume"
+msgid "Voice Volume"
+msgstr "بلندی صحبت ها"
+
+#. Key:	TooltipInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipInvertMouse"
+msgid "Invert the mouse Y axis"
+msgstr "برعکس کردن محور Y موس"
+
+#. Key:	ArcheologistDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part1"
+msgid "The skeletons here are confirmed to be sailors and pirates."
+msgstr "تایید شده که این اسکلت‌ها مال دریانوردان و  دزدان دریایی بوده."
+
+#. Key:	ArcheologistDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part2"
+msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
+msgstr "بهترین حدس ما اینه که آنها داشتند از نیروی دریایی بریتانیا فرار میکردند و دنبال پناهگاهی در این جزیره بودند."
+
+#. Key:	ArcheologistDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part1"
+msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgstr "دریانوردان و دزدان دریایی درگیر یک نبرد داخلی شدند."
+
+#. Key:	ArcheologistDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part2"
+msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
+msgstr "ما حدس میزدیم دعوا سر اشیاء با آرزشی که داخل این غار پیدا کردیم بوده."
+
+#. Key:	ArcheologistDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part3"
+msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
+msgstr "ما حدس میزنیم اون زمان مست بوده‌اند، و روی استخوان ها رد دندان پیدا کردیم که به دندان انسان میخوره."
+
+#. Key:	ArcheologistDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part1"
+msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgstr "مجبور شدیم مقداری از تیم را خارج کنیم، چرا که آنها بیمار شدند. باید بر این فرض باشیم که به چیزی کنار اجساد دست تماس پیدا کردن."
+
+#. Key:	ArcheologistDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part2"
+msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
+msgstr "از اینجا به بعد قراره از لباس های ضد شیمیایی HAZMAT استفاده کنیم. میدونیم که اینجا امن نیست."
+
+#. Key:	GarethThomasDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part1"
+msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "گر توماس هستم که دارم صحبت میکنم. ما نمونه های جلبک را بررسی کردیم"
+
+#. Key:	GarethThomasDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part2"
+msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr "و فهمیدیم که نورانی شدنشون توسط یک پلانکتون دریایی طبیعی که در این مناطق هست ایجاد میشه."
+
+#. Key:	GarethThomasDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part3"
+msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
+msgstr "من گمان نمیکنیم که استفاده‌ی ما از جلبک ها هیچ تاثیری پیدا کنه توسط پلانکتون ها."
+
+#. Key:	GarethThomasDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part4"
+msgid "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr "ما گمان نمیکنیم که کاملا بی ضرر باشه، ولی گمان ها نمیکنیم مشکلی ایجاد بکنه."
+
+#. Key:	LiamJonesDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part1"
+msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr "من ام، لیام جونز هستم، گزارش صوتی شماره 1"
+
+#. Key:	LiamJonesDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part2"
+msgid "We just started studying the algae, and uh"
+msgstr "ما تازه شروع به مطالعه‌ی جلبکه کردیم، و ام"
+
+#. Key:	LiamJonesDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part3"
+msgid "We realised that it actually glows if you leave it alone for a little while"
+msgstr "ما فهمیدیم که از خودش نور میده  برای یه مدتی ولش کنی"
+
+#. Key:	LiamJonesDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part4"
+msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr "و خب، باحاله این موضوع. ام، یه نمونه ازش اینجا همراهمه که..."
+
+#. Key:	LiamJonesDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part5"
+msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr "...میخوام توی دفترم بزارمش برای یه مدت، فقط برای اینکه ببینم چجوری میشه."
+
+#. Key:	LiamJonesDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part1"
+msgid "This is the uh, Liam Jones uh, diary #2"
+msgstr "من ام، لیام جونز هستم ام، گزارش صوتی شماره 2"
+
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "یه همین کارو بکن هاتورن، فقط بهشون بگو که من کارتمو گمش کردم و یکی دیگه نیاز دارم"
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "یا حتی میتونی بگی که یه دونه اضافه نیاز دارم، یکی دیگه...مطمئن نیستم کجا گذاشتمش"
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr "...کلا قضیه اینه که یه کارت جدید نیاز دارم"
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr "پس اگر بتونی به افرادی که کارتا رو صادر میکنن ایمیل بزنی هارتون"
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr "و ام، یه کارت جدید برام گیر بیاری خیلی خوب میشه. اوکی."
+
+#. Key:	LiamJonesDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part2"
+msgid "The samples are doing OK, we're just observing them now to see what happens"
+msgstr "نمونه ها فعلا خوب هستن، درحال مشاهده‌ی اونا هستیم تا ببینیم چی میشه"
+
+#. Key:	LiamJonesDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part3"
+msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr "دفتر اصلی درخواست مقداری نمونه کرده بنابراین قراره مقداری داخل جعبه هم برای اونا بفرستیم"
+
+#. Key:	LiamJonesDiary2Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part4"
+msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr "راستی، هارتورن، فرصتش که پیش اومد، من کارت امنیتیمو گم کردم..."
+
+#. Key:	LiamJonesDiary2Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part5"
+msgid "but when you talk to the badge people just say um... like uh..."
+msgstr "ولی وقتی با افرادی که کارتا رو صادر میکنن صحبتی میکنی یه چیزی بگو مثل...ام..."
+
+#. Key:	LiamJonesDiary2Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part6"
+msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr "نمیدونم، یه نفر...نه، نه، نگیم کسی برداشتتش، دلیل بدی میشه"
+
+#. Key:	LiamJonesDiary2Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part7"
+msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr "یه روباه، وارد شد و کارتمو برداشت و ام، حالا دیگه نمیتونم وارد منطقه‌ی کار بشم"
+
+#. Key:	LiamJonesDiary2Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part8"
+msgid "Um so, if you could just tell them that... because last time it happened, "
+msgstr "ام، پس اگر بتونی این قضیه رو بهشون بگی...آحه آخرین باری که گمش کردم "
+
+#. Key:	LiamJonesDiary2Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part9"
+msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
+msgstr "گفتن تقصیر منه و یه جورایی سر جایگزین کردنش بی‌میلی میکردن پس"
+
+#. Key:	LiamJonesDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part1"
+msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr "لیام جونز هستم، مهندس امنیتی نمونه‌های داخل منطقه، من همین العان به"
+
+#. Key:	LiamJonesDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part2"
+msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr "دکتر فردریک پرزلا اجازه‌ی ورود به اتاق مشاهده رو دادیم، ام، اون پرخاشگر شد"
+
+#. Key:	LiamJonesDiary3Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part3"
+msgid "and attacked one of my members of staff so we're going to keep him"
+msgstr "و به یکی از کارکنانم حمله کرد بنابراین قراره ااونو"
+
+#. Key:	LiamJonesDiary3Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part4"
+msgid "under observation and probably move him off the island as soon as we can."
+msgstr "تحت نظر داشته باشیم و احتملا هرچه زودتر اونو از جزیر خارج کنیم."
+
+#. Key:	LiamJonesDiary3Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part5"
+msgid "We're not sure what caused this."
+msgstr "مطمئن نیستیم چه چیزی باعث این قضیه شد."
+
+#. Key:	ActionConsole
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionConsole"
+msgid "Console"
+msgstr "کنسول"
+
+#. Key:	ActionCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionCrouch"
+msgid "Crouch"
+msgstr "نشستن"
+
+#. Key:	ActionFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionFlashlight"
+msgid "Toggle Flashlight"
+msgstr "روشن خاموش کردن چراغ قوه"
+
+#. Key:	ActionInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionInteract"
+msgid "Interact"
+msgstr "تعامل"
+
+#. Key:	ActionJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionJump"
+msgid "Jump"
+msgstr "پریدن"
+
+#. Key:	ActionMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMenu"
+msgid "Menu"
+msgstr "منو"
+
+#. Key:	ActionMoveBackward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveBackward"
+msgid "Move Backwards"
+msgstr "حرکت به سمت عقب"
+
+#. Key:	ActionMoveForward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveForward"
+msgid "Move Forwards"
+msgstr "حرکت به سمت جلو"
+
+#. Key:	ActionMoveLeft
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveLeft"
+msgid "Move Left"
+msgstr "حرکت به سمت چپ"
+
+#. Key:	ActionMoveRight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveRight"
+msgid "Move Right"
+msgstr "حرکت به سمت راست"
+
+#. Key:	ActionPrimaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
+msgid "Primary Attack"
+msgstr "حمله‌ی اصلی"
+
+#. Key:	ActionQuickLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickLoad"
+msgid "Quick Load"
+msgstr "لود سریع"
+
+#. Key:	ActionQuickSave
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickSave"
+msgid "Quick Save"
+msgstr "سیو سریع"
+
+#. Key:	ActionReload
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionReload"
+msgid "Reload"
+msgstr "خشاب گذاری"
+
+#. Key:	ActionSecondaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
+msgid "Secondary Attack"
+msgstr "حمله‌ی فرعی"
+
+#. Key:	ActionSprint
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSprint"
+msgid "Sprint"
+msgstr "ذویدن"
+
+#. Key:	CallElevator
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,CallElevator"
+msgid "CALL ELEVATOR"
+msgstr "زدن دکمه‌ی آسانسور"
+
+#. Key:	EnterTwoFactor01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
+msgid "Enter two-factor authentication code to override"
+msgstr "برای لغو کردن، کد دو فاکتروی احراز هویت را وارد نمایید"
+
+#. Key:	LockdownBody01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody01"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr "ناهنجاری شناسایی شد"
+
+#. Key:	LockdownBody02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody02"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr "منطقه امن تعیین شده"
+
+#. Key:	LockdownBody03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody03"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr "برای لغو، رمز عبور را وارد کنید"
+
+#. Key:	LockdownTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle01"
+msgid "LOCKDOWN ENABLED"
+msgstr "تمام درب ها قفل شدند"
+
+#. Key:	LockdownTitle02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle02"
+msgid "LOCKDOWN DISABLED"
+msgstr "قفل ها باز شدند"
+
+#. Key:	PhoneTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,PhoneTitle01"
+msgid "AUTH CODE"
+msgstr "کد احراز هویت"
+
+#. Key:	ReSendCode
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,ReSendCode"
+msgid "RE-SEND CODE"
+msgstr "فرستادن دوباره‌ی کد"
+
+#. Key:	CaptureGuard01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01a"
+msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgstr "فکر کردی میزاریم همینجوری به گشتن توی جزیره و کشتن کارکنان سوکول-گلاکنر ادامه بدی؟"
+
+#. Key:	CaptureGuard01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01b"
+msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
+msgstr "تو مایه‌یرننگی. فکر کردی میدونی اینجل چه خبره؟ فکر کردی چیزیه که تو میتونی جلوشو بگیری؟"
+
+#. Key:	CaptureGuard01c
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01c"
+msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
+msgstr "تو یه حشره‌ای. یه حشره‌ای که یه شرکت چندمللی مثل آرک هیچ مشکلی نداره له کنه."
+
+#. Key:	CaptureGuard01d
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01d"
+msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your mangled body inside."
+msgstr "ما این با اختیار رفتیم و کلبه‌ای که توی جزیره‌ی شتلند رو داشتی رو گشتیم. خیلی حیف شد که کلبت آتیش گرفت و سوخت، اونم با جسد ناقص شده‌ی تو."
+
+#. Key:	CaptureGuard01e
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01e"
+msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
+msgstr "چرا اینجایی؟ فکر میکنی میتونی چیزی که داره اتفاق میفته رو تغییر بدی؟ ما داریم از دنیا محافظت میکنیم، نمیفهمی این قضیه رو؟"
+
+#. Key:	CaptureGuard01f
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01f"
+msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
+msgstr "اینا همه جزوی از نقشه های احتیاطی کاملا ضروری شرکت آرک هست، نقشه‌ای که تو قرار نیست توش دخالت کنی."
+
+#. Key:	CaptureGuard01g
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01g"
+msgid "Thousands, millions, billions of people. You have no idea what we're protecting here. The \"greater good\" doesn't quite cover it."
+msgstr "هزاران، میلیون ها، میلیارد ها نفر آدم. هیچ ایده‌ای نداری که ما داریم از چی محافظت میکنیم اینجا. \"برای خوبی همه\" کافی نیست برای توصیف این قضیه."
+
+#. Key:	CaptureGuard01h
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01h"
+msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
+msgstr "بگو برای کی کار میکنی. وگرنه، کلمه‌ی \"جهنم\" هم نمیتونه مقدار درد و زجری که قراره سرت بیاد رو توصیف کنه."
+
+#. Key:	CaptureGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard02"
+msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+msgstr "چه کسی میتونست حدس بزنه؟ سوکول-گلاکنر، یمی از بزرگترین شرکتای پیمانکار امنیتی خصوصی جهان میدونه چطور یک نفرو زجر بده."
+
+#. Key:	Chat01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat01"
+msgid "Unknown: Hello?"
+msgstr "ناشناس: سلام؟"
+
+#. Key:	Chat02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat02"
+msgid "You: hi"
+msgstr "شما: سلام"
+
+#. Key:	Chat03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat03"
+msgid "Unknown: Hello"
+msgstr "ناشناس: سلام"
+
+#. Key:	Chat04
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat04"
+msgid "You: yes, we did that bit"
+msgstr "شما: آره، همین الان سلام کردیم"
+
+#. Key:	Chat05
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat05"
+msgid "You: ?"
+msgstr "شما: ؟"
+
+#. Key:	Chat06
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat06"
+msgid "You: can I help you?"
+msgstr "شما: میتونم کمکتون کنم؟"
+
+#. Key:	Chat07
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat07"
+msgid "You: are you still there? hello?"
+msgstr "شما: هنوز هستی؟ الو؟"
+
+#. Key:	Chat08
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat08"
+msgid "Unknown: mic?"
+msgstr "ناشناس: میکروفن؟"
+
+#. Key:	Chat09
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat09"
+msgid "You: hello, what do you want?"
+msgstr "شما: سلام، چی میخواهید؟"
+
+#. Key:	Chat10
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat10"
+msgid "You: ??? just tell me what you need"
+msgstr "تو: ؟؟؟ فقط بگو چی میخوای"
+
+#. Key:	Chat11
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat11"
+msgid "You: what is your problem? can you please stop bugging me now, i need to work"
+msgstr "شما: مشکلت چیه؟ میشه دست از سرم برداری، باید کارامو انجام بدم"
+
+#. Key:	Chat12
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat12"
+msgid "You: STOP IT FFS"
+msgstr "شما: بس کن لعنتی"
+
+#. Key:	Chat13
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat13"
+msgid "You are now offline."
+msgstr "شما العان آفلاین هستین."
+
+#. Key:	ChatTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,ChatTitle"
+msgid "Chat with Unknown"
+msgstr "چت با ناشناس"
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
+msgid "AGO Facilities"
+msgstr "تشکیلات AGO"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
+msgid "Air Vent"
+msgstr "دریچه‌ی هوا"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email03_Content"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "سلام\n\nما گزارشهایی داشتیم از اینکه یکی از کولر های دفتر ما دچار اشکال شده.\n\nما بخاطر ناراحتی ه‍ایی که از این بابت ایجاد شده عذرخواهی میکنیم.\n\nممنون،\n\nپشتیبانی هماهنگی عملیات جهانی و بین جغرافیایی آرک"
+
+#. Key:	Email01_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Content"
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr "سلام،\n\nممنون از درخواستتون برای کارت امنیتی جدید. کد رهگیری شما AGO15824 هست.\n\nقدم های بعدی چیست؟\n\nیکی از اعضای تیم AGO به درخواست شما پاسخ خواهد داد. لطفا در نظر داشته باشید که ممکن است از شما اطلاعات اضافه درمورد اهمیت درخواستتون پرسیده بشود.\n\nممنون،\n\nسرویس کارت های عملیات جهانی آرک\n\nاین یک پیام اتوماتیک است، لطفا پاسخ ندهید."
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Sender"
+msgid "AGO Badge Services"
+msgstr "سرویس کارت های AGO"
+
+#. Key:	Email01_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Subject"
+msgid "Thank you for your request"
+msgstr "ممنون از درخواستتون"
+
+#. Key:	Email02_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Content"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "سلام لیام،\n\nما درخواستت برای کارت جدید را دریاف کردیم. به دلیل درجه‌ی امنیتی شغلت، باید یک سری از جزئیات گم شدن کارتتو بررسی کنم.\n\nلطفا در پاسخ سعی کن تا جایی که میتونی تمام جزئیات رو درباره‌ی این سانحه توضیح بدی.\n\nممنون،\n\nهیوگو وبر\nمتخصص ارشد پشتیبانی آزمایشگاه‌های جهانی آرک"
+
+#. Key:	Email02_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Sender"
+msgid "Hugo Webber"
+msgstr "هوگو وبر"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Subject"
+msgid "RE: AGO15824"
+msgstr "RE: AGO15824"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Content"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr ""
+
+#. Key:	Email03_Quote
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Quote"
+msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgstr ""
+
+#. Key:	Email03_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Subject"
+msgid "RE: RE: AGO15824"
+msgstr "RE: RE: AGO15824"
+
+#. Key:	Email04_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Content"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr "آقایون تیم،\n\nلطفا فایل متصل به پیام را برای جدیدترین ویرایش روزنامه‌ی ونتورف هرالد را ببینید. به ذکر شرکت آرک توجه فرمایید - آیا نیازه این رو بررسی کنیم؟\n\nبه عنوان یک یادآوری، لطفا با رسانه‌های محلی بدون مجوز مناسب صحبت نکنید.\n\nلوسی بیشا\n\nمتخصص ارشد روابط عمومی"
+
+#. Key:	Email04_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Sender"
+msgid "Lucy Beeshaw"
+msgstr "لوسی بیشا"
+
+#. Key:	Email04_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Subject"
+msgid "Wentworth Herald #317"
+msgstr "ونتورف هرالد #317"
+
+#. Key:	Email_Author
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email_Author"
+msgid "Liam Jones"
+msgstr ""
+
+#. Key:	Chat
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Chat"
+msgid "Chat"
+msgstr "چت"
+
+#. Key:	CorporateFooter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter01"
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
+msgstr ""
+
+#. Key:	CorporateFooter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter02"
+msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
+msgstr ""
+
+#. Key:	Email
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Email"
+msgid "Email"
+msgstr "ایمیل"
+
+#. Key:	OK
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,OK"
+msgid "OK"
+msgstr "اوکی"
+
+#. Key:	AdditionalContributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AdditionalContributors"
+msgid "ADDITIONAL CONTRIBUTORS"
+msgstr "مشارکت کننده‌های اضافی"
+
+#. Key:	AndYou
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYou"
+msgid "And You!"
+msgstr "و تو!"
+
+#. Key:	AndYouTemplated
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYouTemplated"
+msgid "And {name} (You!)"
+msgstr "و {اسم} (تو!)"
+
+#. Key:	Chapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter1"
+msgid "Through the Cracks"
+msgstr "از بین ترک ها"
+
+#. Key:	Chapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter2"
+msgid "Post Abandon"
+msgstr "رها کردن پست"
+
+#. Key:	Chapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter3"
+msgid "Fight or Flight"
+msgstr "جنگیدن یا فرار"
+
+#. Key:	CreatedWithUnrealEngine
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,CreatedWithUnrealEngine"
+msgid "Created with Unreal Engine"
+msgstr "ساخته شده توسط موتور آنریل"
+
+#. Key:	EstrangedTradeMark
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,EstrangedTradeMark"
+msgid "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr "\"دلسرد شده\" یک علامت تجاری مال آلن ادواردز (Alan Edwardes) هست"
+
+#. Key:	HelpTranslate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,HelpTranslate"
+msgid "Help Translate Too!"
+msgstr "در ترجمه‌ی بازی کمک کنید!"
+
+#. Key:	MoreSoon
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,MoreSoon"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "پایان موقتی\nمحتویات بیشتر در راه است!"
+
+#. Key:	Translators
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Translators"
+msgid "TRANSLATORS"
+msgstr "مترجمان"
+
+#. Key:	WithThanksTo
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,WithThanksTo"
+msgid "WITH THANKS TO"
+msgstr "با تشکر از"
+
+#. Key:	JohnActI01
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI01"
+msgid "Hello?"
+msgstr "سلام؟"
+
+#. Key:	JohnActI02
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02"
+msgid "If anyone can hear this, my name is Johnathan Derril."
+msgstr "اگر کسی این پیامو میشنوه، اسم من جاناتان دریل هست."
+
+#. Key:	JohnActI02Alt
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02Alt"
+msgid "If anyone can hear this, I need help."
+msgstr "اگر کسی اینو میشنوه، من به کمک نیاز دارم."
+
+#. Key:	JohnActI03
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI03"
+msgid "And I need help."
+msgstr "و به کمک نیاز دارم."
+
+#. Key:	JohnActI04
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI04"
+msgid "These things, they've taken over the island."
+msgstr "این چیزا، اونا کل جزیره رو گرفتن."
+
+#. Key:	JohnActI05
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI05"
+msgid "Anyone, please, I have supplies, but-"
+msgstr "هر کسی، لطفا، من تدارکات دارم ولی-"
+
+#. Key:	JohnActI06
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI06"
+msgid "They're out there."
+msgstr "اونا اون بیرونن."
+
+#. Key:	LaserScan01
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan01"
+msgid "Welcome to Arque East. Please stand by for biological scan."
+msgstr "به آرک شرقی خوش آمدید. لطفا تکان نخورید تا اسکن بیولوژیکی انجلم شود."
+
+#. Key:	LaserScan02
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan02"
+msgid "Biological scan completed. No foreign material found."
+msgstr "اسکن بیولوژیکی انجام شد. هیچ گونه ماده‌ی خارجی یافت نشد."
+
+#. Key:	LaserScan03
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan03"
+msgid "Please proceed, and have a nice day."
+msgstr "لطفا ادامه دهید، و روز خوبی داشته باشید."
+
+#. Key:	CallOut1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,CallOut1"
+msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
+msgstr "\"من 10 سال تو Phil's کار کردم، اونوقت یهو اینجوری ولم کردن؟ خیلی کار بی‌عاطفه‌ایه.\""
+
+#. Key:	Headline
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline"
+msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
+msgstr ""
+
+#. Key:	Headline2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline2"
+msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
+msgstr "کشتی ها \"شدید نزدیک به برخورد\" هستند بدون فانوس دریایی"
+
+#. Key:	Headline3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline3"
+msgid "RED ALGAE NUMBERS STRONG"
+msgstr "مقدار زیاد جلبک قرمز قابل توجه است"
+
+#. Key:	Navigation1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Navigation1"
+msgid "MORE ON PAGE 11"
+msgstr "توضیحات بیشتر در صفحه 11"
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph01"
+msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
+msgstr "اکتساب شرکت داروسازی محلی \"فیلیپ\" در آخرای هفته‌ی گذشته انجام شد، چرا که تمام پنجاه تا کارکنان این شرکت اخراج شدند که این تعداد بیست نفر بیشتر از تعدادی بود که اول در نظر گرفته شده بود."
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph02"
+msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
+msgstr "این اخبار درحالی رسید که شرکت آرک برنامه هایش برای گسترش در منطقه‌ را برای دلایل تحقیقاتی مشخص نشده اعلام کرد."
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph03"
+msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
+msgstr "مالک قبلی و بنیانگزار، \"فیلیپ بیومونت\" از شرکت بیرون شد بعد از ازهم پاشیدنش در عموم، که باعث شد درحالی که داشت لخت دور جزیره میدوید دستگیر شود. ما قادرنبودیم با فیلیپ تماس برقرار کنیم برای پاسخی در این باره، ولی همسر قبلی‌اش این وضعیت اکتساب شرکت را به عنوان \"نقشه‌ای استراژیک احتمالی\" توصیف کرد."
+
+#. Key:	Paragraph04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph04"
+msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
+msgstr "حال مشخص است که مالکان جدید هیچ علاقه‌ای به شرکت داروسازی فیلیگ و کارکنانش نداشتند و بیشتر به امکانات آن و زمینی که درش قرار داشت علاقه داشتند."
+
+#. Key:	Paragraph05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph05"
+msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
+msgstr "\"بن کیلاملک\"، یکی از کارکنان قبلی شرکت معیشتش ازش گرفته شده است. فرصت‌های کاری در جزیره کمیاب هستند، و برای اکثریت کارکنان پیشین، رفتن از جزیره تنها گزینه است."
+
+#. Key:	Paragraph06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph06"
+msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
+msgstr "مالکان فعلی معدن بسته شده‌ی \"برادران لیام\" هم گزارش شده که دارند با شرکت آرک صحبت میکنند. معدن نزدیک به امکانات داروسای فیلیپ است و به نظر میاد که از ارزش استراژیکی قابل توجهی برای شرکت دارد."
+
+#. Key:	Paragraph07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph07"
+msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
+msgstr "ما سعی کردیم با شرکت آرک تماس برقرار کنیم برای پرس و جو، ولی آنها قبول نکردند و گفتند \"شرکت، تمام قوانین محلی استخدام را رعایت کرده و به تمام کارکنان مجددا استخدام شده، جبران خسارت پیشنهاد کرده\". خبرنگارانمان پی بردن که این \"جبران خسارت\" توسط یک توافق برسر افشا نکردن محتوای آن داده شده، پس مقدار این جبران خسارتی‌ داده شده به کارکنان پیشین مشخص نیست."
+
+#. Key:	Paragraph08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph08"
+msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
+msgstr "حال که فانوس دریایی \"ردتان\" تخریب شده است، طبق گفته‌ی ماهیگیر، جان الکساندر، کشتیانی که از کنار جزیره میگذرند \"شدیدا نزدیک\" به تصادف کردن هستند."
+
+#. Key:	Paragraph09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph09"
+msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
+msgstr "روزنامه‌ی ونتورف هرالد هفته‌ی پیش داستان کامل فانوس دریایی را پوشش داد، درمورد اینکه بخاطر هزینه‌ی زیادش در مقابل کاربرد کمش قرار شد آن را از کار بیندازند."
+
+#. Key:	Paragraph10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph10"
+msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
+msgstr "دفتر ترافیک دریایی که در جلد هفنه‌ی پیش گفته بودن که \"مطمئن هستند روی هیچ گونه ترافیکی که میگذرد نمیزارد\"،  قبول نکرد در مورد این قضیه نظری بدهد."
+
+#. Key:	Paragraph11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph11"
+msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
+msgstr "کلنی های جلبک واقع در جزیره هنوز هم قوی هستند، درحالی که تحقیقات اخیر رشد چشمگیری در مقدار \"جلبک قرمز\" نشان میدهد، که موجود مختص جزیره است و به پخش شدن روی کل جزیره و منابع آب طبیعی‌اش ادامه میدهد."
+
+#. Key:	Paragraph12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph12"
+msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
+msgstr "یکی از ساکنان محلی، رزی هاردمُن این جلبک را تهدید میداند و خیلی خوشحالتر میشد اگر از بین میرفت. \"این (جلبک قرمز) دارد کل جزیره را می‌پوشاند، باید هرچه زودتر از شرش خلاص شیم. نمیخوام آب کل جزیره راک بشه. این جلبک اصلا چه خوبی‌ای داره؟\""
+
+#. Key:	Body01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body01"
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "این فانوس دریایی که در زمین بیرونی ردتان قرار دارد قرار از توسط شهردار محلی، جالن مِن، از کار بیفتد، بعد از تحقیقاتی که گارد ساحلی بر آن انجام دادند.\n\n\"بیل هایاک\" از بخش تحقیق دفتر ترافیک دریایی گفت \"ما مطمئنیم که این موضوع تاثری بر ترافیک های گذرنده‌ی دریایی نخواهد داشت\". همچنین اضافه کرد که \"درحالی که در قدیم میشد کشتی‌های باربری را از روی ساحل ردتان دیدی، حال که دیگر مسیرها از خشکی‌های اصلی تغییر کرده دیگر این قضیه پابرجا نیست\"."
+
+#. Key:	Body02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body02"
+msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
+msgstr "وقتی از شهردار سوال شد، او قبول نکرد جوابی بدهد تا زمانی که یک اعلامیه‌ی رسمی از بسته شدن فانوس دریایی را ثبت میگرد."
+
+#. Key:	Body03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body03"
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "ساکنان محلی خیلی از این تغییر خوشحال نیستند. یکی از ساکنان نگران تاثیر آن روی خط‌های تجارت کوچک بود که هنوز به اسکله‌های جزیره میامدند، و گفت که این قضیه دیگر تیر آخر برای اسکله‌های ساکت جزیره است. و اضافه کرد \"خیلی از کسب و کار های جزیره را از بین میبرد\".\n\nبعضی وقت‌ها، فانوس دریایی تنها چیزیه که باعث میشه کشتی‌های کوچکتر بیاییند و با ساکنان تجارت کنند. این چیزیه که ما همه نگرانشیم. چه اتفاقی می‌افته وقتی دیگر هیچ کسب و کار وارداتی‌ای اینجا انجام نشود؟"
+
+#. Key:	Body04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body04"
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "یکی از مشهور ترین مسابقات ردتان برای سالگردش برگشته.\n\nافراد جامعه هر سال دورهم گرد میایند تا ترسناکترین مترسک ها را بسازند تا پرنده ها را دور نگه دارد. برنده‌ی پارسال یک پسر هشت ساله‌ی مدرسه‌ای بود به اسم جاشوا فنتون که مترسکش را از روی مادربزگرش ساخته بود.\n\nبرنده‌ی مسابقه‌ی امسال به انتخابش، یک کیک خوشمزه از بین کیک های متفاوتی که جولیا مِن، همسر شهردار که به تازگی کیک فروش خودش را باز کرده، میگیرد.\n\nولی این فستیوال فقط با مترسک ها (که قرار است تمام هفته در نمایش باشند) تمام نمیشود، بوفه ها و فعالیت های دیگه هم هستند که در تمام شهر برپا خواهند بود. اگر هنوز مترسک ها را ندیده اید، همین العان به این رویداد سالانه بیایید و ببینید تمام آشوب سر چیست، و مزه‌هایی از بهترین غذا ها و نوشیدنی هایی که ردتان برای تعارف دارد را بچشید.\n\nاگر نمیتوانید بیایید مترسک ها را ببینید، چاپ بعدی روزنامه را بگیرید که در آن یک گزارش کامل از تمام کارهای ورودی را خواهیم داشت."
+
+#. Key:	Body05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body05"
+msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
+msgstr "دو هتفه گذشته است از زمانی که کارمند محلی شرکت آرک، کریستیُن پلایو، گربه‌ی سیاهش به اسم\"خوش شانس\" را از گم کرده است. او به همه اسرار کرده است که هرکس گربه‌اش را دید، سریعا به او خبر دهد."
+
+#. Key:	Body06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body06"
+msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
+msgstr "سی کارمند نامه‌ی اخراجشان را هفته‌ی پیش زودتر از انتظار گرفتند وقتی شرکت بزرگ آرک پروسه‌ی اکتساب شرکت داروسازی محلی فیلیپ را کامل کرد. این اکتساب باعث ایجاد یک از هم پاشی مالک قبلی در عموم شد که باعث جستجو برای سرمایه گزاران شد."
+
+#. Key:	Callout01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Callout01"
+msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
+msgstr "گارد ساحلی میگوید \"تعداد کشتی ها زیادی کم است\" که بخواهد باعث نگرانی امنیتی بشود"
+
+#. Key:	Headline01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline01"
+msgid "LIGHTHOUSE DECOMMISSIONED"
+msgstr "فانوس دریایی تخریب شد"
+
+#. Key:	Headline02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline02"
+msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
+msgstr "مسابقه‌ی محلی ساخت مترسک در راه است"
+
+#. Key:	Headline03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline03"
+msgid "LOST"
+msgstr "گمشده"
+
+#. Key:	Headline04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline04"
+msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
+msgstr "شرکت آرک سهام شرکت داروسازی فیلیپ را خرید"
+
+#. Key:	ReadMore01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore01"
+msgid "MORE ON PAGE 7"
+msgstr "توضیحات بیشتر در صفحه 7"
+
+#. Key:	ReadMore02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore02"
+msgid "MORE ON PAGE 10"
+msgstr "توضیحات بیشتر در صفحه 10"
+
+#. Key:	ReadMore
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,ReadMore"
+msgid "MORE INSIDE"
+msgstr "توضیحات بیشتر در داخل"
+
+#. Key:	Tagline
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Tagline"
+msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
+msgstr "اولین منبع شما برای اخبار، شایعات، ورزش، کسب و کار و جدل کلمات. روزنامه‌ی شماست و زندگی شما."
+
+#. Key:	Title
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Title"
+msgid "WENTWORTH HERALD"
+msgstr "ونتورف هرالد"
+
+#. Key:	NewsReport01
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport01"
+msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgstr "امسال برای دومین بار از شرکت امنیتی خصوصی \"سوکول-گلاکنر\" انتقاد شده"
+
+#. Key:	NewsReport02
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport02"
+msgid "with its heavy handed use of live ammunition in its protective assignments."
+msgstr "بخاطر استفاده‌ی سنگینش از فشنگ های کشنده در ماموریت های امنیتی اش."
+
+#. Key:	NewsReport03
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport03"
+msgid "The company’s policy states that live ammunition is to be used on all assignments,"
+msgstr "سیاست شرکت تعیین کرده که از مهمات زنده در تمام وظایف استفاده شود،"
+
+#. Key:	NewsReport04
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport04"
+msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
+msgstr "گرجه کارکنان آنها میگویند که این مورد ضروری نیست و باعث تحریک استفاده از خشونتی میشود که نمیخواهند."
+
+#. Key:	NewsReport05
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport05"
+msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
+msgstr "وقتی از شرکت در این مورد سوال پرسیده شد، نظری ندادند، ولی بقیه میگویند که این قضیه یک حادثه‌ای است که آماده‌ی اتفاق افادن است."
+
+#. Key:	NewsReport06
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport06"
+msgid "The government contractor is responsible for a number of overseas operations,"
+msgstr "پیمانکار دولتی مسئول تعداد زیادی از نظارت های بیرون از خاک است،"
+
+#. Key:	NewsReport07
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport07"
+msgid "which sources say is why the government is not commenting on this matter."
+msgstr "که منابع میگویند دلیل اینست که دولت نظری در این مورد ندارد."
+
+#. Key:	NewsReport08
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport08"
+msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
+msgstr "سوکول-گلاکنر امسال وارد تیتراژ ها شد بخاطر دستش در حوادث تیراندازیِ"
+
+#. Key:	NewsReport09
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport09"
+msgid "an Arque Corporation employee on one of its offshore drilling platforms."
+msgstr "یکی از کارکنان شرکت \"آرک\" در یکی از سکو‌های دریل کاری‌اش در دریا."
+
+#. Key:	NewsReport10
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport10"
+msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
+msgstr "کارگر 37 ساله که به قرار معلوم از روی سکو به آب پریده بود و شنا کرده بود در ساحل پدیدار شد،"
+
+#. Key:	NewsReport11
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport11"
+msgid "while doctors later confirmed a bullet in his leg."
+msgstr "و دکتران بعدا در پای او یک گلوله پیدا کردند."
+
+#. Key:	NewsReport12
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport12"
+msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgstr "سوکول-گلاکنر تایید کرد که گلوله مال یکی از اسلحه های آنها بوده،"
+
+#. Key:	NewsReport13
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport13"
+msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
+msgstr "ولی قبول نکردن که نظری درمورد این قضیه بدهد. این شرکت پافشاری کرد که داشته با مسئولان مربوطه کار میکرده."
+
+#. Key:	NewsReport14
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport14"
+msgid "Weather now - storm Edwin continues to make landfall,"
+msgstr "هوای العان - طوفان \"ادوین\" هنوز به وزیدن و حرکت ادامه میدهد،"
+
+#. Key:	NewsReport15
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport15"
+msgid "but today provides residents in the north with a day of calm."
+msgstr "ولی امروز  ساکنان قرار است روز آرامش بخشی داشته باشند."
+
+#. Key:	NewsReport16
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport16"
+msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
+msgstr "هواشناسان دارند به همه اخطار میدهند که هنوز طوفان بدتری در راه است،"
+
+#. Key:	NewsReport17
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport17"
+msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
+msgstr "و آنها باید برای آماده شدن وان هایشان را با آب پر کنند و آذوقه‌ی کافی برای حداقل دو روز جمع‌آوری کنند."
+
+#. Key:	NewsReport18
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport18"
+msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr "این هم از اخبار امروز، قردا صبح ساعت 7 برای برنامه‌ی \"انفجار صبحانه‌ی\" ملحق شید."
+
+#. Key:	ArqueBroadcast01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01a"
+msgid "This is an automated message from Arque Corporation."
+msgstr "این یک پیام خودکار از شرکت آرک هست."
+
+#. Key:	ArqueBroadcast01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01b"
+msgid "Mandatory curfew is in effect. Please stay inside."
+msgstr "خاموشی اجباری برپا است. لطفا داخل خانه‌هایتان بمانید."
+
+#. Key:	JohnBroadcast02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02a"
+msgid "If there's ANYONE listening to this, I need help."
+msgstr "اگر کسی این پیامو میشنوه، من به کمک نیاز دارم."
+
+#. Key:	JohnBroadcast02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02b"
+msgid "They're broadcasting a curfew message, but..."
+msgstr "اونا دارن یه پیام خاموشی ارسال میکنن‌ ولی..."
+
+#. Key:	JohnBroadcast02c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02c"
+msgid "I don't understand why. Is it a malfunction?"
+msgstr "نمیفهمم چرا. ممکنه یه اشکال توی سیستم باشه؟"
+
+#. Key:	JohnBroadcast02d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02d"
+msgid "God I hope they're not trying to cover this up..."
+msgstr "خدایا، امیدوارم در حال سعی در پوشوندن این قضیه نباشن..."
+
+#. Key:	JohnBroadcast03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03a"
+msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgstr "من به پخش این پیام ادامه میدیم تا...تا اینکه دیگه نتونم."
+
+#. Key:	JohnBroadcast03b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03b"
+msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
+msgstr "کشتیان درحال عبور، هواپیما ها...یه نفر باید این پیامو بگیره."
+
+#. Key:	JohnBroadcast04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04a"
+msgid "I was split up from my wife and daughter when the things came."
+msgstr "من از زن و بچم جدا شدم وقتی اون چیزا اومدن."
+
+#. Key:	JohnBroadcast04b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04b"
+msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
+msgstr "ما اومده بودیم مسافرت...مسافرت! هیچکس واسه یه همچین چیزی آماده نیست. کسی نمیتونه باشه."
+
+#. Key:	JohnBroadcast05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05a"
+msgid "I know how to fix radios... not much else."
+msgstr "من بلدم رادیو تعمیر کنم...ولی چیز خاص دیگه ای بلد نیستم."
+
+#. Key:	JohnBroadcast05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05b"
+msgid "A fisherman crashed on the docks near to where I am."
+msgstr "یه ماهیگیر با اسکله‌ی که نزدیک منه برخورد مرد."
+
+#. Key:	JohnBroadcast05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05c"
+msgid "They were fine, I gave them supplies, and told them how to try and stop this."
+msgstr "اونا سالم بودن، بهشون کمی تدارکات دادم و توضیح دادم چطور میتونن جلوی این قضیه رو بگیرن."
+
+#. Key:	JohnBroadcast05d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05d"
+msgid "I don't think they're coming back though. I keep thinking I could have done more."
+msgstr "ولی فکر نکنم قرار باشه برگردن. هی با خودم میگم که میتونستم کار بشتری براشون بکنم."
+
+#. Key:	JohnBroadcast06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06a"
+msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr "اگر کسی داره این پیامو میگیره، لطفا، اگر فکر میکنید اینجا اوضاع خرابه...خیلی بدتره."
+
+#. Key:	JohnBroadcast06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06b"
+msgid "We need the military. Why has no one come?"
+msgstr "ما به ارتش نیاز داریم. چرا هیچ کس نیومده؟"
+
+#. Key:	JohnBroadcast06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06c"
+msgid "That company must be doing something to stop the communication."
+msgstr "شرکت قطعا داره یه کاری میکنه که پیام‌ها به بیرون نرسه."
+
+#. Key:	JohnBroadcast07a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07a"
+msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgstr "چرا هنوز هیچکس نیومده بهمون سر بزنه؟ جزیره‌ی کوچیکیه، درست، ولی بازم به هر جال آدم توشه..."
+
+#. Key:	JohnBroadcast07b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07b"
+msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
+msgstr "ای کاش هیچوقت این مسافرت رو برنامه ریزی نمیکردیم...اگر میتونستم کارایی که تو چند ماه گذشته کردم رو تغییر بدم..ای .خدا..."
+
+#. Key:	JohnBroadcast07c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07c"
+msgid "...there's no point playing \"what if\"."
+msgstr "...هیچ دلیلی نداره بشینم فکر کنم که چی میشد اگر فلان کاری رو میکردم..."
+
+#. Key:	CoastGuard01
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard01"
+msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgstr ""
+
+#. Key:	CoastGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard02"
+msgid "OK"
+msgstr ""
+
+#. Key:	CoastGuard03
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard03"
+msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgstr ""
+
+#. Key:	CoastGuard04
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard04"
+msgid "We are requesting clearance. Stand by."
+msgstr ""
+
+#. Key:	Dispatcher01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01a"
+msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgstr ""
+
+#. Key:	Dispatcher01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01b"
+msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
+msgstr ""
+
+#. Key:	John01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01a"
+msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgstr ""
+
+#. Key:	John01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01b"
+msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
+msgstr ""
+
+#. Key:	John02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02a"
+msgid "Does anyone copy? The island has been overrun."
+msgstr ""
+
+#. Key:	John02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02b"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgstr ""
+
+#. Key:	John03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John03a"
+msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgstr ""
+
+#. Key:	John04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John04a"
+msgid "Uh, it's John."
+msgstr ""
+
+#. Key:	John05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05a"
+msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgstr ""
+
+#. Key:	John05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05b"
+msgid "What Government Defense operation? What are you talking about?"
+msgstr ""
+
+#. Key:	John05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05c"
+msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgstr ""
+
+#. Key:	John06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06a"
+msgid "Oh no... no no no no no... no this isn't happening!"
+msgstr ""
+
+#. Key:	John06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06b"
+msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
+msgstr ""
+
+#. Key:	John06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06c"
+msgid "Anyone on this frequency just go! Why the hell would they do this?"
+msgstr ""
+
+#. Key:	Copyright01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright01"
+msgid "Half-Life is a registered trademark of Valve Corporation"
+msgstr ""
+
+#. Key:	Copyright02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright02"
+msgid "Estranged is copyright © 2011 Alan Edwardes"
+msgstr ""
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph01"
+msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
+msgstr ""
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph02"
+msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
+msgstr ""
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph03"
+msgid "To get help, report bugs and submit feedback, join the community!"
+msgstr ""
+
+#. Key:	ActiveLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,ActiveLabel"
+msgid "ACTIVE"
+msgstr ""
+
+#. Key:	RadioSignalJammerLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
+msgid "UHF SIGNAL JAMMER STATUS:"
+msgstr ""
+
+#. Key:	RemoteOverrideLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
+msgid "REMOTE OVERRIDE"
+msgstr ""
+
+#. Key:	LoadingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,LoadingLabel"
+msgid "LOADING"
+msgstr "LOADING"
+
+#. Key:	DockEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingSubtitle"
+msgid "DAYS BEFORE THE EVENTS OF ACT I"
+msgstr "چند روز قبل از اتفاقات بخش یک"
+
+#. Key:	DockEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingTitle"
+msgid "FAIR ISLE, SHETLAND, SCOTLAND"
+msgstr "اسکاتلند، شتلند، جزیره‌ی فیر"
+
+#. Key:	HangarPendingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarPendingLabel"
+msgid "PENDING"
+msgstr ""
+
+#. Key:	HangarRoundLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarRoundLabel"
+msgid "ROUND"
+msgstr ""
+
+#. Key:	RangeLevelLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeLevelLabel"
+msgid "LEVEL"
+msgstr "مرحله"
+
+#. Key:	RangePointsLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangePointsLabel"
+msgid "POINTS"
+msgstr "امتیاز"
+
+#. Key:	RangeTimeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeTimeLabel"
+msgid "TIME"
+msgstr "زمان"
+
+#. Key:	TheFallEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingSubtitle"
+msgid "HOURS AFTER THE EVENTS OF ACT I"
+msgstr "ساعت‌ها بعد از اتفاقات بخش اول"
+
+#. Key:	TheFallEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingTitle"
+msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
+msgstr "دریای نروژ، جزره‌ی ناشناس"
+

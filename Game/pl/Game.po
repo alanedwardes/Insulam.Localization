@@ -1,0 +1,2388 @@
+﻿# Game Polish translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-07-04 19:05\n"
+"PO-Revision-Date: 2019-07-04 19:05\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key:	HintCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintCrouch"
+msgid "Crouch under"
+msgstr "Kucnij pod"
+
+#. Key:	HintFireM9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFireM9"
+msgid "Fire M9"
+msgstr "Strzel M9"
+
+#. Key:	HintFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlashlight"
+msgid "Toggle flashlight"
+msgstr "Włącz latarkę"
+
+#. Key:	HintFlee
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlee"
+msgid "Flee"
+msgstr "Uciekaj"
+
+#. Key:	HintGameSaved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintGameSaved"
+msgid "Game saved"
+msgstr "Gra zapisana"
+
+#. Key:	HintInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintInteract"
+msgid "Interact"
+msgstr "Interakcja"
+
+#. Key:	HintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintJump"
+msgid "Jump up"
+msgstr "Podskocz"
+
+#. Key:	HintLoading
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintLoading"
+msgid "Loading"
+msgstr "Ładowanie"
+
+#. Key:	HintMove
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintMove"
+msgid "Move around"
+msgstr "Rozejrzyj się"
+
+#. Key:	HintOpenGate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintOpenGate"
+msgid "Open gate"
+msgstr "Otwórz bramę"
+
+#. Key:	HintPickaxe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickaxe"
+msgid "Pickaxe"
+msgstr "Kilof"
+
+#. Key:	HintPickUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickUp"
+msgid "Pick up object"
+msgstr "Podnieś przedmiot"
+
+#. Key:	HintSprintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintSprintJump"
+msgid "Run and Jump"
+msgstr "Biegnij i skacz"
+
+#. Key:	HintThrowRock
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintThrowRock"
+msgid "Throw rock"
+msgstr "Rzuć kamieniem"
+
+#. Key:	HintTurnOnTv
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintTurnOnTv"
+msgid "Turn on TV"
+msgstr "Włącz telewizor"
+
+#. Key:	HintUseMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintUseMouse"
+msgid "Control computer"
+msgstr "Użyj komputera"
+
+#. Key:	BindingNotSet
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingNotSet"
+msgid "None"
+msgstr "Brak"
+
+#. Key:	BindingPressKey
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressKey"
+msgid "Press a key"
+msgstr "Naciśnij przycisk"
+
+#. Key:	ButtonAA
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAA"
+msgid "Anti-Aliasing"
+msgstr "Anti-Aliasing"
+
+#. Key:	ButtonAdvanced
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAdvanced"
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#. Key:	ButtonApply
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonApply"
+msgid "Apply Changes"
+msgstr "Zastosuj zmiany"
+
+#. Key:	ButtonArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonArcade"
+msgid "Arcade"
+msgstr "Arcade"
+
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr "Automatycznie wykryj ustawienia"
+
+#. Key:	ButtonBack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonBack"
+msgid "Back"
+msgstr "Wstecz"
+
+#. Key:	ButtonChapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter1"
+msgid "Chapter 1"
+msgstr "Rozdział 1"
+
+#. Key:	ButtonChapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter2"
+msgid "Chapter 2"
+msgstr "Rozdział 2"
+
+#. Key:	ButtonChapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter3"
+msgid "Chapter 3"
+msgstr "Rozdział 3"
+
+#. Key:	ButtonChapter4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter4"
+msgid "Chapter 4"
+msgstr "Rozdział 4"
+
+#. Key:	ButtonControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControlOptions"
+msgid "Controls"
+msgstr "Sterowanie"
+
+#. Key:	ButtonCredits
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonCredits"
+msgid "Load Credits"
+msgstr "Napisy końcowe"
+
+#. Key:	ButtonEffects
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonEffects"
+msgid "Effects"
+msgstr "Efekty"
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExit"
+msgid "Exit"
+msgstr "Wyjdź"
+
+#. Key:	ButtonExitToMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExitToMenu"
+msgid "Exit to Menu"
+msgstr "Wyjdź do Menu"
+
+#. Key:	ButtonExtras
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExtras"
+msgid "Extras"
+msgstr "Dodatki"
+
+#. Key:	ButtonFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFeedback"
+msgid "Send Feedback"
+msgstr "Wyślij opinię"
+
+#. Key:	ButtonFoliage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFoliage"
+msgid "Foliage"
+msgstr "Foliage"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr "Gameplay"
+
+#. Key:	ButtonGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGraphicsOptions"
+msgid "Graphics"
+msgstr "Grafika"
+
+#. Key:	ButtonGuides
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGuides"
+msgid "Guides"
+msgstr "Poradniki"
+
+#. Key:	ButtonHordeWarehouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonHordeWarehouse"
+msgid "Warehouse Horde"
+msgstr "Warehouse Horde"
+
+#. Key:	ButtonJoinDiscord
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonJoinDiscord"
+msgid "Join Discord"
+msgstr "Dołącz do Discorda"
+
+#. Key:	ButtonLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr "Wczytaj grę"
+
+#. Key:	ButtonNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonNewGame"
+msgid "New Game"
+msgstr "Nowa gra"
+
+#. Key:	ButtonPostProcess
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPostProcess"
+msgid "Post-process"
+msgstr "Post-processing"
+
+#. Key:	ButtonPrelude
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPrelude"
+msgid "Prelude"
+msgstr "Wstęp"
+
+#. Key:	ButtonRange
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonRange"
+msgid "Shooting Range"
+msgstr "Strzelnica"
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonResume"
+msgid "Resume Game"
+msgstr "Wznów grę"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr "Zapisz grę"
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr "Zapisz / Wczytaj"
+
+#. Key:	ButtonScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonScreenOptions"
+msgid "Screen"
+msgstr "Ekran"
+
+#. Key:	ButtonShadows
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShadows"
+msgid "Shadows"
+msgstr "Cienie"
+
+#. Key:	ButtonSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSoundOptions"
+msgid "Sound"
+msgstr "Dźwięk"
+
+#. Key:	ButtonSteamForums
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSteamForums"
+msgid "Steam Forums"
+msgstr "Forumy Steam"
+
+#. Key:	ButtonTextures
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonTextures"
+msgid "Textures"
+msgstr "Tekstruy"
+
+#. Key:	ButtonViewDistance
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonViewDistance"
+msgid "View Distance"
+msgstr "Dystans wyświetlania"
+
+#. Key:	CheckboxCommentary
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxCommentary"
+msgid "In-Game Commentary"
+msgstr "In-Game Commentary"
+
+#. Key:	CheckboxDisableAmbientOcclusion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableAmbientOcclusion"
+msgid "Disable Ambient Occlusion"
+msgstr "Wyłącz Ambient Occlusion"
+
+#. Key:	CheckboxDisableDepthOfField
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableDepthOfField"
+msgid "Disable Depth of Field"
+msgstr "Wyłącz głębie ostrości"
+
+#. Key:	CheckboxDisableHighlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHighlight"
+msgid "Disable Object Highlight"
+msgstr "Wyłącz podświetlanie celów"
+
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr "Wyłącz HUD"
+
+#. Key:	CheckboxDisableMotionBlur
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableMotionBlur"
+msgid "Disable Motion Blur"
+msgstr "Wyłącz Motion Blur"
+
+#. Key:	CheckboxDisableSceneFringe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSceneFringe"
+msgid "Disable Scene Fringe"
+msgstr "Disable Scene Fringe"
+
+#. Key:	CheckboxDisableSubtitles
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSubtitles"
+msgid "Disable Subtitles"
+msgstr "Wyłącz napisy"
+
+#. Key:	CheckboxDisableVignette
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableVignette"
+msgid "Disable Vignette"
+msgstr "Wyłącz winietowanie"
+
+#. Key:	CheckboxEnableStatsForNerds
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableStatsForNerds"
+msgid "Enable On-Screen Stats"
+msgstr "Włącz statystyki ekranowe"
+
+#. Key:	CheckboxInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertMouse"
+msgid "Invert Mouse"
+msgstr "Odwróć mysz"
+
+#. Key:	CheckboxLaptopMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopMode"
+msgid "Laptop Mode"
+msgstr "Tryb laptopowy"
+
+#. Key:	CheckboxLaptopModeHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopModeHelp"
+msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr "Ograniczy FPSy do 30 aby zapobiec przegrzaniom sprzętu podczas grania."
+
+#. Key:	CheckboxVSync
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxVSync"
+msgid "VSync"
+msgstr "VSync"
+
+#. Key:	DropdownAAMethod
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownAAMethod"
+msgid "AA Method"
+msgstr "Metoda AA"
+
+#. Key:	DropdownCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownCulture"
+msgid "Language"
+msgstr "Język"
+
+#. Key:	DropdownItemQualityModeEpic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeEpic"
+msgid "Epic"
+msgstr "Epickie"
+
+#. Key:	DropdownItemQualityModeHigh
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeHigh"
+msgid "High"
+msgstr "Wysokie"
+
+#. Key:	DropdownItemQualityModeLow
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeLow"
+msgid "Low"
+msgstr "Niskie"
+
+#. Key:	DropdownItemQualityModeMedium
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeMedium"
+msgid "Medium"
+msgstr "Średnie"
+
+#. Key:	DropdownItemWindowModeFullscreen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeFullscreen"
+msgid "Fullscreen"
+msgstr "Pełny ekran"
+
+#. Key:	DropdownItemWindowModelBorderless
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModelBorderless"
+msgid "Borderless"
+msgstr "Pełny ekran, w oknie"
+
+#. Key:	DropdownItemWindowModeWindowed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeWindowed"
+msgid "Window"
+msgstr "W oknie"
+
+#. Key:	DropdownResolution
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownResolution"
+msgid "Resolution"
+msgstr "Rozdzielczość"
+
+#. Key:	DropdownWindowMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownWindowMode"
+msgid "Window Mode"
+msgstr "Tryb okna"
+
+#. Key:	GameTag
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTag"
+msgid "ACT II EARLY ACCESS"
+msgstr "AKT II Wczesny dostęp"
+
+#. Key:	GameTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTitle"
+msgid "ESTRANGED"
+msgstr "ESTRANGED"
+
+#. Key:	LabelEnterCheat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelEnterCheat"
+msgid "Enter Cheat"
+msgstr "Wprowadź cheata"
+
+#. Key:	LabelExperimentalOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptions"
+msgid "Experimental Options"
+msgstr "Opcje eksperymentalne"
+
+#. Key:	LabelExperimentalOptionsHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptionsHelp"
+msgid "These options are experimental and may be lost."
+msgstr "Te opcje są eksperymentalne i mogą zostać usunięte."
+
+#. Key:	MenuArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuArcade"
+msgid "ARCADE"
+msgstr "ARCADE"
+
+#. Key:	MenuControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuControlOptions"
+msgid "CONTROLS"
+msgstr "STEROWANIE"
+
+#. Key:	MenuExtraOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuExtraOptions"
+msgid "EXTRAS"
+msgstr "DODATKI"
+
+#. Key:	MenuGameplay
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGameplay"
+msgid "GAMEPLAY"
+msgstr "ROZGRYWKA"
+
+#. Key:	MenuGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuGraphicsOptions"
+msgid "GRAPHICS"
+msgstr "GRAFIKA"
+
+#. Key:	MenuLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuLoadGame"
+msgid "LOAD GAME"
+msgstr "WCZYTAJ GRĘ"
+
+#. Key:	MenuNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuNewGame"
+msgid "NEW GAME"
+msgstr "NOWA GRA"
+
+#. Key:	MenuOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuOptions"
+msgid "OPTIONS"
+msgstr "USTAWIENIA"
+
+#. Key:	MenuSaveLoadOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSaveLoadOptions"
+msgid "SAVE / LOAD"
+msgstr "ZAPISZ / WCZYTAJ"
+
+#. Key:	MenuScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuScreenOptions"
+msgid "SCREEN"
+msgstr "EKRAN"
+
+#. Key:	MenuSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,MenuSoundOptions"
+msgid "SOUND"
+msgstr "DŹWIĘK"
+
+#. Key:	OptionsButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,OptionsButton"
+msgid "Options"
+msgstr "Ustawienia"
+
+#. Key:	SliderControllerSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderControllerSensitivity"
+msgid "Controller Sensitivity"
+msgstr "Czułość kontrolera"
+
+#. Key:	SliderEffectsVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderEffectsVolume"
+msgid "Effects Volume"
+msgstr "Głośność efektów"
+
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr "Pole widzenia"
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr "Gamma"
+
+#. Key:	SliderMouseSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "Czułość myszy"
+
+#. Key:	SliderMusicVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMusicVolume"
+msgid "Music Volume"
+msgstr "Głośność muzyki"
+
+#. Key:	SliderScreenPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderScreenPercentage"
+msgid "Screen Percentage"
+msgstr "Screen Percentage"
+
+#. Key:	SliderVoiceVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderVoiceVolume"
+msgid "Voice Volume"
+msgstr "Głośność głosów"
+
+#. Key:	TooltipInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipInvertMouse"
+msgid "Invert the mouse Y axis"
+msgstr "Odwróć oś Y myszy"
+
+#. Key:	ArcheologistDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part1"
+msgid "The skeletons here are confirmed to be sailors and pirates."
+msgstr "Szkielety tutaj są potwierdzone jako marynarze i piraci."
+
+#. Key:	ArcheologistDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part2"
+msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
+msgstr "Przypuszczamy, że uciekli z brytyjskiej marynarki wojennej i szukali schronienia na wyspie."
+
+#. Key:	ArcheologistDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part1"
+msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgstr "Piraci i marynarze byli zaangażowani w jakiś wewnętrzny konflikt."
+
+#. Key:	ArcheologistDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part2"
+msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
+msgstr "Zakładaliśmy, że powodem były cenne artefakty, które wydobyliśmy z tej jaskini."
+
+#. Key:	ArcheologistDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part3"
+msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
+msgstr "Uważamy, że były one wtedy prawdopodobnie inebriowane, a na niektórych kościach znajdują się ślady ugryzień, które wydają się być ludzkie."
+
+#. Key:	ArcheologistDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part1"
+msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgstr "Musieliśmy wyodrębnić część zespołu, ponieważ zachorowali. Zakładamy, że naruszyli coś w pobliżu ciał."
+
+#. Key:	ArcheologistDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part2"
+msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
+msgstr "Od teraz będziemy używać naszych kombinezonów ochronnych HAZMAT. Wiemy, że nie jest bezpiecznie."
+
+#. Key:	GarethThomasDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part1"
+msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "Z tej strony Gareth Thomas. Przeanalizowaliśmy próbki glonów"
+
+#. Key:	GarethThomasDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part2"
+msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr "i okazało się, że świecenie jest spowodowane przez naturalnie występujący plankton morski w okolicy."
+
+#. Key:	GarethThomasDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part3"
+msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
+msgstr "Nie spodziewamy się, że nasze użycie glonów zostanie w ogóle zakłócone przez plankton."
+
+#. Key:	GarethThomasDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part4"
+msgid "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr "I uważamy to za całkowicie nieszkodliwe, nie sądzimy, że jest to problem."
+
+#. Key:	LiamJonesDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part1"
+msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr "Z tej strony uh, Liam Jones, dziennik głosowy, #1, uh"
+
+#. Key:	LiamJonesDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part2"
+msgid "We just started studying the algae, and uh"
+msgstr "Właśnie zaczęliśmy studiować algi, i.. uh"
+
+#. Key:	LiamJonesDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part3"
+msgid "We realised that it actually glows if you leave it alone for a little while"
+msgstr "Zdaliśmy sobie sprawę, że świeci, kiedy zostawisz ją samą na jakiś czas"
+
+#. Key:	LiamJonesDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part4"
+msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr "Więc, uh, to superl! Uh, mam tu ze sobą małą próbkę, którą..."
+
+#. Key:	LiamJonesDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part5"
+msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr "…na chwilę zostawię w moim biurze, żeby zobaczyć, co się z nią stanie."
+
+#. Key:	LiamJonesDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part1"
+msgid "This is the uh, Liam Jones uh, diary #2"
+msgstr "Z tej strony uh, Liam Jones uh, dziennik #2"
+
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "po prostu zrób to Hawthorne, daj im znać, że zgubiłem ją i potrzebuję jeszcze jednego"
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "albo mógłbyś nawet powiedzieć, że potrzebuję zapasowej odznaki, innej... Nie jestem pewien, gdzie się podziała"
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr "…po prostu potrzebuję kolejnej odznaki, to w zasadzie tyle"
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr "więc gdybyś mógł napisać do ludzi od odznak, Hawthorne"
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr "i, uh, załatwić mi nową odznakę, która byłaby dobra. OK."
+
+#. Key:	LiamJonesDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part2"
+msgid "The samples are doing OK, we're just observing them now to see what happens"
+msgstr "Próbki zachowują się dobrze, tylko obserwujemy je teraz, żeby zobaczyć, co się stanie"
+
+#. Key:	LiamJonesDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part3"
+msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr "Centrala potrzebuje kilka próbek, więc w niektórych pudełkach je tam wyślemy"
+
+#. Key:	LiamJonesDiary2Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part4"
+msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr "Poza tym, Hawthorne, kiedy masz okazję, zgubiłem moją odznakę..."
+
+#. Key:	LiamJonesDiary2Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part5"
+msgid "but when you talk to the badge people just say um... like uh..."
+msgstr "ale kiedy będziesz mówił do ludzi od odznak, po prostu powiedz... jak, uh..."
+
+#. Key:	LiamJonesDiary2Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part6"
+msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr "Nie wiem, ktoś- nie, nie, ktoś tego nie wziął, to zły powód"
+
+#. Key:	LiamJonesDiary2Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part7"
+msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr "Lis, wkradł się i wziął moją odznakę, i, um, teraz nie mogę dostać się do głównej placówki"
+
+#. Key:	LiamJonesDiary2Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part8"
+msgid "Um so, if you could just tell them that... because last time it happened, "
+msgstr "Um więc, gdybyś mógł im to powiedzieć... bo ostatnim razem, "
+
+#. Key:	LiamJonesDiary2Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part9"
+msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
+msgstr "powiedzieli, że to moja wina i niechętnie go wymienili więc"
+
+#. Key:	LiamJonesDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part1"
+msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr "Z tej strony Liam Jones, inżynier ochrony na miejscu - właśnie przyjęliśmy"
+
+#. Key:	LiamJonesDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part2"
+msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr "Dr Fredericka Prezelle, do pokoju obserwacyjnego, uh, stał się agresywny"
+
+#. Key:	LiamJonesDiary3Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part3"
+msgid "and attacked one of my members of staff so we're going to keep him"
+msgstr "i zaatakował jednego z moich pracowników, więc zatrzymamy go"
+
+#. Key:	LiamJonesDiary3Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part4"
+msgid "under observation and probably move him off the island as soon as we can."
+msgstr "pod obserwacją i prawdopodobnie przeniesiemy go z wyspy tak szybko, jak to możliwe."
+
+#. Key:	LiamJonesDiary3Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part5"
+msgid "We're not sure what caused this."
+msgstr "Nie jesteśmy pewni co to spowodowało."
+
+#. Key:	ActionConsole
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionConsole"
+msgid "Console"
+msgstr "Konsola"
+
+#. Key:	ActionCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionCrouch"
+msgid "Crouch"
+msgstr "Kucnij"
+
+#. Key:	ActionFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionFlashlight"
+msgid "Toggle Flashlight"
+msgstr "Włącz latarkę"
+
+#. Key:	ActionInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionInteract"
+msgid "Interact"
+msgstr "Interakcja"
+
+#. Key:	ActionJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionJump"
+msgid "Jump"
+msgstr "Skok"
+
+#. Key:	ActionMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMenu"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	ActionMoveBackward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveBackward"
+msgid "Move Backwards"
+msgstr "Tył"
+
+#. Key:	ActionMoveForward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveForward"
+msgid "Move Forwards"
+msgstr "Przód"
+
+#. Key:	ActionMoveLeft
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveLeft"
+msgid "Move Left"
+msgstr "Ruch w lewo"
+
+#. Key:	ActionMoveRight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveRight"
+msgid "Move Right"
+msgstr "Ruch w prawo"
+
+#. Key:	ActionPrimaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
+msgid "Primary Attack"
+msgstr "Primary Attack"
+
+#. Key:	ActionQuickLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickLoad"
+msgid "Quick Load"
+msgstr "Szybkie wczytanie"
+
+#. Key:	ActionQuickSave
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickSave"
+msgid "Quick Save"
+msgstr "Szybki zapis"
+
+#. Key:	ActionReload
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionReload"
+msgid "Reload"
+msgstr "Przeładuj broń"
+
+#. Key:	ActionSecondaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
+msgid "Secondary Attack"
+msgstr "Atak dodatkowy"
+
+#. Key:	ActionSprint
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSprint"
+msgid "Sprint"
+msgstr "Sprint"
+
+#. Key:	CallElevator
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,CallElevator"
+msgid "CALL ELEVATOR"
+msgstr "WEZWIJ WINDĘ"
+
+#. Key:	EnterTwoFactor01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
+msgid "Enter two-factor authentication code to override"
+msgstr "Wprowadź dwuskładnikowy kod uwierzytelniający, aby go uzyskać dostęp"
+
+#. Key:	LockdownBody01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody01"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr "WYKRYTA ANOMALIA\r\nOverrides located in areas A and B"
+
+#. Key:	LockdownBody02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody02"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr "OBSZAR WYZNACZONY JAKO BEZPIECZNY\r\nSTANOWISKO ZABLOKOWANE"
+
+#. Key:	LockdownBody03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody03"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr "Wprowadź hasło\r\nWSKAZÓWKA: Liczba próbek"
+
+#. Key:	LockdownTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle01"
+msgid "LOCKDOWN ENABLED"
+msgstr "BLOKADA WŁĄCZONA"
+
+#. Key:	LockdownTitle02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle02"
+msgid "LOCKDOWN DISABLED"
+msgstr "BLOKADA WYŁĄCZONA"
+
+#. Key:	PhoneTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,PhoneTitle01"
+msgid "AUTH CODE"
+msgstr "KOD AUTORYZUJĄCY"
+
+#. Key:	ReSendCode
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,ReSendCode"
+msgid "RE-SEND CODE"
+msgstr "WYŚLIJ KOD"
+
+#. Key:	CaptureGuard01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01a"
+msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgstr "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+
+#. Key:	CaptureGuard01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01b"
+msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
+msgstr "Jesteś hańbą. Myślisz, że wiesz, co tu się dzieje? Myślisz, że to coś, co możesz zatrzymać?"
+
+#. Key:	CaptureGuard01c
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01c"
+msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
+msgstr "Jesteś owadem. Owadem, którego wielonarodowa korporacja, taka jak Arque, nie ma problemu z zabiciem."
+
+#. Key:	CaptureGuard01d
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01d"
+msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your mangled body inside."
+msgstr "Pozwoliliśmy sobie przeszukać twoją chatę na Wyspach Szetlandzkich. Naprawdę szkoda, że kabina spłonęła, z twoim zmasakrowanym ciałem w środku."
+
+#. Key:	CaptureGuard01e
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01e"
+msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
+msgstr "Co tu robisz? Myślisz, że możesz zmienić to, co się dzieje? Chronimy świat, nie rozumiesz tego?"
+
+#. Key:	CaptureGuard01f
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01f"
+msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
+msgstr "To wszystko jest częścią koniecznego planu zapobiegawczego Arque, w który Ty NIE BĘDZIESZ się wtrącał."
+
+#. Key:	CaptureGuard01g
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01g"
+msgid "Thousands, millions, billions of people. You have no idea what we're protecting here. The \"greater good\" doesn't quite cover it."
+msgstr "Tysiące, miliony, miliardy ludzi. Nie masz pojęcia, co my tu chronimy. To \"większe dobro\" nie do końca to pokrywa."
+
+#. Key:	CaptureGuard01h
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01h"
+msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
+msgstr "Powiedz mi, z kim współpracujesz. W przeciwnym razie piekło nie jest wystarczająco ostrym słowem, które opisywałoby ból, przez który zostaniesz poddany."
+
+#. Key:	CaptureGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard02"
+msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+msgstr "Kto by pomyślał? Sokol-Glockner, jeden z największych prywatnych ochroniarzy na świecie, wie, jak zadać ból."
+
+#. Key:	Chat01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat01"
+msgid "Unknown: Hello?"
+msgstr "Nieznajomy: Halo?"
+
+#. Key:	Chat02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat02"
+msgid "You: hi"
+msgstr "Ty: cześć"
+
+#. Key:	Chat03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat03"
+msgid "Unknown: Hello"
+msgstr "Nieznajomy: cześć"
+
+#. Key:	Chat04
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat04"
+msgid "You: yes, we did that bit"
+msgstr "Ty: tak, zrobiliśmy kawałek"
+
+#. Key:	Chat05
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat05"
+msgid "You: ?"
+msgstr "Ty: ?"
+
+#. Key:	Chat06
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat06"
+msgid "You: can I help you?"
+msgstr "Ty: jak mogę ci pomóc?"
+
+#. Key:	Chat07
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat07"
+msgid "You: are you still there? hello?"
+msgstr "Ty: nadal tam jesteś? halo?"
+
+#. Key:	Chat08
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat08"
+msgid "Unknown: mic?"
+msgstr "Nieznajomy: mikrofon?"
+
+#. Key:	Chat09
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat09"
+msgid "You: hello, what do you want?"
+msgstr "Ty: halo, czego chcesz?"
+
+#. Key:	Chat10
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat10"
+msgid "You: ??? just tell me what you need"
+msgstr "Ty: ??? po prostu mi powiedz czego chcesz"
+
+#. Key:	Chat11
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat11"
+msgid "You: what is your problem? can you please stop bugging me now, i need to work"
+msgstr "Ty: masz jakiś problem? możesz mnie przestać mnie wkurzać? muszę pracować"
+
+#. Key:	Chat12
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat12"
+msgid "You: STOP IT FFS"
+msgstr "Ty: PRZESTAŃ DO KURWY NĘDZY"
+
+#. Key:	Chat13
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat13"
+msgid "You are now offline."
+msgstr "Jesteś teraz offline."
+
+#. Key:	ChatTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,ChatTitle"
+msgid "Chat with Unknown"
+msgstr "Czat z Nieznajomym"
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
+msgid "AGO Facilities"
+msgstr "Placówki AGO"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
+msgid "Air Vent"
+msgstr "Wentylacja powietrza"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email03_Content"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "Witam,\r\n\r\nMamy doniesienia, że wentylacja powietrza w twoim biurze została uszkodzona.\r\n\r\nPrzepraszamy za niedogodności, które to może spowodować.\r\n\r\nDziękuję,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support (wsparcie w zakresie współzawodnictwa w ramach operacji globalnych)"
+
+#. Key:	Email01_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Content"
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr "Witam,\r\n\r\nDziękuję za prośbę o nową odznakę bezpieczeństwa. Twój numer zgłoszenia to AGO15824.\r\n\r\nJakie są kolejne kroki?\r\n\r\nCzłonek zespołu AGO odpowie na Twoje zgłoszenie. Należy pamiętać, że możesz zostać poproszony o podanie dodatkowych informacji w zależności od wagi Twojego zgłoszenia.\r\n\r\nDziękuję,\r\n\r\nArque Global Operations - usługi w zakresie identyfikatorów\r\n\r\nTo jest automatyczna wiadomość e-mail, proszę nie odpowiadać."
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Sender"
+msgid "AGO Badge Services"
+msgstr "AGO - usługi w zakresie identyfikatorów"
+
+#. Key:	Email01_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Subject"
+msgid "Thank you for your request"
+msgstr "Dziękuję za Twoje zgłoszenie"
+
+#. Key:	Email02_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Content"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Witamy Liam,\r\n\r\nOtrzymaliśmy Twoją prośbę o nową odznakę. Ze względu na poziom twojej roli, muszę zweryfikować kilka szczegółów na temat tego, w jaki sposób odznaka została zgubiona.\r\n\r\nProszę odpowiedzieć z jak największą ilością szczegółów na temat zdarzenia.\r\n\r\nDziękuję,\r\n\r\nHugo Webber\r\nStarszy specjalista ds. bezpieczeństwa Arque Global Facilities"
+
+#. Key:	Email02_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Sender"
+msgid "Hugo Webber"
+msgstr "Hugo Webber"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Subject"
+msgid "RE: AGO15824"
+msgstr "RE: AGO15824"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Content"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Liam,\r\n\r\nMógłbyś nakreślić, jak dokładnie twoja odznaka została zgubiona i gdzie jest teraz? Musimy wiedzieć, że nie znajduje się ona poza zakładem - jeżeli jest to bardzo poważny problem dla firmy.\r\n\r\nPrzez lisa rozumiesz dosłownie rude  futrzaste zwierzę? To wydaje się bardzo mało prawdopodobne, twoje twierdzenie, że lis przebił się przez nasze zabezpieczenie w bazie? Z pewnością oznacza to, że nie wykonujesz swojej pracy prawidłowo? Czy to oznacza, że ludzie mogą po prostu spacerować do twojej placówki?\r\n\r\nPonieważ Twoja lokalizacja ma bardzo nierównomierny dostęp do globalnych usług internetowych i do Arque Global VPN, nie jest możliwe zdalne dezaktywowanie aktywnych identyfikatorów.\r\n\r\nPowiedz mi, jak sądzisz, gdzie jest twoja odznaka?\r\n\r\nTwój,\r\n\r\nHugo Webber\r\nStarszy specjalista ds. bezpieczeństwa Arque Global Facilities"
+
+#. Key:	Email03_Quote
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Quote"
+msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgstr "Cześć sorry moja odznaka została zabrana przez lisa , nie jestem do końca pewien gzdie poszedł ale nie mogę więcej otworzyć moich drzwi i wykonywać swojej pracy\r\n\r\ndzięki"
+
+#. Key:	Email03_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Subject"
+msgid "RE: RE: AGO15824"
+msgstr "RE: RE: AGO15824"
+
+#. Key:	Email04_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Content"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr "Zespole,\r\n\r\nW załączniku znajduje się najnowsze wydanie Wentworth Herald. Zwróć uwagę na wzmiankę o Arque - czy musimy to zbadać?\r\n\r\nDla przypomnienia, proszę nie rozmawiać z lokalnymi mediami bez odpowiedniego upoważnienia.\r\n\r\nLucy Beeshaw\r\n\r\nStarszy specjalista PR"
+
+#. Key:	Email04_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Sender"
+msgid "Lucy Beeshaw"
+msgstr "Lucy Beeshaw"
+
+#. Key:	Email04_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Subject"
+msgid "Wentworth Herald #317"
+msgstr "Wentworth Herald #317"
+
+#. Key:	Email_Author
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email_Author"
+msgid "Liam Jones"
+msgstr "Liam Jones"
+
+#. Key:	Chat
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Chat"
+msgid "Chat"
+msgstr "Czat"
+
+#. Key:	CorporateFooter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter01"
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
+msgstr "Proszę, pomyśl zanim wydrukujesz tę wiadomość. Środowisko jest zagrożone. Drzewa są jedną z naszych głównych trosk tutaj, w Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
+
+#. Key:	CorporateFooter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter02"
+msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
+msgstr "Ta wiadomość został zeskanowana przez skaner bezpieczeństwa Arque. Prawdopodobnie nie ma żadnego złośliwego oprogramowania."
+
+#. Key:	Email
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Email"
+msgid "Email"
+msgstr "Email"
+
+#. Key:	OK
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,OK"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	AdditionalContributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AdditionalContributors"
+msgid "ADDITIONAL CONTRIBUTORS"
+msgstr "DODATKOWI WSPÓŁPRACOWNICY"
+
+#. Key:	AndYou
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYou"
+msgid "And You!"
+msgstr "i Ty!"
+
+#. Key:	AndYouTemplated
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYouTemplated"
+msgid "And {name} (You!)"
+msgstr "i {name} (Ty!)"
+
+#. Key:	Chapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter1"
+msgid "Through the Cracks"
+msgstr "Przez szczeliny"
+
+#. Key:	Chapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter2"
+msgid "Post Abandon"
+msgstr "Po porzuceniu"
+
+#. Key:	Chapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter3"
+msgid "Fight or Flight"
+msgstr "Walka albo ucieczka"
+
+#. Key:	CreatedWithUnrealEngine
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,CreatedWithUnrealEngine"
+msgid "Created with Unreal Engine"
+msgstr "Stworzone przy użyciu silnika Unreal Engine"
+
+#. Key:	EstrangedTradeMark
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,EstrangedTradeMark"
+msgid "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr "\"Estranged\" jest znakiem towarowym Alana Edwardesa"
+
+#. Key:	HelpTranslate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,HelpTranslate"
+msgid "Help Translate Too!"
+msgstr "Również pomóż w tłumaczeniu!"
+
+#. Key:	MoreSoon
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,MoreSoon"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "Tymczasowe zakończenie\r\nWięcej zawartości wkrótce!"
+
+#. Key:	Translators
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Translators"
+msgid "TRANSLATORS"
+msgstr "TŁUMACZE"
+
+#. Key:	WithThanksTo
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,WithThanksTo"
+msgid "WITH THANKS TO"
+msgstr "Z PODZIĘKOWANIAMI"
+
+#. Key:	JohnActI01
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI01"
+msgid "Hello?"
+msgstr "Halo?"
+
+#. Key:	JohnActI02
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02"
+msgid "If anyone can hear this, my name is Johnathan Derril."
+msgstr "Jeśli ktokolwiek to słyszy, nazywam się Johnathan Derril."
+
+#. Key:	JohnActI02Alt
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02Alt"
+msgid "If anyone can hear this, I need help."
+msgstr "Jeśli ktokolwiek to słyszy, potrzebuję pomocy."
+
+#. Key:	JohnActI03
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI03"
+msgid "And I need help."
+msgstr "I potrzebuję pomocy."
+
+#. Key:	JohnActI04
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI04"
+msgid "These things, they've taken over the island."
+msgstr "Te rzeczy przejęły wyspę."
+
+#. Key:	JohnActI05
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI05"
+msgid "Anyone, please, I have supplies, but-"
+msgstr "Ktokolwiek, proszę, mam zapasy, ale-"
+
+#. Key:	JohnActI06
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI06"
+msgid "They're out there."
+msgstr "Są na zewnątrz."
+
+#. Key:	LaserScan01
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan01"
+msgid "Welcome to Arque East. Please stand by for biological scan."
+msgstr "Witamy w Arque East. Proszę przygotować się na skanowanie biologiczne."
+
+#. Key:	LaserScan02
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan02"
+msgid "Biological scan completed. No foreign material found."
+msgstr "Skanowanie biologiczne zakończone. Nie znaleziono żadnych obcych materiałów."
+
+#. Key:	LaserScan03
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan03"
+msgid "Please proceed, and have a nice day."
+msgstr "Proszę, kontynuuj i życzę miłego dnia."
+
+#. Key:	CallOut1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,CallOut1"
+msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
+msgstr "“Pracowałem u Phila od ponad 10 lat, a oni po prostu mnie wypuścili. To bezduszne.”"
+
+#. Key:	Headline
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline"
+msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
+msgstr "KORPORACJA ARQUE KOŃCZY NABYWANIE FARMACEUTYKÓW PHILLIPA"
+
+#. Key:	Headline2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline2"
+msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
+msgstr "STATKI \"NIEBEZPIECZNIE BLISKO\" DO KOLIZJI BEZ LATARNI MORSKIEJ"
+
+#. Key:	Headline3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline3"
+msgid "RED ALGAE NUMBERS STRONG"
+msgstr "KONKRETNE LICZBY CZERWONYCH GLONÓW"
+
+#. Key:	Navigation1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Navigation1"
+msgid "MORE ON PAGE 11"
+msgstr "WIĘCEJ NA STRONIE 11"
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph01"
+msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
+msgstr "Przejęcie lokalnej firmy farmaceutycznej Phillip's Pharmaceuticals zostało zakończone pod koniec ubiegłego tygodnia, ponieważ zwolniono wszystkich pięćdziesięciu pracowników, o dwadzieścia osób więcej niż pierwotnie planowano."
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph02"
+msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
+msgstr "Wiadomość pojawiła się, gdy Arque Corporation ogłosiła plany ekspansji w regionie dla nieokreślonych celów badawczych."
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph03"
+msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
+msgstr "Były właściciel i założyciel Phillip Beaumont został wyrzucony z firmy po bardzo publicznym załamaniu, w którym został aresztowany po tym, jak biegał nago po wyspie. Nie byliśmy w stanie skontaktować się z Phillipem w celu uzyskania komentarza, jednak jego była żona opisała przejęcie jako \"prawdopodobnie strategiczne\"."
+
+#. Key:	Paragraph04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph04"
+msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
+msgstr "Wygląda na to, że nowi właściciele nie interesowali się farmaceutykami Phillipa i jego pracownikami, byli natomiast bardziej zainteresowani obiektem i ziemią, na której został zbudowany."
+
+#. Key:	Paragraph05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph05"
+msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
+msgstr "Ben Killamock, były pracownik był sfrustrowany, że odebrano mu środki do życia. Możliwości zatrudnienia na wyspie są niewielkie i dalekie, a dla większości byłych pracowników odejście z wyspy jest jedyną opcją."
+
+#. Key:	Paragraph06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph06"
+msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
+msgstr "Obecni właściciele zamkniętej kopalni Liam Brothers' Mine są również podobno w rozmowach z Arque Corporation. Kopalnia znajduje się w pobliżu zakładu farmaceutycznego Phillipa i wydaje się mieć dla korporacji wartość strategiczną."
+
+#. Key:	Paragraph07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph07"
+msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
+msgstr "Skontaktowaliśmy się z Arque Corporation w celu skomentowania, jednak odmówili oni komentarza, stwierdzając, że \"korporacja przestrzega wszystkich lokalnych przepisów dotyczących zatrudnienia i zaoferowała sprawiedliwe wynagrodzenie dla wszystkich dla wszystkich ponownie zatrudnionych pracowników\". Gazeta odkryła, że \"wynagrodzenie\" jest objęte umową o zachowaniu poufności, a więc rzeczywiste dane poufności, a więc rzeczywiste dane finansowe przekazane byłym pracownikom są nieznane."
+
+#. Key:	Paragraph08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph08"
+msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
+msgstr "Statki przepływające w pobliżu wyspy są \"niebezpiecznie blisko\" katastrofy, z zamknięciem latarni morskiej Redton, jak podaje rybak John Alexanders."
+
+#. Key:	Paragraph09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph09"
+msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
+msgstr "Wentworth Herald relacjonował sagę wyłącznie w zeszłym tygodniu, ponieważ latarnia morska miała zostać zlikwidowana pośród sugestii, że jej koszt przewyższył jej użyteczność."
+
+#. Key:	Paragraph10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph10"
+msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
+msgstr "Departament Dochodzeń w sprawie Ruchu Morskiego odmówił komentarza, po stwierdzeniu w ostatnim tygodniu kwestii, że \"są przekonani, że nie wpłynie to na żaden przepływający ruch\"."
+
+#. Key:	Paragraph11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph11"
+msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
+msgstr "Kolonie glonów znajdujących się na wyspie pozostają silne, ponieważ ostatnie badania wykazują ogromny wzrost ilości tzw. czerwonych alg, unikalny gatunek alg na wyspie nadal przejmuje jeziora i inne naturalne zbiorniki wodne."
+
+#. Key:	Paragraph12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph12"
+msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
+msgstr "Lokalny mieszkaniec Rosie Hardman uważa algi za zagrożenie i byłby szczęśliwszy, gdyby ich nie było, mówiąc: \"To [algi] przejmuje kontrolę, musimy się ich pozbyć jak najszybciej. Nie chcę, aby cała woda na wyspie pozostawała w zastoju. Do czego to w ogóle służy?\"."
+
+#. Key:	Body01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body01"
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "Latarnia morska znajdująca się w Redton na wysuniętym terenie ma zostać zlikwidowana przez miejscowego burmistrza Johna Menna w następstwie dochodzenia przeprowadzonego przez straż przybrzeżną.\r\n\r\n\"Jesteśmy przekonani, że nie wpłynie to na żaden przepływający ruch morski\" - skomentował Bill Hayak z Departamentu Badań nad Ruchem Morskim. \"Choć kiedyś można było zobaczyć statki towarowe tuż przy wybrzeżu Redton, teraz nie ma już mowy o zmianie tras żeglugowych z lądu stałego\" - dodał."
+
+#. Key:	Body02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body02"
+msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
+msgstr "Kiedy zapytany burmistrz odmówił przedstawienia uwag do czasu wydania przez niego oficjalnego oświadczenia o zamknięciu latarni morskiej."
+
+#. Key:	Body03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body03"
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "Mieszkańcy nie są zadowoleni z tej zmiany, jeden z mieszkańców martwił się o jej wpływ na małe statki handlowe, które nadal cumują w porcie na wyspie, mówiąc, że był to ostatni gwóźdź do trumny dla spokojnego doku na wyspie. \"Zatrzymuje to wiele interesów wyspy\", powiedział.\r\n\r\nCzasami latarnia morska jest jedyną rzeczą, która pozwala mniejszym statkom przypływać i handlować z lokalnymi firmami, to coś, o co wszyscy się martwimy - co się dzieje, gdy nie ma już biznesu importowego?"
+
+#. Key:	Body04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body04"
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "Jeden z najbardziej popularnych konkursów Redton wstrzymuje się z coroczną imprezą.\r\n\r\nSpołeczność gromadzi się co roku, aby stworzyć najbardziej przerażające i upiorne strachy na wróble, aby trzymać ptaki z daleka. Zwycięzcą ubiegłorocznego konkursu został ośmioletni chłopiec z lokalnej szkoły Joshua Fenton.\r\n\r\nW tym roku zwycięzca konkursu otrzymuje starannie zrobiony i dobrany wybór ciast od Julii Menn, żony burmistrza, która niedawno otworzyła na wyspie własną cukiernię.\r\n\r\nUroczystości nie kończą się na strachach na wróble, które są wystawiane przez cały tydzień, w całym mieście odbywają się stragany i inne zajęcia. Jeśli nie widziałeś jeszcze strachów na wróble, udaj się na doroczną imprezę, aby zobaczyć, na czym polega całe zamieszanie i spróbować najlepszych potraw i napojów, jakie Redton ma do zaoferowania.\r\n\r\nJeśli nie możesz zejść na dół, aby zobaczyć strachy na wróble, sprawdź następny numer, w którym będziemy mieli pełną listę wpisów."
+
+#. Key:	Body05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body05"
+msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
+msgstr "Minęły dwa tygodnie, odkąd miejscowy pracownik Arque Christian Plithe stracił swojego czarnego kota \"Lucky\". Wzywa każdego, kto zobaczy kota, aby natychmiast się z nim skontaktował."
+
+#. Key:	Body06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body06"
+msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
+msgstr "Trzydziestu pracowników otrzymało wypowiedzenia na początku ubiegłego tygodnia, gdy gigantyczna korporacja Arque sfinalizowała przejęcie lokalnego producenta farmaceutyków Phillips Pharmaceuticals. Wykup następuje po bardzo publicznym załamaniu poprzedniego właściciela, co skutkuje poszukiwaniem inwestorów."
+
+#. Key:	Callout01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Callout01"
+msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
+msgstr "\"ZBYT MAŁO\" STATKÓW, BY BYŁO ZAGROŻENIE DLA BEZPIECZEŃSTWA, MÓWI STRAŻ PRZYBRZEŻNA"
+
+#. Key:	Headline01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline01"
+msgid "LIGHTHOUSE DECOMMISSIONED"
+msgstr "LATARNIA MORSKA ZLIKWIDOWANA"
+
+#. Key:	Headline02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline02"
+msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
+msgstr "TRWA LOKALNA KONKURENCJA NA STRACHU NA WRÓBLE"
+
+#. Key:	Headline03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline03"
+msgid "LOST"
+msgstr "ZAGINIONY"
+
+#. Key:	Headline04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline04"
+msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
+msgstr "KORPORACJA ARQUE NABYWA FARMACEUTYKI PHILLIPSA"
+
+#. Key:	ReadMore01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore01"
+msgid "MORE ON PAGE 7"
+msgstr "WIĘCEJ NA STRONIE 7"
+
+#. Key:	ReadMore02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore02"
+msgid "MORE ON PAGE 10"
+msgstr "WIĘCEJ NA STRONIE 10"
+
+#. Key:	ReadMore
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,ReadMore"
+msgid "MORE INSIDE"
+msgstr "WIĘCEJ W ŚRODKU"
+
+#. Key:	Tagline
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Tagline"
+msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
+msgstr "NAJNOWSZE WIADOMOŚCI, PLOTKI, SPORT, SHOWBIZNES, BIZNES I KRZYŻÓWKI. TO TWOJA GAZETA, TWOJE ŻYCIE."
+
+#. Key:	Title
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Title"
+msgid "WENTWORTH HERALD"
+msgstr "WENTWORTH HERALD"
+
+#. Key:	NewsReport01
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport01"
+msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgstr "Prywatna firma ochroniarska Sokol-Glockner została w tym roku po raz drugi skrytykowana"
+
+#. Key:	NewsReport02
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport02"
+msgid "with its heavy handed use of live ammunition in its protective assignments."
+msgstr "za intensywne używanie ostrej amunicji w zadaniach ochronnych."
+
+#. Key:	NewsReport03
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport03"
+msgid "The company’s policy states that live ammunition is to be used on all assignments,"
+msgstr "Polityka firmy mówi, że ostra amunicja ma być używana przy wszystkich zadaniach,"
+
+#. Key:	NewsReport04
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport04"
+msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
+msgstr "jakkolwiek działacze mówią, że jest to niepotrzebne i podżegają do przemocy, której chcą uniknąć."
+
+#. Key:	NewsReport05
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport05"
+msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
+msgstr "Firma odmówiła komentarza na pytanie, ale inni twierdzą, że to wypadek, który ma się wydarzyć."
+
+#. Key:	NewsReport06
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport06"
+msgid "The government contractor is responsible for a number of overseas operations,"
+msgstr "Wykonawca rządowy jest odpowiedzialny za szereg operacji zagranicznych,"
+
+#. Key:	NewsReport07
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport07"
+msgid "which sources say is why the government is not commenting on this matter."
+msgstr "co potwierdzają źródła, dlaczego rząd nie komentuje tej kwestii."
+
+#. Key:	NewsReport08
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport08"
+msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
+msgstr "Sokol-Glockner trafił na pierwsze strony gazet na początku tego roku z powodu przypadkowego zastrzelenia"
+
+#. Key:	NewsReport09
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport09"
+msgid "an Arque Corporation employee on one of its offshore drilling platforms."
+msgstr "pracownika Arque Corporation na jednej z platform wiertniczych."
+
+#. Key:	NewsReport10
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport10"
+msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
+msgstr "37-letni pracownik pojawił się na plaży po oczywistym wypłynięciu z platformy,"
+
+#. Key:	NewsReport11
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport11"
+msgid "while doctors later confirmed a bullet in his leg."
+msgstr "a lekarze potwierdzili później kulę w jego nodze."
+
+#. Key:	NewsReport12
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport12"
+msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgstr "Sokol-Glockner potwierdził, że kula została wystrzelona z jednej z ich broni,"
+
+#. Key:	NewsReport13
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport13"
+msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
+msgstr "ale odmówił skomentowania sprawy. Upierał się, że współpracował z odpowiednimi władzami."
+
+#. Key:	NewsReport14
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport14"
+msgid "Weather now - storm Edwin continues to make landfall,"
+msgstr "Pogoda teraz, burza Edwin zbliża się do lądu,"
+
+#. Key:	NewsReport15
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport15"
+msgid "but today provides residents in the north with a day of calm."
+msgstr "ale dzisiaj zapewnia mieszkańcom na północy spokojny dzień."
+
+#. Key:	NewsReport16
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport16"
+msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
+msgstr "Meteorolodzy doradzają wszystkim w tym rejonie, że najgorsza burza jeszcze nie nadeszła,"
+
+#. Key:	NewsReport17
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport17"
+msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
+msgstr "i powinni przygotować się, napełniając wanny wodą i składując pożywienie na co najmniej dwa dni."
+
+#. Key:	NewsReport18
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport18"
+msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr "To wszystko ode mnie, dołącz do nas jutro o siódmej na śniadanie."
+
+#. Key:	ArqueBroadcast01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01a"
+msgid "This is an automated message from Arque Corporation."
+msgstr "To jest automatyczna wiadomość od Arque Corporation."
+
+#. Key:	ArqueBroadcast01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01b"
+msgid "Mandatory curfew is in effect. Please stay inside."
+msgstr "Obowiązkowa godzina policyjna obowiązuje. Proszę pozostać w środku."
+
+#. Key:	JohnBroadcast02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02a"
+msgid "If there's ANYONE listening to this, I need help."
+msgstr "Jeśli KTOKOLWIEK tego słucha, potrzebuję pomocy."
+
+#. Key:	JohnBroadcast02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02b"
+msgid "They're broadcasting a curfew message, but..."
+msgstr "Nadają godzinę policyjną, ale..."
+
+#. Key:	JohnBroadcast02c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02c"
+msgid "I don't understand why. Is it a malfunction?"
+msgstr "Nie rozumiem dlaczego. Czy to usterka?"
+
+#. Key:	JohnBroadcast02d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02d"
+msgid "God I hope they're not trying to cover this up..."
+msgstr "Boże, mam nadzieję, że nie próbują tego ukryć...."
+
+#. Key:	JohnBroadcast03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03a"
+msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgstr "Będę tylko.... kontynuować transmisję, dopóki nie będę mógł dłużej."
+
+#. Key:	JohnBroadcast03b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03b"
+msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
+msgstr "Przepływające statki, samoloty... COŚ musi to odebrać."
+
+#. Key:	JohnBroadcast04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04a"
+msgid "I was split up from my wife and daughter when the things came."
+msgstr "Zostałem rozdzielony z żoną i córką, kiedy to wszystko się zaczęło."
+
+#. Key:	JohnBroadcast04b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04b"
+msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
+msgstr "Byliśmy na wakacjach... na wakacjach! Nikt nie jest na to przygotowany. Nikt nie może być."
+
+#. Key:	JohnBroadcast05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05a"
+msgid "I know how to fix radios... not much else."
+msgstr "Wiem, jak naprawiać radia... niewiele więcej."
+
+#. Key:	JohnBroadcast05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05b"
+msgid "A fisherman crashed on the docks near to where I am."
+msgstr "Rybak rozbił się o doki w pobliżu miejsca, w którym jestem."
+
+#. Key:	JohnBroadcast05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05c"
+msgid "They were fine, I gave them supplies, and told them how to try and stop this."
+msgstr "Były w porządku, dałem im zapasy i powiedziałem im, jak spróbować to powstrzymać."
+
+#. Key:	JohnBroadcast05d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05d"
+msgid "I don't think they're coming back though. I keep thinking I could have done more."
+msgstr "Nie sądzę, żeby jednak wrócili. Wciąż myślę, że mogłem zrobić więcej."
+
+#. Key:	JohnBroadcast06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06a"
+msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr "Proszę, KTOKOLWIEK tego słucha. Jeśli uważasz, że tu jest źle... jest gorzej."
+
+#. Key:	JohnBroadcast06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06b"
+msgid "We need the military. Why has no one come?"
+msgstr "Potrzebujemy wojska. Dlaczego nikt nie przyszedł?"
+
+#. Key:	JohnBroadcast06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06c"
+msgid "That company must be doing something to stop the communication."
+msgstr "Ta firma musi robić coś, co powstrzymuje komunikację."
+
+#. Key:	JohnBroadcast07a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07a"
+msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgstr "Dlaczego nikt nas nie sprawdził? To jest mała wyspa, ale są jeszcze ludzie..."
+
+#. Key:	JohnBroadcast07b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07b"
+msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
+msgstr "Żałuję, że zarezerwowaliśmy te wakacje... gdybym mógł cofnąć kilka ostatnich miesięcy... Boże..."
+
+#. Key:	JohnBroadcast07c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07c"
+msgid "...there's no point playing \"what if\"."
+msgstr "...nie ma sensu mówić \"co jeśli\"."
+
+#. Key:	CoastGuard01
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard01"
+msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgstr "Z tej strony Norweska Straż Przybrzeżna. Proszę podać swoje współrzędne."
+
+#. Key:	CoastGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard02"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	CoastGuard03
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard03"
+msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgstr "Muszę was poinformować... na waszym stanowisku trwa rządowa operacja obronna."
+
+#. Key:	CoastGuard04
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard04"
+msgid "We are requesting clearance. Stand by."
+msgstr "Prosimy o pozwolenie. Przygotować się."
+
+#. Key:	Dispatcher01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01a"
+msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgstr "ROZPOCZĄĆ WYDALANIE, OCZYŚCIĆ OBSERWATORA"
+
+#. Key:	Dispatcher01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01b"
+msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
+msgstr "72 STOPNIE, 59 MINUT I 6 SEKUND NA PÓŁNOC, 2 STOPNIE, 51 MINUT I 54 SEKUNDY NA WSCHÓD"
+
+#. Key:	John01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01a"
+msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgstr "Czekaj, co to... czy to radio? Halo? Halo! O Boże, tak, zrobiłeś to!"
+
+#. Key:	John01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01b"
+msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
+msgstr "Jest tam kto?! To jest SOS, powtarzam, SOS"
+
+#. Key:	John02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02a"
+msgid "Does anyone copy? The island has been overrun."
+msgstr "Czy ktoś mnie słyszy? Wyspa została opanowana."
+
+#. Key:	John02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02b"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgstr "Korporacja Arque zatrzymała wszystkie wiadomości z wyspy. Potrzebujemy NATYCHMIASTOWEGO wsparcia militarnego!"
+
+#. Key:	John03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John03a"
+msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgstr "Jesteśmy na około 72 stopnie, 59 minut i 6 sekund na północ i 2 stopnie, 51 minut i 54 sekundy na wschód."
+
+#. Key:	John04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John04a"
+msgid "Uh, it's John."
+msgstr "Uh, to John."
+
+#. Key:	John05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05a"
+msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgstr "Halo! Halo? Straż przybrzeżna?! Jest tam kto?"
+
+#. Key:	John05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05b"
+msgid "What Government Defense operation? What are you talking about?"
+msgstr "Jaka rządowa operacja obronna? O czym ty mówisz?"
+
+#. Key:	John05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05c"
+msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgstr "Jest tam ktoś ze straży przybrzeżnej? Jest tam kto? Niech ktoś odbierze..."
+
+#. Key:	John06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06a"
+msgid "Oh no... no no no no no... no this isn't happening!"
+msgstr "O nie... nie, nie, nie, nie, nie, nie... nie, to się nie dzieje!"
+
+#. Key:	John06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06b"
+msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
+msgstr "Wynocha stąd! Każdy, kto tego słucha, niech opuści wyspę, teraz, za każdą cenę!"
+
+#. Key:	John06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06c"
+msgid "Anyone on this frequency just go! Why the hell would they do this?"
+msgstr "Ktokolwiek jest na tej częstotliwości po prostu uciekaj! Dlaczego, do diabła, mieliby to zrobić?"
+
+#. Key:	Copyright01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright01"
+msgid "Half-Life is a registered trademark of Valve Corporation"
+msgstr "Half-Life jest zastrzeżonym znakiem towarowym Valve Corporation"
+
+#. Key:	Copyright02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright02"
+msgid "Estranged is copyright © 2011 Alan Edwardes"
+msgstr "Estranged jest chroniony prawem autorskim © 2011 Alan Edwardes"
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph01"
+msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
+msgstr "ESTRANGED ACT II został stworzony przez jedną osobę w wolnym czasie, z pomocą projektanta dźwięku, projektanta poziomów, artysty 3D oraz społeczności tłumaczy i testerów"
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph02"
+msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
+msgstr "Ta gra jest niezależną kontynuacją do ESTRANGED ACT I - moda do Half-Life 2 utworzonego w 2014 roku,  dostępnego na Windowsie, MACu i Linuxie za darmo na Steamie"
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph03"
+msgid "To get help, report bugs and submit feedback, join the community!"
+msgstr "Aby uzyskać pomoc, zgłosić błędy i wyrazić opinię, dołącz do społeczności!"
+
+#. Key:	ActiveLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,ActiveLabel"
+msgid "ACTIVE"
+msgstr "AKTYWNY"
+
+#. Key:	RadioSignalJammerLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
+msgid "UHF SIGNAL JAMMER STATUS:"
+msgstr "STAN ZAGŁUSZANIA SYGNAŁU:"
+
+#. Key:	RemoteOverrideLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
+msgid "REMOTE OVERRIDE"
+msgstr "REMOTE OVERRIDE"
+
+#. Key:	LoadingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,LoadingLabel"
+msgid "LOADING"
+msgstr "ŁADOWANIE"
+
+#. Key:	DockEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingSubtitle"
+msgid "DAYS BEFORE THE EVENTS OF ACT I"
+msgstr "KILKA DNI PO WYDARZENIACH AKTU I"
+
+#. Key:	DockEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingTitle"
+msgid "FAIR ISLE, SHETLAND, SCOTLAND"
+msgstr "FAIR ISLE, WYSPY SZETLANDZKIE, SZKOCJA"
+
+#. Key:	HangarPendingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarPendingLabel"
+msgid "PENDING"
+msgstr "W TRAKCIE"
+
+#. Key:	HangarRoundLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarRoundLabel"
+msgid "ROUND"
+msgstr "RUNDA"
+
+#. Key:	RangeLevelLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeLevelLabel"
+msgid "LEVEL"
+msgstr "POZIOM"
+
+#. Key:	RangePointsLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangePointsLabel"
+msgid "POINTS"
+msgstr "PUNKTY"
+
+#. Key:	RangeTimeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeTimeLabel"
+msgid "TIME"
+msgstr "CZAS"
+
+#. Key:	TheFallEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingSubtitle"
+msgid "HOURS AFTER THE EVENTS OF ACT I"
+msgstr "KILKA GODZIN PO WYDARZENIACH AKTU I"
+
+#. Key:	TheFallEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingTitle"
+msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
+msgstr "NIEZNANA WYPSA, MORZE NORWESKIE"
+
