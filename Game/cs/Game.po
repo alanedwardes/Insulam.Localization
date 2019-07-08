@@ -1,17 +1,18 @@
-﻿# Game Czech translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-06 09:28\n"
+"PO-Revision-Date: 2019-07-08 01:48+0200\n"
 "Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1130,22 +1131,34 @@ msgstr "Vložte dvou-fázový autentifikační kód"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
-msgstr "ANOMÁLIE DETEKOVANÁ\nOvládání se nachází v oblastech A a B"
+msgid ""
+"ANOMALY DETECTED\r\n"
+"Overrides located in areas A and B"
+msgstr ""
+"ANOMÁLIE DETEKOVANÁ\n"
+"Ovládání se nachází v oblastech A a B"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
-msgstr "OBLAST OZNAČENÁ ZA BEZPEČNOU\nPRACOVNÍ STANICE UZAMKNUTA"
+msgid ""
+"AREA DESIGNATED SAFE\r\n"
+"WORKSTATION LOCKED"
+msgstr ""
+"OBLAST OZNAČENÁ ZA BEZPEČNOU\n"
+"PRACOVNÍ STANICE UZAMKNUTA"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr "Na převzetí kontroly vložte kód\nNÁPOVEDA: Počet jedinců"
+msgid ""
+"Enter passcode to override\r\n"
+"HINT: Specimen count"
+msgstr ""
+"Na převzetí kontroly vložte kód\n"
+"NÁPOVEDA: Počet jedinců"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1180,7 +1193,7 @@ msgstr "POSLAT KÓD ZNOVU"
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
 msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
-msgstr "Čekal jsi, že tě tu jen tak necháme pobíhat a zabíjet zaměstnance Sokol-Glockner?"
+msgstr "Čekal jsi, že tě jen tak necháme pobíhat po ostrově a zabíjet zaměstnance Sokol-Glockner?"
 
 #. Key:	CaptureGuard01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1354,15 +1367,59 @@ msgstr "Vzduchová Ventilace"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr "Dobrý den,\n\nDostali jsme hlášení, že klimatizace ve vaší kanceláři je poškozena.\n\nOmlouváme se za nepříjemnosti, způsobené touto poruchou.\n\nDěkujeme\n\nPodpora koordinace globálních operací Arque Global Operations"
+msgid ""
+"Hello,\r\n"
+"\r\n"
+"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
+"\r\n"
+"We apologise for the inconveneince this may cause.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr ""
+"Dobrý den,\n"
+"\n"
+"Dostali jsme hlášení, že klimatizace ve vaší kanceláři je poškozena.\n"
+"\n"
+"Omlouváme se za nepříjemnosti, způsobené touto poruchou.\n"
+"\n"
+"Děkujeme\n"
+"\n"
+"Podpora koordinace globálních operací Arque Global Operations"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr "Dobrý den,\n\nDěkujeme za vaší žádost o novou bezpečnostní kartu. Pro referenci, číslo vašeho tiketu je AGO15824\n\nA co dál?\n\nČlen AGO týmu odpoví na vaší žádost. Berte prosím na vědomí, že můžete být požádáni o poskytnutí dalších informací v závislosti na závažnosti vašeho požadavku.\n\nDěkujeme,\n\nArque Bezpečnostní Služba\n\nToto je automaticky vygenerovaný email, prosím neodpovídejte zpět."
+msgid ""
+"Hi,\r\n"
+"\r\n"
+"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
+"\r\n"
+"What are the next steps?\r\n"
+"\r\n"
+"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Badge Services\r\n"
+"\r\n"
+"This is an automated email, please do not respond."
+msgstr ""
+"Dobrý den,\n"
+"\n"
+"Děkujeme za vaší žádost o novou bezpečnostní kartu. Pro referenci, číslo vašeho tiketu je AGO15824\n"
+"\n"
+"A co dál?\n"
+"\n"
+"Člen AGO týmu odpoví na vaší žádost. Berte prosím na vědomí, že můžete být požádáni o poskytnutí dalších informací v závislosti na závažnosti vašeho požadavku.\n"
+"\n"
+"Děkujeme,\n"
+"\n"
+"Arque Bezpečnostní Služba\n"
+"\n"
+"Toto je automaticky vygenerovaný email, prosím neodpovídejte zpět."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1382,8 +1439,27 @@ msgstr "Děkujeme za vaší žádost"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Dobrý den Liame,\n\nObdrželi jsme vaší žádost o novou bezpečnostní kartu. Vzhledem k úrovni vaší prověrky, musím ověřit pár údajů o ztrátě vaší karty.\n\nProsím odpovězte co nejpodrobněji jak jen půjde.\n\nDěkuji,\nHugo Webber\nStarší Specialista na podporu zabezpečení zařízení Arque"
+msgid ""
+"Hi Liam,\r\n"
+"\r\n"
+"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
+"\r\n"
+"Please respond with as much detail as you can about the incident.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr ""
+"Dobrý den Liame,\n"
+"\n"
+"Obdrželi jsme vaší žádost o novou bezpečnostní kartu. Vzhledem k úrovni vaší prověrky, musím ověřit pár údajů o ztrátě vaší karty.\n"
+"\n"
+"Prosím odpovězte co nejpodrobněji jak jen půjde.\n"
+"\n"
+"Děkuji,\n"
+"Hugo Webber\n"
+"Starší Specialista na podporu zabezpečení zařízení Arque"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1403,15 +1479,49 @@ msgstr "RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgid ""
+"Liam,\r\n"
+"\r\n"
+"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
+"\r\n"
+"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
+"\r\n"
+"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
+"\r\n"
+"Tell me, where do you believe your badge to be?\r\n"
+"\r\n"
+"Yours,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
 msgstr ""
+"Liame,\r\n"
+"\r\n"
+"Mohl by jste prosím vás objasnit, jak přesně zmizela vaše karta a kde může být? Musíme se ujistit, že není mimo zařízení - pokud je, jde o vážný bezpečnostní problém.\r\n"
+"\r\n"
+"Liškou doslova myslíte to červené huňaté zvíře? To se zdá velmi nepravděpodobné, vy tvrdíte, že se přes naší bezpečnost do hlavního zařízení dostala liška? To znamená, že svou práci nevykonáváte správně? Znamená to snad, že lidé mohou jen tak napochodovat do zařízení?\r\n"
+"\r\n"
+"Vzhledem k tomu, že vaše lokalita má velmi slabý přístup ke globálním internetovým službám a Arque Globální VPN, není možné deaktivovat aktivní bezpečnostní karty na dálku.\r\n"
+"\r\n"
+"Řekněte mi, kde podle vás ta karta může být?\r\n"
+"\r\n"
+"Váš,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Starší Specialista na podporu zabezpečení zařízení Arque"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgid ""
+"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
+"\r\n"
+"thanks"
 msgstr ""
+"Zdravím promiňte moji kartu sebrala liška, nejsem si jistý kam se mohla podít ale nemůžu se nikam dostat a nemůžu tak dělat svojí práci\r\n"
+"\r\n"
+"díky"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1424,8 +1534,26 @@ msgstr "RE: RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr "Týme,\n\nProsím prohlédněte si přílohu, jde o nejnovější vydání Wenthworthského Posla. Všimněte si zmínky o Arque - měli by jsme to prověřit?\n\nPřipomínám, nehovořte prosím s místními médii bez řádného povolení.\n\nLucy Beeshawová\n\nStarší PR Specialistka"
+msgid ""
+"Team,\r\n"
+"\r\n"
+"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
+"\r\n"
+"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
+"\r\n"
+"Lucy Beeshaw\r\n"
+"\r\n"
+"PR Senior Specialist"
+msgstr ""
+"Týme,\n"
+"\n"
+"Prosím prohlédněte si přílohu, jde o nejnovější vydání Wenthworthského Posla. Všimněte si zmínky o Arque - měli by jsme to prověřit?\n"
+"\n"
+"Připomínám, nehovořte prosím s místními médii bez řádného povolení.\n"
+"\n"
+"Lucy Beeshawová\n"
+"\n"
+"Starší PR Specialistka"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1446,7 +1574,7 @@ msgstr "Wenthwortský Posel #317"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email_Author"
 msgid "Liam Jones"
-msgstr ""
+msgstr "Liam Jones"
 
 #. Key:	Chat
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1459,15 +1587,21 @@ msgstr "Chat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgid ""
+"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
+"\r\n"
+"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
 msgstr ""
+"Před tiskem této zprávy mějte na paměti. Životní prostředí je v ohrožení. V Arque jsou stromy jedním z našich hlavních zájmů.\n"
+"\n"
+"Ve skutečnosti jde o požadavek, aby všichni zaměstnanci nahradili papírové záznamy uhelnými požáry. Nezapomeňte, zachraňte stromy, zachráníte svět."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
 msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
-msgstr ""
+msgstr "Tato zpráva byla prozkoumána bezpečnostním skenerem Arque. Pravděpodobně neobsahuje malware."
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1550,8 +1684,12 @@ msgstr "Pomozte nám s překladem!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Dočasný konec\nVíc obsahu již brzy!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Dočasný konec\n"
+"Víc obsahu již brzy!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1760,8 +1898,14 @@ msgstr "Místní obyvatelka Rosie Hardmanová považuje řasy za hrozbu a byla b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr "Maják nacházející se v Redtone by měl být vyřazen z provozu místním starostou Johnem Mennem po vyšetřování vedené pobřežní hlídkou.\n\n\"Jsme přesvědčeni, že to nebude mít dopad na okolní dopravu\", vyjádřil se Bill Hayak z Ministerstva pro námořní dopravu. \"Zatímco jste mohli narazit na nákladní lodě nedaleko pobřeží Redtonu,, nyní už to nebude problém kvůli úpravě námořních cest vedoucí z pevniny\", dodal."
+msgid ""
+"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
+"\r\n"
+"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr ""
+"Maják nacházející se v Redtone by měl být vyřazen z provozu místním starostou Johnem Mennem po vyšetřování vedené pobřežní hlídkou.\n"
+"\n"
+"\"Jsme přesvědčeni, že to nebude mít dopad na okolní dopravu\", vyjádřil se Bill Hayak z Ministerstva pro námořní dopravu. \"Zatímco jste mohli narazit na nákladní lodě nedaleko pobřeží Redtonu,, nyní už to nebude problém kvůli úpravě námořních cest vedoucí z pevniny\", dodal."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1774,15 +1918,39 @@ msgstr "Když jsme se zeptali starosty, odmítl se k situaci vyjádřit, dokud n
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr "Zdejší obyvatelé nejsou se změnou spokojeni. Místní občan je znepokojen dopadem na malé obchodní lodě, které jsou stále zakotvené na ostrově. Tvrdí že jde o poslední hřebík do rakve. \"Zastaví to byznys na ostrově\", dodal.\n\nObčas je maják jediná věc, která umožňuje menším lodím připlout a obchodovat s místními podniky. Je to něco, čeho se všichni bojíme - co se stane, až zmizí veškerý import?"
+msgid ""
+"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
+"\r\n"
+"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr ""
+"Zdejší obyvatelé nejsou se změnou spokojeni. Místní občan je znepokojen dopadem na malé obchodní lodě, které jsou stále zakotvené na ostrově. Tvrdí že jde o poslední hřebík do rakve. \"Zastaví to byznys na ostrově\", dodal.\n"
+"\n"
+"Občas je maják jediná věc, která umožňuje menším lodím připlout a obchodovat s místními podniky. Je to něco, čeho se všichni bojíme - co se stane, až zmizí veškerý import?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr "Jedna z nejpopulárnějších soutěží v Redtone se vrací i letos.\n\nKomunita se schází každý rok, aby vytvořila hrůzostrašný a morbidní strašáky na odhánění ptactva. V loňském roce zvítězil 8-mi letý chlapec z místní školy Joshua Fenton, který reprezentoval svou babičku, která u poroty zvítězila.\n\nLetos vítěz soutěže dostane bohatý výběr koláčů od Julie Mennové - ženy starosty, která si nedávno otevřela na ostrově cukrárnu\n\nSlavnosti nekončí strašáky - ty budou vystaveny celý týden. Po celém městě budou rozmístěné stánky a další aktivity. Pokud jste ještě neviděli strašáky, přijďte na letošní událost zjistit proč je okolo toho tolik povyku a vyzkoušejte to nejlepší jídlo a pití, které může Redton nabídnout.\n\nPokud se na slavnost nedostanete, počkejte si na příští číslo, kde vám ukážeme všechny soutěžící."
+msgid ""
+"One of the most popular competitions Redton holds is back for its annual event.\r\n"
+"\r\n"
+"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
+"\r\n"
+"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
+"\r\n"
+"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
+"\r\n"
+"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr ""
+"Jedna z nejpopulárnějších soutěží v Redtone se vrací i letos.\n"
+"\n"
+"Komunita se schází každý rok, aby vytvořila hrůzostrašný a morbidní strašáky na odhánění ptactva. V loňském roce zvítězil 8-mi letý chlapec z místní školy Joshua Fenton, který reprezentoval svou babičku, která u poroty zvítězila.\n"
+"\n"
+"Letos vítěz soutěže dostane bohatý výběr koláčů od Julie Mennové - ženy starosty, která si nedávno otevřela na ostrově cukrárnu\n"
+"\n"
+"Slavnosti nekončí strašáky - ty budou vystaveny celý týden. Po celém městě budou rozmístěné stánky a další aktivity. Pokud jste ještě neviděli strašáky, přijďte na letošní událost zjistit proč je okolo toho tolik povyku a vyzkoušejte to nejlepší jídlo a pití, které může Redton nabídnout.\n"
+"\n"
+"Pokud se na slavnost nedostanete, počkejte si na příští číslo, kde vám ukážeme všechny soutěžící."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2139,182 +2307,182 @@ msgstr "...nemá smysl přemýšlet \"co kdyby\"."
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
 msgid "This is the Norwegian Coast Guard. Please state your coordinates."
-msgstr ""
+msgstr "Zde je Norská pobřežní stráž. Uveďte prosím své souřadnice."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
 msgid "OK"
-msgstr ""
+msgstr "Dobře"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "I have to inform you... there is an active government defence operation underway at your position."
-msgstr ""
+msgstr "Musíme vás informovat... na vaší pozici právě probíhá vládní vojenská operace."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard04"
 msgid "We are requesting clearance. Stand by."
-msgstr ""
+msgstr "Právě žádáme o povolení. Zůstaňte na příjmu."
 
 #. Key:	Dispatcher01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
 msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
-msgstr ""
+msgstr "ZAHÁJIT VYMAZÁNÍ, OČIŠTĚNÍ OD POZOROVATELŮ"
 
 #. Key:	Dispatcher01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01b"
 msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
-msgstr ""
+msgstr "72 STUPŇŮ, 59 MINUT A 6 SEKUND SEVERNĚ, 2 STUPNĚ, 51 MINUT A 54 SEKUND VÝCHODNĚ"
 
 #. Key:	John01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr ""
+msgstr "Počkat, co je to... je to ta vysílačka? Haló? Haló! Bože ano dokázal jsi to!"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01b"
 msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
-msgstr ""
+msgstr "Je tam někdo?! Tohle je SOS, opakuju, SOS"
 
 #. Key:	John02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02a"
 msgid "Does anyone copy? The island has been overrun."
-msgstr ""
+msgstr "Slyší to někdo? Ostrov byl zamořený."
 
 #. Key:	John02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
-msgstr ""
+msgstr "Arque Corporation zastavuje VŠECHNA vysílání z ostrova. Potřebujeme okamžitou vojenskou pomoc!"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr ""
+msgstr "Jsme asi 72 stupňů, 59 minut a 6 sekund Severně a uh, 2 stupně, 51 minut a 54 sekund Východně."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "Uh, it's John."
-msgstr ""
+msgstr "Uh, John."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
 msgid "Hello! Hello? Coastguard?! Anyone there?"
-msgstr ""
+msgstr "Haló! Haló? Pobřežní hlídko?! Je tam někdo?"
 
 #. Key:	John05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05b"
 msgid "What Government Defense operation? What are you talking about?"
-msgstr ""
+msgstr "Jaká vojenská operace? O čem to mluvíte?"
 
 #. Key:	John05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
 msgid "Coastguard are you there? Is anyone there? Someone pick up..."
-msgstr ""
+msgstr "Pobřežní stráž jste tam? Je tam někdo? Odpovězte někdo..."
 
 #. Key:	John06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06a"
 msgid "Oh no... no no no no no... no this isn't happening!"
-msgstr ""
+msgstr "Ó ne... ne ne ne ne... ne to snad ne!"
 
 #. Key:	John06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06b"
 msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
-msgstr ""
+msgstr "Zmizte odsud! Kdokoli, kdokoliv, kdo to poslouchá, opusťte ostrov, za každou cenu!"
 
 #. Key:	John06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
-msgstr ""
+msgstr "Kdokoliv na této frekvenci jděte! Proč by to k sakru dělali?"
 
 #. Key:	Copyright01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr ""
+msgstr "Half Life je registrovaná obchodní značka Valve Corporation"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr ""
+msgstr "Estranged je copyright © 2011 Alana Edwardese"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
 msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
-msgstr ""
+msgstr "ESTRANGED ACT II byl vytvořen jednou osobou ve volném čase, s pomocí zvukového designéra, designéra úrovní, 3D umělce a komunity překladatelů a testerů"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr ""
+msgstr "Tato hra je samostatné pokračování Half Life 2 módu z roku 2014, ESTRANGED ACT I, dostupné pro Windows, Mac a Linux zdarma na Steamu"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr ""
+msgstr "Chcete-li získat pomoc, nahlásit chyby a odeslat zpětnou vazbu, připojte se ke komunitě!"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr ""
+msgstr "AKTIVNÍ"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr ""
+msgstr "STAV UHF RUŠIČKY SIGNÁLU:"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr ""
+msgstr "DÁLKOVÉ PŘEPSÁNÍ"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2342,14 +2510,14 @@ msgstr "FAIR ISLE, SHETLAND, SKOTSKO"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarPendingLabel"
 msgid "PENDING"
-msgstr ""
+msgstr "ČEKÁ SE"
 
 #. Key:	HangarRoundLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarRoundLabel"
 msgid "ROUND"
-msgstr ""
+msgstr "KOLO"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -2385,4 +2553,3 @@ msgstr "NĚKOLIK HODIN PO UDÁLOSTECH ACT I"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "NEZNÁMÝ OSTROV, NORSKÉ MOŘE"
-
