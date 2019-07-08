@@ -1,11 +1,11 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-06 09:28\n"
+"POT-Creation-Date: 2019-07-03 19:16\n"
+"PO-Revision-Date: 2019-07-03 19:16\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1179,7 +1179,7 @@ msgstr "CODE NEU SENDEN"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
 msgstr "Dachten Sie, wir lassen Sie einfach weiter auf der Insel umher wandern, um Sokol-Glockner-Personal zu töten?"
 
 #. Key:	CaptureGuard01b
@@ -1404,7 +1404,7 @@ msgstr "RE: AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Liam,\r\n\r\nKönnten Sie bitte exakt erläutern, wie Ihr Ausweis abhanden gekommen ist und wo er jetzt ist? Wir müssen erfahren, dass er nicht außerhalb dieser Anlage liegt - wenn es so ist, ist das ein sehr ernstes Problem für das Unternehmen.\r\n\r\nMit Fuchs meinen Sie wörtlich das rote Pelztier? Ihre Behauptung wirkt etwas unglaubwürdig, dass ein Fuchs unsere Sicherheit der Basis durchbrochen hat? Das heißt doch, dass Sie Ihre Arbeit nicht richtig machen? Bedeutet das, dass Personen einfach in Ihrer Einrichtung umher schlendern können?\r\n\r\nSeit Ihr Standort einen sehr lückenhaften Zugang zu globalen Internetdiensten hat und das Arque Global VPN, es ist nicht möglich, aktive Ausweise aus der Ferne zu deaktivieren.\r\n\r\nSagen Sie mir, wo glauben Sie, ist ihr Ausweis?\r\n\r\nIhr,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Liam,\r\n\r\nKönnten Sie bitte exakt erläutern, wie Ihr Ausweis abhanden gekommen ist und wo er jetzt ist? Wir müssen erfahren, dass er nicht außerhalb dieser Anlage liegt - wenn es so ist, ist das ein sehr ernstes Problem für das Unternehmen.\r\n\r\nMit Fuchs meinen Sie wörtlich das rote Pelztier? Ihre Behauptung wirkt etwas unglaubwürdig, dass ein Fuchs unsere Sicherheit der Basis durchbrochen hat? Das heißt doch, dass Sie Ihre Arbeit nicht richtig machen? Bedeutet das, dass Personen einfach in Ihrer Einrichtung umher schlendern können?\r\n\r\nSeit Ihr Standort einen sehr lückenhaften Zugang zu globalen Internetdiensten hat und das Arque Global VPN, es ist nicht möglich, aktive Ausweise aus der Ferne zu deaktivieren.\r\n\r\nSagen Sie mir, wo glauben Sie, ist ihr Ausweis?\r\n\r\nIhr,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist" 
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1459,7 +1459,7 @@ msgstr "Chat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
 msgstr "Denken Sie bitte nach, bevor Sie diese Nachricht ausdrucken. Die Umwelt ist in Gefahr. Bäume sind eines unserer Hauptanliegen hier bei Arque.\r\n\r\nIn der Tat ist es eine Voraussetzung, dass alle Mitarbeiter ihre Log-Dateien mit Kohlepapier ersetzen. Denken Sie daran, die Bäume zu retten, die Welt retten."
 
 #. Key:	CorporateFooter02
