@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-11 23:17+0100\n"
+"PO-Revision-Date: 2019-07-12 23:06+0100\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -1899,13 +1899,16 @@ msgid ""
 "\r\n"
 "\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
 msgstr ""
+"Фарът, разположен в Редтън на полуостров, ще бъде изведен от експлоатация от местния кмет Джон Менн, след разследване, проведено от бреговата охрана.\n"
+"\n"
+"\"Уверени сме, че това няма да окаже влияние на преминаващия трафик\" коментира Бил Хаяк от департамента разследване на морския транспорт. \"Докато някога можехте да видите товарни кораби точно до бреговете на Редтън, сега вече не е така, тъй като континенталните маршрути за доставки бяха променени\" добави той."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body02"
 msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
-msgstr ""
+msgstr "Когато го попитаха, кметът отказа да коментира докато не издаде официалното изявление за закриването на фара."
 
 #. Key:	Body03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1916,6 +1919,9 @@ msgid ""
 "\r\n"
 "Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
 msgstr ""
+"Местните жители не са доволни от промяната, един от местните жители беше загрижен за въздействието ѝ върху малките търговски кораби, които все още акустират на острова, казвайки, че това е последния пирон в ковчега на тихия док на острова. \"Това спира голяма част от бизнеса на острова\" каза той.\n"
+"\n"
+"Понякога фарът е единственото нещо, което позволява на по-малките кораби да идват и да търгуват с местния бизнес, това е нещо, за което всички сме загрижени - Какво ще се случи когато вече няма бизнес за внос на стоки тук?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1932,20 +1938,29 @@ msgid ""
 "\r\n"
 "If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
 msgstr ""
+"Едно от най-популярните годишни състезания, което се провежда в Редтън, е отново тук.\n"
+"\n"
+"Общността се събира всяка година, за да създаде най-страховитите и ужасяващи плашила, които да плашат птиците. Миналогодишният победител е осемгодишния местен ученик Джошуа Фентън, неговата репродукция на баба му спечели съдийската комисия.\n"
+"\n"
+"Тази година победителятв състезанието получава чудесна селекция от торти от Джулия Менн, съпругата на кмета, която наскоро отвори собствен магазин за торти на острова.\n"
+"\n"
+"Празненствата не свършват с плашилата - които са изложени цяла седмица, има сергии и други дейности, които се провеждат из целия град. Ако все още не сте видели плашилата, отправете се към годишното събитие, за да видите за какво е цялата суета и да опитате някои от най-добрите храни и напитки, които Редтън може да предложи.\n"
+"\n"
+"Ако не успеете да отидете да видите плашилата, разгледайте следващия брой, когато ще публикуваме пълно покритие на събитието."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body05"
 msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
-msgstr ""
+msgstr "Минаха две седмици от както местният служител на Арк, Кристиан Плит загуби черната си котка 'Лъки'. Той призовава всеки, който види котката, да се свърже с него незабавно."
 
 #. Key:	Body06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body06"
 msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
-msgstr ""
+msgstr "Известия бяха връчени на тридесет работници в началото на миналата седмица, след като корпорация Арк завърши закупуването на фармацевтичния производител Филипс Фармасютикълс. Закупуването беше последвано от публичен банкрут на предишния собственик, което доведе до търсене на инвеститори."
 
 #. Key:	Callout01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
