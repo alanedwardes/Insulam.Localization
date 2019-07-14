@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-06 09:28\n"
+"POT-Creation-Date: 2019-07-14 15:11\n"
+"PO-Revision-Date: 2019-07-14 15:11\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1238,6 +1238,27 @@ msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 
+#. Key:	NoAccessMessage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessMessage"
+msgid "Ensure that you have a working Internet connection, and that you can access youtube.com"
+msgstr "Ensure that you have a working Internet connection, and that you can access youtube.com"
+
+#. Key:	NoAccessTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessTitle"
+msgid "UNABLE TO LOAD VIDEO"
+msgstr "UNABLE TO LOAD VIDEO"
+
+#. Key:	ViewOnYouTubeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,ViewOnYouTubeLabel"
+msgid "View in HD on YouTube"
+msgstr "View in HD on YouTube"
+
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1503,6 +1524,13 @@ msgstr "And You!"
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
 msgstr "And {name} (You!)"
+
+#. Key:	Cast
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Cast"
+msgid "CAST"
+msgstr "CAST"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
