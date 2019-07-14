@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-14 15:28+0100\n"
+"PO-Revision-Date: 2019-07-14 16:00+0100\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -1684,7 +1684,7 @@ msgid ""
 "Temporary Ending\r\n"
 "More Content Soon!"
 msgstr ""
-"Временен завършване на играта.\r\n"
+"Временен завършек на играта.\r\n"
 "Повече съдържание очаквайте скоро!"
 
 #. Key:	Translators
@@ -1797,7 +1797,7 @@ msgstr "КОРАБИ \"ОПАСНО БЛИЗО\" ДО СБЛЪСЪК БЕЗ ФА
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline3"
 msgid "RED ALGAE NUMBERS STRONG"
-msgstr "БРОЯТ НА ЧЕРВЕНИТЕ ВОДОРАСЛИ СА ВИСОКИ"
+msgstr "БРОЯТ НА ЧЕРВЕНИТЕ ВОДОРАСЛИ Е ВИСОК"
 
 #. Key:	Navigation1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1811,7 +1811,7 @@ msgstr "ПОВЕЧЕ НА СТРАНИЦА 11"
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr "Закупуването на местната фармацевтична компания Филипс Фармасютикълс беше завършено в края на миналата седмица, като всички петдесет служители беше освободени от работа, двадесет работници повече от колкото бяха планирани."
+msgstr "Закупуването на местната фармацевтична компания Филипс Фармасютикълс беше завършено в края на миналата седмица, като всички петдесет служители бяха освободени от работа, двадесет работници повече от колкото беше планирано."
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1853,7 +1853,7 @@ msgstr "Сегашните собственици на затворената м
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph07"
 msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
-msgstr "Свързахме се с корпорация Арк за коментар, но те отказаха, заявявайки, че \"корпорацията следва всички местни закони за наемане на работа и е предложила справедливо обезщетение за всички повторно наети служители\". Вестникът откри, че \"обезщетението\" e покрито от споразумение за неразкриване, така че действителните цифри, предоставени на бившите служители, са неизвестни."
+msgstr "Свързахме се с корпорация Арк за коментар, но те отказаха да коментират, заявявайки, че \"корпорацията следва всички местни закони за наемане на работа и е предложила справедливо обезщетение за всички повторно наети служители\". Вестникът откри, че \"обезщетението\" e покрито от споразумение за неразкриване, така че действителните парични цифри, които бившите служители са получили, са неизвестни."
 
 #. Key:	Paragraph08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1867,7 +1867,7 @@ msgstr "Корабите, преминаващи в близост до остр
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph09"
 msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
-msgstr "Уентуърт Хералд покри сагата миналата седмица, тъй като фарът трябваше да бъде изведен от експлоатация на фона на предположенията, че разходите му надвишават неговата полезност."
+msgstr "Уентуърт Хералд покри сагата миналата седмица, тъй като беше предопределено, че фара ще бъде изведен от експлоатация на фона на предположенията, че разходите му надвишават неговата полезност."
 
 #. Key:	Paragraph10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1881,14 +1881,14 @@ msgstr "Департаментът за разследване на морски
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph11"
 msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
-msgstr "Колониите водорасли на острова остават силни, както последните проучвания показват огромен увеличение в количеството на така наречените \"червени водорасли\", уникалните за острова видове водорасли продължават да завладяват езера и други естествени водни обекти."
+msgstr "Колониите водорасли на острова остават силни, като последните проучвания показват огромно увеличение в количеството на така наречените \"червени водорасли\", уникалните за острова видове водорасли продължават да завладяват езера и други естествени водни обекти."
 
 #. Key:	Paragraph12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph12"
 msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
-msgstr "Местната жителка Роузи Хардман смята водораслите за опасност и би била по-щастлива, ако ги нямаше, казвайки: „Те [водораслите] завладяват всичко, трябва да се отървем от тях колкото е възможно по-скоро. Не искам всичката вода на острова да бъде в застой. Какво е ползата от водораслите така или иначе?\""
+msgstr "Местната жителка Роузи Хардман смята водораслите за опасност и би била по-щастлива, ако ги нямаше, казвайки: „Те [водораслите] завладяват всичко, трябва да се отървем от тях колкото е възможно по-скоро. Не искам всичката вода на острова да бъде в застой. Каква е ползата от водораслите така или иначе?\""
 
 #. Key:	Body01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1901,7 +1901,7 @@ msgid ""
 msgstr ""
 "Фарът, разположен в Редтън на полуостров, ще бъде изведен от експлоатация от местния кмет Джон Менн, след разследване, проведено от бреговата охрана.\n"
 "\n"
-"\"Уверени сме, че това няма да окаже влияние на преминаващия трафик\" коментира Бил Хаяк от департамента разследване на морския транспорт. \"Докато някога можехте да видите товарни кораби точно до бреговете на Редтън, сега вече не е така, тъй като континенталните маршрути за доставки бяха променени\" добави той."
+"\"Уверени сме, че това няма да окаже влияние на преминаващия трафик\" коментира Бил Хаяк от департамента по разследване на морския транспорт. \"Докато някога можехте да видите товарни кораби точно до бреговете на Редтън, сега вече не е така, тъй като континенталните маршрути за доставки бяха променени\" добави той."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1921,7 +1921,7 @@ msgid ""
 msgstr ""
 "Местните жители не са доволни от промяната, един от местните жители беше загрижен за въздействието ѝ върху малките търговски кораби, които все още акустират на острова, казвайки, че това е последния пирон в ковчега на тихия док на острова. \"Това спира голяма част от бизнеса на острова\" каза той.\n"
 "\n"
-"Понякога фарът е единственото нещо, което позволява на по-малките кораби да идват и да търгуват с местния бизнес, това е нещо, за което всички сме загрижени - Какво ще се случи когато вече няма бизнес за внос на стоки тук?"
+"Понякога фарът е единственото нещо, което дава възможност на по-малките кораби да идват и да търгуват с местния бизнес, това е нещо, за което всички сме загрижени - Какво ще се случи когато вече няма бизнес за внос на стоки тук?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1942,7 +1942,7 @@ msgstr ""
 "\n"
 "Общността се събира всяка година, за да създаде най-страховитите и ужасяващи плашила, които да плашат птиците. Миналогодишният победител е осемгодишния местен ученик Джошуа Фентън, неговата репродукция на баба му спечели съдийската комисия.\n"
 "\n"
-"Тази година победителятв състезанието получава чудесна селекция от торти от Джулия Менн, съпругата на кмета, която наскоро отвори собствен магазин за торти на острова.\n"
+"Тази година победителят в състезанието получава чудесна селекция от торти от Джулия Менн, съпругата на кмета, която наскоро отвори собствен магазин за торти на острова.\n"
 "\n"
 "Празненствата не свършват с плашилата - които са изложени цяла седмица, има сергии и други дейности, които се провеждат из целия град. Ако все още не сте видели плашилата, отправете се към годишното събитие, за да видите за какво е цялата суета и да опитате някои от най-добрите храни и напитки, които Редтън може да предложи.\n"
 "\n"
