@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-06 09:28\n"
+"POT-Creation-Date: 2019-07-14 15:11\n"
+"PO-Revision-Date: 2019-07-14 15:11\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -1179,8 +1179,8 @@ msgstr "CODE OPNIEUW VERZENDEN"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgstr "Dacht je dat we je gewoon op het eiland rond zouden laten zwerven terwijl je Sokol-Glockner-personeel doodt?"
 msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgstr "Dacht je dat we je gewoon op het eiland rond zouden laten zwerven terwijl je Sokol-Glockner-personeel doodt?"
 
 #. Key:	CaptureGuard01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1237,6 +1237,27 @@ msgstr "Vertel me met wie je samenwerkt. De hel is anders niet genoeg om te besc
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Wie had dat gedacht? Sokol-Glockner, een van 's werelds grootste particuliere beveiligingsaannemers, weet hoe het mensen pijn moet doen."
+
+#. Key:	NoAccessMessage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessMessage"
+msgid "Ensure that you have a working Internet connection, and that you can access youtube.com"
+msgstr ""
+
+#. Key:	NoAccessTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessTitle"
+msgid "UNABLE TO LOAD VIDEO"
+msgstr ""
+
+#. Key:	ViewOnYouTubeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,ViewOnYouTubeLabel"
+msgid "View in HD on YouTube"
+msgstr ""
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1459,8 +1480,8 @@ msgstr "Chat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgstr "Denk na voordat je dit bericht print. Het milieu is in gevaar. Bij Arque geven we ook om bomen.\r\n\r\nWerknemers dienen vuur te stoken met houtskool in plaats van met hout. Red de bomen, red de wereld."
 msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr "Denk na voordat je dit bericht print. Het milieu is in gevaar. Bij Arque geven we ook om bomen.\r\n\r\nWerknemers dienen vuur te stoken met houtskool in plaats van met hout. Red de bomen, red de wereld."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1503,6 +1524,13 @@ msgstr "En jij!"
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
 msgstr "En {name} (jij!)"
+
+#. Key:	Cast
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Cast"
+msgid "CAST"
+msgstr ""
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits

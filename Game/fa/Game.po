@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-06 09:28\n"
+"POT-Creation-Date: 2019-07-14 15:11\n"
+"PO-Revision-Date: 2019-07-14 15:11\n"
 "Language-Team: \n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -1179,8 +1179,8 @@ msgstr "فرستادن دوباره‌ی کد"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgstr "فکر کردی میزاریم همینجوری به گشتن توی جزیره و کشتن کارکنان سوکول-گلاکنر ادامه بدی؟"
 msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgstr "فکر کردی میزاریم همینجوری به گشتن توی جزیره و کشتن کارکنان سوکول-گلاکنر ادامه بدی؟"
 
 #. Key:	CaptureGuard01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1237,6 +1237,27 @@ msgstr "بگو برای کی کار میکنی. وگرنه، کلمه‌ی \"ج�
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "چه کسی میتونست حدس بزنه؟ سوکول-گلاکنر، یمی از بزرگترین شرکتای پیمانکار امنیتی خصوصی جهان میدونه چطور یک نفرو زجر بده."
+
+#. Key:	NoAccessMessage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessMessage"
+msgid "Ensure that you have a working Internet connection, and that you can access youtube.com"
+msgstr ""
+
+#. Key:	NoAccessTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessTitle"
+msgid "UNABLE TO LOAD VIDEO"
+msgstr ""
+
+#. Key:	ViewOnYouTubeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,ViewOnYouTubeLabel"
+msgid "View in HD on YouTube"
+msgstr ""
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1503,6 +1524,13 @@ msgstr "و تو!"
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
 msgstr "و {اسم} (تو!)"
+
+#. Key:	Cast
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Cast"
+msgid "CAST"
+msgstr ""
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
