@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-07-06 09:28\n"
-"PO-Revision-Date: 2019-07-12 23:06+0100\n"
+"PO-Revision-Date: 2019-07-14 15:28+0100\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -1783,7 +1783,7 @@ msgstr "\"Работих във Филс повече от 10 години и т
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr ""
+msgstr "КОРПОРАЦИЯ АРК ЗАВЪРШИ ЗАКУПУВАНЕТО НА ФИЛИПС ФАРМАСЮТИКЪЛС"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1967,70 +1967,70 @@ msgstr "Известия бяха връчени на тридесет рабо�
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Callout01"
 msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
-msgstr ""
+msgstr "\"ТВЪРДЕ МАЛКО\" КОРАБИ, ЗА ДА ИМА ПРОБЛЕМ С БЕЗОПАСТНОСТТА, КАЗВА БРЕГОВАТА ОХРАНА"
 
 #. Key:	Headline01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline01"
 msgid "LIGHTHOUSE DECOMMISSIONED"
-msgstr ""
+msgstr "ФАРЪТ ИЗВЕДЕН ОТ ЕКСПЛОАТАЦИЯ"
 
 #. Key:	Headline02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline02"
 msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
-msgstr ""
+msgstr "МЕСТНОТО СЪСТЕЗАНИЕ ЗА ПЛАШИЛА СЕ ПРОВЕЖДА В МОМЕНТА"
 
 #. Key:	Headline03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline03"
 msgid "LOST"
-msgstr ""
+msgstr "ИЗГУБЕН"
 
 #. Key:	Headline04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline04"
 msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
-msgstr ""
+msgstr "КОРПОРАЦИЯ АРК ЗАКУПУВА ФИЛИПС ФАРМАСЮТИКЪЛС"
 
 #. Key:	ReadMore01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,ReadMore01"
 msgid "MORE ON PAGE 7"
-msgstr ""
+msgstr "ПОВЕЧЕ НА СТРАНИЦА 7"
 
 #. Key:	ReadMore02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,ReadMore02"
 msgid "MORE ON PAGE 10"
-msgstr ""
+msgstr "ПОВЕЧЕ НА СТРАНИЦА 10"
 
 #. Key:	ReadMore
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,ReadMore"
 msgid "MORE INSIDE"
-msgstr ""
+msgstr "ПОВЕЧЕ ВЪТРЕ"
 
 #. Key:	Tagline
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Tagline"
 msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
-msgstr ""
+msgstr "ПЪРВИ ЗА НОВИНИ, КЛЮКИ, СПОРТ, ШОУБИЗНЕС, БИЗНЕС, И КРЪСТОСЛОВИЦИ. ТОВА Е ВАШИЯТ ВЕСТНИК, ВАШИЯТ ЖИВОТ."
 
 #. Key:	Title
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Title"
 msgid "WENTWORTH HERALD"
-msgstr ""
+msgstr "УЕНТУЪРТ ХЕРАЛД"
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2303,161 +2303,161 @@ msgstr "…няма смисъл да играя на \"Какво щеше да
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
 msgid "This is the Norwegian Coast Guard. Please state your coordinates."
-msgstr ""
+msgstr "Това е норвежката брегова охрана. Моля посочете координатите си."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
 msgid "OK"
-msgstr ""
+msgstr "Добре"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "I have to inform you... there is an active government defence operation underway at your position."
-msgstr ""
+msgstr "Трябва да ви уведомя... във вашата позиция се провежда активна правителствена отбранителна операция."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard04"
 msgid "We are requesting clearance. Stand by."
-msgstr ""
+msgstr "Изчакваме разрешение. Бедете в готовност."
 
 #. Key:	Dispatcher01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
 msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
-msgstr ""
+msgstr "ЗАЛИЧАВАНЕ ЗАПОЧНАТО, ИЗЧИСТВАНЕ НА НАБЛЮДАТЕЛИТЕ"
 
 #. Key:	Dispatcher01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01b"
 msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
-msgstr ""
+msgstr "72 ГРАДУСА, 59 МИНУТИ И 6 СЕКУНДИ НА СЕВЕР, 2 ГРАДУСА, 51 МИНУТИ И 54 СЕКУНДИ НА ИЗТОК"
 
 #. Key:	John01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr ""
+msgstr "Чакай малко, какво е това... това радиото ли е? Ехо? Ехо! О Боже, да, ти успя!"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01b"
 msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
-msgstr ""
+msgstr "Има ли някой там? Това е SOS, повтарям, SOS"
 
 #. Key:	John02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02a"
 msgid "Does anyone copy? The island has been overrun."
-msgstr ""
+msgstr "Копира ли някой? Островът е опустошен."
 
 #. Key:	John02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
-msgstr ""
+msgstr "Корпорация Арк е прекратявала предаването на ВСИЧКИ съобщения от острова. Нуждаем се НЕЗАБАВНО от военна помощ!"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr ""
+msgstr "Намираме се приблизително на 72 градуса, 59 минути и 6 секунди Север, и ъъ, 2 градуса, 51 минути и 54 секунди Изток."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "Uh, it's John."
-msgstr ""
+msgstr "Ъъ, Джон е."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
 msgid "Hello! Hello? Coastguard?! Anyone there?"
-msgstr ""
+msgstr "Ехо! Ехо? Брегова охрана?! Има ли някой?"
 
 #. Key:	John05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05b"
 msgid "What Government Defense operation? What are you talking about?"
-msgstr ""
+msgstr "Каква правителствена отбранителна операция? За какво говорите?"
 
 #. Key:	John05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
 msgid "Coastguard are you there? Is anyone there? Someone pick up..."
-msgstr ""
+msgstr "Брегова охрана, там ли сте? Има ли някой? Някой да вдигне..."
 
 #. Key:	John06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06a"
 msgid "Oh no... no no no no no... no this isn't happening!"
-msgstr ""
+msgstr "О не... не не не не не… не това не се случва!"
 
 #. Key:	John06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06b"
 msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
-msgstr ""
+msgstr "Махайте се от там! Всеки, който слуша това, напуснете острова, незабавно, по какъвто и да е начин!"
 
 #. Key:	John06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
-msgstr ""
+msgstr "Всеки на тази честота, просто тръгвайте! Защо, по дяволите, биха направили това?"
 
 #. Key:	Copyright01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr ""
+msgstr "Half-Life и регистрирана търговска марка на Valve Corporation"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr ""
+msgstr "Estranged е под авторското право на © 2011 Alan Edwardes"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
 msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
-msgstr ""
+msgstr "ESTRANGED ACT II беше разработена от един човек в свободно му време, с помощта на звуков дизайнер, дизайнер на нивата, 3D художник и общност от преводачи и тестери"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr ""
+msgstr "Тази игра е самостоятелно продължение на базираната на 2014 Half-Life 2, ESTRANGED ACT I, и е достъпна за Windows, Mac и Linux безплатно от Steam"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr ""
+msgstr "Присъединете се, за да получите помощ, съобщите за грешки в играта и изпратите отзиви!"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
