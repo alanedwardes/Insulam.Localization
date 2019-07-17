@@ -1,17 +1,18 @@
-﻿# Game Persian translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-14 15:11\n"
-"PO-Revision-Date: 2019-07-14 15:11\n"
+"POT-Creation-Date: 2019-07-04 19:05\n"
+"PO-Revision-Date: 2019-07-18 00:29+0430\n"
 "Language-Team: \n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1130,21 +1131,27 @@ msgstr "برای لغو کردن، کد دو فاکتروی احراز هویت 
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgid ""
+"ANOMALY DETECTED\r\n"
+"Overrides located in areas A and B"
 msgstr "ناهنجاری شناسایی شد"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgid ""
+"AREA DESIGNATED SAFE\r\n"
+"WORKSTATION LOCKED"
 msgstr "منطقه امن تعیین شده"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgid ""
+"Enter passcode to override\r\n"
+"HINT: Specimen count"
 msgstr "برای لغو، رمز عبور را وارد کنید"
 
 #. Key:	LockdownTitle01
@@ -1179,7 +1186,7 @@ msgstr "فرستادن دوباره‌ی کد"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgid "We thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
 msgstr "فکر کردی میزاریم همینجوری به گشتن توی جزیره و کشتن کارکنان سوکول-گلاکنر ادامه بدی؟"
 
 #. Key:	CaptureGuard01b
@@ -1237,27 +1244,6 @@ msgstr "بگو برای کی کار میکنی. وگرنه، کلمه‌ی \"ج�
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "چه کسی میتونست حدس بزنه؟ سوکول-گلاکنر، یمی از بزرگترین شرکتای پیمانکار امنیتی خصوصی جهان میدونه چطور یک نفرو زجر بده."
-
-#. Key:	NoAccessMessage
-#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
-#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
-msgctxt "ST_Commentary,NoAccessMessage"
-msgid "Ensure that you have a working Internet connection, and that you can access youtube.com"
-msgstr ""
-
-#. Key:	NoAccessTitle
-#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
-#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
-msgctxt "ST_Commentary,NoAccessTitle"
-msgid "UNABLE TO LOAD VIDEO"
-msgstr ""
-
-#. Key:	ViewOnYouTubeLabel
-#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
-#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
-msgctxt "ST_Commentary,ViewOnYouTubeLabel"
-msgid "View in HD on YouTube"
-msgstr ""
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1375,15 +1361,59 @@ msgstr "دریچه‌ی هوا"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr "سلام\n\nما گزارشهایی داشتیم از اینکه یکی از کولر های دفتر ما دچار اشکال شده.\n\nما بخاطر ناراحتی ه‍ایی که از این بابت ایجاد شده عذرخواهی میکنیم.\n\nممنون،\n\nپشتیبانی هماهنگی عملیات جهانی و بین جغرافیایی آرک"
+msgid ""
+"Hello,\r\n"
+"\r\n"
+"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
+"\r\n"
+"We apologise for the inconveneince this may cause.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr ""
+"سلام\n"
+"\n"
+"ما گزارشهایی داشتیم از اینکه یکی از کولر های دفتر ما دچار اشکال شده.\n"
+"\n"
+"ما بخاطر ناراحتی ه‍ایی که از این بابت ایجاد شده عذرخواهی میکنیم.\n"
+"\n"
+"ممنون،\n"
+"\n"
+"پشتیبانی هماهنگی عملیات جهانی و بین جغرافیایی آرک"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr "سلام،\n\nممنون از درخواستتون برای کارت امنیتی جدید. کد رهگیری شما AGO15824 هست.\n\nقدم های بعدی چیست؟\n\nیکی از اعضای تیم AGO به درخواست شما پاسخ خواهد داد. لطفا در نظر داشته باشید که ممکن است از شما اطلاعات اضافه درمورد اهمیت درخواستتون پرسیده بشود.\n\nممنون،\n\nسرویس کارت های عملیات جهانی آرک\n\nاین یک پیام اتوماتیک است، لطفا پاسخ ندهید."
+msgid ""
+"Hi,\r\n"
+"\r\n"
+"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
+"\r\n"
+"What are the next steps?\r\n"
+"\r\n"
+"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Badge Services\r\n"
+"\r\n"
+"This is an automated email, please do not respond."
+msgstr ""
+"سلام،\n"
+"\n"
+"ممنون از درخواستتون برای کارت امنیتی جدید. کد رهگیری شما AGO15824 هست.\n"
+"\n"
+"قدم های بعدی چیست؟\n"
+"\n"
+"یکی از اعضای تیم AGO به درخواست شما پاسخ خواهد داد. لطفا در نظر داشته باشید که ممکن است از شما اطلاعات اضافه درمورد اهمیت درخواستتون پرسیده بشود.\n"
+"\n"
+"ممنون،\n"
+"\n"
+"سرویس کارت های عملیات جهانی آرک\n"
+"\n"
+"این یک پیام اتوماتیک است، لطفا پاسخ ندهید."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1403,8 +1433,28 @@ msgstr "ممنون از درخواستتون"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "سلام لیام،\n\nما درخواستت برای کارت جدید را دریاف کردیم. به دلیل درجه‌ی امنیتی شغلت، باید یک سری از جزئیات گم شدن کارتتو بررسی کنم.\n\nلطفا در پاسخ سعی کن تا جایی که میتونی تمام جزئیات رو درباره‌ی این سانحه توضیح بدی.\n\nممنون،\n\nهیوگو وبر\nمتخصص ارشد پشتیبانی آزمایشگاه‌های جهانی آرک"
+msgid ""
+"Hi Liam,\r\n"
+"\r\n"
+"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
+"\r\n"
+"Please respond with as much detail as you can about the incident.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr ""
+"سلام لیام،\n"
+"\n"
+"ما درخواستت برای کارت جدید را دریاف کردیم. به دلیل درجه‌ی امنیتی شغلت، باید یک سری از جزئیات گم شدن کارتتو بررسی کنم.\n"
+"\n"
+"لطفا در پاسخ سعی کن تا جایی که میتونی تمام جزئیات رو درباره‌ی این سانحه توضیح بدی.\n"
+"\n"
+"ممنون،\n"
+"\n"
+"هیوگو وبر\n"
+"متخصص ارشد پشتیبانی آزمایشگاه‌های جهانی آرک"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1424,15 +1474,47 @@ msgstr "RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgid ""
+"Liam,\r\n"
+"\r\n"
+"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
+"\r\n"
+"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
+"\r\n"
+"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
+"\r\n"
+"Tell me, where do you believe your badge to be?\r\n"
+"\r\n"
+"Yours,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
 msgstr ""
+"لیام،\n"
+"\n"
+"میتونی توضیح بدی دقیقا چطور کارتت گم شده و الان کجاست؟ ما باید بدونیم که بیرون از منطقه نیست - اگر هست، یک مشکل خیلی جدی‌ای برای شرکت خواهد بود.\n"
+"\n"
+"منظورت از روباه همون حیوون قرمز پشمالوست؟ خیلی بعید به نظر میاد، داری میگی یک روباه تونسته از سیستم امنیتی منطقه رد شه؟ قطعا این به این معناست که تو کارتو به درستی انجام نمیدی، مگه نه؟ آیا این به این معناست که مردم هم میتونن به راحتی بیان توی منطقت و چرخ بزنن؟\n"
+"\n"
+"از اونجایی که موقعیت تو دسترسی خوبی به اینترنت و VPN شرکت آرک جهانی نداره، نمیشه کارتو از راه دور از کار انداخت.\n"
+"\n"
+"بگو ببینم، به نظرت کارتت کجا میتونه باشه؟\n"
+"\n"
+"از طرف هیوگو وبر\n"
+"متخصص ارشد پشتیبانی امنیتی شرکت آرک جهانی"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgid ""
+"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
+"\r\n"
+"thanks"
 msgstr ""
+"سلام، ببخشید کارت امنیتی من توسط یک روباه دزدیده شده، مطمئن نیستم کجا بردش ولی دیگه نمیتونم از درب ورودی رد بشم و کارمو انجام بدم\n"
+"\n"
+"ممنون"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1445,8 +1527,26 @@ msgstr "RE: RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr "آقایون تیم،\n\nلطفا فایل متصل به پیام را برای جدیدترین ویرایش روزنامه‌ی ونتورف هرالد را ببینید. به ذکر شرکت آرک توجه فرمایید - آیا نیازه این رو بررسی کنیم؟\n\nبه عنوان یک یادآوری، لطفا با رسانه‌های محلی بدون مجوز مناسب صحبت نکنید.\n\nلوسی بیشا\n\nمتخصص ارشد روابط عمومی"
+msgid ""
+"Team,\r\n"
+"\r\n"
+"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
+"\r\n"
+"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
+"\r\n"
+"Lucy Beeshaw\r\n"
+"\r\n"
+"PR Senior Specialist"
+msgstr ""
+"آقایون تیم،\n"
+"\n"
+"لطفا فایل متصل به پیام را برای جدیدترین ویرایش روزنامه‌ی ونتورف هرالد را ببینید. به ذکر شرکت آرک توجه فرمایید - آیا نیازه این رو بررسی کنیم؟\n"
+"\n"
+"به عنوان یک یادآوری، لطفا با رسانه‌های محلی بدون مجوز مناسب صحبت نکنید.\n"
+"\n"
+"لوسی بیشا\n"
+"\n"
+"متخصص ارشد روابط عمومی"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1467,7 +1567,7 @@ msgstr "ونتورف هرالد #317"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email_Author"
 msgid "Liam Jones"
-msgstr ""
+msgstr "لیام جونز"
 
 #. Key:	Chat
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1480,15 +1580,21 @@ msgstr "چت"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgid ""
+"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
+"\r\n"
+"In fact, it is a requirement that all employees replace their log files with coal fires. Remember, save the trees, save the world."
 msgstr ""
+"لطفا قبل از پرینت کردن این پیام فکر کنید. طبیعت در خطر است. درختان یکی از نگرانی‌های اصلی ما، اینجا در آرک هستند.\n"
+"\n"
+"دراقع یه ضرورت است که تمام کارکنان، شومینه‌های چوبی‌اشان را با شومینه‌های زغالی عوض کنند. یادتان باشد، درختان را نجات دهید تا دنیا را نجات دهید."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
 msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
-msgstr ""
+msgstr "این پیام توسط اسکنر امنیتی آرک اسکن شده است. مثل اینکه مشکلی وجود ندارد."
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1524,13 +1630,6 @@ msgstr "و تو!"
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
 msgstr "و {اسم} (تو!)"
-
-#. Key:	Cast
-#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
-#: /Game/Resources/Localisation/ST_Credits.ST_Credits
-msgctxt "ST_Credits,Cast"
-msgid "CAST"
-msgstr ""
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1578,8 +1677,12 @@ msgstr "در ترجمه‌ی بازی کمک کنید!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "پایان موقتی\nمحتویات بیشتر در راه است!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"پایان موقتی\n"
+"محتویات بیشتر در راه است!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1677,7 +1780,7 @@ msgstr "\"من 10 سال تو Phil's کار کردم، اونوقت یهو ای�
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr ""
+msgstr "شرکت آرک، پروسهی اکتساب شرکت داروسازی فیلیپ را کامل کرد"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -1788,8 +1891,14 @@ msgstr "یکی از ساکنان محلی، رزی هاردمُن این جلب�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr "این فانوس دریایی که در زمین بیرونی ردتان قرار دارد قرار از توسط شهردار محلی، جالن مِن، از کار بیفتد، بعد از تحقیقاتی که گارد ساحلی بر آن انجام دادند.\n\n\"بیل هایاک\" از بخش تحقیق دفتر ترافیک دریایی گفت \"ما مطمئنیم که این موضوع تاثری بر ترافیک های گذرنده‌ی دریایی نخواهد داشت\". همچنین اضافه کرد که \"درحالی که در قدیم میشد کشتی‌های باربری را از روی ساحل ردتان دیدی، حال که دیگر مسیرها از خشکی‌های اصلی تغییر کرده دیگر این قضیه پابرجا نیست\"."
+msgid ""
+"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
+"\r\n"
+"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr ""
+"این فانوس دریایی که در زمین بیرونی ردتان قرار دارد قرار از توسط شهردار محلی، جالن مِن، از کار بیفتد، بعد از تحقیقاتی که گارد ساحلی بر آن انجام دادند.\n"
+"\n"
+"\"بیل هایاک\" از بخش تحقیق دفتر ترافیک دریایی گفت \"ما مطمئنیم که این موضوع تاثری بر ترافیک های گذرنده‌ی دریایی نخواهد داشت\". همچنین اضافه کرد که \"درحالی که در قدیم میشد کشتی‌های باربری را از روی ساحل ردتان دیدی، حال که دیگر مسیرها از خشکی‌های اصلی تغییر کرده دیگر این قضیه پابرجا نیست\"."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1802,15 +1911,39 @@ msgstr "وقتی از شهردار سوال شد، او قبول نکرد جوا
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr "ساکنان محلی خیلی از این تغییر خوشحال نیستند. یکی از ساکنان نگران تاثیر آن روی خط‌های تجارت کوچک بود که هنوز به اسکله‌های جزیره میامدند، و گفت که این قضیه دیگر تیر آخر برای اسکله‌های ساکت جزیره است. و اضافه کرد \"خیلی از کسب و کار های جزیره را از بین میبرد\".\n\nبعضی وقت‌ها، فانوس دریایی تنها چیزیه که باعث میشه کشتی‌های کوچکتر بیاییند و با ساکنان تجارت کنند. این چیزیه که ما همه نگرانشیم. چه اتفاقی می‌افته وقتی دیگر هیچ کسب و کار وارداتی‌ای اینجا انجام نشود؟"
+msgid ""
+"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
+"\r\n"
+"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr ""
+"ساکنان محلی خیلی از این تغییر خوشحال نیستند. یکی از ساکنان نگران تاثیر آن روی خط‌های تجارت کوچک بود که هنوز به اسکله‌های جزیره میامدند، و گفت که این قضیه دیگر تیر آخر برای اسکله‌های ساکت جزیره است. و اضافه کرد \"خیلی از کسب و کار های جزیره را از بین میبرد\".\n"
+"\n"
+"بعضی وقت‌ها، فانوس دریایی تنها چیزیه که باعث میشه کشتی‌های کوچکتر بیاییند و با ساکنان تجارت کنند. این چیزیه که ما همه نگرانشیم. چه اتفاقی می‌افته وقتی دیگر هیچ کسب و کار وارداتی‌ای اینجا انجام نشود؟"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr "یکی از مشهور ترین مسابقات ردتان برای سالگردش برگشته.\n\nافراد جامعه هر سال دورهم گرد میایند تا ترسناکترین مترسک ها را بسازند تا پرنده ها را دور نگه دارد. برنده‌ی پارسال یک پسر هشت ساله‌ی مدرسه‌ای بود به اسم جاشوا فنتون که مترسکش را از روی مادربزگرش ساخته بود.\n\nبرنده‌ی مسابقه‌ی امسال به انتخابش، یک کیک خوشمزه از بین کیک های متفاوتی که جولیا مِن، همسر شهردار که به تازگی کیک فروش خودش را باز کرده، میگیرد.\n\nولی این فستیوال فقط با مترسک ها (که قرار است تمام هفته در نمایش باشند) تمام نمیشود، بوفه ها و فعالیت های دیگه هم هستند که در تمام شهر برپا خواهند بود. اگر هنوز مترسک ها را ندیده اید، همین العان به این رویداد سالانه بیایید و ببینید تمام آشوب سر چیست، و مزه‌هایی از بهترین غذا ها و نوشیدنی هایی که ردتان برای تعارف دارد را بچشید.\n\nاگر نمیتوانید بیایید مترسک ها را ببینید، چاپ بعدی روزنامه را بگیرید که در آن یک گزارش کامل از تمام کارهای ورودی را خواهیم داشت."
+msgid ""
+"One of the most popular competitions Redton holds is back for its annual event.\r\n"
+"\r\n"
+"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
+"\r\n"
+"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
+"\r\n"
+"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
+"\r\n"
+"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr ""
+"یکی از مشهور ترین مسابقات ردتان برای سالگردش برگشته.\n"
+"\n"
+"افراد جامعه هر سال دورهم گرد میایند تا ترسناکترین مترسک ها را بسازند تا پرنده ها را دور نگه دارد. برنده‌ی پارسال یک پسر هشت ساله‌ی مدرسه‌ای بود به اسم جاشوا فنتون که مترسکش را از روی مادربزگرش ساخته بود.\n"
+"\n"
+"برنده‌ی مسابقه‌ی امسال به انتخابش، یک کیک خوشمزه از بین کیک های متفاوتی که جولیا مِن، همسر شهردار که به تازگی کیک فروش خودش را باز کرده، میگیرد.\n"
+"\n"
+"ولی این فستیوال فقط با مترسک ها (که قرار است تمام هفته در نمایش باشند) تمام نمیشود، بوفه ها و فعالیت های دیگه هم هستند که در تمام شهر برپا خواهند بود. اگر هنوز مترسک ها را ندیده اید، همین العان به این رویداد سالانه بیایید و ببینید تمام آشوب سر چیست، و مزه‌هایی از بهترین غذا ها و نوشیدنی هایی که ردتان برای تعارف دارد را بچشید.\n"
+"\n"
+"اگر نمیتوانید بیایید مترسک ها را ببینید، چاپ بعدی روزنامه را بگیرید که در آن یک گزارش کامل از تمام کارهای ورودی را خواهیم داشت."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2167,182 +2300,182 @@ msgstr "...هیچ دلیلی نداره بشینم فکر کنم که چی می�
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
 msgid "This is the Norwegian Coast Guard. Please state your coordinates."
-msgstr ""
+msgstr "گارد ساحلی نروژ داره صحبت میکنه. لطفا مختصاتتون رو اعلام کنید."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
 msgid "OK"
-msgstr ""
+msgstr "اوکی"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "I have to inform you... there is an active government defence operation underway at your position."
-msgstr ""
+msgstr "باید به اطلاعتون برسونم که یک عملیات دفاعی دولتی در موقعیت شما فعال است."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard04"
 msgid "We are requesting clearance. Stand by."
-msgstr ""
+msgstr "داریم اجازه‌ی ترخیص میگیریم. منتظر بمونید."
 
 #. Key:	Dispatcher01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
 msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
-msgstr ""
+msgstr "شروع پاکسازی، پاکسازی مشاهده کننده"
 
 #. Key:	Dispatcher01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01b"
 msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
-msgstr ""
+msgstr "72 درجه، 59 دقیقه و 6 ثانیه به سمت شمال، 2 درجه، 51 دقیقه و 54 ثانیه به سمت شرق"
 
 #. Key:	John01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr ""
+msgstr "وایسا ببینم، چی بود...رایدوئه؟ الو؟ الو! اوه خدا، آره درستش کردی!"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01b"
 msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
-msgstr ""
+msgstr "کسی هست؟ این یک پیام اضطراریه، تکرار میکنم، یک پیام اضطراری"
 
 #. Key:	John02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02a"
 msgid "Does anyone copy? The island has been overrun."
-msgstr ""
+msgstr "کسی این پیامو میگیره؟ جزیره گرفته شده."
 
 #. Key:	John02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
-msgstr ""
+msgstr "شرکت آرک تا الان داشته تمام پیام ها به بیرون از جزیره رو مختل میکرد. ما همین الان نیاز به کمک ارتشی داریم!"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr ""
+msgstr "ما حدودا 72 درجه، 59 دقیقه و 6 ثانیه به سمت شمال و ام، 2 درجه، 51 دقیقه و 54 ثانیه به سمت شرق هستیم."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "Uh, it's John."
-msgstr ""
+msgstr "ام، من جان هستم."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
 msgid "Hello! Hello? Coastguard?! Anyone there?"
-msgstr ""
+msgstr "الو! الو؟ گارد ساحلی؟ کسی نیست؟"
 
 #. Key:	John05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05b"
 msgid "What Government Defense operation? What are you talking about?"
-msgstr ""
+msgstr "کدوم عملیات دفاعی دولتی؟ داری درباره‌ی چی حرف میزنی؟"
 
 #. Key:	John05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
 msgid "Coastguard are you there? Is anyone there? Someone pick up..."
-msgstr ""
+msgstr "گارد ساحلی، هستین؟ کسی هست؟ یه نفر جواب بده..."
 
 #. Key:	John06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06a"
 msgid "Oh no... no no no no no... no this isn't happening!"
-msgstr ""
+msgstr "اوه نه...نه نه نه نه نه...نه این اتفاق واقعی نیست!"
 
 #. Key:	John06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06b"
 msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
-msgstr ""
+msgstr "فرار کن از اونجا! هرکسی که داری صدا میشنوه، از جزیره خارج شین، همین الان، به هر شکلی که شده!"
 
 #. Key:	John06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
-msgstr ""
+msgstr "هر کسی که روی این فرکانسه، فرار کن! آخه چرا دارن یه همچین کاری میکنن؟"
 
 #. Key:	Copyright01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr ""
+msgstr "بازی Half-Life دارای علامت تجاری شرکت Valve است"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr ""
+msgstr "\"دلسرد شده\" یک کپی رایت از آلن آدواردز هست (Alan Edwardes) © 2011"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
 msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
-msgstr ""
+msgstr "بازی \"دلسرد شده بخش 2\" توسط یک نفر در وقت آزادش ساخه شده، به همراه مقداری کمک از یک صدا ساز، مرحله ساز، طراح 3 بعدی و یک جامعه‌ای از مترجمان و تستر های بازی"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr ""
+msgstr "این یک بازی مستقل است و ادامه‌ی \"دلسرد بخش اول\" که یک مد برای بازی Half-Life 2 بود که میتوانید به صورتی مجانی برای Windows، Mac و Linux از طریق Steam دریافتش کنید"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr ""
+msgstr "برای کمک گرفتن، اشکالات را گزارش دهید و فیدبکتان را بفرستید، و عضو جامعه‌ی ما شوید!"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr ""
+msgstr "فعال"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr ""
+msgstr "وضعیت مسدود کننده‌ی سیگنال:"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr ""
+msgstr "لغو از راه دور"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2370,14 +2503,14 @@ msgstr "اسکاتلند، شتلند، جزیره‌ی فیر"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarPendingLabel"
 msgid "PENDING"
-msgstr ""
+msgstr "انتظار"
 
 #. Key:	HangarRoundLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarRoundLabel"
 msgid "ROUND"
-msgstr ""
+msgstr "راند"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -2413,4 +2546,3 @@ msgstr "ساعت‌ها بعد از اتفاقات بخش اول"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "دریای نروژ، جزره‌ی ناشناس"
-
