@@ -39,21 +39,21 @@ msgstr "Activar linterna"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr ""
+msgstr "Huír"
 
 #. Key:	HintGameSaved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintGameSaved"
 msgid "Game saved"
-msgstr ""
+msgstr "Juego guardado"
 
 #. Key:	HintInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr ""
+msgstr "Interactuar"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -67,7 +67,7 @@ msgstr "Saltar"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintLoading"
 msgid "Loading"
-msgstr ""
+msgstr "Cargando"
 
 #. Key:	HintMove
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -81,14 +81,14 @@ msgstr "Mover"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr ""
+msgstr "Puerta abierta"
 
 #. Key:	HintPickaxe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintPickaxe"
 msgid "Pickaxe"
-msgstr ""
+msgstr "Piqueta"
 
 #. Key:	HintPickUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -102,7 +102,7 @@ msgstr "Coger objetos"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
-msgstr ""
+msgstr "Corre y salta"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -116,42 +116,42 @@ msgstr "Soltar objetos"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintTurnOnTv"
 msgid "Turn on TV"
-msgstr ""
+msgstr "Encender la tele"
 
 #. Key:	HintUseMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
-msgstr ""
+msgstr "Computadora de control"
 
 #. Key:	BindingNotSet
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr ""
+msgstr "Presione una tecla"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
-msgstr ""
+msgstr "Anti-Aliasing"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAdvanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzado"
 
 #. Key:	ButtonApply
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -165,7 +165,7 @@ msgstr "Aplicar Cambios"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr ""
+msgstr "Arcada"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -186,28 +186,28 @@ msgstr "Atrás"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr ""
+msgstr "Capítulo 1"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr ""
+msgstr "Capitulo 2"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr ""
+msgstr "Capítulo 3"
 
 #. Key:	ButtonChapter4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
-msgstr ""
+msgstr "Capítulo 4"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -284,28 +284,28 @@ msgstr "Gráficos"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGuides"
 msgid "Guides"
-msgstr ""
+msgstr "Guías"
 
 #. Key:	ButtonHordeWarehouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr ""
+msgstr "Almacén de la horda"
 
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
-msgstr ""
+msgstr "Únete a Discord"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLoadGame"
 msgid "Load Game"
-msgstr ""
+msgstr "Juego de carga"
 
 #. Key:	ButtonNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -326,7 +326,7 @@ msgstr "Posprocesado"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPrelude"
 msgid "Prelude"
-msgstr ""
+msgstr "Preludio"
 
 #. Key:	ButtonRange
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -347,14 +347,14 @@ msgstr "Continuar juego"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveGame"
 msgid "Save Game"
-msgstr ""
+msgstr "Guardar partida"
 
 #. Key:	ButtonSaveLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveLoad"
 msgid "Save / Load"
-msgstr ""
+msgstr "Guardar / carga"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -382,7 +382,7 @@ msgstr "Sonido"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSteamForums"
 msgid "Steam Forums"
-msgstr ""
+msgstr "Foros de Steam"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -396,7 +396,7 @@ msgstr "Texturas"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr ""
+msgstr "Distancia de vista"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -410,21 +410,21 @@ msgstr "Comentario en partida"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr ""
+msgstr "Deshabilitar la oclusión ambiental"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
-msgstr ""
+msgstr "Desactivar la profundidad de campo"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHighlight"
 msgid "Disable Object Highlight"
-msgstr ""
+msgstr "Deshabilitar objetos resaltados"
 
 #. Key:	CheckboxDisableHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -438,35 +438,35 @@ msgstr "Deshabilitar HUD"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr ""
+msgstr "Desactivar Motion Blur"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr ""
+msgstr "Desactivar escena fringe"
 
 #. Key:	CheckboxDisableSubtitles
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSubtitles"
 msgid "Disable Subtitles"
-msgstr ""
+msgstr "Desactivar los subtitulos"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
-msgstr ""
+msgstr "Deshabilitar viñeta"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableStatsForNerds"
 msgid "Enable On-Screen Stats"
-msgstr ""
+msgstr "Habilitar estadísticas en pantalla"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -501,63 +501,63 @@ msgstr "VSync"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownAAMethod"
 msgid "AA Method"
-msgstr ""
+msgstr "Método AA"
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownCulture"
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #. Key:	DropdownItemQualityModeEpic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeEpic"
 msgid "Epic"
-msgstr ""
+msgstr "Épico"
 
 #. Key:	DropdownItemQualityModeHigh
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeHigh"
 msgid "High"
-msgstr ""
+msgstr "Alto"
 
 #. Key:	DropdownItemQualityModeLow
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeLow"
 msgid "Low"
-msgstr ""
+msgstr "Bajo"
 
 #. Key:	DropdownItemQualityModeMedium
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemQualityModeMedium"
 msgid "Medium"
-msgstr ""
+msgstr "Mediano"
 
 #. Key:	DropdownItemWindowModeFullscreen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeFullscreen"
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pantalla completa"
 
 #. Key:	DropdownItemWindowModelBorderless
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModelBorderless"
 msgid "Borderless"
-msgstr ""
+msgstr "Sin bordes"
 
 #. Key:	DropdownItemWindowModeWindowed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeWindowed"
 msgid "Window"
-msgstr ""
+msgstr "Ventana"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -571,7 +571,7 @@ msgstr "Resolución"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr ""
+msgstr "Modo ventana"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -592,7 +592,7 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr ""
+msgstr "Introduce código de trucos"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -613,7 +613,7 @@ msgstr "Estas opciones son de prueba y pueden perderse."
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuArcade"
 msgid "ARCADE"
-msgstr ""
+msgstr "ARCADA"
 
 #. Key:	MenuControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -648,7 +648,7 @@ msgstr "GRÁFICOS"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuLoadGame"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "JUEGO DE CARGA"
 
 #. Key:	MenuNewGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -669,7 +669,7 @@ msgstr "OPCIONES"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,MenuSaveLoadOptions"
 msgid "SAVE / LOAD"
-msgstr ""
+msgstr "GUARDAR / CARGA"
 
 #. Key:	MenuScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -739,7 +739,7 @@ msgstr "Volumen música"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
-msgstr ""
+msgstr "Porcentaje de pantalla"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -760,49 +760,49 @@ msgstr "Invertir eje Y del ratón"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "The skeletons here are confirmed to be sailors and pirates."
-msgstr ""
+msgstr "Los esqueletos de aquí están confirmados como marineros y piratas."
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part2"
 msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
-msgstr ""
+msgstr "Nuestra mejor suposición es que estaban huyendo de la Armada Británica y buscaron refugio en la isla."
 
 #. Key:	ArcheologistDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "The pirates and sailors were involved in some kind of internal conflict."
-msgstr ""
+msgstr "Los piratas y los marineros estaban involucrados en algún tipo de conflicto interno."
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part2"
 msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
-msgstr ""
+msgstr "Asumimos que tiene relación con los objetos valiosos que recuperamos de esta cueva."
 
 #. Key:	ArcheologistDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part3"
 msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
-msgstr ""
+msgstr "Pensamos que probablemente estaban ebrios en ese momento, además, hay marcas de mordeduras en algunos de los huesos que parecen ser humanos."
 
 #. Key:	ArcheologistDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr ""
+msgstr "Tuvimos que extraer algo del equipo, ya que se enfermaron. Tenemos que asumir que molestaron algo cerca de los cuerpos."
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part2"
 msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
-msgstr ""
+msgstr "Usaremos nuestros trajes HAZMAT de ahora en adelante. Sabemos que no es seguro."
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1005,112 +1005,112 @@ msgstr "No estamos seguros de qué ha causado esto."
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionConsole"
 msgid "Console"
-msgstr ""
+msgstr "Consola"
 
 #. Key:	ActionCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionCrouch"
 msgid "Crouch"
-msgstr ""
+msgstr "Agacharse"
 
 #. Key:	ActionFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionFlashlight"
 msgid "Toggle Flashlight"
-msgstr ""
+msgstr "Cambiar linterna"
 
 #. Key:	ActionInteract
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionInteract"
 msgid "Interact"
-msgstr ""
+msgstr "Interactuar"
 
 #. Key:	ActionJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionJump"
 msgid "Jump"
-msgstr ""
+msgstr "Saltar"
 
 #. Key:	ActionMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMenu"
 msgid "Menu"
-msgstr ""
+msgstr "Menú"
 
 #. Key:	ActionMoveBackward
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveBackward"
 msgid "Move Backwards"
-msgstr ""
+msgstr "Mover hacia atrás"
 
 #. Key:	ActionMoveForward
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveForward"
 msgid "Move Forwards"
-msgstr ""
+msgstr "Mover hacia adelante"
 
 #. Key:	ActionMoveLeft
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveLeft"
 msgid "Move Left"
-msgstr ""
+msgstr "Mover hacia la izquierda"
 
 #. Key:	ActionMoveRight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveRight"
 msgid "Move Right"
-msgstr ""
+msgstr "Mover a la derecha"
 
 #. Key:	ActionPrimaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
 msgid "Primary Attack"
-msgstr ""
+msgstr "Ataque primario"
 
 #. Key:	ActionQuickLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickLoad"
 msgid "Quick Load"
-msgstr ""
+msgstr "Carga rápida"
 
 #. Key:	ActionQuickSave
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickSave"
 msgid "Quick Save"
-msgstr ""
+msgstr "Guardado rápido"
 
 #. Key:	ActionReload
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionReload"
 msgid "Reload"
-msgstr ""
+msgstr "Recargar"
 
 #. Key:	ActionSecondaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
 msgid "Secondary Attack"
-msgstr ""
+msgstr "Ataque secundario"
 
 #. Key:	ActionSprint
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSprint"
 msgid "Sprint"
-msgstr ""
+msgstr "Esprintar"
 
 #. Key:	CallElevator
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1130,21 +1130,27 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgid ""
+"ANOMALY DETECTED\r\n"
+"Overrides located in areas A and B"
 msgstr ""
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgid ""
+"AREA DESIGNATED SAFE\r\n"
+"WORKSTATION LOCKED"
 msgstr ""
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgid ""
+"Enter passcode to override\r\n"
+"HINT: Specimen count"
 msgstr ""
 
 #. Key:	LockdownTitle01
@@ -1375,14 +1381,36 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgid ""
+"Hello,\r\n"
+"\r\n"
+"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
+"\r\n"
+"We apologise for the inconveneince this may cause.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
 msgstr ""
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgid ""
+"Hi,\r\n"
+"\r\n"
+"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
+"\r\n"
+"What are the next steps?\r\n"
+"\r\n"
+"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Badge Services\r\n"
+"\r\n"
+"This is an automated email, please do not respond."
 msgstr ""
 
 #. Key:	Email01_Sender
@@ -1403,7 +1431,17 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgid ""
+"Hi Liam,\r\n"
+"\r\n"
+"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
+"\r\n"
+"Please respond with as much detail as you can about the incident.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
 msgstr ""
 
 #. Key:	Email02_Sender
@@ -1424,14 +1462,31 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgid ""
+"Liam,\r\n"
+"\r\n"
+"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
+"\r\n"
+"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
+"\r\n"
+"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
+"\r\n"
+"Tell me, where do you believe your badge to be?\r\n"
+"\r\n"
+"Yours,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
 msgstr ""
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgid ""
+"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
+"\r\n"
+"thanks"
 msgstr ""
 
 #. Key:	Email03_Subject
@@ -1445,7 +1500,16 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgid ""
+"Team,\r\n"
+"\r\n"
+"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
+"\r\n"
+"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
+"\r\n"
+"Lucy Beeshaw\r\n"
+"\r\n"
+"PR Senior Specialist"
 msgstr ""
 
 #. Key:	Email04_Sender
@@ -1480,7 +1544,10 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgid ""
+"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
+"\r\n"
+"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
 msgstr ""
 
 #. Key:	CorporateFooter02
@@ -1578,7 +1645,9 @@ msgstr "¡Ayuda a traducir también!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
 msgstr ""
 
 #. Key:	Translators
@@ -1788,7 +1857,10 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgid ""
+"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
+"\r\n"
+"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
 msgstr ""
 
 #. Key:	Body02
@@ -1802,14 +1874,26 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgid ""
+"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
+"\r\n"
+"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
 msgstr ""
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgid ""
+"One of the most popular competitions Redton holds is back for its annual event.\r\n"
+"\r\n"
+"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
+"\r\n"
+"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
+"\r\n"
+"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
+"\r\n"
+"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
 msgstr ""
 
 #. Key:	Body05
@@ -2349,7 +2433,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr ""
+msgstr "CARGANDO"
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -2413,4 +2497,3 @@ msgstr ""
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr ""
-
