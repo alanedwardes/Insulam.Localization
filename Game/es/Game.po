@@ -1,17 +1,17 @@
-﻿# Game Spanish (Spain) translation.
-# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#  Game Spanish (Spain) translation.
+#  Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+#  
 msgid ""
 msgstr ""
-"Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-14 15:11\n"
-"PO-Revision-Date: 2019-07-14 15:11\n"
-"Language-Team: \n"
-"Language: es-ES\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es-ES\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"PO-Revision-Date: 2019-07-14 15:11\n"
+"POT-Creation-Date: 2019-07-14 15:11\n"
+"Project-Id-Version: Game\n"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1730,119 +1730,119 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,CallOut1"
 msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
-msgstr ""
+msgstr "\"He trabajado en Phil’s por más de 10 años, y simplemente me dejaron marcharme. Es despiadado.\""
 
 #. Key:	Headline
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr ""
+msgstr "ARQUE CORPORATION COMPLETA LA ADQUISICIÓN DE PHILLIP'S PHARMACEUTICALS"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline2"
 msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
-msgstr ""
+msgstr "LOS BARCOS ESTÁN \"MUY CERCA\" DE COLISIONAR POR FALTA DE FARO"
 
 #. Key:	Headline3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline3"
 msgid "RED ALGAE NUMBERS STRONG"
-msgstr ""
+msgstr "GRAN NÚMERO DE ALGAS ROJAS"
 
 #. Key:	Navigation1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Navigation1"
 msgid "MORE ON PAGE 11"
-msgstr ""
+msgstr "MÁS EN LA PÁGINA 11"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr ""
+msgstr "La adquisición de la compañía farmacéutica local Phillip's Pharmaceuticals se completó a finales de la semana pasada, debido a que cincuenta empleados fueron despedidos, veinte más de los previstos inicialmente."
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph02"
 msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
-msgstr ""
+msgstr "La noticia se produjo cuando Arque Corporation anunció sus planes de expandirse en la región con fines de investigación no mencionados."
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph03"
 msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
-msgstr ""
+msgstr "El expropietario y fundador Phillip Beaumont fue expulsado de la compañía luego de cometer una locura pública, en la que fue arrestado por correr desnudo alrededor de la isla. No pudimos contactar a Phillip para pedir comentarios, sin embargo, su exesposa describió la adquisición como \"probablemente estratégica\"."
 
 #. Key:	Paragraph04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph04"
 msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
-msgstr ""
+msgstr "Ahora parece ser que los nuevos propietarios no tenían interés en Phillip's Pharmaceuticals y sus empleados, sino que estaban más interesados en las instalaciones y el terreno en el que fue construido."
 
 #. Key:	Paragraph05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph05"
 msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
-msgstr ""
+msgstr "Ben Killamock, exempleado, se sintió frustrado porque le arrebataron su sustento. Las oportunidades de empleo en la isla son pocas y distantes, y para la mayoría de los exempleados, mudarse de la isla es la única opción."
 
 #. Key:	Paragraph06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph06"
 msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
-msgstr ""
+msgstr "Los actuales propietarios de la mina cerrada Liam Brothers también están negociando con Arque Corporation. La mina se encuentra cerca de las instalaciones de Phillip's Pharmaceuticals y parece tener un valor estratégico para la corporación."
 
 #. Key:	Paragraph07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph07"
 msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
-msgstr ""
+msgstr "Nos contactamos con Arque Corporation para pedir comentarios, sin embargo, se negaron, afirmando que \"la corporación cumple con todas las leyes locales de empleo y ha ofrecido una compensación justa a todos los empleados retirados\". El periódico descubrió que la \"compensación\" está cubierta por un acuerdo de no divulgación, por lo que las cifras monetarias reales proporcionadas a los exempleados son desconocidas."
 
 #. Key:	Paragraph08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph08"
 msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
-msgstr ""
+msgstr "Los barcos que pasan cerca de la isla están \"a punto\" de estrellarse, con el cierre del faro de Redton, según el pescador John Alexanders."
 
 #. Key:	Paragraph09
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph09"
 msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
-msgstr ""
+msgstr "El Wentworth Herald abarcó el tema exclusivamente la semana pasada, debido a que el faro se iba a retirar del servicio, ya que sugerían que su costo superaba su utilidad."
 
 #. Key:	Paragraph10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph10"
 msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
-msgstr ""
+msgstr "El Departamento de Investigación de Tráfico Marítimo se negó a hacer comentarios, luego de afirmar en la edición de la semana pasada que estaban \"seguros de que esto no afectará el tráfico\"."
 
 #. Key:	Paragraph11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph11"
 msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
-msgstr ""
+msgstr "Las colonias de algas situadas en la isla siguen creciendo, ya que los estudios recientes muestran un gran aumento en la cantidad de las llamadas \"algas rojas\", la especie exclusiva de algas de la isla continúa dominando lagos y otras zonas acuáticas naturales."
 
 #. Key:	Paragraph12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph12"
 msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
-msgstr ""
+msgstr "La residente local Rosie Hardman considera que las algas son una amenaza, y que sería más feliz si las eliminaran, indicando que \"ellas [las algas] están tomando el control, debemos deshacernos de ellas lo antes posible. No quiero que toda el agua de la isla esté estancada. De todas maneras, ¿para qué sirven? \""
 
 #. Key:	Body01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
