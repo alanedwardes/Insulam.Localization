@@ -4,14 +4,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-14 15:11\n"
-"PO-Revision-Date: 2019-07-14 15:11\n"
+"POT-Creation-Date: 2019-08-04 11:05\n"
+"PO-Revision-Date: 2019-08-04 11:05\n"
 "Language-Team: \n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#. Key:	HintAchievementNotAchieved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintAchievementNotAchieved"
+msgid "\"{Title}\" not progressed (cheats used)"
+msgstr ""
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -489,6 +496,13 @@ msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
 msgstr "Limitați rata de cadre la 30FPS pentru a menține dispozitivele mobile, cum ar fi laptop-urile, mai frig când joci."
 
+#. Key:	CheckboxUsePlatformCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxUsePlatformCulture"
+msgid "Use {Platform} Language"
+msgstr ""
+
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -608,82 +622,33 @@ msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
 msgstr "Aceste opțiuni sunt experimentale și pot fi pierdute."
 
-#. Key:	MenuArcade
+#. Key:	LabelGlobalStats
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuArcade"
-msgid "ARCADE"
-msgstr "ARCADĂ"
+msgctxt "Menus,LabelGlobalStats"
+msgid "Global"
+msgstr ""
 
-#. Key:	MenuControlOptions
+#. Key:	LabelStatisticName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuControlOptions"
-msgid "CONTROLS"
-msgstr "CONTROALE"
+msgctxt "Menus,LabelStatisticName"
+msgid "Statistic Name"
+msgstr ""
 
-#. Key:	MenuExtraOptions
+#. Key:	LabelStatistics
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuExtraOptions"
-msgid "EXTRAS"
-msgstr "IN PLUS"
+msgctxt "Menus,LabelStatistics"
+msgid "Statistics"
+msgstr ""
 
-#. Key:	MenuGameplay
+#. Key:	LabelYourStats
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuGameplay"
-msgid "GAMEPLAY"
-msgstr "GAMEPLAY"
-
-#. Key:	MenuGraphicsOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuGraphicsOptions"
-msgid "GRAPHICS"
-msgstr "GRAFICĂ"
-
-#. Key:	MenuLoadGame
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuLoadGame"
-msgid "LOAD GAME"
-msgstr "INCARCA JOCUL"
-
-#. Key:	MenuNewGame
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuNewGame"
-msgid "NEW GAME"
-msgstr "JOC NOU"
-
-#. Key:	MenuOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuOptions"
-msgid "OPTIONS"
-msgstr "OPȚIUNI"
-
-#. Key:	MenuSaveLoadOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuSaveLoadOptions"
-msgid "SAVE / LOAD"
-msgstr "SAVE / LOAD"
-
-#. Key:	MenuScreenOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuScreenOptions"
-msgid "SCREEN"
-msgstr "ECRAN"
-
-#. Key:	MenuSoundOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuSoundOptions"
-msgid "SOUND"
-msgstr "SUNET"
+msgctxt "Menus,LabelYourStats"
+msgid "You"
+msgstr ""
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1236,6 +1201,76 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+msgstr ""
+
+#. Key:	StatisticArqueBottlesDispensed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
+msgid "Arque Bottles Dispensed"
+msgstr ""
+
+#. Key:	StatisticBulletsFired
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticBulletsFired"
+msgid "Bullets Fired"
+msgstr ""
+
+#. Key:	StatisticCamerasDestroyed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticCamerasDestroyed"
+msgid "Cameras Destroyed"
+msgstr ""
+
+#. Key:	StatisticCheatsUsed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticCheatsUsed"
+msgid "Cheats Used"
+msgstr ""
+
+#. Key:	StatisticGamesStarted
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticGamesStarted"
+msgid "Games Started"
+msgstr ""
+
+#. Key:	StatisticHeadshots
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticHeadshots"
+msgid "Headshots"
+msgstr ""
+
+#. Key:	StatisticInfectedKilled
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticInfectedKilled"
+msgid "Infected Killed"
+msgstr ""
+
+#. Key:	StatisticItemsFlushed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticItemsFlushed"
+msgid "Items Flushed"
+msgstr ""
+
+#. Key:	StatisticSokolKilled
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticSokolKilled"
+msgid "Sokol-Glockner Killed"
+msgstr ""
+
+#. Key:	StatisticTimesDied
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticTimesDied"
+msgid "Times Died"
 msgstr ""
 
 #. Key:	NoAccessMessage

@@ -4,14 +4,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-07-14 15:11\n"
-"PO-Revision-Date: 2019-07-14 15:11\n"
+"POT-Creation-Date: 2019-08-04 11:05\n"
+"PO-Revision-Date: 2019-08-04 11:05\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	HintAchievementNotAchieved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintAchievementNotAchieved"
+msgid "\"{Title}\" not progressed (cheats used)"
+msgstr ""
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -489,6 +496,13 @@ msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
 msgstr "将帧速率限制为30FPS，以便在播放时保持笔记本电脑等移动设备的温度更低。"
 
+#. Key:	CheckboxUsePlatformCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxUsePlatformCulture"
+msgid "Use {Platform} Language"
+msgstr ""
+
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -608,82 +622,33 @@ msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
 msgstr "这些选项是实验性的，可能会丢失。"
 
-#. Key:	MenuArcade
+#. Key:	LabelGlobalStats
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuArcade"
-msgid "ARCADE"
-msgstr "拱廊"
+msgctxt "Menus,LabelGlobalStats"
+msgid "Global"
+msgstr ""
 
-#. Key:	MenuControlOptions
+#. Key:	LabelStatisticName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuControlOptions"
-msgid "CONTROLS"
-msgstr "控制"
+msgctxt "Menus,LabelStatisticName"
+msgid "Statistic Name"
+msgstr ""
 
-#. Key:	MenuExtraOptions
+#. Key:	LabelStatistics
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuExtraOptions"
-msgid "EXTRAS"
-msgstr "额外区域"
+msgctxt "Menus,LabelStatistics"
+msgid "Statistics"
+msgstr ""
 
-#. Key:	MenuGameplay
+#. Key:	LabelYourStats
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuGameplay"
-msgid "GAMEPLAY"
-msgstr "游戏"
-
-#. Key:	MenuGraphicsOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuGraphicsOptions"
-msgid "GRAPHICS"
-msgstr "图学"
-
-#. Key:	MenuLoadGame
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuLoadGame"
-msgid "LOAD GAME"
-msgstr "加载游戏"
-
-#. Key:	MenuNewGame
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuNewGame"
-msgid "NEW GAME"
-msgstr "新游戏"
-
-#. Key:	MenuOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuOptions"
-msgid "OPTIONS"
-msgstr "设置"
-
-#. Key:	MenuSaveLoadOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuSaveLoadOptions"
-msgid "SAVE / LOAD"
-msgstr "保存/加载"
-
-#. Key:	MenuScreenOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuScreenOptions"
-msgid "SCREEN"
-msgstr "屏幕"
-
-#. Key:	MenuSoundOptions
-#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
-#: /Game/Resources/Localisation/ST_Menus.ST_Menus
-msgctxt "Menus,MenuSoundOptions"
-msgid "SOUND"
-msgstr "声音"
+msgctxt "Menus,LabelYourStats"
+msgid "You"
+msgstr ""
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1237,6 +1202,76 @@ msgstr "告诉我你和谁合作。否则，地狱就不再是一个可怕的词
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "谁有想过呢？身为世界上最大的私人保安承包商之一，索科尔格洛克纳当然知道如何施加痛苦。"
+
+#. Key:	StatisticArqueBottlesDispensed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
+msgid "Arque Bottles Dispensed"
+msgstr ""
+
+#. Key:	StatisticBulletsFired
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticBulletsFired"
+msgid "Bullets Fired"
+msgstr ""
+
+#. Key:	StatisticCamerasDestroyed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticCamerasDestroyed"
+msgid "Cameras Destroyed"
+msgstr ""
+
+#. Key:	StatisticCheatsUsed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticCheatsUsed"
+msgid "Cheats Used"
+msgstr ""
+
+#. Key:	StatisticGamesStarted
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticGamesStarted"
+msgid "Games Started"
+msgstr ""
+
+#. Key:	StatisticHeadshots
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticHeadshots"
+msgid "Headshots"
+msgstr ""
+
+#. Key:	StatisticInfectedKilled
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticInfectedKilled"
+msgid "Infected Killed"
+msgstr ""
+
+#. Key:	StatisticItemsFlushed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticItemsFlushed"
+msgid "Items Flushed"
+msgstr ""
+
+#. Key:	StatisticSokolKilled
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticSokolKilled"
+msgid "Sokol-Glockner Killed"
+msgstr ""
+
+#. Key:	StatisticTimesDied
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticTimesDied"
+msgid "Times Died"
+msgstr ""
 
 #. Key:	NoAccessMessage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
