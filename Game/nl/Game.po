@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-08-04 11:05\n"
-"PO-Revision-Date: 2019-08-04 21:22+0200\n"
+"PO-Revision-Date: 2019-08-04 21:27+0200\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -502,7 +502,7 @@ msgstr "Beperk de framerate tot 30 FPS om mobiele apparaten zoals laptops koeler
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
 msgid "Use {Platform} Language"
-msgstr "{Platform} gebruiken"
+msgstr "Taal van {Platform} gebruiken"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
