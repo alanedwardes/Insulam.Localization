@@ -501,7 +501,7 @@ msgstr "Begrenzt die Bildrate auf 30 FPS, um mobile Geräte wie Laptops kühler 
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
 msgid "Use {Platform} Language"
-msgstr "Verwende die {Plattform} Sprache"
+msgstr "Verwende die {Platform} Sprache"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
