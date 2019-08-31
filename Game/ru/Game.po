@@ -1082,14 +1082,14 @@ msgstr "Бег"
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,CallElevator"
 msgid "CALL ELEVATOR"
-msgstr "ЗВОНОК ЛИФТ"
+msgstr "ВЫЗВАТЬ ЛИФТ"
 
 #. Key:	EnterTwoFactor01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
 msgid "Enter two-factor authentication code to override"
-msgstr "Введите код двухфакторной аутентификации для переопределения"
+msgstr "Введите код двухфакторной аутентификации для отмены"
 
 #. Key:	LockdownBody01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1110,14 +1110,14 @@ msgstr "СЕЙЧАС БЕЗОПАСНЫЙ\r\nРАБОЧАЯ СТАНЦИЯ ЗА�
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
 msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr "Введите пароль для переопределения\r\nСОВЕТ: Количество образцов"
+msgstr "Введите код для отмены\r\nСОВЕТ: Количество подопытных"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownTitle01"
 msgid "LOCKDOWN ENABLED"
-msgstr "ЗОНА ЗАКРЫТА"
+msgstr "БЛОКИРОВКА АКТИВНА"
 
 #. Key:	LockdownTitle02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
