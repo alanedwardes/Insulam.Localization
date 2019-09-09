@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-08-04 11:05\n"
-"PO-Revision-Date: 2019-09-01 20:55+0300\n"
+"PO-Revision-Date: 2019-09-09 22:07+0300\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintAchievementNotAchieved"
 msgid "\"{Title}\" not progressed (cheats used)"
-msgstr "\"{Title}\" нет прогресса (Использованы чит-коды)"
+msgstr "\"{Title}\" прогресс остановлен (Использованы чит-коды)"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -33,7 +33,7 @@ msgstr "Присесть"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "Выстрел из M9"
+msgstr "Выстрелить из M9"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -404,7 +404,7 @@ msgstr "Текстуры"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonViewDistance"
 msgid "View Distance"
-msgstr "Отобразить расстояние"
+msgstr "Дальность прорисовки"
 
 #. Key:	CheckboxCommentary
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -418,14 +418,14 @@ msgstr "Игровые комментарии"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr "Отключить Окклюзия окружения"
+msgstr "Отключить затенение окружения"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
-msgstr "Отключить глубину поля"
+msgstr "Отключить глубину резкости"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -628,14 +628,14 @@ msgstr "Эти параметры являются эксперименталь�
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelGlobalStats"
 msgid "Global"
-msgstr "Глобальные"
+msgstr "Глобально"
 
 #. Key:	LabelStatisticName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelStatisticName"
 msgid "Statistic Name"
-msgstr "Наименование статистики"
+msgstr "Наименование"
 
 #. Key:	LabelStatistics
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -663,14 +663,14 @@ msgstr "Настройки"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderControllerSensitivity"
 msgid "Controller Sensitivity"
-msgstr "Чувствительность геймпада"
+msgstr "Чувствительность Геймпада"
 
 #. Key:	SliderEffectsVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
-msgstr "Громкость эффектов"
+msgstr "Громкость Эффектов"
 
 #. Key:	SliderFieldOfView
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -768,7 +768,7 @@ msgstr "Из-за болезни нам пришлось оставить час
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part2"
 msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
-msgstr "С этого момента мы будем использовать костюмы химзащиты. Мы знаем, что это небезопасно."
+msgstr "С этого момента мы будем использовать костюмы химзащиты. Мы знаем, что здесь небезопасно."
 
 #. Key:	GarethThomasDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1221,7 +1221,7 @@ msgstr "Кто бы мог подумать? Удивительно, но Сок
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
 msgid "Arque Bottles Dispensed"
-msgstr "Arque Бутылок с водой выдано"
+msgstr "Arque Бутылок выдано"
 
 #. Key:	StatisticBulletsFired
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -2574,14 +2574,14 @@ msgstr "ФЭР АЙЛ, ШЕТЛАНД, ШОТЛАНДИЯ"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarPendingLabel"
 msgid "PENDING"
-msgstr "ОЖИДАНИЕ"
+msgstr "ПЕРЕРЫВ"
 
 #. Key:	HangarRoundLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarRoundLabel"
 msgid "ROUND"
-msgstr "КРУГЛЫЙ"
+msgstr "ВОЛНА"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
