@@ -501,7 +501,7 @@ msgstr "Begrenzt die Bildrate auf 30 FPS, um mobile Geräte wie Laptops kühler 
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
 msgid "Use {Platform} Language"
-msgstr "Verwende die {Platform} Sprache"
+msgstr "Die {Platform} Sprache verwenden"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1089,28 +1089,28 @@ msgstr "AUFZUG RUFEN"
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
 msgid "Enter two-factor authentication code to override"
-msgstr "Geben Sie den zu überschreibenden Zwei-Faktor-Authentifizierungscode ein."
+msgstr "Zu überschreibenden Zwei-Faktor-Authentifizierungscode eingeben."
 
 #. Key:	LockdownBody01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
 msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
-msgstr "ANOMALIE ERKANNT\r\nÜberschreibung in den Bereichen A und B festgestellt."
+msgstr "ANOMALIE ERKANNT\r\nÜberschreibung im Bereich A und B festgestellt."
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
 msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
-msgstr "BESTIMMTER BEREICH GESICHERT\r\nARBEITSPLATZ GESPERRT"
+msgstr "GEWÄHLTER BEREICH GESICHERT\r\nARBEITSPLATZ GESPERRT"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
 msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr "Geben Sie den Kode zum Überschreiben ein\r\nTIPP: Anzahl der Exemplare"
+msgstr "Code zum Überschreiben eingeben\r\nTIPP: Anzahl der Exemplare"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1208,7 +1208,7 @@ msgstr "Wer hätte das gedacht? Sokol-Glockner, einer der größten privaten Sic
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
 msgid "Arque Bottles Dispensed"
-msgstr "Arque Flaschen entnommen"
+msgstr "Arqueflaschen gesammelt"
 
 #. Key:	StatisticBulletsFired
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1257,7 +1257,7 @@ msgstr "Infizierte getötet"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticItemsFlushed"
 msgid "Items Flushed"
-msgstr "Gegenstände runtergespült"
+msgstr "Gegenstände weggespült"
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
