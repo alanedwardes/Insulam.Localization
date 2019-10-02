@@ -1,0 +1,2451 @@
+﻿# Game Vietnamese translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-10-02 20:54\n"
+"PO-Revision-Date: 2019-10-02 20:54\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	HintAchievementNotAchieved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintAchievementNotAchieved"
+msgid "\"{Title}\" not progressed (cheats used)"
+msgstr "\"{Title}\" không thể tiến triển (mã gian lận đã được sử dụng)"
+
+#. Key:	HintCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintCrouch"
+msgid "Crouch under"
+msgstr "Cúi xuống"
+
+#. Key:	HintFireM9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFireM9"
+msgid "Fire M9"
+msgstr "Bắn khẩu M9"
+
+#. Key:	HintFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlashlight"
+msgid "Toggle flashlight"
+msgstr "Bật/Tắt đèn pin"
+
+#. Key:	HintFlee
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintFlee"
+msgid "Flee"
+msgstr "Chuồn"
+
+#. Key:	HintGameSaved
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintGameSaved"
+msgid "Game saved"
+msgstr "Trò chơi đã được lưu"
+
+#. Key:	HintInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintInteract"
+msgid "Interact"
+msgstr "Tương tác"
+
+#. Key:	HintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintJump"
+msgid "Jump up"
+msgstr "Nhảy lên"
+
+#. Key:	HintLoading
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintLoading"
+msgid "Loading"
+msgstr "Đang tải"
+
+#. Key:	HintMove
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintMove"
+msgid "Move around"
+msgstr "Di chuyển"
+
+#. Key:	HintOpenGate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintOpenGate"
+msgid "Open gate"
+msgstr "Mở cổng"
+
+#. Key:	HintPickaxe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickaxe"
+msgid "Pickaxe"
+msgstr "Cây cúp"
+
+#. Key:	HintPickUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintPickUp"
+msgid "Pick up object"
+msgstr "Nhặt đồ"
+
+#. Key:	HintSprintJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintSprintJump"
+msgid "Run and Jump"
+msgstr "Chạy và Nhảy"
+
+#. Key:	HintThrowRock
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintThrowRock"
+msgid "Throw rock"
+msgstr "Ném đá"
+
+#. Key:	HintTurnOnTv
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintTurnOnTv"
+msgid "Turn on TV"
+msgstr "Bật TV"
+
+#. Key:	HintUseMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintUseMouse"
+msgid "Control computer"
+msgstr "Dùng máy tính"
+
+#. Key:	BindingNotSet
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingNotSet"
+msgid "None"
+msgstr "Không có gì"
+
+#. Key:	BindingPressKey
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressKey"
+msgid "Press a key"
+msgstr "Nhấn một phím"
+
+#. Key:	ButtonAA
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAA"
+msgid "Anti-Aliasing"
+msgstr "Khử Răng Cưa"
+
+#. Key:	ButtonAdvanced
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAdvanced"
+msgid "Advanced"
+msgstr "Nâng Cao"
+
+#. Key:	ButtonApply
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonApply"
+msgid "Apply Changes"
+msgstr "Áp Dụng Cài Đặt"
+
+#. Key:	ButtonArcade
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonArcade"
+msgid "Arcade"
+msgstr "Trò Chơi Phụ"
+
+#. Key:	ButtonAutoDetectSettings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAutoDetectSettings"
+msgid "Auto-Detect Settings"
+msgstr "Tự Động Dò Cài Đặt"
+
+#. Key:	ButtonBack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonBack"
+msgid "Back"
+msgstr "Trở Về"
+
+#. Key:	ButtonChapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter1"
+msgid "Chapter 1"
+msgstr "Chương 1"
+
+#. Key:	ButtonChapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter2"
+msgid "Chapter 2"
+msgstr "Chương 2"
+
+#. Key:	ButtonChapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter3"
+msgid "Chapter 3"
+msgstr "Chương 3"
+
+#. Key:	ButtonChapter4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonChapter4"
+msgid "Chapter 4"
+msgstr "Chương 4"
+
+#. Key:	ButtonControlOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControlOptions"
+msgid "Controls"
+msgstr "Điều Khiển"
+
+#. Key:	ButtonCredits
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonCredits"
+msgid "Load Credits"
+msgstr "Chạy Danh Đề"
+
+#. Key:	ButtonEffects
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonEffects"
+msgid "Effects"
+msgstr "Hiệu Ứng"
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExit"
+msgid "Exit"
+msgstr "Thoát"
+
+#. Key:	ButtonExitToMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExitToMenu"
+msgid "Exit to Menu"
+msgstr "Thoát Về Menu"
+
+#. Key:	ButtonExtras
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonExtras"
+msgid "Extras"
+msgstr "Phần Bổ Sung"
+
+#. Key:	ButtonFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFeedback"
+msgid "Send Feedback"
+msgstr "Gửi Phản Hồi"
+
+#. Key:	ButtonFoliage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonFoliage"
+msgid "Foliage"
+msgstr "Trang Trí"
+
+#. Key:	ButtonGameplayOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGameplayOptions"
+msgid "Gameplay"
+msgstr "Lối Chơi"
+
+#. Key:	ButtonGraphicsOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGraphicsOptions"
+msgid "Graphics"
+msgstr "Đồ Họa"
+
+#. Key:	ButtonGuides
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonGuides"
+msgid "Guides"
+msgstr "Hướng Dẫn"
+
+#. Key:	ButtonHordeWarehouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonHordeWarehouse"
+msgid "Warehouse Horde"
+msgstr "Hỗn Loạn Trong Nhà Kho"
+
+#. Key:	ButtonJoinDiscord
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonJoinDiscord"
+msgid "Join Discord"
+msgstr "Tham Gia Nhóm Discord"
+
+#. Key:	ButtonLoadGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLoadGame"
+msgid "Load Game"
+msgstr "Tải Trò Chơi"
+
+#. Key:	ButtonNewGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonNewGame"
+msgid "New Game"
+msgstr "Trò Chơi Mới"
+
+#. Key:	ButtonPostProcess
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPostProcess"
+msgid "Post-process"
+msgstr "Đa Hiệu Ứng"
+
+#. Key:	ButtonPrelude
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonPrelude"
+msgid "Prelude"
+msgstr "Khúc Dạo Đầu"
+
+#. Key:	ButtonRange
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonRange"
+msgid "Shooting Range"
+msgstr "Trường Tập Bắn"
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonResume"
+msgid "Resume Game"
+msgstr "Tiếp Tục Trò Chơi"
+
+#. Key:	ButtonSaveGame
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveGame"
+msgid "Save Game"
+msgstr "Lưu"
+
+#. Key:	ButtonSaveLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSaveLoad"
+msgid "Save / Load"
+msgstr "Lưu / Tải"
+
+#. Key:	ButtonScreenOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonScreenOptions"
+msgid "Screen"
+msgstr "Màn Hình"
+
+#. Key:	ButtonShadows
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShadows"
+msgid "Shadows"
+msgstr "Bóng Tối"
+
+#. Key:	ButtonSoundOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSoundOptions"
+msgid "Sound"
+msgstr "Âm Thanh"
+
+#. Key:	ButtonSteamForums
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonSteamForums"
+msgid "Steam Forums"
+msgstr "Steam Forums"
+
+#. Key:	ButtonTextures
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonTextures"
+msgid "Textures"
+msgstr "Kết Cấu"
+
+#. Key:	ButtonViewDistance
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonViewDistance"
+msgid "View Distance"
+msgstr "Xem Khoảng Cách"
+
+#. Key:	CheckboxCommentary
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxCommentary"
+msgid "In-Game Commentary"
+msgstr "Bình Luận Trong Trò Chơi"
+
+#. Key:	CheckboxDisableAmbientOcclusion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableAmbientOcclusion"
+msgid "Disable Ambient Occlusion"
+msgstr "Tắt Ambient Occulsion"
+
+#. Key:	CheckboxDisableDepthOfField
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableDepthOfField"
+msgid "Disable Depth of Field"
+msgstr "Tắt Depth of Field"
+
+#. Key:	CheckboxDisableHighlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHighlight"
+msgid "Disable Object Highlight"
+msgstr "Tắt Vật Sáng Lên"
+
+#. Key:	CheckboxDisableHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableHUD"
+msgid "Disable HUD"
+msgstr "Tắt HUD"
+
+#. Key:	CheckboxDisableMotionBlur
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableMotionBlur"
+msgid "Disable Motion Blur"
+msgstr "Tắt Hiệu Ứng Mờ"
+
+#. Key:	CheckboxDisableSceneFringe
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSceneFringe"
+msgid "Disable Scene Fringe"
+msgstr "Tắt Cảnh Rìa"
+
+#. Key:	CheckboxDisableSubtitles
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableSubtitles"
+msgid "Disable Subtitles"
+msgstr "Tắt Phụ Đề"
+
+#. Key:	CheckboxDisableVignette
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableVignette"
+msgid "Disable Vignette"
+msgstr "Tắt Họa Tiết"
+
+#. Key:	CheckboxEnableStatsForNerds
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableStatsForNerds"
+msgid "Enable On-Screen Stats"
+msgstr "Bật Thống Kê Trên Màn Hình"
+
+#. Key:	CheckboxInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertMouse"
+msgid "Invert Mouse"
+msgstr "Đảo Ngược Chuột"
+
+#. Key:	CheckboxLaptopMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopMode"
+msgid "Laptop Mode"
+msgstr "Chế Độ Máy Tính Xách Tay"
+
+#. Key:	CheckboxLaptopModeHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxLaptopModeHelp"
+msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
+msgstr "Giới hạn tốc độ khung hình ở mức 30FPS để giữ cho các thiết bị di động như máy tính xách tay mát hơn khi chơi."
+
+#. Key:	CheckboxUsePlatformCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxUsePlatformCulture"
+msgid "Use {Platform} Language"
+msgstr "Use {Platform} Language"
+
+#. Key:	CheckboxVSync
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxVSync"
+msgid "VSync"
+msgstr "VSync"
+
+#. Key:	DropdownAAMethod
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownAAMethod"
+msgid "AA Method"
+msgstr "Phương Pháp Khử Răng Cưa"
+
+#. Key:	DropdownCulture
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownCulture"
+msgid "Language"
+msgstr "Ngôn Ngữ"
+
+#. Key:	DropdownItemQualityModeEpic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeEpic"
+msgid "Epic"
+msgstr "Cao Nhất"
+
+#. Key:	DropdownItemQualityModeHigh
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeHigh"
+msgid "High"
+msgstr "Cao"
+
+#. Key:	DropdownItemQualityModeLow
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeLow"
+msgid "Low"
+msgstr "Thấp"
+
+#. Key:	DropdownItemQualityModeMedium
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemQualityModeMedium"
+msgid "Medium"
+msgstr "Trung Bình"
+
+#. Key:	DropdownItemWindowModeFullscreen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeFullscreen"
+msgid "Fullscreen"
+msgstr "Chế Độ Toàn Màn Hình"
+
+#. Key:	DropdownItemWindowModelBorderless
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModelBorderless"
+msgid "Borderless"
+msgstr "Không Viền"
+
+#. Key:	DropdownItemWindowModeWindowed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownItemWindowModeWindowed"
+msgid "Window"
+msgstr "Chế Độ Cửa Sổ"
+
+#. Key:	DropdownResolution
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownResolution"
+msgid "Resolution"
+msgstr "Độ Phân Giải"
+
+#. Key:	DropdownWindowMode
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,DropdownWindowMode"
+msgid "Window Mode"
+msgstr "Chế Độ Cửa Sổ"
+
+#. Key:	GameTag
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTag"
+msgid "ACT II EARLY ACCESS"
+msgstr "ACT II EARLY ACCESS"
+
+#. Key:	GameTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,GameTitle"
+msgid "ESTRANGED"
+msgstr "ESTRANGED"
+
+#. Key:	LabelEnterCheat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelEnterCheat"
+msgid "Enter Cheat"
+msgstr "Nhập Mã Gian Lận"
+
+#. Key:	LabelExperimentalOptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptions"
+msgid "Experimental Options"
+msgstr "Cài Đặt Thử Nghiệm"
+
+#. Key:	LabelExperimentalOptionsHelp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExperimentalOptionsHelp"
+msgid "These options are experimental and may be lost."
+msgstr "Những cài đặt này là thử nghiệm và có thể bị mất."
+
+#. Key:	LabelGlobalStats
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelGlobalStats"
+msgid "Global"
+msgstr "Toàn Cầu"
+
+#. Key:	LabelStatisticName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelStatisticName"
+msgid "Statistic Name"
+msgstr "Tên Thống Kê"
+
+#. Key:	LabelStatistics
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelStatistics"
+msgid "Statistics"
+msgstr "Bảng Thống Kê"
+
+#. Key:	LabelYourStats
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelYourStats"
+msgid "You"
+msgstr "Bạn"
+
+#. Key:	OptionsButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,OptionsButton"
+msgid "Options"
+msgstr "Cài Đặt"
+
+#. Key:	SliderControllerSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderControllerSensitivity"
+msgid "Controller Sensitivity"
+msgstr "Độ Nhạy Của Bộ Điều Khiển"
+
+#. Key:	SliderEffectsVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderEffectsVolume"
+msgid "Effects Volume"
+msgstr "Âm Lượng Hiệu Ứng"
+
+#. Key:	SliderFieldOfView
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderFieldOfView"
+msgid "Field of View"
+msgstr "FOV"
+
+#. Key:	SliderGamma
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderGamma"
+msgid "Gamma"
+msgstr "Gamma"
+
+#. Key:	SliderMouseSensitivity
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "Độ Nhạy Của Chuột"
+
+#. Key:	SliderMusicVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderMusicVolume"
+msgid "Music Volume"
+msgstr "Âm Lượng Nhạc"
+
+#. Key:	SliderScreenPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderScreenPercentage"
+msgid "Screen Percentage"
+msgstr "Tỷ Lệ Màn Hình"
+
+#. Key:	SliderVoiceVolume
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderVoiceVolume"
+msgid "Voice Volume"
+msgstr "Âm Lượng Giọng Nói"
+
+#. Key:	TooltipInvertMouse
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipInvertMouse"
+msgid "Invert the mouse Y axis"
+msgstr "Đảo ngược trục Y của chuột"
+
+#. Key:	ArcheologistDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part1"
+msgid "The skeletons here are confirmed to be sailors and pirates."
+msgstr "Những bộ xương này được xác nhận là những thủy thủ và cướp biển."
+
+#. Key:	ArcheologistDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary1Part2"
+msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
+msgstr "Dự đoán tốt nhất của chúng tôi là họ đang chạy trốn Hải quân Anh và tìm cách tị nạn trên đảo."
+
+#. Key:	ArcheologistDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part1"
+msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgstr "Những tên cướp biển và thủy thủ có liên lụy với một loại xung đột nội bộ."
+
+#. Key:	ArcheologistDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part2"
+msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
+msgstr "Chúng tôi cho rằng họ đã tranh nhau cái cổ vật quý giá mà chúng tôi đã phục hồi được từ cái hang động này."
+
+#. Key:	ArcheologistDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary2Part3"
+msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
+msgstr "Chúng tôi nghĩ rằng họ có khả năng bị nhiễm bệnh vào thời điểm đó, và có những vết cắn trên một số xương dường như là từ con người."
+
+#. Key:	ArcheologistDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part1"
+msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgstr "Chúng tôi đã phải trích xuất một số người của đội, khi họ ngã bệnh. Chúng ta phải cho rằng họ làm phiền một cái gì đó gần cơ thể."
+
+#. Key:	ArcheologistDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,ArcheologistDiary3Part2"
+msgid "We're going to be using our HAZMAT suits from now on. We know it's not safe."
+msgstr "Từ bây giờ chúng tôi sẽ sử dụng bộ đồ HAZMAT. Chúng tôi biết là nơi này không an toàn."
+
+#. Key:	GarethThomasDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part1"
+msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "Đây là Gareth Thomas đang nói. Chúng tôi đã phân tích các mẫu tảo"
+
+#. Key:	GarethThomasDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part2"
+msgid "and found that the glowing is caused by a naturally occurring marine plankton in the surrounding area."
+msgstr "và phát hiện ra rằng sự phát sáng được gây ra bởi một sinh vật phù du biển tự nhiên ở khu vực xung quanh."
+
+#. Key:	GarethThomasDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part3"
+msgid "We don't anticipate that our usage of the algae will be affected at all by the plankton."
+msgstr "Chúng tôi không dự đoán rằng việc sử dụng tảo sẽ bị ảnh hưởng bởi các sinh vật phù du."
+
+#. Key:	GarethThomasDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,GarethThomasDiary1Part4"
+msgid "And we consider it completely harmless, we don't anticipate it being a problem."
+msgstr "Và chúng tôi coi nó hoàn toàn vô hại, chúng tôi không lường trước được nó là một vấn đề."
+
+#. Key:	LiamJonesDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part1"
+msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgstr "Đây là uh, Liam Jones, nhật ký âm thanh, #1, uh"
+
+#. Key:	LiamJonesDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part2"
+msgid "We just started studying the algae, and uh"
+msgstr "Chúng tôi mới bắt đầu nghiên cứu tảo, và uh"
+
+#. Key:	LiamJonesDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part3"
+msgid "We realised that it actually glows if you leave it alone for a little while"
+msgstr "Chúng tôi nhận ra là nó sẽ phát sáng nếu bạn để nó một mình trong một thời gian"
+
+#. Key:	LiamJonesDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part4"
+msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
+msgstr "Vì vậy, uh, thật tuyệt! Uh, tôi có một mẫu nhỏ ở đây với tôi rằng..."
+
+#. Key:	LiamJonesDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary1Part5"
+msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
+msgstr "...tôi sẽ rời khỏi văn phòng của mình một chút, rồi xem điều gì sẽ xảy ra với nó."
+
+#. Key:	LiamJonesDiary2Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part1"
+msgid "This is the uh, Liam Jones uh, diary #2"
+msgstr "Đây là uh, Liam Jones, nhật ký #2"
+
+#. Key:	LiamJonesDiary2Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part10"
+msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
+msgstr "chỉ cần làm điều đó Hawthorne, chỉ cần cho họ biết rằng tôi đã đặt nhầm nó, và tôi cần một cái khác"
+
+#. Key:	LiamJonesDiary2Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part11"
+msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
+msgstr "hoặc anh có thể nói tôi cần một huy hiệu dự phòng, một cái khác ... Tôi không biết nó đã đi đâu"
+
+#. Key:	LiamJonesDiary2Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part12"
+msgid "... just I need another badge is basically the bottom line"
+msgstr "... tóm lại là tôi cần một cái huy hiệu mới"
+
+#. Key:	LiamJonesDiary2Part13
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part13"
+msgid "so if you could email the badge people Hawthorne"
+msgstr "vậy thì, nếu anh có thể gửi email cho những người làm huy hiệu Hawthorne"
+
+#. Key:	LiamJonesDiary2Part14
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part14"
+msgid "and uh get me a new badge that would be good. OK."
+msgstr "và kiếm cho tôi một cái mới thì hay. OK."
+
+#. Key:	LiamJonesDiary2Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part2"
+msgid "The samples are doing OK, we're just observing them now to see what happens"
+msgstr "Các mẫu đang hoạt động tốt, chúng tôi hiện đang quan sát chúng để xem điều gì sẽ xảy ra"
+
+#. Key:	LiamJonesDiary2Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part3"
+msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
+msgstr "Trụ sở chính đã gửi một số mẫu vì vậy chúng tôi cũng sẽ gửi một số mẫu một số mau ở trong một số hộp"
+
+#. Key:	LiamJonesDiary2Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part4"
+msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
+msgstr "Ngoài ra, Hawthorne, khi anh có cơ hội, tôi đã mất huy hiệu bảo mật của mình ..."
+
+#. Key:	LiamJonesDiary2Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part5"
+msgid "but when you talk to the badge people just say um... like uh..."
+msgstr "nhưng khi anh nói với những người làm huy hiệu chỉ cần nói là um... nhứ uh..."
+
+#. Key:	LiamJonesDiary2Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part6"
+msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
+msgstr "Tôi không biết, có ai đó- không, không, không ai lấy cả, đấy là một lý do xấu"
+
+#. Key:	LiamJonesDiary2Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part7"
+msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
+msgstr "Có một con cáo, nó lẻn vào, rồi lấy huy hiệu của tôi, và um, giờ tôi không thể vào được cơ sở chính nữa"
+
+#. Key:	LiamJonesDiary2Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part8"
+msgid "Um so, if you could just tell them that... because last time it happened, "
+msgstr "Vấy thì, anh có thể nói với họ về việc đó... vì lần trước nó cũng đã xẩy ra rồi,"
+
+#. Key:	LiamJonesDiary2Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary2Part9"
+msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
+msgstr "họ nói đó là lỗi của tôi và họ hơi lưỡng lự về việc thay thế nó"
+
+#. Key:	LiamJonesDiary3Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part1"
+msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgstr "Đây là Liam Jones, kỹ sư bảo mật mẫu trực tiếp tại chỗ - chúng tôi vừa thừa nhận"
+
+#. Key:	LiamJonesDiary3Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part2"
+msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
+msgstr "Tiến sĩ Frederick Prezella, ở trong phòng quan sát, uh, anh ta trở nên hung bạo"
+
+#. Key:	LiamJonesDiary3Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part3"
+msgid "and attacked one of my members of staff so we're going to keep him"
+msgstr "và tấn công một trong những nhân viên của tôi, vì vậy chúng tôi sẽ"
+
+#. Key:	LiamJonesDiary3Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part4"
+msgid "under observation and probably move him off the island as soon as we can."
+msgstr "theo dõi anh ta và có thể di chuyển anh ta ra khỏi đảo ngay khi chúng tôi có thể."
+
+#. Key:	LiamJonesDiary3Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,LiamJonesDiary3Part5"
+msgid "We're not sure what caused this."
+msgstr "Chúng tôi không chắc điều gì đã gây ra điều này."
+
+#. Key:	ActionConsole
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionConsole"
+msgid "Console"
+msgstr "Bảng Điều Khiển"
+
+#. Key:	ActionCrouch
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionCrouch"
+msgid "Crouch"
+msgstr "Cúi Xuống"
+
+#. Key:	ActionFlashlight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionFlashlight"
+msgid "Toggle Flashlight"
+msgstr "Bật/Tắt Đèn Pin"
+
+#. Key:	ActionInteract
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionInteract"
+msgid "Interact"
+msgstr "Tương Tác"
+
+#. Key:	ActionJump
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionJump"
+msgid "Jump"
+msgstr "Nhảy"
+
+#. Key:	ActionMenu
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMenu"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	ActionMoveBackward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveBackward"
+msgid "Move Backwards"
+msgstr "Lùi"
+
+#. Key:	ActionMoveForward
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveForward"
+msgid "Move Forwards"
+msgstr "Tiến"
+
+#. Key:	ActionMoveLeft
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveLeft"
+msgid "Move Left"
+msgstr "Sang Trái"
+
+#. Key:	ActionMoveRight
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionMoveRight"
+msgid "Move Right"
+msgstr "Sang Phải"
+
+#. Key:	ActionPrimaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
+msgid "Primary Attack"
+msgstr "Tấn Công Chính"
+
+#. Key:	ActionQuickLoad
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickLoad"
+msgid "Quick Load"
+msgstr "Tải Nhanh"
+
+#. Key:	ActionQuickSave
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionQuickSave"
+msgid "Quick Save"
+msgstr "Lưu Nhanh"
+
+#. Key:	ActionReload
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionReload"
+msgid "Reload"
+msgstr "Nạp Đạn"
+
+#. Key:	ActionSecondaryAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
+msgid "Secondary Attack"
+msgstr "Tấn Công Thứ Cấp"
+
+#. Key:	ActionSprint
+#. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+#: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
+msgctxt "ST_ActionAxisNames,ActionSprint"
+msgid "Sprint"
+msgstr "Chạy"
+
+#. Key:	CallElevator
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,CallElevator"
+msgid "CALL ELEVATOR"
+msgstr "GỌI THANG MÁY"
+
+#. Key:	EnterTwoFactor01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
+msgid "Enter two-factor authentication code to override"
+msgstr "Nhập mã xác thực hai yếu tố để ghi đè"
+
+#. Key:	LockdownBody01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody01"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr "PHÁT HIỆN DỊ THƯỜNG\r\nGhi đè nằm ở khu vực A và B"
+
+#. Key:	LockdownBody02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody02"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr "AN TOÀN CHO KHU VỰC\r\nTRẠM LÀM VIỆC BỊ KHÓA"
+
+#. Key:	LockdownBody03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownBody03"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr "Nhập mật mã để ghi đè\r\nGỢI Ý: Số mẫu vật"
+
+#. Key:	LockdownTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle01"
+msgid "LOCKDOWN ENABLED"
+msgstr "KHÓA ĐÃ ĐƯỢC KÍCH HOẠT"
+
+#. Key:	LockdownTitle02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,LockdownTitle02"
+msgid "LOCKDOWN DISABLED"
+msgstr "KHÓA ĐÃ BỊ VÔ HIỆU HÓA"
+
+#. Key:	PhoneTitle01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,PhoneTitle01"
+msgid "AUTH CODE"
+msgstr "MÃ XÁC THỰC"
+
+#. Key:	ReSendCode
+#. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+#: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
+msgctxt "ST_ArqueCapture01,ReSendCode"
+msgid "RE-SEND CODE"
+msgstr "GỬI LẠI MÃ"
+
+#. Key:	CaptureGuard01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01a"
+msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgstr "Mày nghĩ bọn tao sẽ để mày lang thang quanh cái hòn đảo này chỉ để giết những thành viên của Sokol-Glockner sao?"
+
+#. Key:	CaptureGuard01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01b"
+msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
+msgstr "Mày là một sự nhục nhã. Mày nghĩ mày biết chuyện gì đang xảy ra hả? Mày nghĩ nó là một việc mà MÀY có thể ngăn cản được?"
+
+#. Key:	CaptureGuard01c
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01c"
+msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
+msgstr "Mày là một con bọ. Một con bọ mà những tập toàn đa quốc gia như Arque không ngại vụt đi."
+
+#. Key:	CaptureGuard01d
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01d"
+msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your mangled body inside."
+msgstr "Bọn tao đã lấy lòng tự do kiểm tra cái lều của mày ở đảo Shetland. Thật là đáng tiếc khi thấy cái lều đó bị đốt, với cái xác của mày ở bên trong."
+
+#. Key:	CaptureGuard01e
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01e"
+msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
+msgstr "Vì sao mày lại ở đây? Mày nghĩ mày có thể thay đổi những chuyện đang xảy ra à? Bọn tao đang bảo vệ thế giới, mày không hiểu à?"
+
+#. Key:	CaptureGuard01f
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01f"
+msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
+msgstr "Đây là một phần kế hoạch phòng ngừa rất cần thiết của Arque, một kế hoạch mà mày không nên can thiệp."
+
+#. Key:	CaptureGuard01g
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01g"
+msgid "Thousands, millions, billions of people. You have no idea what we're protecting here. The \"greater good\" doesn't quite cover it."
+msgstr "Nghìn, triệu, tỉ người. Mày không biết bọn tao đang bảo vệ cái gì đâu. \"Lợi ích lớn hơn\" không hoàn toàn bao gồm nó."
+
+#. Key:	CaptureGuard01h
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard01h"
+msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
+msgstr "Nói với tao mày đang hợp tác với ai. Không thì, địa ngục sẽ không phải là một từ đủ nghiêm trọng, nó sẽ mô tả những nỗi đau mà mày sẽ trải qua."
+
+#. Key:	CaptureGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+#: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
+msgctxt "ST_CaptureGuard01,CaptureGuard02"
+msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+msgstr "Ai mà biết được? Sokol-Glockner, một trong những nhà thầu an ninh tư nhân lớn nhất trên thế giới, biết làm thế nào để gây đau."
+
+#. Key:	StatisticArqueBottlesDispensed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
+msgid "Arque Bottles Dispensed"
+msgstr "Số Chai Nước Arque Đã Mua"
+
+#. Key:	StatisticBulletsFired
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticBulletsFired"
+msgid "Bullets Fired"
+msgstr "Số Viên Đạn Đã Bắn"
+
+#. Key:	StatisticCamerasDestroyed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticCamerasDestroyed"
+msgid "Cameras Destroyed"
+msgstr "Số Máy Quay Đã Phá"
+
+#. Key:	StatisticCheatsUsed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticCheatsUsed"
+msgid "Cheats Used"
+msgstr "Số Mã An Gian Đã Sử Dụng"
+
+#. Key:	StatisticGamesStarted
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticGamesStarted"
+msgid "Games Started"
+msgstr "Số Lần Khởi Động Trò Chơi"
+
+#. Key:	StatisticHeadshots
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticHeadshots"
+msgid "Headshots"
+msgstr "Số Lần Bắn Vào Đầu"
+
+#. Key:	StatisticInfectedKilled
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticInfectedKilled"
+msgid "Infected Killed"
+msgstr "Số Xác Chết Đã Giết"
+
+#. Key:	StatisticItemsFlushed
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticItemsFlushed"
+msgid "Items Flushed"
+msgstr "Số Vật Phẩm Bị Dội"
+
+#. Key:	StatisticSokolKilled
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticSokolKilled"
+msgid "Sokol-Glockner Killed"
+msgstr "Số Thành Viên Sokol-Glockner Đã Giết"
+
+#. Key:	StatisticTimesDied
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticTimesDied"
+msgid "Times Died"
+msgstr "Số Lần Chết"
+
+#. Key:	NoAccessMessage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessMessage"
+msgid "Ensure that you have a working Internet connection, and that you can access youtube.com"
+msgstr "Hãy đảm bảo là bạn có mạng để có thể truy cập vào youtube.com"
+
+#. Key:	NoAccessTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,NoAccessTitle"
+msgid "UNABLE TO LOAD VIDEO"
+msgstr "KHÔNG THỂ TẢI ĐƯỢC VIDEO"
+
+#. Key:	ViewOnYouTubeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
+#: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
+msgctxt "ST_Commentary,ViewOnYouTubeLabel"
+msgid "View in HD on YouTube"
+msgstr "Xem ở chế độ HD trên YouTube"
+
+#. Key:	Chat01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat01"
+msgid "Unknown: Hello?"
+msgstr "Không Xác Định: Xin chào?"
+
+#. Key:	Chat02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat02"
+msgid "You: hi"
+msgstr "Bạn: chào"
+
+#. Key:	Chat03
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat03"
+msgid "Unknown: Hello"
+msgstr "Không Xác Định: Xin Chào"
+
+#. Key:	Chat04
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat04"
+msgid "You: yes, we did that bit"
+msgstr "Bạn: Ừ, chúng ta đã chào rồi"
+
+#. Key:	Chat05
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat05"
+msgid "You: ?"
+msgstr "Bạn: ?"
+
+#. Key:	Chat06
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat06"
+msgid "You: can I help you?"
+msgstr "Bạn: tôi có thể giúp được gì?"
+
+#. Key:	Chat07
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat07"
+msgid "You: are you still there? hello?"
+msgstr "Bạn: bạn có ở đấy không? alo?"
+
+#. Key:	Chat08
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat08"
+msgid "Unknown: mic?"
+msgstr "Không Xác Định: mic?"
+
+#. Key:	Chat09
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat09"
+msgid "You: hello, what do you want?"
+msgstr "Bạn: xin chào, bạn muốn gì?"
+
+#. Key:	Chat10
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat10"
+msgid "You: ??? just tell me what you need"
+msgstr "Bạn: ??? hãy nói cho tôi biết bạn cần gì"
+
+#. Key:	Chat11
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat11"
+msgid "You: what is your problem? can you please stop bugging me now, i need to work"
+msgstr "Bạn: bạn bị sao vậy, bạn có thể thôi làm phiền tôi được không, tôi cần làm việc"
+
+#. Key:	Chat12
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat12"
+msgid "You: STOP IT FFS"
+msgstr "Bạn: ĐM THÔI ĐI"
+
+#. Key:	Chat13
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Chat13"
+msgid "You are now offline."
+msgstr "Bạn đang ngoại tuyến."
+
+#. Key:	ChatTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,ChatTitle"
+msgid "Chat with Unknown"
+msgstr "Trò chuyện với Không Xác Định"
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
+msgid "AGO Facilities"
+msgstr "AGO Facilities"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
+msgid "Air Vent"
+msgstr "Ống Thông Khí"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+#: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
+msgctxt "ST_ComputerDebbieLogan,Email03_Content"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "Xin chào,\r\n\r\nChúng tôi nhận được báo cáo là ống thông khí ở văn phòng của bạn đã bị thiệt hại.\r\n\r\nChúng tôi xin lỗi vì sự bất tiện này có thể gây ra.\r\n\r\nXin cảm ơn,\r\n\r\nHoạt Động Toàn Cầu Của Arque Hỗ Trợ Phối Hợp Chéo Các Cơ Sở"
+
+#. Key:	Email01_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Content"
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr "Chào bạn\r\n\r\nCảm ơn bạn đã yêu cầu của bạn cho một huy hiệu bảo mật mới. Để tham khảo, vé của bạn là AGO15824.\r\n\r\nCác bước tiếp theo là gì?\r\n\r\nMột thành viên của đội trước sẽ trả lời yêu cầu của bạn. Xin lưu ý rằng bạn có thể được yêu cầu cung cấp thêm thông tin tùy thuộc vào mức độ nghiêm trọng của yêu cầu của bạn.\r\n\r\nCảm ơn\r\n\r\nDịch vụ huy hiệu hoạt động toàn cầu của arque\r\n\r\nĐây là một email tự động, xin vui lòng không trả lời."
+
+#. Key:	Email01_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Sender"
+msgid "AGO Badge Services"
+msgstr "Dịch Vụ Huy Hiệu AGO"
+
+#. Key:	Email01_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email01_Subject"
+msgid "Thank you for your request"
+msgstr "Cảm ơn vì yêu cầu của bạn"
+
+#. Key:	Email02_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Content"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Chào Liam,\r\n\r\nChúng tôi đã nhận được yêu cầu của bạn cho một huy hiệu mới. Do mức độ giải phóng vai trò của bạn, tôi cần xác minh một vài chi tiết về cách huy hiệu bị đặt sai vị trí.\r\n\r\nVui lòng trả lời với càng nhiều chi tiết càng tốt về vụ việc.\r\n\r\nCảm ơn,\n\r\nHugo Webber\r\nChuyên gia hỗ trợ an ninh cao cấp toàn cầu Arque"
+
+#. Key:	Email02_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Sender"
+msgid "Hugo Webber"
+msgstr "Hugo Webber"
+
+#. Key:	Email02_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email02_Subject"
+msgid "RE: AGO15824"
+msgstr "RE: AGO15824"
+
+#. Key:	Email03_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Content"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Liam\r\n\r\nBạn có thể vui lòng phác thảo như thế nào chính xác huy hiệu của bạn đã bị thất lạc, và nó ở đâu bây giờ? Chúng ta cần phải biết rằng nó không phải là bên ngoài của cơ sở - nếu thế thì nó là một vấn đề rất nghiêm trọng đối với công ty.\r\n\r\nMột con cáo ý là động vật lông màu đỏ? Điều đó có vẻ rất khó, yêu cầu bồi thường của bạn là một con cáo đã phá vỡ thông qua an ninh của chúng tôi tại cơ sở? Chắc chắn đó có nghĩa là bạn không làm công việc của bạn đúng cách? Điều này có nghĩa là người dân có thể chỉ cần đi dạo vào cơ sở của bạn?\r\n\r\nVì vị trí của bạn có quyền truy cập rất dễ nhớ đến các dịch vụ Internet toàn cầu và Arque Global VPN, không thể hủy kích hoạt các huy hiệu hoạt động từ xa.\r\n\r\nCho tôi biết, bạn nghĩ là cái huy hiệu của bạn ở đâu?\r\n\r\nHugo Webber\r\nChuyên gia hỗ trợ an ninh cao cấp toàn cầu Arque"
+
+#. Key:	Email03_Quote
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Quote"
+msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgstr "Xin chào, xin lỗi huy hiệu của tôi đã bị một con cáo lấy mất , tôi không chắc nó đã đi đâu nhưng tôi không thể vào cửa được nữa và tôi không thể làm việc của mình\r\n\r\nxin cảm ơn"
+
+#. Key:	Email03_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email03_Subject"
+msgid "RE: RE: AGO15824"
+msgstr "RE: RE: AGO15824"
+
+#. Key:	Email04_Content
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Content"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr "Đội\r\n\r\nVui lòng xem kèm theo phiên bản gần đây của Wentworth Herald. Lưu ý việc đề cập đến Arque - chúng ta có cần phải điều tra này?\r\n\r\nXin nhắc lại, vui lòng không nói chuyện với các phương tiện truyền thông địa phương mà không có ủy quyền thích hợp.\r\n\r\nLucy Beeshaw\r\n\r\nChuyên gia cao cấp PR"
+
+#. Key:	Email04_Sender
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Sender"
+msgid "Lucy Beeshaw"
+msgstr "Lucy Beeshaw"
+
+#. Key:	Email04_Subject
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email04_Subject"
+msgid "Wentworth Herald #317"
+msgstr "Wentworth Herald #317"
+
+#. Key:	Email_Author
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+#: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
+msgctxt "ST_ComputerLiamJones,Email_Author"
+msgid "Liam Jones"
+msgstr "Liam Jones"
+
+#. Key:	Chat
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Chat"
+msgid "Chat"
+msgstr "Trò Chuyện"
+
+#. Key:	CorporateFooter01
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter01"
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr "Xin vui lòng, suy nghĩ trước khi in tin nhắn này. Môi trường đang gặp nguy hiểm. Cây xanh là một trong những mối quan tâm chính của chúng tôi ở Arque.\r\n\r\nTrên thực tế, yêu cầu tất cả các nhân viên thay thế các đám cháy gỗ bằng lửa than. Hãy nhớ, cứu cây, cứu thế giới."
+
+#. Key:	CorporateFooter02
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,CorporateFooter02"
+msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
+msgstr "Thông báo này đã được quét bởi máy quét an ninh của Arque. Có lẽ không có phần mềm độc hại."
+
+#. Key:	Email
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,Email"
+msgid "Email"
+msgstr "Email"
+
+#. Key:	OK
+#. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+#: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
+msgctxt "ST_ComputerShared,OK"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	AdditionalContributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AdditionalContributors"
+msgid "ADDITIONAL CONTRIBUTORS"
+msgstr "NHỮNG NGƯỜI ĐÓNG GÓP BỔ SUNG"
+
+#. Key:	AndYou
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYou"
+msgid "And You!"
+msgstr "Và Bạn!"
+
+#. Key:	AndYouTemplated
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,AndYouTemplated"
+msgid "And {name} (You!)"
+msgstr "Và {name} (Bạn!)"
+
+#. Key:	Cast
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Cast"
+msgid "CAST"
+msgstr "DIỄN VIÊN"
+
+#. Key:	Chapter1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter1"
+msgid "Through the Cracks"
+msgstr "Through the Cracks"
+
+#. Key:	Chapter2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter2"
+msgid "Post Abandon"
+msgstr "Post Abandon"
+
+#. Key:	Chapter3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Chapter3"
+msgid "Fight or Flight"
+msgstr "Fight or Flight"
+
+#. Key:	CreatedWithUnrealEngine
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,CreatedWithUnrealEngine"
+msgid "Created with Unreal Engine"
+msgstr "Được chế tạo với Unreal Engine"
+
+#. Key:	EstrangedTradeMark
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,EstrangedTradeMark"
+msgid "\"Estranged\" is a trade mark of Alan Edwardes"
+msgstr "\"Estranged\" là một nhãn hiệu thương mại của Alan Edwardes"
+
+#. Key:	HelpTranslate
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,HelpTranslate"
+msgid "Help Translate Too!"
+msgstr ""
+
+#. Key:	MoreSoon
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,MoreSoon"
+msgid "Temporary Ending\r\nMore Content Soon!"
+msgstr "Kết Thúc Tạm Thời\r\nSẽ Sớm Có Thêm Nội Dung!"
+
+#. Key:	Translators
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Translators"
+msgid "TRANSLATORS"
+msgstr "NHỮNG NGƯỜI DỊCH"
+
+#. Key:	WithThanksTo
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,WithThanksTo"
+msgid "WITH THANKS TO"
+msgstr "VỚI SỰ BIẾT ƠN DÀNH CHO"
+
+#. Key:	JohnActI01
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI01"
+msgid "Hello?"
+msgstr "Alo?"
+
+#. Key:	JohnActI02
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02"
+msgid "If anyone can hear this, my name is Johnathan Derril."
+msgstr "Nếu ai nghe được tin nhắn này, tên tôi là Johnathan Derril."
+
+#. Key:	JohnActI02Alt
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI02Alt"
+msgid "If anyone can hear this, I need help."
+msgstr "Nếu ai nghe được tin nhắn này, tôi cần sự giúp đỡ."
+
+#. Key:	JohnActI03
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI03"
+msgid "And I need help."
+msgstr "Và tôi cần sự giúp đỡ."
+
+#. Key:	JohnActI04
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI04"
+msgid "These things, they've taken over the island."
+msgstr "Những thứ này, chúng đã chiếm cả hòn đảo."
+
+#. Key:	JohnActI05
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI05"
+msgid "Anyone, please, I have supplies, but-"
+msgstr "Ai đó làm ơn, tôi có đồ tiếp tế, nhưng-"
+
+#. Key:	JohnActI06
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+#: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
+msgctxt "ST_JohnActI,JohnActI06"
+msgid "They're out there."
+msgstr "Chúng đang ở ngoài đó."
+
+#. Key:	LaserScan01
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan01"
+msgid "Welcome to Arque East. Please stand by for biological scan."
+msgstr "Chào mừng tới Arque East. Làm ơn hãy chờ để quét sinh học."
+
+#. Key:	LaserScan02
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan02"
+msgid "Biological scan completed. No foreign material found."
+msgstr "Quét sinh học hoàn tất. Không tìm thấy vật liệu xa lạ."
+
+#. Key:	LaserScan03
+#. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+#: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
+msgctxt "ST_LaserScan01,LaserScan03"
+msgid "Please proceed, and have a nice day."
+msgstr "Làm ơn hãy tiến hành, chúc một ngày tốt lành."
+
+#. Key:	CallOut1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,CallOut1"
+msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
+msgstr "\"Tôi đã làm việc ở quán của Phil khoảng 10 năm rồi, và họ đuổi tôi đi. Thật là quá đáng.\""
+
+#. Key:	Headline
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline"
+msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
+msgstr "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
+
+#. Key:	Headline2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline2"
+msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
+msgstr "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
+
+#. Key:	Headline3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Headline3"
+msgid "RED ALGAE NUMBERS STRONG"
+msgstr "RED ALGAE NUMBERS STRONG"
+
+#. Key:	Navigation1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Navigation1"
+msgid "MORE ON PAGE 11"
+msgstr "ĐỌC THÊM Ở TRANG 11"
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph01"
+msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
+msgstr "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph02"
+msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
+msgstr "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph03"
+msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
+msgstr "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
+
+#. Key:	Paragraph04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph04"
+msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
+msgstr "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
+
+#. Key:	Paragraph05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph05"
+msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
+msgstr "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
+
+#. Key:	Paragraph06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph06"
+msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
+msgstr "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
+
+#. Key:	Paragraph07
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph07"
+msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
+msgstr "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
+
+#. Key:	Paragraph08
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph08"
+msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
+msgstr "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
+
+#. Key:	Paragraph09
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph09"
+msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
+msgstr "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
+
+#. Key:	Paragraph10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph10"
+msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
+msgstr "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
+
+#. Key:	Paragraph11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph11"
+msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
+msgstr "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
+
+#. Key:	Paragraph12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+#: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
+msgctxt "ST_Newspaper01,Paragraph12"
+msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
+msgstr "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
+
+#. Key:	Body01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body01"
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+
+#. Key:	Body02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body02"
+msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
+msgstr "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
+
+#. Key:	Body03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body03"
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+
+#. Key:	Body04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body04"
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+
+#. Key:	Body05
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body05"
+msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
+msgstr "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
+
+#. Key:	Body06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Body06"
+msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
+msgstr "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
+
+#. Key:	Callout01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Callout01"
+msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
+msgstr "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
+
+#. Key:	Headline01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline01"
+msgid "LIGHTHOUSE DECOMMISSIONED"
+msgstr "NGỌN HẢI ĐĂNG ĐÃ NGỪNG HOẠT ĐỘNG"
+
+#. Key:	Headline02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline02"
+msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
+msgstr "CUỘC THI QUẠ TẠI ĐỊA PHƯƠNG"
+
+#. Key:	Headline03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline03"
+msgid "LOST"
+msgstr "MẤT TÍCH"
+
+#. Key:	Headline04
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,Headline04"
+msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
+msgstr "TẬP ĐOÀN ARQUE MUA LẠI DƯỢC PHẨM PHILLIPS"
+
+#. Key:	ReadMore01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore01"
+msgid "MORE ON PAGE 7"
+msgstr "ĐỌC THÊM Ở TRANG 7"
+
+#. Key:	ReadMore02
+#. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+#: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
+msgctxt "ST_Newspaper02,ReadMore02"
+msgid "MORE ON PAGE 10"
+msgstr "ĐỌC THÊM Ở TRANG 10"
+
+#. Key:	ReadMore
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,ReadMore"
+msgid "MORE INSIDE"
+msgstr "ĐỌC THÊM"
+
+#. Key:	Tagline
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Tagline"
+msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
+msgstr "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
+
+#. Key:	Title
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+#: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
+msgctxt "ST_NewspaperShared,Title"
+msgid "WENTWORTH HERALD"
+msgstr "WENTWORTH HERALD"
+
+#. Key:	NewsReport01
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport01"
+msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgstr "Công ty an ninh tư nhân Sokol-Glockner đã bị chỉ trích lần thứ hai trong năm nay"
+
+#. Key:	NewsReport02
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport02"
+msgid "with its heavy handed use of live ammunition in its protective assignments."
+msgstr "với việc sử dụng rất nhiều đạn dược trong các nhiệm vụ bảo vệ."
+
+#. Key:	NewsReport03
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport03"
+msgid "The company’s policy states that live ammunition is to be used on all assignments,"
+msgstr "Chính sách của công ty nói rằng đạn dược được sử dụng cho tất cả các nhiệm vụ,"
+
+#. Key:	NewsReport04
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport04"
+msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
+msgstr "tuy nhiên các nhà vận động nói rằng điều này là không cần thiết và kích động bạo lực mà họ muốn tránh."
+
+#. Key:	NewsReport05
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport05"
+msgid "The company declined to comment when asked, but others say it’s an accident waiting to happen."
+msgstr "Công ty đã từ chối bình luận khi được hỏi, nhưng những người khác nói rằng đó là một tai nạn đang chờ xảy ra."
+
+#. Key:	NewsReport06
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport06"
+msgid "The government contractor is responsible for a number of overseas operations,"
+msgstr "Nhà thầu chính phủ chịu trách nhiệm cho một số hoạt động ở nước ngoài,"
+
+#. Key:	NewsReport07
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport07"
+msgid "which sources say is why the government is not commenting on this matter."
+msgstr "mà các nguồn tin cho biết là tại sao chính phủ không bình luận về vấn đề này."
+
+#. Key:	NewsReport08
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport08"
+msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
+msgstr "Sokol-Glockner đã trở thành tiêu đề vào đầu năm nay vì đã vô tình bắn chết"
+
+#. Key:	NewsReport09
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport09"
+msgid "an Arque Corporation employee on one of its offshore drilling platforms."
+msgstr "một nhân viên của Tập Đoàn Arque trên một trong những giàn khoan ngoài khơi của họ."
+
+#. Key:	NewsReport10
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport10"
+msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
+msgstr "Nhân viên 37 tuổi nổi lên trên một bãi biển sau khi bơi từ giàn khoan,"
+
+#. Key:	NewsReport11
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport11"
+msgid "while doctors later confirmed a bullet in his leg."
+msgstr "trong khi các bác sĩ sau đó xác nhận có một viên đạn vào chân anh."
+
+#. Key:	NewsReport12
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport12"
+msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
+msgstr "Sokol-Glockner xác nhận là viên đạn được bắn từ một trong những vũ khí của họ,"
+
+#. Key:	NewsReport13
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport13"
+msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
+msgstr "nhưng từ chối bình luận về vụ việc. Họ nhấn mạnh rằng họ đã làm việc với các cơ quan có liên quan."
+
+#. Key:	NewsReport14
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport14"
+msgid "Weather now - storm Edwin continues to make landfall,"
+msgstr "Bây giờ là bản tin thời tiết - bão Edwin tiếp tục đổ bộ,"
+
+#. Key:	NewsReport15
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport15"
+msgid "but today provides residents in the north with a day of calm."
+msgstr "nhưng hôm nay là một ngày yên tĩnh với những cư dân ở phía bắc."
+
+#. Key:	NewsReport16
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport16"
+msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
+msgstr "Các nhà khí tượng học đang khuyên mọi người trong khu vực rằng có cơn bão tồi tệ nhất sắp tới,"
+
+#. Key:	NewsReport17
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport17"
+msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
+msgstr "và mọi người nên chuẩn bị bằng cách đổ đầy bồn tắm với nước, và dự trữ thức ăn để kéo dài ít nhất hai ngày."
+
+#. Key:	NewsReport18
+#. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+#: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
+msgctxt "ST_NewsReport01,NewsReport18"
+msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
+msgstr "Đây là những tin từ tôi, hãy tham gia cùng chúng tôi vào lúc 7 giờ để đón xem Breakfast Burst."
+
+#. Key:	ArqueBroadcast01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01a"
+msgid "This is an automated message from Arque Corporation."
+msgstr "Đây là tin nhắn tự động từ Tập Đoàn Arque."
+
+#. Key:	ArqueBroadcast01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,ArqueBroadcast01b"
+msgid "Mandatory curfew is in effect. Please stay inside."
+msgstr "Lệnh giới nghiêm bắt buộc đang trong hiệu lực. Làm ơn hãy ở lại bên trong."
+
+#. Key:	JohnBroadcast02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02a"
+msgid "If there's ANYONE listening to this, I need help."
+msgstr "Nếu có ai đó đang nghe, tôi cần sự giúp đỡ."
+
+#. Key:	JohnBroadcast02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02b"
+msgid "They're broadcasting a curfew message, but..."
+msgstr "Họ đang phát một tin nhắn giới nghiêm, nhưng..."
+
+#. Key:	JohnBroadcast02c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02c"
+msgid "I don't understand why. Is it a malfunction?"
+msgstr "Tôi không hiểu tại sao. Có phải là một sự cố?"
+
+#. Key:	JohnBroadcast02d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast02d"
+msgid "God I hope they're not trying to cover this up..."
+msgstr "Trời ạ hy vọng họ đang không cố gắng che giấu vụ này..."
+
+#. Key:	JohnBroadcast03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03a"
+msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgstr "Tôi sẽ... tiếp tục tuyên truyền cho tới khi tôi không thể làm được nữa."
+
+#. Key:	JohnBroadcast03b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast03b"
+msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
+msgstr "Những con tàu, hoặc máy bay đang đi qua... AI ĐÓ phải nhấc máy chứ."
+
+#. Key:	JohnBroadcast04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04a"
+msgid "I was split up from my wife and daughter when the things came."
+msgstr "Tôi bị tách biệt khỏi vợ tôi và con gái tôi từ khi những thứ này xuất hiện."
+
+#. Key:	JohnBroadcast04b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast04b"
+msgid "We were on holiday... holiday! No one is prepared for this. No-one can be."
+msgstr "Chúng tôi đang trong một kì nghỉ... kì nghỉ! Không ai có thể chuẩn bị cho vụ này. Không ai có thể."
+
+#. Key:	JohnBroadcast05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05a"
+msgid "I know how to fix radios... not much else."
+msgstr "Tôi chỉ biết sửa đài... chỉ thế thôi."
+
+#. Key:	JohnBroadcast05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05b"
+msgid "A fisherman crashed on the docks near to where I am."
+msgstr "Có một người đánh cá gặp tai nạn ở bến tàu gần chỗ ở của tôi."
+
+#. Key:	JohnBroadcast05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05c"
+msgid "They were fine, I gave them supplies, and told them how to try and stop this."
+msgstr "Họ cũng tốt, tôi tiếp tế cho họ, và bảo họ cách để ngăn vụ này."
+
+#. Key:	JohnBroadcast05d
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast05d"
+msgid "I don't think they're coming back though. I keep thinking I could have done more."
+msgstr "Tôi không nghĩ là họ sẽ trở lại. Tôi cứ nghĩ là tôi có thể làm gì đó tốt hơn."
+
+#. Key:	JohnBroadcast06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06a"
+msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr "Làm ơn, những ai đang nghe tin này. Nếu bạn nghĩ chuyện này tệ... nó càng tệ hơn nữa."
+
+#. Key:	JohnBroadcast06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06b"
+msgid "We need the military. Why has no one come?"
+msgstr "Chúng tôi cần quân đội. Tại sao không ai đến?"
+
+#. Key:	JohnBroadcast06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast06c"
+msgid "That company must be doing something to stop the communication."
+msgstr "Cái công ty đó chắc chắn đang làm gì đó để chặn việc liên lạc."
+
+#. Key:	JohnBroadcast07a
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07a"
+msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgstr "Tại sao không ai khám chúng tôi? Cho dù đây là một hòn đảo nhỏ, nhưng mà vẫn có người ở đây..."
+
+#. Key:	JohnBroadcast07b
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07b"
+msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
+msgstr "Tôi ước gì chúng tôi chưa bao giờ đặt kỳ nghỉ này... giá mà tôi có thể hủy nó trong vài tháng trước... Trời ạ..."
+
+#. Key:	JohnBroadcast07c
+#. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
+#: /Game/Resources/Localisation/ST_Radio.ST_Radio
+msgctxt "ST_Radio,JohnBroadcast07c"
+msgid "...there's no point playing \"what if\"."
+msgstr "...dùng từ \"nếu mà\" cũng chẳng được lợi ích gì."
+
+#. Key:	CoastGuard01
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard01"
+msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgstr "Đây là Cảnh Sát Biển Na Uy. Hãy nêu tọa độ của bạn."
+
+#. Key:	CoastGuard02
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard02"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	CoastGuard03
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard03"
+msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgstr "Tôi phải thông báo cho anh là... có một hoạt động quốc phòng chính phủ đang hoạt động đang diễn ra tại vị trí của bạn."
+
+#. Key:	CoastGuard04
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,CoastGuard04"
+msgid "We are requesting clearance. Stand by."
+msgstr "Chúng tôi đang yêu cầu giải phóng mặt bằng. Xin hãy chờ."
+
+#. Key:	Dispatcher01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01a"
+msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgstr "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+
+#. Key:	Dispatcher01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,Dispatcher01b"
+msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
+msgstr "72 ĐỘ, 59 PHÚT VÀ 6 GIÂY BẮC, 2 ĐỘ, 51 PHÚT VÀ 54 GIÂY ĐÔNG"
+
+#. Key:	John01a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01a"
+msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgstr "Đợi đã nào... đấy có phải tiếng đài không? Alo? Alo! Ôi tạ ơn Chúa anh đã làm được rồi!"
+
+#. Key:	John01b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John01b"
+msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
+msgstr "Có ai ở đó không?! Đây là một SOS, tôi nhắc lại, một SOS"
+
+#. Key:	John02a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02a"
+msgid "Does anyone copy? The island has been overrun."
+msgstr "Có ai nghe không? Hòn đảo đã bị tàn phá."
+
+#. Key:	John02b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John02b"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgstr "Tập Đoàn Arque đã chặn TẤT CẢ các tin nhắn phát sóng từ hòn đảo. Chúng tôi cần sự hỗ trợ từ quân sự NGAY LẬP TỨC!"
+
+#. Key:	John03a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John03a"
+msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgstr "Chúng tôi ở khoảng 72 độ, 59 phút và 6 giây Bắc và uh, 2 độ, 51 phút và 54 giây Đông."
+
+#. Key:	John04a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John04a"
+msgid "Uh, it's John."
+msgstr "Uh, đây là John."
+
+#. Key:	John05a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05a"
+msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgstr "Alo! Alo? Cảnh sát biển?! Có ai ở đó không?"
+
+#. Key:	John05b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05b"
+msgid "What Government Defense operation? What are you talking about?"
+msgstr "Chính phủ hoạt động gì? Anh đang nói về cái gì vậy?"
+
+#. Key:	John05c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John05c"
+msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgstr "Cảnh sát biển anh có ở đó không? Có ai ở đó không? Ai đó nhận đi chứ..."
+
+#. Key:	John06a
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06a"
+msgid "Oh no... no no no no no... no this isn't happening!"
+msgstr "Ôi không...không không không không không... chuyện này không thể xảy ra được!"
+
+#. Key:	John06b
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06b"
+msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
+msgstr "Ra khỏi đây đi! Những ai đang nghe tin này, hãy rời hòn đảo này, ngay bây giờ, bằng mọi cách bạn có thể!"
+
+#. Key:	John06c
+#. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+#: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
+msgctxt "ST_RadioStation,John06c"
+msgid "Anyone on this frequency just go! Why the hell would they do this?"
+msgstr "Bất cứ ai đang trên tần số này thì chạy đi! Tại sao họ lại làm điều này?"
+
+#. Key:	Copyright01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright01"
+msgid "Half-Life is a registered trademark of Valve Corporation"
+msgstr "Half-Life là nhãn hiệu đã đăng ký của Valve Corporation"
+
+#. Key:	Copyright02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Copyright02"
+msgid "Estranged is copyright © 2011 Alan Edwardes"
+msgstr "Estranged là bản quyền © 2011 Alan Edwardes"
+
+#. Key:	Paragraph01
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph01"
+msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
+msgstr "ESTRANGED ACT II được phát triển bởi một người trong thời gian rảnh rỗi, với sự giúp đỡ từ một nhà thiết kế âm thanh, nhà thiết kế cấp độ, nghệ sĩ 3D và cộng đồng dịch giả và những người thử nghiệm"
+
+#. Key:	Paragraph02
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph02"
+msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
+msgstr "Trò chơi này là phần tiếp theo độc lập của phiên bản 2014 Half-Life 2 mod ESTRANGED ACT I, dành cho hệ điều hành Windows, Mac và Linux miễn phí trên Steam"
+
+#. Key:	Paragraph03
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,Paragraph03"
+msgid "To get help, report bugs and submit feedback, join the community!"
+msgstr "Để lấy sự trợ giúp, báo cáo lỗi và gửi phản hồi, tham gia cộng đồng!"
+
+#. Key:	ActiveLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,ActiveLabel"
+msgid "ACTIVE"
+msgstr "ĐANG HOẠT ĐỘNG"
+
+#. Key:	RadioSignalJammerLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
+msgid "UHF SIGNAL JAMMER STATUS:"
+msgstr "UHF SIGNAL JAMMER STATUS:"
+
+#. Key:	RemoteOverrideLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+#: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
+msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
+msgid "REMOTE OVERRIDE"
+msgstr "GHI ĐÈ TỪ XA"
+
+#. Key:	LoadingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,LoadingLabel"
+msgid "LOADING"
+msgstr "ĐANG TẢI"
+
+#. Key:	DockEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingSubtitle"
+msgid "DAYS BEFORE THE EVENTS OF ACT I"
+msgstr "VÀI NGÀY TRƯỚC KHI SỰ KIỆN CỦA HỒI 1"
+
+#. Key:	DockEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,DockEstablishingTitle"
+msgid "FAIR ISLE, SHETLAND, SCOTLAND"
+msgstr "FAIR ISLE, SHETLAND, SCOTLAND"
+
+#. Key:	HangarPendingLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarPendingLabel"
+msgid "PENDING"
+msgstr "ĐANG CHỜ XỬ LÝ"
+
+#. Key:	HangarRoundLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,HangarRoundLabel"
+msgid "ROUND"
+msgstr "VÒNG"
+
+#. Key:	RangeLevelLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeLevelLabel"
+msgid "LEVEL"
+msgstr "CẤP ĐỘ"
+
+#. Key:	RangePointsLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangePointsLabel"
+msgid "POINTS"
+msgstr "ĐIỂM"
+
+#. Key:	RangeTimeLabel
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,RangeTimeLabel"
+msgid "TIME"
+msgstr "THỜI GIAN"
+
+#. Key:	TheFallEstablishingSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingSubtitle"
+msgid "HOURS AFTER THE EVENTS OF ACT I"
+msgstr "VÀI TIẾNG SAU KHI SỰ KIỆN CỦA HỒI 1"
+
+#. Key:	TheFallEstablishingTitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
+#: /Game/Resources/Localisation/ST_World.ST_World
+msgctxt "World,TheFallEstablishingTitle"
+msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
+msgstr "HÒN ĐẢO VÔ DANH, BIỂN NA UY"
+
