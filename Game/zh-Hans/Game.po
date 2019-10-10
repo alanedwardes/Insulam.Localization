@@ -724,7 +724,7 @@ msgstr "反转鼠标Y轴"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
-msgid "The skeletons here are confirmed to be sailors and pirates."
+msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
 msgstr "这里的骷髅被证实是水手和海盗。"
 
 #. Key:	ArcheologistDiary1Part2
@@ -738,7 +738,7 @@ msgstr "我们猜最有可能是他们逃离英国海军，在岛上避难。"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
-msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgid "Archaeologist (recording): The pirates and sailors were involved in some kind of internal conflict."
 msgstr "海盗和水手产生了某种内鬥。"
 
 #. Key:	ArcheologistDiary2Part2
@@ -759,7 +759,7 @@ msgstr "我们认为他们当时可能已经醉了，而且在一些看似人类
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
-msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
 msgstr "因为有人生病时，我们不得不调离部分团队。 我们只能假设他们在尸体附近打扰了某些东西。"
 
 #. Key:	ArcheologistDiary3Part2
@@ -773,7 +773,7 @@ msgstr "从现在开始，我们将使用 HAZMAT 套装。 我们知道这里不
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
 msgstr "这里是加雷斯托马斯在发言。 我们分析了那个藻类样本"
 
 #. Key:	GarethThomasDiary1Part2
@@ -801,7 +801,7 @@ msgstr "我们认为它完全无害，我们不认为这会是一个问题。"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
-msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
 msgstr "这是，呃，利阿姆·琼斯的音频日记，＃1，呃，"
 
 #. Key:	LiamJonesDiary1Part2
@@ -836,7 +836,7 @@ msgstr "我现在要把它放在我的办公室，然后看看之后会发生什
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
-msgid "This is the uh, Liam Jones uh, diary #2"
+msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
 msgstr "这是呃，利亚姆琼斯呃，的日记＃2"
 
 #. Key:	LiamJonesDiary2Part10
@@ -934,7 +934,7 @@ msgstr "他们说这是我的错，所以不太愿意换新的给我"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
-msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
 msgstr "我是利亚姆琼斯，现场活样本安全工程师。我们刚刚准许"
 
 #. Key:	LiamJonesDiary3Part2
@@ -1144,7 +1144,7 @@ msgstr "重新发送验证码"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgid "Arque Guard: You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
 msgstr "你以为我们会让你一直在岛上闲逛，杀死索科尔 格洛克纳的人？"
 
 #. Key:	CaptureGuard01b
@@ -1536,7 +1536,7 @@ msgstr "邮箱"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,OK"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "确定"
 
 #. Key:	AdditionalContributors
@@ -1634,7 +1634,7 @@ msgstr "谢谢"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "Hello?"
+msgid "John Derril (over radio): Hello ? "
 msgstr "喂？"
 
 #. Key:	JohnActI02
@@ -1683,7 +1683,7 @@ msgstr "他们在那里。"
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
-msgid "Welcome to Arque East. Please stand by for biological scan."
+msgid "Arque Scanner (via loudspeaker): Welcome to Arque East. Please stand by for biological scan."
 msgstr "欢迎来到阿克。 请等待生物扫描。"
 
 #. Key:	LaserScan02
@@ -1935,7 +1935,7 @@ msgstr "文特沃斯先锋报"
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
-msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgid "News Presenter (on TV): The private security firm Sokol-Glockner has been criticised for the second time this year"
 msgstr "私人保安公司索科尔格洛克纳 (Sokol-Glockner) 因在保护任务中大量使用实弹，"
 
 #. Key:	NewsReport02
@@ -2061,7 +2061,7 @@ msgstr "这就是今天的新闻。明早 7 点请准时收看早餐新闻会 (B
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
-msgid "This is an automated message from Arque Corporation."
+msgid "Unknown (over radio): This is an automated message from Arque Corporation."
 msgstr "这是来自Arque Corporation的自动消息。"
 
 #. Key:	ArqueBroadcast01b
@@ -2075,7 +2075,7 @@ msgstr "强制宵禁正在生效。请留在里面。"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
-msgid "If there's ANYONE listening to this, I need help."
+msgid "John Derril (over radio): If there's ANYONE listening to this, I need help."
 msgstr "如果此刻有人听到这个，我真的需要帮助。"
 
 #. Key:	JohnBroadcast02b
@@ -2103,7 +2103,7 @@ msgstr "上帝啊，我希望他们并不是在尝试掩盖真相……"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
-msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgid "John Derril (over radio): I'm just going to... continue broadcasting until I can't anymore."
 msgstr "我只是需要……继续广播，直到最后一刻。"
 
 #. Key:	JohnBroadcast03b
@@ -2117,7 +2117,7 @@ msgstr "过往的船只，飞机……肯定有人会听到求救的消息的。
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
-msgid "I was split up from my wife and daughter when the things came."
+msgid "John Derril (over radio): I was split up from my wife and daughter when the things came."
 msgstr "当丧尸来的时候，我和我的妻子、女儿分开了。"
 
 #. Key:	JohnBroadcast04b
@@ -2131,7 +2131,7 @@ msgstr "我们正在度假……度假啊！没人会想到发生这种事情，
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
-msgid "I know how to fix radios... not much else."
+msgid "John Derril (over radio): I know how to fix radios... not much else."
 msgstr "我知道怎么修理无线电……别的不太会。"
 
 #. Key:	JohnBroadcast05b
@@ -2159,7 +2159,7 @@ msgstr "但是我认为他们不会回来。我一直在想我可以做的更多
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
 msgstr "求求你了，有没有人听到这条消息。如果你认为这儿的情况只是不好……其实比你想象的更糟。"
 
 #. Key:	JohnBroadcast06b
@@ -2180,7 +2180,7 @@ msgstr "公司一定是做了什么事阻止了这次沟通。"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
-msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgid "John Derril (over radio): Why has no one checked up on us? This is a small island, but there's still people..."
 msgstr "为什么没有人来看看我们的情况呢？我知道这只是个小岛，但是上面还有人啊……"
 
 #. Key:	JohnBroadcast07b
@@ -2201,21 +2201,21 @@ msgstr "……现在不停地说“如果当时”也没有用了。"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
-msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgid "Coast Guard (over radio): This is the Norwegian Coast Guard. Please state your coordinates."
 msgstr "这是挪威海岸警卫队。 请表明你的坐标位置。"
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "好"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
 msgstr "我必须通知你......政府已对你的所在位置进行积极防御行动。"
 
 #. Key:	CoastGuard04
@@ -2229,7 +2229,7 @@ msgstr "我们正在要求净空。继续待命。"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
-msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgid "Unknown (over radio): COMMENCE EXPUNGE, OBSERVER CLEANSE"
 msgstr "开始清除，排除观察者"
 
 #. Key:	Dispatcher01b
@@ -2243,7 +2243,7 @@ msgstr "北纬 72 度 59 分 6 秒，东经 2 度 51 分 54 秒"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
-msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
 msgstr "等等，那是什么......是无线电吗？ 哈啰？ 天啊，太好了，你做到了！"
 
 #. Key:	John01b
@@ -2271,21 +2271,21 @@ msgstr "阿克公司已经禁止从岛上发出的所有广播信息。 我们�
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
-msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
 msgstr "我们在大约北纬 72 度 59 分 6 秒，东经 2 度 51 分 54 秒。"
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
-msgid "Uh, it's John."
+msgid "John Derril (over radio): Uh, it's John."
 msgstr "呃，这是约翰。"
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
-msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgid "John Derril (over radio): Hello! Hello? Coastguard?! Anyone there?"
 msgstr "你好？  海岸警卫队？！ 有人在吗？"
 
 #. Key:	John05b
@@ -2299,7 +2299,7 @@ msgstr "什么政府防御行动？ 你在说什么？"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
-msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgid "John Derril (over radio): Coastguard are you there? Is anyone there? Someone pick up..."
 msgstr "海岸警卫你在吗？ 有人在吗？ 接起来啊......"
 
 #. Key:	John06a

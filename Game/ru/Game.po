@@ -1,4 +1,4 @@
-# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+﻿# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 #
 msgid ""
 msgstr ""
@@ -725,7 +725,7 @@ msgstr "Инвертировать ось Y мыши"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
-msgid "The skeletons here are confirmed to be sailors and pirates."
+msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
 msgstr "Скелеты здесь могли быть моряками и пиратами."
 
 #. Key:	ArcheologistDiary1Part2
@@ -739,7 +739,7 @@ msgstr "Мы думаем, что они дезертировали из бри�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
-msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgid "Archaeologist (recording): The pirates and sailors were involved in some kind of internal conflict."
 msgstr "Между пиратами и моряками произошел какой-то внутренний конфликт."
 
 #. Key:	ArcheologistDiary2Part2
@@ -760,7 +760,7 @@ msgstr "Мы считаем, скорее всего, они в тот моме�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
-msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
 msgstr "Из-за болезни нам пришлось оставить часть команды. Скорее всего, они подхватили что-то когда переносили тела."
 
 #. Key:	ArcheologistDiary3Part2
@@ -774,7 +774,7 @@ msgstr "С этого момента мы будем использовать к
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
 msgstr "Говорит Gareth Thomas. Мы проанализировали образцы водорослей"
 
 #. Key:	GarethThomasDiary1Part2
@@ -802,7 +802,7 @@ msgstr "И мы считаем это совершенно безобидным,
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
-msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
 msgstr "Это э-э, Liam Jones, аудио дневник, #1, э-э"
 
 #. Key:	LiamJonesDiary1Part2
@@ -837,7 +837,7 @@ msgstr "...я собираюсь ненадолго оставить в моем
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
-msgid "This is the uh, Liam Jones uh, diary #2"
+msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
 msgstr "Это э-э, Liam Jones э-э, дневник #2"
 
 #. Key:	LiamJonesDiary2Part10
@@ -935,7 +935,7 @@ msgstr "они сказали, что это моя ошибка, и довол�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
-msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
 msgstr "Это Лиам Джоунс, инженер, ответственный за безопасность образцов здесь, - мы только что впустили"
 
 #. Key:	LiamJonesDiary3Part2
@@ -1157,7 +1157,7 @@ msgstr "ПОВТОРНО ОТПРАВИТЬ КОД"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgid "Arque Guard: You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
 msgstr "Ты думал, что мы дадим тебе спокойно бродить по острову и расстреливать ребят из Сокол-Глокнер?"
 
 #. Key:	CaptureGuard01b
@@ -1671,7 +1671,7 @@ msgstr "Email"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,OK"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "OK"
 
 #. Key:	AdditionalContributors
@@ -1773,7 +1773,7 @@ msgstr "БЛАГОДАРНОСТЬ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "Hello?"
+msgid "John Derril (over radio): Hello ? "
 msgstr "Привет?"
 
 #. Key:	JohnActI02
@@ -1822,7 +1822,7 @@ msgstr "Они там, снаружи."
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
-msgid "Welcome to Arque East. Please stand by for biological scan."
+msgid "Arque Scanner (via loudspeaker): Welcome to Arque East. Please stand by for biological scan."
 msgstr "Добро пожаловать в Arque East. Пожалуйста дождитесь окончания сканирования биологических объектов."
 
 #. Key:	LaserScan02
@@ -2104,7 +2104,7 @@ msgstr "Вестник Вентворта"
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
-msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgid "News Presenter (on TV): The private security firm Sokol-Glockner has been criticised for the second time this year"
 msgstr "Частная охранная фирма Sokol-Clockner была раскритикована второй раз в этом году"
 
 #. Key:	NewsReport02
@@ -2230,7 +2230,7 @@ msgstr "На этом у меня все, присоединяйтесь к на
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
-msgid "This is an automated message from Arque Corporation."
+msgid "Unknown (over radio): This is an automated message from Arque Corporation."
 msgstr "Это автоматическое сообщение от Arque Corporation."
 
 #. Key:	ArqueBroadcast01b
@@ -2244,7 +2244,7 @@ msgstr "Действует обязательный комендантский �
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
-msgid "If there's ANYONE listening to this, I need help."
+msgid "John Derril (over radio): If there's ANYONE listening to this, I need help."
 msgstr "Если КТО-НИБУДЬ это слышит, мне нужна помощь."
 
 #. Key:	JohnBroadcast02b
@@ -2272,7 +2272,7 @@ msgstr "Господи, надеюсь, они не пытаются замес�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
-msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgid "John Derril (over radio): I'm just going to... continue broadcasting until I can't anymore."
 msgstr "Я просто буду... продолжать трансляцию, пока могу."
 
 #. Key:	JohnBroadcast03b
@@ -2286,7 +2286,7 @@ msgstr "Проходящие корабли, пролетающие самоле
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
-msgid "I was split up from my wife and daughter when the things came."
+msgid "John Derril (over radio): I was split up from my wife and daughter when the things came."
 msgstr "Я был разлучен с женой и дочерью, когда это произошло."
 
 #. Key:	JohnBroadcast04b
@@ -2300,7 +2300,7 @@ msgstr "Мы были в отпуске... в отпуске! Никто не г
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
-msgid "I know how to fix radios... not much else."
+msgid "John Derril (over radio): I know how to fix radios... not much else."
 msgstr "Я могу починить радио... но кроме это я мало что могу."
 
 #. Key:	JohnBroadcast05b
@@ -2328,7 +2328,7 @@ msgstr "Но не думаю, что они вернутся. Я всё дума
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
 msgstr "Пожалуйста, ВСЕ кто слышат меня. Если вы думаете, что здесь плохо... всё гораздо хуже."
 
 #. Key:	JohnBroadcast06b
@@ -2349,7 +2349,7 @@ msgstr "Должно быть, эта компания делает что-то,
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
-msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgid "John Derril (over radio): Why has no one checked up on us? This is a small island, but there's still people..."
 msgstr "Почему никто не проверил, как мы? Это маленький остров, но ведь здесь есть люди..."
 
 #. Key:	JohnBroadcast07b
@@ -2370,21 +2370,21 @@ msgstr "...бесполезно играть в \"вот если бы\"."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
-msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgid "Coast Guard (over radio): This is the Norwegian Coast Guard. Please state your coordinates."
 msgstr "Это береговая охрана Норвегии! Сообщите свои координаты."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "ОК"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
 msgstr "Я должен вам сообщить... Рядом с вами ведутся активные правительственные оборонительные операции."
 
 #. Key:	CoastGuard04
@@ -2398,7 +2398,7 @@ msgstr "Мы запрашиваем разрешение. Ожидайте."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
-msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgid "Unknown (over radio): COMMENCE EXPUNGE, OBSERVER CLEANSE"
 msgstr "НАЧАТЬ ЗАЧИСТКУ, УБИТЬ ВСЕХ НАБЛЮДАТЕЛЕЙ"
 
 #. Key:	Dispatcher01b
@@ -2412,7 +2412,7 @@ msgstr "72 ГРАДУСА, 59 МИНУТ И 6 СЕКУНД С.Ш., 2 ГРАДУ�
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
-msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
 msgstr "Подождите, что это, это радио? Алло? Алло! Слава Богу, вам удалось!"
 
 #. Key:	John01b
@@ -2440,21 +2440,21 @@ msgstr "Корпорация Arque прекратила передачу ВСЕ�
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
-msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
 msgstr "Наши примерные координаты: 72 градуса, 59 минут и 6 секунд с.ш. и 2 градуса, 51 минута и 54 секунды в.д."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
-msgid "Uh, it's John."
+msgid "John Derril (over radio): Uh, it's John."
 msgstr "Это Джон."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
-msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgid "John Derril (over radio): Hello! Hello? Coastguard?! Anyone there?"
 msgstr "Алло! Алло? Береговая охрана? Есть там кто-нибудь?"
 
 #. Key:	John05b
@@ -2468,7 +2468,7 @@ msgstr "Какие правительственные оборонительны
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
-msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgid "John Derril (over radio): Coastguard are you there? Is anyone there? Someone pick up..."
 msgstr "Береговая охрана, вы там? Есть там кто-нибудь? Эй, возьмите кто-нибудь трубку..."
 
 #. Key:	John06a

@@ -724,7 +724,7 @@ msgstr "برعکس کردن محور Y موس"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
-msgid "The skeletons here are confirmed to be sailors and pirates."
+msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
 msgstr "تایید شده که این اسکلت‌ها مال دریانوردان و  دزدان دریایی بوده."
 
 #. Key:	ArcheologistDiary1Part2
@@ -738,7 +738,7 @@ msgstr "بهترین حدس ما اینه که آنها داشتند از نیر
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
-msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgid "Archaeologist (recording): The pirates and sailors were involved in some kind of internal conflict."
 msgstr "دریانوردان و دزدان دریایی درگیر یک نبرد داخلی شدند."
 
 #. Key:	ArcheologistDiary2Part2
@@ -759,7 +759,7 @@ msgstr "ما حدس میزنیم اون زمان مست بوده‌اند، و �
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
-msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
 msgstr "مجبور شدیم مقداری از تیم را خارج کنیم، چرا که آنها بیمار شدند. باید بر این فرض باشیم که به چیزی کنار اجساد دست تماس پیدا کردن."
 
 #. Key:	ArcheologistDiary3Part2
@@ -773,7 +773,7 @@ msgstr "از اینجا به بعد قراره از لباس های ضد شیم�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
 msgstr "گر توماس هستم که دارم صحبت میکنم. ما نمونه های جلبک را بررسی کردیم"
 
 #. Key:	GarethThomasDiary1Part2
@@ -801,7 +801,7 @@ msgstr "ما گمان نمیکنیم که کاملا بی ضرر باشه، ول
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
-msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
 msgstr "من ام، لیام جونز هستم، گزارش صوتی شماره 1"
 
 #. Key:	LiamJonesDiary1Part2
@@ -836,7 +836,7 @@ msgstr "...میخوام توی دفترم بزارمش برای یه مدت، ف
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
-msgid "This is the uh, Liam Jones uh, diary #2"
+msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
 msgstr "من ام، لیام جونز هستم ام، گزارش صوتی شماره 2"
 
 #. Key:	LiamJonesDiary2Part10
@@ -934,7 +934,7 @@ msgstr "گفتن تقصیر منه و یه جورایی سر جایگزین کر
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
-msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
 msgstr "لیام جونز هستم، مهندس امنیتی نمونه‌های داخل منطقه، من همین العان به"
 
 #. Key:	LiamJonesDiary3Part2
@@ -1144,7 +1144,7 @@ msgstr "فرستادن دوباره‌ی کد"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgid "Arque Guard: You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
 msgstr ""
 
 #. Key:	CaptureGuard01b
@@ -1536,7 +1536,7 @@ msgstr "ایمیل"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,OK"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "اوکی"
 
 #. Key:	AdditionalContributors
@@ -1634,7 +1634,7 @@ msgstr "با تشکر از"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "Hello?"
+msgid "John Derril (over radio): Hello ? "
 msgstr "الو؟"
 
 #. Key:	JohnActI02
@@ -1683,7 +1683,7 @@ msgstr "اونا اون بیرونن."
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
-msgid "Welcome to Arque East. Please stand by for biological scan."
+msgid "Arque Scanner (via loudspeaker): Welcome to Arque East. Please stand by for biological scan."
 msgstr "به آرک شرقی خوش آمدید. لطفا تکان نخورید تا اسکن بیولوژیکی انجلم شود."
 
 #. Key:	LaserScan02
@@ -1935,7 +1935,7 @@ msgstr "ونتورف هرالد"
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
-msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgid "News Presenter (on TV): The private security firm Sokol-Glockner has been criticised for the second time this year"
 msgstr "امسال برای دومین بار از شرکت امنیتی خصوصی \"سوکول-گلاکنر\" انتقاد شده"
 
 #. Key:	NewsReport02
@@ -2061,7 +2061,7 @@ msgstr "این هم از اخبار امروز، فردا صبح ساعت 7 بر
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
-msgid "This is an automated message from Arque Corporation."
+msgid "Unknown (over radio): This is an automated message from Arque Corporation."
 msgstr "این یک پیام خودکار از شرکت آرک هست."
 
 #. Key:	ArqueBroadcast01b
@@ -2075,7 +2075,7 @@ msgstr "خاموشی اجباری برپا است. لطفا داخل خانه‌
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
-msgid "If there's ANYONE listening to this, I need help."
+msgid "John Derril (over radio): If there's ANYONE listening to this, I need help."
 msgstr "اگر کسی این پیامو میشنوه، من به کمک نیاز دارم."
 
 #. Key:	JohnBroadcast02b
@@ -2103,7 +2103,7 @@ msgstr "خدایا، امیدوارم در حال سعی در پوشوندن ا�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
-msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgid "John Derril (over radio): I'm just going to... continue broadcasting until I can't anymore."
 msgstr "من به پخش این پیام ادامه میدم تا...تا اینکه دیگه نتونم."
 
 #. Key:	JohnBroadcast03b
@@ -2117,7 +2117,7 @@ msgstr "کُشتیای درحال عبور، هواپیما ها...یه نفر �
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
-msgid "I was split up from my wife and daughter when the things came."
+msgid "John Derril (over radio): I was split up from my wife and daughter when the things came."
 msgstr "من از زن و بچم جدا شدم وقتی اون موجودات اومدن."
 
 #. Key:	JohnBroadcast04b
@@ -2131,7 +2131,7 @@ msgstr "ما اومده بودیم مسافرت...مسافرت! هیچکس وا�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
-msgid "I know how to fix radios... not much else."
+msgid "John Derril (over radio): I know how to fix radios... not much else."
 msgstr "من بلدم رادیو تعمیر کنم...ولی چیز خاص دیگه ای بلد نیستم."
 
 #. Key:	JohnBroadcast05b
@@ -2159,7 +2159,7 @@ msgstr "ولی فکر نکنم قرار باشه برگردن. هی با خود�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
 msgstr "اگر کسی داره این پیامو میگیره، لطفا، اگر فکر میکنید اینجا اوضاع خرابه...خیلی بدتره."
 
 #. Key:	JohnBroadcast06b
@@ -2180,7 +2180,7 @@ msgstr "شرکت قطعا داره یه کاری میکنه که پیام‌ها
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
-msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgid "John Derril (over radio): Why has no one checked up on us? This is a small island, but there's still people..."
 msgstr "چرا هنوز هیچکس نیومده بهمون سر بزنه؟ جزیره‌ی کوچیکیه، درست، ولی بازم به هر جال آدم توشه..."
 
 #. Key:	JohnBroadcast07b
@@ -2201,21 +2201,21 @@ msgstr "...هیچ دلیلی نداره بشینم فکر کنم که چی می�
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
-msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgid "Coast Guard (over radio): This is the Norwegian Coast Guard. Please state your coordinates."
 msgstr "گارد ساحلی نروژ داره صحبت میکنه. لطفا مختصاتتون رو اعلام کنید."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "اوکی"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
 msgstr "باید به اطلاعتون برسونم که یک عملیات دفاعی دولتی در موقعیت شما فعال است."
 
 #. Key:	CoastGuard04
@@ -2229,7 +2229,7 @@ msgstr "داریم اجازه‌ی ترخیص میگیریم. منتظر بمو�
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
-msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgid "Unknown (over radio): COMMENCE EXPUNGE, OBSERVER CLEANSE"
 msgstr "شروع پاکسازی، پاکسازی مشاهده کننده"
 
 #. Key:	Dispatcher01b
@@ -2243,7 +2243,7 @@ msgstr "72 درجه، 59 دقیقه و 6 ثانیه به سمت شمال، 2 د�
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
-msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
 msgstr "وایسا ببینم، چی بود...رایدوئه؟ الو؟ الو! اوه خدا، آره درستش کردی!"
 
 #. Key:	John01b
@@ -2271,21 +2271,21 @@ msgstr "شرکت آرک تا الان داشته تمام پیام ها به ب�
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
-msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
 msgstr "ما حدودا 72 درجه، 59 دقیقه و 6 ثانیه به سمت شمال و ام، 2 درجه، 51 دقیقه و 54 ثانیه به سمت شرق هستیم."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
-msgid "Uh, it's John."
+msgid "John Derril (over radio): Uh, it's John."
 msgstr "ام، من جان هستم."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
-msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgid "John Derril (over radio): Hello! Hello? Coastguard?! Anyone there?"
 msgstr "الو! الو؟ گارد ساحلی؟ کسی نیست؟"
 
 #. Key:	John05b
@@ -2299,7 +2299,7 @@ msgstr "کدوم عملیات دفاعی دولتی؟ داری درباره‌ی
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
-msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgid "John Derril (over radio): Coastguard are you there? Is anyone there? Someone pick up..."
 msgstr "گارد ساحلی، هستین؟ کسی هست؟ یه نفر جواب بده..."
 
 #. Key:	John06a

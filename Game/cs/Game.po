@@ -724,7 +724,7 @@ msgstr "Invertovat osu Y myši"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
-msgid "The skeletons here are confirmed to be sailors and pirates."
+msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
 msgstr "Bylo potvrzeno, že tyto kosti patří námořníkům a pirátům."
 
 #. Key:	ArcheologistDiary1Part2
@@ -738,7 +738,7 @@ msgstr "Pravděpodobně utíkali před Britským Námořnictvem a hledali na ost
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
-msgid "The pirates and sailors were involved in some kind of internal conflict."
+msgid "Archaeologist (recording): The pirates and sailors were involved in some kind of internal conflict."
 msgstr "Mezi piráty a námořníky propukl nějaký konflikt."
 
 #. Key:	ArcheologistDiary2Part2
@@ -759,7 +759,7 @@ msgstr "Pravděpodobně byli opilí protože na některých kostech které jsou 
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
-msgid "We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
+msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
 msgstr "Museli jsme stáhnout část týmu, když se jim udělalo zle. Musíme předpokládat, že jsem v blízkosti těl něco vyrušili."
 
 #. Key:	ArcheologistDiary3Part2
@@ -773,7 +773,7 @@ msgstr "Odteď budeme používat HAZMAT obleky. Víme že to tu není bezpečné
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "This is Gareth Thomas speaking. We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
 msgstr "Tady je Gareth Thomas. Analyzovali jsme vzorky řas"
 
 #. Key:	GarethThomasDiary1Part2
@@ -801,7 +801,7 @@ msgstr "A považujeme ho za úplne neškodný."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
-msgid "This is the uh, Liam Jones, audio diary, #1, uh"
+msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
 msgstr "Toto je audio deník Liama Jonese, #1"
 
 #. Key:	LiamJonesDiary1Part2
@@ -836,7 +836,7 @@ msgstr "...se chystám na nějaký čas nechat ve svojí kanceláři, aby jsem h
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
-msgid "This is the uh, Liam Jones uh, diary #2"
+msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
 msgstr "Toto je uh, deník Liama Jonese #2"
 
 #. Key:	LiamJonesDiary2Part10
@@ -934,7 +934,7 @@ msgstr "řekli mi, že to byla moje chyba a byli trochu neochotní mi udělat ko
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
-msgid "This is Liam Jones, the live sample security engineer on-site - we've just admitted"
+msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
 msgstr "Tady je Liam Jones, bezpečnostní inženýr, právě jsme přesunuli"
 
 #. Key:	LiamJonesDiary3Part2
@@ -1144,7 +1144,7 @@ msgstr "POSLAT KÓD ZNOVU"
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
-msgid "You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
+msgid "Arque Guard: You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
 msgstr "Čekal jsi, že tě jen tak necháme pobíhat po ostrově a zabíjet zaměstnance Sokol-Glockner?"
 
 #. Key:	CaptureGuard01b
@@ -1536,7 +1536,7 @@ msgstr "Email"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,OK"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "OK"
 
 #. Key:	AdditionalContributors
@@ -1634,7 +1634,7 @@ msgstr "S PODĚKOVANÍM"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "Hello?"
+msgid "John Derril (over radio): Hello ? "
 msgstr "Haló?"
 
 #. Key:	JohnActI02
@@ -1683,7 +1683,7 @@ msgstr "Jsou tam venku."
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
-msgid "Welcome to Arque East. Please stand by for biological scan."
+msgid "Arque Scanner (via loudspeaker): Welcome to Arque East. Please stand by for biological scan."
 msgstr "Vitejte v Arque Východ. Prosím počkejte na biologický sken."
 
 #. Key:	LaserScan02
@@ -1935,7 +1935,7 @@ msgstr "WENTHWORTHSKÝ POSEL"
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
-msgid "The private security firm Sokol-Glockner has been criticised for the second time this year"
+msgid "News Presenter (on TV): The private security firm Sokol-Glockner has been criticised for the second time this year"
 msgstr "Soukromá bezpečnostní firma Sokol-Glockner byla terčem kritiky tento rok již po druhé"
 
 #. Key:	NewsReport02
@@ -2061,7 +2061,7 @@ msgstr "To je ode mě vše, připojte se zítra v 7:00 kvůli Ranní Dávce."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
-msgid "This is an automated message from Arque Corporation."
+msgid "Unknown (over radio): This is an automated message from Arque Corporation."
 msgstr "Toto je automatická zpráva společnosti Arque Corporation."
 
 #. Key:	ArqueBroadcast01b
@@ -2075,7 +2075,7 @@ msgstr "Byl vydaný zákaz vycházení. Prosím zůstaňte ve uvnitř."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
-msgid "If there's ANYONE listening to this, I need help."
+msgid "John Derril (over radio): If there's ANYONE listening to this, I need help."
 msgstr "Jestli tohle NĚKDO slyší, potřebuju pomoc."
 
 #. Key:	JohnBroadcast02b
@@ -2103,7 +2103,7 @@ msgstr "Bože, doufám že se to nesnaží ututlat..."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
-msgid "I'm just going to... continue broadcasting until I can't anymore."
+msgid "John Derril (over radio): I'm just going to... continue broadcasting until I can't anymore."
 msgstr "Budu... pokračovat ve vysílání, dokud budu moct."
 
 #. Key:	JohnBroadcast03b
@@ -2117,7 +2117,7 @@ msgstr "Projíždějící lodě, letadla... NĚCO musí tuto zprávu dostat."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
-msgid "I was split up from my wife and daughter when the things came."
+msgid "John Derril (over radio): I was split up from my wife and daughter when the things came."
 msgstr "S mojí ženou a dcerou jsme se rozdělili, když ty věci přišly."
 
 #. Key:	JohnBroadcast04b
@@ -2131,7 +2131,7 @@ msgstr "Byli jsme na dovolený... dovolený! Na toto se nedá připravit. Nedá.
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
-msgid "I know how to fix radios... not much else."
+msgid "John Derril (over radio): I know how to fix radios... not much else."
 msgstr "Vím, jak opravit rádia... nic víc."
 
 #. Key:	JohnBroadcast05b
@@ -2159,7 +2159,7 @@ msgstr "Pochybuji, že se vůbec vrátí. Stále přemýšlím nad tím, že jse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
 msgstr "Prosím, KDOKOLIV toto slyší. Jestli si myslíte, že je to tu zlé... je to ještě horší."
 
 #. Key:	JohnBroadcast06b
@@ -2180,7 +2180,7 @@ msgstr "Ta společnost se určitě snaží nějak přerušit komunikaci."
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
-msgid "Why has no one checked up on us? This is a small island, but there's still people..."
+msgid "John Derril (over radio): Why has no one checked up on us? This is a small island, but there's still people..."
 msgstr "Proč nás nikdo nezkontroloval? Je to malý ostrov, ale stále tu jsou lidi."
 
 #. Key:	JohnBroadcast07b
@@ -2201,21 +2201,21 @@ msgstr "...nemá smysl přemýšlet \"co kdyby\"."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
-msgid "This is the Norwegian Coast Guard. Please state your coordinates."
+msgid "Coast Guard (over radio): This is the Norwegian Coast Guard. Please state your coordinates."
 msgstr "Zde je Norská pobřežní stráž. Uveďte prosím své souřadnice."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
-msgid "OK"
+msgid "Coast Guard (over radio): OK"
 msgstr "Dobře"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "I have to inform you... there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
 msgstr "Musíme vás informovat... na vaší pozici právě probíhá vládní vojenská operace."
 
 #. Key:	CoastGuard04
@@ -2229,7 +2229,7 @@ msgstr "Právě žádáme o povolení. Zůstaňte na příjmu."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
-msgid "COMMENCE EXPUNGE, OBSERVER CLEANSE"
+msgid "Unknown (over radio): COMMENCE EXPUNGE, OBSERVER CLEANSE"
 msgstr "ZAHÁJIT VYMAZÁNÍ, OČIŠTĚNÍ OD POZOROVATELŮ"
 
 #. Key:	Dispatcher01b
@@ -2243,7 +2243,7 @@ msgstr "72 STUPŇŮ, 59 MINUT A 6 SEKUND SEVERNĚ, 2 STUPNĚ, 51 MINUT A 54 SEKU
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
-msgid "Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
+msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
 msgstr "Počkat, co je to... je to ta vysílačka? Haló? Haló! Bože ano dokázal jsi to!"
 
 #. Key:	John01b
@@ -2271,21 +2271,21 @@ msgstr "Arque Corporation zastavuje VŠECHNA vysílání zpráv z ostrova. Potř
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
-msgid "We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
+msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
 msgstr "Jsme asi 72 stupňů, 59 minut a 6 sekund Severně a uh, 2 stupně, 51 minut a 54 sekund Východně."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
-msgid "Uh, it's John."
+msgid "John Derril (over radio): Uh, it's John."
 msgstr "Uh, John."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
-msgid "Hello! Hello? Coastguard?! Anyone there?"
+msgid "John Derril (over radio): Hello! Hello? Coastguard?! Anyone there?"
 msgstr "Haló! Haló? Pobřežní hlídko?! Je tam někdo?"
 
 #. Key:	John05b
@@ -2299,7 +2299,7 @@ msgstr "Jaká vojenská operace? O čem to mluvíte?"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
-msgid "Coastguard are you there? Is anyone there? Someone pick up..."
+msgid "John Derril (over radio): Coastguard are you there? Is anyone there? Someone pick up..."
 msgstr "Pobřežní stráž jste tam? Je tam někdo? Odpovězte někdo..."
 
 #. Key:	John06a
