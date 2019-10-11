@@ -1,4 +1,4 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -725,7 +725,7 @@ msgstr "Maus Y-Achse invertieren"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
-msgstr "Wie man sieht, sind diese Skelette hier Matrosen und Piraten."
+msgstr "Archäologe (Aufnahme): Wie man sieht, sind diese Skelette hier Matrosen und Piraten."
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -739,7 +739,7 @@ msgstr "Unsere wahrscheinlichste Annahme ist, dass sie vor der britischen Marine
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "Archaeologist (recording): The pirates and sailors were involved in some kind of internal conflict."
-msgstr "Die Piraten und Matrosen standen in irgendeiner Art und Weise unter Zwist und Streit."
+msgstr "Archäologe (Aufnahme): Die Piraten und Matrosen standen in irgendeiner Art und Weise unter Zwist und Streit."
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -760,7 +760,7 @@ msgstr "Wir glauben, dass sie zu dieser Zeit wahrscheinlich betrunken waren, den
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "Wir mussten einige aus dem Team rausnehmen, da sie krank wurden. Wir mussten davon ausgehen, dass etwas in der Nähe dieser Körper sie verändert hat."
+msgstr "Archäologe (Aufnahme): Wir mussten einige aus dem Team rausnehmen, da sie krank wurden. Wir mussten davon ausgehen, dass etwas in der Nähe dieser Körper sie verändert hat."
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -774,7 +774,7 @@ msgstr "Wir werden ab jetzt unsere Schutzanzüge verwenden. Wir wissen nicht ob 
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
-msgstr "Hier spricht Gareth Thomas. Wir haben nun die Algenproben analysiert und festgestellt,"
+msgstr "Gareth Thomas (Aufnahme): Hier spricht Gareth Thomas. Wir haben nun die Algenproben analysiert und festgestellt,"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -802,7 +802,7 @@ msgstr "Außerdem halten wir es für völlig harmlos. Wir erwarten auch nicht, d
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Hier ist, äh, Liam Jones, Audio Tagebuch #1, äh"
+msgstr "Liam Jones (Aufnahme): Hier ist, äh, Liam Jones, Audio Tagebuch #1, äh"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -837,7 +837,7 @@ msgstr "...ich werde jetzt mein Büro für eine Weile verlassen, um zu sehen was
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
-msgstr "Hier ist äh, Liam Jones äh, Audio Tagebuch #2"
+msgstr "Liam Jones (Aufnahme): Hier ist äh, Liam Jones äh, Audio Tagebuch #2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -935,7 +935,7 @@ msgstr "... sagten sie, dass es meine Schuld wäre und sie ersetzten ihn mir nur
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Hier spricht Liam Jones, Sicherheitsingenieur der Lebendproben vor Ort. Wir müssen jetzt bekannt geben,...."
+msgstr "Liam Jones (Aufnahme): Hier spricht Liam Jones, Sicherheitsingenieur der Lebendproben vor Ort. Wir müssen jetzt bekannt geben,...."
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
