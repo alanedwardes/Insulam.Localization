@@ -18,7 +18,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintAchievementNotAchieved"
 msgid "\"{Title}\" not progressed (cheats used)"
-msgstr "\"{Title}\" nav progresējis (izmantota šmaukšanās)"
+msgstr "\"{Title}\" nav progresēts (izmantota šmaukšanās)"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -2279,7 +2279,7 @@ msgstr "Džons Derils (rācija): Esam apmēram 72 grādus, 59 minūtes un 6 seku
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "John Derril (over radio): Uh, it's John."
-msgstr "Džons Derils (rācija) Ē, esmu Džons."
+msgstr "Džons Derils (rācija): Ē, esmu Džons."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
