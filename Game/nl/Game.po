@@ -1,4 +1,4 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
@@ -773,7 +773,7 @@ msgstr "Vanaf nu gaan we onze gaspakken gebruiken. We weten dat het niet veilig 
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
 msgstr "Gareth Thomas (opname): Dit is Gareth Thomas. We hebben de algenproefmonsters geanalyseerd..."
 
 #. Key:	GarethThomasDiary1Part2
@@ -1772,7 +1772,7 @@ msgstr "MET DANK AAN"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "John Derril (over radio): Hello ? "
+msgid "John Derril (over radio): Hello?"
 msgstr "John Derril (via radio): Hallo?"
 
 #. Key:	JohnActI02
@@ -2327,7 +2327,7 @@ msgstr "Ik denk alleen niet dat ie terugkomt. Misschien had ik meer kunnen doen.
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
 msgstr "John Derril (via radio): Alsjeblieft, als IEMAND hiernaar luistert. Als je denkt dat het hier erg is... het is nog erger."
 
 #. Key:	JohnBroadcast06b
@@ -2383,7 +2383,7 @@ msgstr "Kustwacht (via radio): Oké."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
 msgstr "Kustwacht (via radio): U moet weten dat er een actieve verdedigingsoperatie van de overheid op uw locatie bezig is."
 
 #. Key:	CoastGuard04

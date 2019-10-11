@@ -773,7 +773,7 @@ msgstr "از اینجا به بعد قراره از لباس های ضد شیم�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
 msgstr "گر توماس هستم که دارم صحبت میکنم. ما نمونه های جلبک را بررسی کردیم"
 
 #. Key:	GarethThomasDiary1Part2
@@ -1634,7 +1634,7 @@ msgstr "با تشکر از"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "John Derril (over radio): Hello ? "
+msgid "John Derril (over radio): Hello?"
 msgstr "الو؟"
 
 #. Key:	JohnActI02
@@ -2159,7 +2159,7 @@ msgstr "ولی فکر نکنم قرار باشه برگردن. هی با خود�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
 msgstr "اگر کسی داره این پیامو میگیره، لطفا، اگر فکر میکنید اینجا اوضاع خرابه...خیلی بدتره."
 
 #. Key:	JohnBroadcast06b
@@ -2215,7 +2215,7 @@ msgstr "اوکی"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
 msgstr "باید به اطلاعتون برسونم که یک عملیات دفاعی دولتی در موقعیت شما فعال است."
 
 #. Key:	CoastGuard04

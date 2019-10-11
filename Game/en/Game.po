@@ -773,8 +773,8 @@ msgstr "We're going to be using our HAZMAT suits from now on. We know it's not s
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
-msgstr "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
+msgstr "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1634,8 +1634,8 @@ msgstr "WITH THANKS TO"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "John Derril (over radio): Hello ? "
-msgstr "John Derril (over radio): Hello ? "
+msgid "John Derril (over radio): Hello?"
+msgstr "John Derril (over radio): Hello?"
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -2159,8 +2159,8 @@ msgstr "I don't think they're coming back though. I keep thinking I could have d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
-msgstr "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
+msgstr "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2215,8 +2215,8 @@ msgstr "Coast Guard (over radio): OK"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
-msgstr "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
+msgstr "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation

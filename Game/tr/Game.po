@@ -773,7 +773,7 @@ msgstr "Bundan sonra TEHLİKELİ MADDE kıyafetleri giyeceğiz.Güvenli olmadı�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
 msgstr "Gareth Thomas konuşuyor.Yosun örneklerini analiz ettik"
 
 #. Key:	GarethThomasDiary1Part2
@@ -1634,7 +1634,7 @@ msgstr "TEŞEKKÜRLER"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "John Derril (over radio): Hello ? "
+msgid "John Derril (over radio): Hello?"
 msgstr "Merhaba?"
 
 #. Key:	JohnActI02
@@ -2159,7 +2159,7 @@ msgstr "Onun geri geleceğine inanmıyorum. Daha ne yapabileceğimi düşünüyo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
 msgstr "Lütfen, bunu dinleyen BİRİSİ varsa. Eğer buranın kötü olduğunu düşünyorsan... daha kötü."
 
 #. Key:	JohnBroadcast06b
@@ -2215,7 +2215,7 @@ msgstr "TAMAM"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
 msgstr "Size söylemem lazım...pozisyonunuzda devam eden bir devlet savunma operasyonu var."
 
 #. Key:	CoastGuard04

@@ -773,7 +773,7 @@ msgstr "从现在开始，我们将使用 HAZMAT 套装。 我们知道这里不
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
 msgstr "这里是加雷斯托马斯在发言。 我们分析了那个藻类样本"
 
 #. Key:	GarethThomasDiary1Part2
@@ -1634,7 +1634,7 @@ msgstr "谢谢"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "John Derril (over radio): Hello ? "
+msgid "John Derril (over radio): Hello?"
 msgstr "喂？"
 
 #. Key:	JohnActI02
@@ -2159,7 +2159,7 @@ msgstr "但是我认为他们不会回来。我一直在想我可以做的更多
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
 msgstr "求求你了，有没有人听到这条消息。如果你认为这儿的情况只是不好……其实比你想象的更糟。"
 
 #. Key:	JohnBroadcast06b
@@ -2215,7 +2215,7 @@ msgstr "好"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
 msgstr "我必须通知你......政府已对你的所在位置进行积极防御行动。"
 
 #. Key:	CoastGuard04

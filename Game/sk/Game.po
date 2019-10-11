@@ -774,7 +774,7 @@ msgstr "Odteraz budeme používať HAZMAT obleky. Vieme, že to tu nie je bezpe�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
-msgid "Gareth Thomas (recording): This is Gareth Thomas speaking.We have analysed the algae samples"
+msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
 msgstr "Tu je Gareth Thomas. Analyzovali sme vzorky rias"
 
 #. Key:	GarethThomasDiary1Part2
@@ -1773,7 +1773,7 @@ msgstr "S POĎAKOVANÍM"
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
-msgid "John Derril (over radio): Hello ? "
+msgid "John Derril (over radio): Hello?"
 msgstr "Haló?"
 
 #. Key:	JohnActI02
@@ -2328,7 +2328,7 @@ msgstr "Pochybujem, že sa vôbec vráti. Stále rozmýšľam nad tým, že som 
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
-msgid "John Derril (over radio): Please, ANYONE listening to this.If you think it's bad here... it's worse."
+msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
 msgstr "Prosím, KTOKOĽVEK toto počúva. Ak sy myslíte, že je to tu zlé... je to ešte horšie."
 
 #. Key:	JohnBroadcast06b
@@ -2384,7 +2384,7 @@ msgstr "Dobre"
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
-msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
+msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
 msgstr "Musíme vás informovať... na vašej pozícií práve prebieha vládna vojenská operácia."
 
 #. Key:	CoastGuard04
