@@ -18,7 +18,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintAchievementNotAchieved"
 msgid "\"{Title}\" not progressed (cheats used)"
-msgstr ""
+msgstr "\"{Title}\" nav progresējis (izmantota šmaukšanās)"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -501,7 +501,7 @@ msgstr "Aprobežot kadru maiņu līdz 30FPS, lai nepieļautu mobilo ierīču, k�
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
 msgid "Use {Platform} Language"
-msgstr ""
+msgstr "Izmantot {Platform} Valodu"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -627,28 +627,28 @@ msgstr "Šīs funkcijas ir eksperimentālas un var tikt zaudētas."
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelGlobalStats"
 msgid "Global"
-msgstr ""
+msgstr "Globāls"
 
 #. Key:	LabelStatisticName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelStatisticName"
 msgid "Statistic Name"
-msgstr ""
+msgstr "Statistikas nosaukums"
 
 #. Key:	LabelStatistics
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelStatistics"
 msgid "Statistics"
-msgstr ""
+msgstr "Statistika"
 
 #. Key:	LabelYourStats
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelYourStats"
 msgid "You"
-msgstr ""
+msgstr "Tu"
 
 #. Key:	OptionsButton
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -851,28 +851,28 @@ msgstr "dari to, Hāvtorn, vienkārši pasaki viņiem, ka es to atstāju neviet�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "vai arī tu pat vari pateikt, ka man vajag lieku zīmi... Neesmu pārliecināts kur tā palika"
+msgstr "vai arī tu pat vari pateikt, ka man vajag lieku žetonu... Neesmu pārliecināts kur tā palika"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "... vienkārši nepieciešama jauna zīme"
+msgstr "... vienkārši nepieciešams jauns žetons"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part13"
 msgid "so if you could email the badge people Hawthorne"
-msgstr "tātad, ja tu varētu nosūtīt e-pastu cilvēkiem, kuri atbild par šīm zīmēm, Hāvtorn"
+msgstr "tātad, ja tu varētu nosūtīt e-pastu cilvēkiem, kuri atbild par šiem žetoniem, Hāvtorn"
 
 #. Key:	LiamJonesDiary2Part14
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part14"
 msgid "and uh get me a new badge that would be good. OK."
-msgstr "un, ē, dabūt jaunu zīmi tieši manis dēļ, tad būtu lieliski."
+msgstr "un, ē, dabūt man jaunu, tad tas būtu lieliski."
 
 #. Key:	LiamJonesDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -893,14 +893,14 @@ msgstr "Galvenais birojs ir saņēmis pāris paraugus, tāpēc mēs dažus no ti
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr "Vēl kas Hāvtorn, kad rodas iespēja, es pazaudēju savu drošības zīmi..."
+msgstr "Vēl kas Hāvtorn, kad rodas iespēja, es pazaudēju savu drošības žetonu..."
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "bet tad, kad tu runā ar cilvēkiem, kuri atbild par drošības zīmēm, saki, ka... ammmm, tā kā... "
+msgstr "bet tad, kad tu runā ar cilvēkiem, kuri atbild par drošības žetoniem, saki, ka... ammmm, tā kā... "
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -914,7 +914,7 @@ msgstr "Es nezinu, kāds- nē, nē, neviens to nepaņēma, tas ir slikts ataisno
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "Lapsa, ielavījās iekšā, paķēra manu drošības zīmi, un, ēm, tagad es nevaru tikt iekšā galvenajā ēkā"
+msgstr "Lapsa, ielavījās iekšā, paķēra manu drošības žetonu, un, ēm, tagad es nevaru tikt iekšā galvenajā ēkā"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1082,63 +1082,63 @@ msgstr "Skriet"
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,CallElevator"
 msgid "CALL ELEVATOR"
-msgstr ""
+msgstr "IZSAUKT LIFTU"
 
 #. Key:	EnterTwoFactor01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
 msgid "Enter two-factor authentication code to override"
-msgstr ""
+msgstr "Ievadiet divpakāpju autentifikācijas kodu, lai pārtrauktu"
 
 #. Key:	LockdownBody01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
 msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
-msgstr ""
+msgstr "KONSTATĒTA ANOMĀLIJA\r\Zonās A un B atrasti pārtraukumi"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
 msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
-msgstr ""
+msgstr "ZONA NOTEIKTA KĀ DROŠA\r\nDARBSTACIJA SLĒGTA"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
 msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr ""
+msgstr "Ievadiet paroli, lai pārtrauktu\r\nPADOMS: Paraugu skaits"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownTitle01"
 msgid "LOCKDOWN ENABLED"
-msgstr ""
+msgstr "BLOĶĒŠANA IESPĒJOTA"
 
 #. Key:	LockdownTitle02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownTitle02"
 msgid "LOCKDOWN DISABLED"
-msgstr ""
+msgstr "BLOĶĒŠANA ATSPĒJOTA"
 
 #. Key:	PhoneTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,PhoneTitle01"
 msgid "AUTH CODE"
-msgstr ""
+msgstr "AUTENTIF. KODS"
 
 #. Key:	ReSendCode
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,ReSendCode"
 msgid "RE-SEND CODE"
-msgstr ""
+msgstr "SŪTĪT VĒLREIZ"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1208,336 +1208,336 @@ msgstr "Kurš to būtu domājis? Sokol-Glockner, viens no lielākajiem privātā
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
 msgid "Arque Bottles Dispensed"
-msgstr ""
+msgstr "No dzērienu aparātiem izņemtās pudeles"
 
 #. Key:	StatisticBulletsFired
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticBulletsFired"
 msgid "Bullets Fired"
-msgstr ""
+msgstr "Izšautās lodes"
 
 #. Key:	StatisticCamerasDestroyed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticCamerasDestroyed"
 msgid "Cameras Destroyed"
-msgstr ""
+msgstr "Iznīcinātās kameras"
 
 #. Key:	StatisticCheatsUsed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticCheatsUsed"
 msgid "Cheats Used"
-msgstr ""
+msgstr "Izmantotās komandas"
 
 #. Key:	StatisticGamesStarted
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticGamesStarted"
 msgid "Games Started"
-msgstr ""
+msgstr "Sāktās spēles"
 
 #. Key:	StatisticHeadshots
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticHeadshots"
 msgid "Headshots"
-msgstr ""
+msgstr "Šāvieni galvā"
 
 #. Key:	StatisticInfectedKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticInfectedKilled"
 msgid "Infected Killed"
-msgstr ""
+msgstr "Inficētie nogalināti"
 
 #. Key:	StatisticItemsFlushed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticItemsFlushed"
 msgid "Items Flushed"
-msgstr ""
+msgstr "Noskalotie priekšmeti"
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticSokolKilled"
 msgid "Sokol-Glockner Killed"
-msgstr ""
+msgstr "Nogalinātie Sokol-Glockner apsargi"
 
 #. Key:	StatisticTimesDied
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticTimesDied"
 msgid "Times Died"
-msgstr ""
+msgstr "Nāvju skaits"
 
 #. Key:	NoAccessMessage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
 #: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
 msgctxt "ST_Commentary,NoAccessMessage"
 msgid "Ensure that you have a working Internet connection, and that you can access youtube.com"
-msgstr ""
+msgstr "Pārliecinies, ka Jums ir stabils interneta savienojums, lai varētu piekļūt youtube.com"
 
 #. Key:	NoAccessTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
 #: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
 msgctxt "ST_Commentary,NoAccessTitle"
 msgid "UNABLE TO LOAD VIDEO"
-msgstr ""
+msgstr "NEVAR IELĀDĒT VIDEO"
 
 #. Key:	ViewOnYouTubeLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
 #: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
 msgctxt "ST_Commentary,ViewOnYouTubeLabel"
 msgid "View in HD on YouTube"
-msgstr ""
+msgstr "Skatīt HD kv. Youtube"
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat01"
 msgid "Unknown: Hello?"
-msgstr ""
+msgstr "Nezināms: Sveicināti?"
 
 #. Key:	Chat02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat02"
 msgid "You: hi"
-msgstr ""
+msgstr "Tu: "čau"
 
 #. Key:	Chat03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat03"
 msgid "Unknown: Hello"
-msgstr ""
+msgstr "Nezināms: Sveiks"
 
 #. Key:	Chat04
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat04"
 msgid "You: yes, we did that bit"
-msgstr ""
+msgstr "Tu: jā, mēs jau to beidzām"
 
 #. Key:	Chat05
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat05"
 msgid "You: ?"
-msgstr ""
+msgstr "Tu: ?"
 
 #. Key:	Chat06
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat06"
 msgid "You: can I help you?"
-msgstr ""
+msgstr "Tu: vai varu kā palīdzēt?"
 
 #. Key:	Chat07
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat07"
 msgid "You: are you still there? hello?"
-msgstr ""
+msgstr "Tu: vai tu vēl te esi? haloo?"
 
 #. Key:	Chat08
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat08"
 msgid "Unknown: mic?"
-msgstr ""
+msgstr "Nezināms: mic?"
 
 #. Key:	Chat09
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat09"
 msgid "You: hello, what do you want?"
-msgstr ""
+msgstr "Tu: sveiks, ko tu gribi?"
 
 #. Key:	Chat10
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat10"
 msgid "You: ??? just tell me what you need"
-msgstr ""
+msgstr "Tu: ??? saki man taču ko tev vajag"
 
 #. Key:	Chat11
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat11"
 msgid "You: what is your problem? can you please stop bugging me now, i need to work"
-msgstr ""
+msgstr "Tu: kur problēma? izbeidz mani tracināt, man jāstrādā"
 
 #. Key:	Chat12
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat12"
 msgid "You: STOP IT FFS"
-msgstr ""
+msgstr "Tu: IZBEIDZ DIEVA DĒĻ"
 
 #. Key:	Chat13
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat13"
 msgid "You are now offline."
-msgstr ""
+msgstr "Tu tagad esi bezsaistē."
 
 #. Key:	ChatTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,ChatTitle"
 msgid "Chat with Unknown"
-msgstr ""
+msgstr "Tērzēšana ar Nezināms"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email01_Sender"
 msgid "AGO Facilities"
-msgstr ""
+msgstr "AGO Ēkas"
 
 #. Key:	Email02_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email02_Subject"
 msgid "Air Vent"
-msgstr ""
+msgstr "Ventilācija"
 
 #. Key:	Email03_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
 msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
+msgstr "Sveiks, \r\n\r\nEsam saņēmuši ziņojumus, ka Jūsu ventilācijas lūka ir bojāta.\r\n\r\nAtvainojamies par sagādātajām neērtībām!\r\n\r\nPaldies,\r\n\r\nArque Globālo Operāciju Koordinācijas Atbalsts"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
 msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr ""
+msgstr "Sveiks, \r\n\r\nPaldies par jaunas drošības žetona pieprasījumu. Atsaucei, Jūsu biļete ir AGO15824.\r\n\r\nKādi ir nākamie soļi?\r\n\r\nAGO komandas biedrs atbildēs Jūsu pieprasījumam. Ievērojiet, ka var rasties nepieciešamība pēc papildus informācijas balstoties pieprasījuma raksturu.\r\n\r\nPaldies,\r\n\r\nArque Globālo Operāciju Žetonu Pakalpojumi\r\n\r\nŠis ir automatizēts e-pasts, atbildes tiks ignorētas."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Sender"
 msgid "AGO Badge Services"
-msgstr ""
+msgstr "AGO Žetonu Pakalpojumi"
 
 #. Key:	Email01_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Subject"
 msgid "Thank you for your request"
-msgstr ""
+msgstr "Paldies par Jūsu pieprasījumu"
 
 #. Key:	Email02_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
 msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
+msgstr "Sveiks, Laiam,\r\n\r\nEsam saņēmuši pieprasījumu pēc jauna žetona. Sakarā ar Jūsu lomas skaidrību, man ir nepieciešams apstiprināt nelielus sīkumus par to, kā zīme tika nolikta nevietā.\r\n\r\nLūdzu atbildiet, cik vien iespējams, sīkumaini par radušos incidentu.\r\n\r\nPaldies,\r\n\r\nHugo Vēbers\r\Senioru Arque Globālo Iekārtu Drošības Atbalsta Speciālists"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Sender"
 msgid "Hugo Webber"
-msgstr ""
+msgstr "Hugo Vēbers"
 
 #. Key:	Email02_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Subject"
 msgid "RE: AGO15824"
-msgstr ""
+msgstr "RE: AGO15824"
 
 #. Key:	Email03_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
+msgstr "Laiam,\r\n\r\nLūdzu raksturojiet kā tieši Jūs pazaudējāt savu žetonu, un kur tā atrodas tagad! Ir jāzin, vai tā neatrodas ārpus ēkas, citādi tā ir ļoti nopietna problēma visai kompānijai.\r\n\r\nMinot lapsu, vai Jūs tiešām domājat sarkanu, pūkainu dzīvnieku? Neizskatās, ka lapsa tiešām varētu izlausties cauri drošības sistēmām. Tas nozīmē, ka Jūs bezatbildīgi veicat savu darbu. Vai tas nozīmē, ka cilvēki var vienkārši pastaigāties Jūsu ēkā?\r\n\r\nTā kā Jūsu atrašanās vietai ir diezgan gluda pieeja interneta pakalpojumiem un Arque Globālajam VPN, tad nav iespējams pareizi deaktivizēt žetonus.\r\n\r\nSakiet, kur Jūsu žetons varētu būt?\r\n\r\nAr cieņu,\r\n\r\nHugo Vēbers\r\Senioru Arque Globālo Iekārtu Drošības Atbalsta Speciālists"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
 msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr ""
+msgstr "Sveiki žetonu paņēma lapsa , nezinu kur tā aizghaja bet es vairs nevaru tikt cauri durvīm un darīt savu darbu\r\n\r\npaldies"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Subject"
 msgid "RE: RE: AGO15824"
-msgstr ""
+msgstr "RE: RE: AGO15824"
 
 #. Key:	Email04_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
 msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr ""
+msgstr "Komanda,\r\n\r\nLūdzu apskatiet pielikumu vissenākajam Ventvortas Heralda izdevumam. Ievērojiet Arque pieminēšanu - vai mums vajag šo izpētīt?\r\n\r\nAtgādinu, ka nerunājiet ar vietējiem medijiem bez pareizas autorizācijas.\r\n\r\nLūcija Bīšova\r\n\r\nPR Senioru Speciālists"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Sender"
 msgid "Lucy Beeshaw"
-msgstr ""
+msgstr "Lūcija Bīšova"
 
 #. Key:	Email04_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Subject"
 msgid "Wentworth Herald #317"
-msgstr ""
+msgstr "Ventvortas Heralds #317"
 
 #. Key:	Email_Author
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email_Author"
 msgid "Liam Jones"
-msgstr ""
+msgstr "Laiams Džons"
 
 #. Key:	Chat
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,Chat"
 msgid "Chat"
-msgstr ""
+msgstr "Tērzēšana"
 
 #. Key:	CorporateFooter01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
 msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr ""
+msgstr "Lūdzu padomājiet pirms printējat šo ziņu. Vide ir briesmās. Koki ir vieni no galvenajām bažām šeit Arque.\r\n\r\nPēc fakta, visiem darbiniekiem jāaizstāj koka uguns ar ogļu uguni. Atcerieties, saudzējiet kokus, saudzējiet pasauli!"
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
 msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
-msgstr ""
+msgstr "Šo ziņu skenēja Arque drošības skeneris. Nav atrasta ļaunatūra."
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,Email"
 msgid "Email"
-msgstr ""
+msgstr "E-pasts"
 
 #. Key:	OK
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,OK"
 msgid "Coast Guard (over radio): OK"
-msgstr ""
+msgstr "Krasta apsardze (rācija): OK"
 
 #. Key:	AdditionalContributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1565,7 +1565,7 @@ msgstr "Un {name} (Tu!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Cast"
 msgid "CAST"
-msgstr ""
+msgstr "lOMĀS"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1705,49 +1705,49 @@ msgstr "Dodieties tālāk, un lai Jums jauka diena."
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,CallOut1"
 msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
-msgstr ""
+msgstr "Esmu strādājis pie Fila ilgāk par 10 gadiem, taču viņi mani vienkārši padzina. Tas bezsirdīgi."
 
 #. Key:	Headline
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr ""
+msgstr "ARQUE KORPORĀCIJA PABEIDZ FILIPA MEDIKAMENTU IEGŪŠANU"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline2"
 msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
-msgstr ""
+msgstr "KUĢI \"BĪSTAMI TUVU\" SADURSMĒM BEZ BĀKAS"
 
 #. Key:	Headline3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline3"
 msgid "RED ALGAE NUMBERS STRONG"
-msgstr ""
+msgstr "SARKANĀS ALĢĒS SKAITĻI IR SPĒCĪGI"
 
 #. Key:	Navigation1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Navigation1"
 msgid "MORE ON PAGE 11"
-msgstr ""
+msgstr "VAIRĀK 11. LAPPUSĒ"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr ""
+msgstr "Vietējās farmācijas kompānijas Filipa Medikamenti iegūšana pagājušo nedēļ tika pabeigta, kā visi 50 darbinieki tika atlaisti, par 20 vairāk nekā oriģināli plānots."
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph02"
 msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
-msgstr ""
+msgstr "Arque Korporācija paziņoja par plāniem izvērsties reģionā nenoskaidrotiem pētīšanas nolūkiem."
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2202,182 +2202,182 @@ msgstr "... nav jēgas spriest \"kas būtu, ja\"."
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
 msgid "Coast Guard (over radio): This is the Norwegian Coast Guard. Please state your coordinates."
-msgstr ""
+msgstr "Krasta apsardze (rācija): Runā norvēģijas krasta apsardze. Lūdzu norādiet Jūsu koordinātas."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
 msgid "Coast Guard (over radio): OK"
-msgstr ""
+msgstr "Krasta apsardze (rācija): OK"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "Coast Guard (over radio): I have to inform you...there is an active government defence operation underway at your position."
-msgstr ""
+msgstr "Krasta apsardze (rācija): Man jūs jāinformē,...ka Jūsu vietā norisinās aktīva valdības aizsardzības operācija."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard04"
 msgid "We are requesting clearance. Stand by."
-msgstr ""
+msgstr "Pieprasām atļauju. Uzgaidiet."
 
 #. Key:	Dispatcher01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
 msgid "Unknown (over radio): COMMENCE EXPUNGE, OBSERVER CLEANSE"
-msgstr ""
+msgstr "Nezināms (rācija): SĀKT TĪRĪŠANU, NOVĒROTĀJA TĪRĪŠANA"
 
 #. Key:	Dispatcher01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01b"
 msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
-msgstr ""
+msgstr "72 GRĀDI, 59 MINŪTES UN 6 SEKUNDES ZIEMEĻU VIRZIENĀ, 51 MINŪTES UN 54 SEKUNDES AUSTRUMU VIRZIENĀ"
 
 #. Key:	John01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr ""
+msgstr "Džons Derils (rācija): Paga, kas tad tas...vai tā ir rācija? Sveiki? Halo! Ak Kungs tu to paveici!" 
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01b"
 msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
-msgstr ""
+msgstr "Vai te kāds ir ?! Šis ir SOS, es atkārtoju SOS"
 
 #. Key:	John02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02a"
 msgid "Does anyone copy? The island has been overrun."
-msgstr ""
+msgstr "Vai kāds kopē? Šī sala ir pārpildīta."
 
 #. Key:	John02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
-msgstr ""
+msgstr "Aruq Korporācija ir apturējuis VISUS ziņojumus no salas. Mums ir nepieciešama TŪLĪTĒJA palīdzība!"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr ""
+msgstr "Džons Derils (rācija): Esam apmēram 72 grādus, 59 minūtes un 6 sekundes uz ziemeļiem, un ā, 2 grādus, 51 minūti un 54 sekundes uz austrumiem."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "John Derril (over radio): Uh, it's John."
-msgstr ""
+msgstr "Džons Derils (rācija) Ē, esmu Džons."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
 msgid "John Derril (over radio): Hello! Hello? Coastguard?! Anyone there?"
-msgstr ""
+msgstr "Džons Derils (rācija): Halo! Halo? Krasta apsardze?! Vai te kāds ir?"
 
 #. Key:	John05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05b"
 msgid "What Government Defense operation? What are you talking about?"
-msgstr ""
+msgstr "Kāda Valdības Aizsardzības operācija? Par ko tu runā?"
 
 #. Key:	John05c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
 msgid "John Derril (over radio): Coastguard are you there? Is anyone there? Someone pick up..."
-msgstr ""
+msgstr "Džons Derils (rācija): Krasta apsardze vai jūs šeit esat? Kāds paceliet lūdzu..."
 
 #. Key:	John06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06a"
 msgid "Oh no... no no no no no... no this isn't happening!"
-msgstr ""
+msgstr "Ak nē... nē nē nē nē nē... nē tas nenotiek!"
 
 #. Key:	John06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06b"
 msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
-msgstr ""
+msgstr "Prom no šejienes! Jebkurš, jebkurš klausītājs, pametiet šo salu tūlīt, kā vien varat!"
 
 #. Key:	John06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
-msgstr ""
+msgstr "Jebkurš šajā frekvencē, dodieties! Kāpēc, lai viņi to darītu?"
 
 #. Key:	Copyright01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr ""
+msgstr "Half-Life ir Valve Korporācijas reģistrēta preču zīme"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr ""
+msgstr "Estranged © 2011 Alans Eduards"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
 msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
-msgstr ""
+msgstr "ESTRANGED 2. DAĻU izstrādāja viena persona savā brīvajā laikā, ar palīdzību no skaņu dizainera, līmeņu dizainera, 3D mākslinieka un tulkotājiem, testētājiem no kopienas"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr ""
+msgstr "Šī spēle patstāvīgs turpinājums 2014. gada Half-Life 2 modam ESTRANGED 1. DAĻA, pieejama Windows, Mac un Linux bezmaksas platformā Steam"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr ""
+msgstr "Lai iegūtu palīdzību, ziņotu par kļūdām un iesnigtu atsauksmes, pievienojies kopienai!"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr ""
+msgstr "AKTĪVS"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr ""
+msgstr "UHF SIGNĀLA BLOĶĒTĀJA STATUS:"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr ""
+msgstr "ATTĀLA PĀRTRAUKŠANA"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2405,14 +2405,14 @@ msgstr "FAIR ISLE, ŠETLENDA, SKOTIJA"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarPendingLabel"
 msgid "PENDING"
-msgstr ""
+msgstr "GAIDA"
 
 #. Key:	HangarRoundLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarRoundLabel"
 msgid "ROUND"
-msgstr ""
+msgstr "APLIS"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
