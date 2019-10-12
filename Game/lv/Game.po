@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-08-04 11:05\n"
-"PO-Revision-Date: 2019-08-04 11:05\n"
+"POT-Creation-Date: 2019-10-12 12:29\n"
+"PO-Revision-Date: 2019-10-12 12:29\n"
 "Language-Team: \n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -110,6 +110,13 @@ msgstr "Pacelt priekšmetu"
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
 msgstr "Skriet un lēkt"
+
+#. Key:	HintSwimUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintSwimUp"
+msgid "Swim up"
+msgstr ""
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1096,7 +1103,7 @@ msgstr "Ievadiet divpakāpju autentifikācijas kodu, lai pārtrauktu"
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
 msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
-msgstr "KONSTATĒTA ANOMĀLIJA\r\Zonās A un B atrasti pārtraukumi"
+msgstr "KONSTATĒTA ANOMĀLIJA\r\\Zonās A un B atrasti pārtraukumi"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1139,6 +1146,111 @@ msgstr "AUTENTIF. KODS"
 msgctxt "ST_ArqueCapture01,ReSendCode"
 msgid "RE-SEND CODE"
 msgstr "SŪTĪT VĒLREIZ"
+
+#. Key:	CaptionAlarmClockRinging
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionAlarmClockRinging"
+msgid "[Alarm clock rings]"
+msgstr ""
+
+#. Key:	CaptionAlarmClockTicking
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionAlarmClockTicking"
+msgid "[Alarm clock ticking]"
+msgstr ""
+
+#. Key:	CaptionChainlinkFence
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionChainlinkFence"
+msgid "[Chainlink fence rattles]"
+msgstr ""
+
+#. Key:	CaptionFighterJetApproach
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionFighterJetApproach"
+msgid "[Fighter jet, approach]"
+msgstr ""
+
+#. Key:	CaptionFighterJetFlyOver
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionFighterJetFlyOver"
+msgid "[Fighter jet, fly over]"
+msgstr ""
+
+#. Key:	CaptionInfectedAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionInfectedAttack"
+msgid "[Infected human, attack]"
+msgstr ""
+
+#. Key:	CaptionRubberDuck
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionRubberDuck"
+msgid "[Rubber duck squeaks]"
+msgstr ""
+
+#. Key:	CaptionSurfaceGasp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionSurfaceGasp"
+msgid "[Surface, gasp for air]"
+msgstr ""
+
+#. Key:	CaptionThunderClap
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionThunderClap"
+msgid "[Thunder clap]"
+msgstr ""
+
+#. Key:	CaptionToiletFlushes
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionToiletFlushes"
+msgid "[Toilet flushes]"
+msgstr ""
+
+#. Key:	CaptionToiletLid
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionToiletLid"
+msgid "[Toilet lid hits]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterAmbience
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterAmbience"
+msgid "[Underwater, ambiance]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterCurrent
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterCurrent"
+msgid "[Underwater, large wave]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterExplosion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterExplosion"
+msgid "[Underwater, explosion]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterMetalCreaking
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterMetalCreaking"
+msgid "[Underwater, large metal creaking]"
+msgstr ""
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1306,7 +1418,7 @@ msgstr "Nezināms: Sveicināti?"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat02"
 msgid "You: hi"
-msgstr "Tu: "čau"
+msgstr "Tu: \"čau"
 
 #. Key:	Chat03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1439,7 +1551,7 @@ msgstr "Paldies par Jūsu pieprasījumu"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
 msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Sveiks, Laiam,\r\n\r\nEsam saņēmuši pieprasījumu pēc jauna žetona. Sakarā ar Jūsu lomas skaidrību, man ir nepieciešams apstiprināt nelielus sīkumus par to, kā zīme tika nolikta nevietā.\r\n\r\nLūdzu atbildiet, cik vien iespējams, sīkumaini par radušos incidentu.\r\n\r\nPaldies,\r\n\r\nHugo Vēbers\r\Senioru Arque Globālo Iekārtu Drošības Atbalsta Speciālists"
+msgstr "Sveiks, Laiam,\r\n\r\nEsam saņēmuši pieprasījumu pēc jauna žetona. Sakarā ar Jūsu lomas skaidrību, man ir nepieciešams apstiprināt nelielus sīkumus par to, kā zīme tika nolikta nevietā.\r\n\r\nLūdzu atbildiet, cik vien iespējams, sīkumaini par radušos incidentu.\r\n\r\nPaldies,\r\n\r\nHugo Vēbers\r\\Senioru Arque Globālo Iekārtu Drošības Atbalsta Speciālists"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1460,7 +1572,7 @@ msgstr "RE: AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Laiam,\r\n\r\nLūdzu raksturojiet kā tieši Jūs pazaudējāt savu žetonu, un kur tā atrodas tagad! Ir jāzin, vai tā neatrodas ārpus ēkas, citādi tā ir ļoti nopietna problēma visai kompānijai.\r\n\r\nMinot lapsu, vai Jūs tiešām domājat sarkanu, pūkainu dzīvnieku? Neizskatās, ka lapsa tiešām varētu izlausties cauri drošības sistēmām. Tas nozīmē, ka Jūs bezatbildīgi veicat savu darbu. Vai tas nozīmē, ka cilvēki var vienkārši pastaigāties Jūsu ēkā?\r\n\r\nTā kā Jūsu atrašanās vietai ir diezgan gluda pieeja interneta pakalpojumiem un Arque Globālajam VPN, tad nav iespējams pareizi deaktivizēt žetonus.\r\n\r\nSakiet, kur Jūsu žetons varētu būt?\r\n\r\nAr cieņu,\r\n\r\nHugo Vēbers\r\Senioru Arque Globālo Iekārtu Drošības Atbalsta Speciālists"
+msgstr "Laiam,\r\n\r\nLūdzu raksturojiet kā tieši Jūs pazaudējāt savu žetonu, un kur tā atrodas tagad! Ir jāzin, vai tā neatrodas ārpus ēkas, citādi tā ir ļoti nopietna problēma visai kompānijai.\r\n\r\nMinot lapsu, vai Jūs tiešām domājat sarkanu, pūkainu dzīvnieku? Neizskatās, ka lapsa tiešām varētu izlausties cauri drošības sistēmām. Tas nozīmē, ka Jūs bezatbildīgi veicat savu darbu. Vai tas nozīmē, ka cilvēki var vienkārši pastaigāties Jūsu ēkā?\r\n\r\nTā kā Jūsu atrašanās vietai ir diezgan gluda pieeja interneta pakalpojumiem un Arque Globālajam VPN, tad nav iespējams pareizi deaktivizēt žetonus.\r\n\r\nSakiet, kur Jūsu žetons varētu būt?\r\n\r\nAr cieņu,\r\n\r\nHugo Vēbers\r\\Senioru Arque Globālo Iekārtu Drošības Atbalsta Speciālists"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2244,7 +2356,7 @@ msgstr "72 GRĀDI, 59 MINŪTES UN 6 SEKUNDES ZIEMEĻU VIRZIENĀ, 51 MINŪTES UN 
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr "Džons Derils (rācija): Paga, kas tad tas...vai tā ir rācija? Sveiki? Halo! Ak Kungs tu to paveici!" 
+msgstr "Džons Derils (rācija): Paga, kas tad tas...vai tā ir rācija? Sveiki? Halo! Ak Kungs tu to paveici!"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation

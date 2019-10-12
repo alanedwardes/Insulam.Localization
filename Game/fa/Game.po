@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-08-04 11:05\n"
-"PO-Revision-Date: 2019-08-04 11:05\n"
+"POT-Creation-Date: 2019-10-12 12:29\n"
+"PO-Revision-Date: 2019-10-12 12:29\n"
 "Language-Team: \n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -110,6 +110,13 @@ msgstr "برداشتن"
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
 msgstr "بدو و بپر"
+
+#. Key:	HintSwimUp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintSwimUp"
+msgid "Swim up"
+msgstr ""
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1139,6 +1146,111 @@ msgstr "کد احراز هویت"
 msgctxt "ST_ArqueCapture01,ReSendCode"
 msgid "RE-SEND CODE"
 msgstr "فرستادن دوباره‌ی کد"
+
+#. Key:	CaptionAlarmClockRinging
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionAlarmClockRinging"
+msgid "[Alarm clock rings]"
+msgstr ""
+
+#. Key:	CaptionAlarmClockTicking
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionAlarmClockTicking"
+msgid "[Alarm clock ticking]"
+msgstr ""
+
+#. Key:	CaptionChainlinkFence
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionChainlinkFence"
+msgid "[Chainlink fence rattles]"
+msgstr ""
+
+#. Key:	CaptionFighterJetApproach
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionFighterJetApproach"
+msgid "[Fighter jet, approach]"
+msgstr ""
+
+#. Key:	CaptionFighterJetFlyOver
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionFighterJetFlyOver"
+msgid "[Fighter jet, fly over]"
+msgstr ""
+
+#. Key:	CaptionInfectedAttack
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionInfectedAttack"
+msgid "[Infected human, attack]"
+msgstr ""
+
+#. Key:	CaptionRubberDuck
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionRubberDuck"
+msgid "[Rubber duck squeaks]"
+msgstr ""
+
+#. Key:	CaptionSurfaceGasp
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionSurfaceGasp"
+msgid "[Surface, gasp for air]"
+msgstr ""
+
+#. Key:	CaptionThunderClap
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionThunderClap"
+msgid "[Thunder clap]"
+msgstr ""
+
+#. Key:	CaptionToiletFlushes
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionToiletFlushes"
+msgid "[Toilet flushes]"
+msgstr ""
+
+#. Key:	CaptionToiletLid
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionToiletLid"
+msgid "[Toilet lid hits]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterAmbience
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterAmbience"
+msgid "[Underwater, ambiance]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterCurrent
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterCurrent"
+msgid "[Underwater, large wave]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterExplosion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterExplosion"
+msgid "[Underwater, explosion]"
+msgstr ""
+
+#. Key:	CaptionUnderwaterMetalCreaking
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionUnderwaterMetalCreaking"
+msgid "[Underwater, large metal creaking]"
+msgstr ""
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
