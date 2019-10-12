@@ -1,16 +1,16 @@
-﻿# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-08-04 11:05\n"
-"PO-Revision-Date: 2019-09-09 22:07+0300\n"
+"PO-Revision-Date: 2019-10-12 02:01+0300\n"
 "Language-Team: \n"
-"Language: ru\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
 "X-Generator: Poedit 2.0.6\n"
 
@@ -61,14 +61,14 @@ msgstr "Игра сохранена"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr "Взаимодействие"
+msgstr "Взаимодействать"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr "Прыгнуть вверх"
+msgstr "Подпрыгнуть"
 
 #. Key:	HintLoading
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -110,14 +110,14 @@ msgstr "Подобрать предмет"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
-msgstr "Беги и Прыгай"
+msgstr "Разбегись и прыгай"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintThrowRock"
 msgid "Throw rock"
-msgstr "Кинуть камень"
+msgstr "Бросить камень"
 
 #. Key:	HintTurnOnTv
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -138,14 +138,14 @@ msgstr "Управление компьютером"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingNotSet"
 msgid "None"
-msgstr "Ничто"
+msgstr "Ничего"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressKey"
 msgid "Press a key"
-msgstr "Нажимать клавишу"
+msgstr "Нажмите на клавишу"
 
 #. Key:	ButtonAA
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -180,7 +180,7 @@ msgstr "Аркада"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAutoDetectSettings"
 msgid "Auto-Detect Settings"
-msgstr "Автонастройка"
+msgstr "Авто-настройка"
 
 #. Key:	ButtonBack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -229,7 +229,7 @@ msgstr "Управление"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonCredits"
 msgid "Load Credits"
-msgstr "Показать титры"
+msgstr "Титры"
 
 #. Key:	ButtonEffects
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -243,21 +243,21 @@ msgstr "Эффекты"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExit"
 msgid "Exit"
-msgstr "Выход"
+msgstr "Выйти"
 
 #. Key:	ButtonExitToMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExitToMenu"
 msgid "Exit to Menu"
-msgstr "Назад к меню"
+msgstr "Назад в меню"
 
 #. Key:	ButtonExtras
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExtras"
 msgid "Extras"
-msgstr "Дополнительно"
+msgstr "Дополнительные настройки"
 
 #. Key:	ButtonFeedback
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -299,14 +299,14 @@ msgstr "Руководства"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr "Бой Насмерть на Складе"
+msgstr "Выживание на складе"
 
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
-msgstr "Присоединяйтесь к Discord"
+msgstr "Группа в Discord"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -348,7 +348,7 @@ msgstr "Стрельбище"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
-msgstr "Продолжить Игру"
+msgstr "Вернуться к игре"
 
 #. Key:	ButtonSaveGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -390,7 +390,7 @@ msgstr "Звук"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSteamForums"
 msgid "Steam Forums"
-msgstr "Steam форумы"
+msgstr "Форумы Steam"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -411,7 +411,7 @@ msgstr "Дальность прорисовки"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
-msgstr "Игровые комментарии"
+msgstr "Внутре-Игровые комментарии"
 
 #. Key:	CheckboxDisableAmbientOcclusion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -467,7 +467,7 @@ msgstr "Отключить субтитры"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
-msgstr "Отключить заставки"
+msgstr "Отключить затемнение"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -495,7 +495,7 @@ msgstr "Режим ноутбука"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "Ограничьте частоту до 30 кадров в секунду, чтобы портативные устройства, такие как ноутбуки, не нагревались во время игры."
+msgstr "Ограничивает частоту до 30 кадров в секунду, чтобы портативные устройства, такие как ноутбуки, не нагревались во время игры."
 
 #. Key:	CheckboxUsePlatformCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -565,14 +565,14 @@ msgstr "Полный экран"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModelBorderless"
 msgid "Borderless"
-msgstr "Отключить рамки"
+msgstr "Оконный без рамок"
 
 #. Key:	DropdownItemWindowModeWindowed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModeWindowed"
 msgid "Window"
-msgstr "Окно"
+msgstr "Оконный"
 
 #. Key:	DropdownResolution
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -586,7 +586,7 @@ msgstr "Разрешение"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownWindowMode"
 msgid "Window Mode"
-msgstr "Оконный режим"
+msgstr "Режим отображения"
 
 #. Key:	GameTag
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -607,7 +607,7 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr "Ввести чит-код"
+msgstr "Введите чит-код"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -628,7 +628,7 @@ msgstr "Эти параметры являются эксперименталь�
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelGlobalStats"
 msgid "Global"
-msgstr "Глобально"
+msgstr "Мир"
 
 #. Key:	LabelStatisticName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -700,19 +700,20 @@ msgctxt "Menus,SliderMusicVolume"
 msgid "Music Volume"
 msgstr "Громкость Музыки"
 
+# Be carefull with this
 #. Key:	SliderScreenPercentage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
-msgstr "Процентное Соотношение Экрана"
+msgstr "Процентное Соотношение Прорисовки"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
-msgstr "Громкость Голоса"
+msgstr "Громкость Речи"
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -726,14 +727,14 @@ msgstr "Инвертировать ось Y мыши"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
-msgstr "Скелеты здесь могли быть моряками и пиратами."
+msgstr "Археолог (запись): Эти скелеты в прошлом были моряками и пиратами."
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part2"
 msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
-msgstr "Мы думаем, что они дезертировали из британского флота и искали убежище на острове."
+msgstr "Мы думаем, что они дезертировали из Британского флота и искали убежище на острове."
 
 #. Key:	ArcheologistDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -761,7 +762,7 @@ msgstr "Мы считаем, скорее всего, они в тот моме�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "Из-за болезни нам пришлось оставить часть команды. Скорее всего, они подхватили что-то когда переносили тела."
+msgstr "Археолог (запись): Из-за неизвестной болезни нам пришлось оставить часть команды. Скорее всего, они подхватили что-то когда переносили тела."
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -775,7 +776,7 @@ msgstr "С этого момента мы будем использовать к
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Говорит Gareth Thomas. Мы проанализировали образцы водорослей"
+msgstr "Гарет Томас (запись): Говорит Гарет Томас. Мы проанализировали образцы водорослей"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -796,21 +797,21 @@ msgstr "Мы не ожидаем, что планктон повлияет на 
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "И мы считаем это совершенно безобидным, мы не ожидаем, что это станет проблемой."
+msgstr "И мы считаем это совершенно безобидным, мы не ожидаем, что это станет проблемой.."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Это э-э, Liam Jones, аудио дневник, #1, э-э"
+msgstr "Лиам Джонс (запись): Это э-э, Лиам Джонс, аудио дневник, #1, э-э"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "Мы только начали изучать водоросли, и э-э"
+msgstr "Мы только начали изучать водоросли, и.."
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -824,7 +825,7 @@ msgstr "Мы поняли, что они действительно светят
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "Итак, это круто! У меня здесь был небольшой образец, который..."
+msgstr "И.. это круто! У меня здесь был небольшой образец, который..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -838,7 +839,7 @@ msgstr "...я собираюсь ненадолго оставить в моем
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
-msgstr "Это э-э, Liam Jones э-э, дневник #2"
+msgstr "Лиам Джонс (запись): Это э-э, Лиам Джонс э-э, дневник #2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -880,7 +881,7 @@ msgstr "на выдачу нового пропуска, то было бы не
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "Образцы прижились хорошо, мы просто наблюдаем их сейчас, чтобы узнать, что происходит"
+msgstr "Образцы прижились хорошо, мы наблюдаем за ними в данный момент, чтобы узнать, что происходит"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -901,7 +902,7 @@ msgstr "Кроме того, Гортон , когда у тебя появит�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "но когда ты спрашиваешь людей о пропуске, люди просто говорят хм-м-м-м ... как хм-м-м-м..."
+msgstr "но когда ты спрашиваешь людей о пропуске, люди просто говорят хм-м-м-м... как хм-м-м-м..."
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -929,28 +930,28 @@ msgstr "Хм, если бы ты мог просто сказать им это.
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "они сказали, что это моя ошибка, и довольно неохотно заменяли пропуск, поэтому"
+msgstr "они сказали, что это моя вина и довольно неохотно заменяли пропуск, поэтому"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Это Лиам Джоунс, инженер, ответственный за безопасность образцов здесь, - мы только что впустили"
+msgstr "Лиам Джонс (запись): Это Лиам Джонс, инженер, ответственный за безопасность образцов здесь, - мы только что впустили"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "Доктора Фредерика Презеллу в комнату наблюдения, ух, он озверел"
+msgstr "Доктора Фредерика Презеллу в комнату наблюдения, эм, он озверел"
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "и атаковал одного из моих сотрудников, поэтому мы собираемся держать его"
+msgstr "и напал на одного из моих сотрудников, поэтому мы собираемся держать его"
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -978,7 +979,7 @@ msgstr "Консоль"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionCrouch"
 msgid "Crouch"
-msgstr "Пригнуться"
+msgstr "Присесть"
 
 #. Key:	ActionFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -999,7 +1000,7 @@ msgstr "Взаимодействовать"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionJump"
 msgid "Jump"
-msgstr "Подпрыгнуть"
+msgstr "Прыгнуть"
 
 #. Key:	ActionMenu
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1020,7 +1021,7 @@ msgstr "Назад"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveForward"
 msgid "Move Forwards"
-msgstr "Вперед"
+msgstr "Вперёд"
 
 #. Key:	ActionMoveLeft
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1034,7 +1035,7 @@ msgstr "Влево"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionMoveRight"
 msgid "Move Right"
-msgstr "Вперед"
+msgstr "Вправо"
 
 #. Key:	ActionPrimaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1069,7 +1070,7 @@ msgstr "Перезарядка"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
 msgid "Secondary Attack"
-msgstr "Альтернативная атака"
+msgstr "Прицелиться"
 
 #. Key:	ActionSprint
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1101,7 +1102,7 @@ msgid ""
 "Overrides located in areas A and B"
 msgstr ""
 "АНОМАЛИЯ ОБНАРУЖЕНА\r\n"
-"Переопределения, расположенные в областях A и B"
+"Блокировки, расположенны в областях A и B"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1111,7 +1112,7 @@ msgid ""
 "AREA DESIGNATED SAFE\r\n"
 "WORKSTATION LOCKED"
 msgstr ""
-"ЗОНА ЯВЛЯЕТСЯ БЕЗОПАСНОЙ\r\n"
+"ЗОНА ЯВЛЯЕТСЯ БЕЗОПАСНОЙ\n"
 "РАБОЧАЯ СТАНЦИЯ ЗАБЛОКИРОВАНА"
 
 #. Key:	LockdownBody03
@@ -1158,7 +1159,7 @@ msgstr "ПОВТОРНО ОТПРАВИТЬ КОД"
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
 msgid "Arque Guard: You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
-msgstr "Ты думал, что мы дадим тебе спокойно бродить по острову и расстреливать ребят из Сокол-Глокнер?"
+msgstr "Охранник Arque: Ты думал, что мы дадим тебе спокойно бродить по острову и расстреливать ребят из Сокол-Глокнер?"
 
 #. Key:	CaptureGuard01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1207,7 +1208,7 @@ msgstr "Жизни тысяч, миллионов, миллиардов люде
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01h"
 msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
-msgstr "Расскажи мне, на кого ты работаешь. Иначе ад покажется тебе легкой прогулкой по сравнению с мучениями, через которые тебе предстоит пройти."
+msgstr "Расскажи мне, на кого ты работаешь. Иначе ад покажется тебе легкой прогулкой по сравнению с мучениями, через которые ты пройдёшь."
 
 #. Key:	CaptureGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1305,7 +1306,7 @@ msgstr "НЕ УДАЛОСЬ ЗАГРУЗИТЬ ВИДЕО"
 #: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
 msgctxt "ST_Commentary,ViewOnYouTubeLabel"
 msgid "View in HD on YouTube"
-msgstr "Смотрите в высоком качестве на YouTube"
+msgstr "Посмотреть в высоком качестве на YouTube"
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1354,7 +1355,7 @@ msgstr "Вы: Могу ли я помочь вам?"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat07"
 msgid "You: are you still there? hello?"
-msgstr "Вы: вы все еще там? привет?"
+msgstr "Вы: вы все еще там? ау?"
 
 #. Key:	Chat08
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1403,7 +1404,7 @@ msgstr "Вы отключены."
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,ChatTitle"
 msgid "Chat with Unknown"
-msgstr "Чат с Неизвестно"
+msgstr "Чат с 'Неизвестно'"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1774,7 +1775,7 @@ msgstr "БЛАГОДАРНОСТЬ"
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
 msgid "John Derril (over radio): Hello?"
-msgstr "Привет?"
+msgstr "Hello?"
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -2021,7 +2022,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body05"
 msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
-msgstr "Две недели прошло с тех пор, как сотрудник местного отделения Arque, Кристиан Плайт, потерял черного кота по кличке Счастливчик. Он попросил немедленно связаться с ним, если кто-то увидит питомца."
+msgstr "Две недели прошло с тех пор, как сотрудник местного отделения Arque, Кристиан Плайт, потерял черного кота по кличке 'Счастливчик'. Он попросил немедленно связаться с ним, если кто-то увидит питомца."
 
 #. Key:	Body06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2042,7 +2043,7 @@ msgstr "По словам береговой охраны, кораблей «с
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline01"
 msgid "LIGHTHOUSE DECOMMISSIONED"
-msgstr "Маяк выведен из эксплуатации"
+msgstr "МАЯК ВЫВЕДЕН ИЗ ЭКСПЛУАТАЦИИ"
 
 #. Key:	Headline02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2098,7 +2099,7 @@ msgstr "Передовая новостей, сплетен, спорта, эс�
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Title"
 msgid "WENTWORTH HERALD"
-msgstr "Вестник Вентворта"
+msgstr "ВЕСТНИК ВЕНТВОРТА"
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2231,7 +2232,7 @@ msgstr "На этом у меня все, присоединяйтесь к на
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "Unknown (over radio): This is an automated message from Arque Corporation."
-msgstr "Это автоматическое сообщение от Arque Corporation."
+msgstr "НЕИЗВЕСТНЫЙ (по радио): Это автоматическое сообщение от Arque Corporation."
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2245,7 +2246,7 @@ msgstr "Действует обязательный комендантский �
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "John Derril (over radio): If there's ANYONE listening to this, I need help."
-msgstr "Если КТО-НИБУДЬ это слышит, мне нужна помощь."
+msgstr "Джон Деррил (по радио): Если КТО-НИБУДЬ это слышит, мне нужна помощь."
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2287,7 +2288,7 @@ msgstr "Проходящие корабли, пролетающие самоле
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "John Derril (over radio): I was split up from my wife and daughter when the things came."
-msgstr "Я был разлучен с женой и дочерью, когда это произошло."
+msgstr "Джон Деррил (по радио): Я был разлучен с женой и дочерью, когда это произошло."
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2329,7 +2330,7 @@ msgstr "Но не думаю, что они вернутся. Я всё дума
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
-msgstr "Пожалуйста, ВСЕ кто слышат меня. Если вы думаете, что здесь плохо... всё гораздо хуже."
+msgstr "Джон Деррил (по радио): Пожалуйста, ВСЕ кто это слышит. Если вы думаете, что здесь плохо... всё гораздо хуже."
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2350,7 +2351,7 @@ msgstr "Должно быть, эта компания делает что-то,
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "John Derril (over radio): Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr "Почему никто не проверил, как мы? Это маленький остров, но ведь здесь есть люди..."
+msgstr "Джон Деррил (по радио): Почему никто не проверил, как мы? Это маленький остров, но ведь здесь есть люди..."
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2371,21 +2372,21 @@ msgstr "...бесполезно играть в \"вот если бы\"."
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
 msgid "Coast Guard (over radio): This is the Norwegian Coast Guard. Please state your coordinates."
-msgstr "Это береговая охрана Норвегии! Сообщите свои координаты."
+msgstr "Береговой Охранник (по радио): Это береговая охрана Норвегии! Сообщите свои координаты."
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
 msgid "Coast Guard (over radio): OK"
-msgstr "ОК"
+msgstr "Береговой Охранник (по радио): ОК"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
-msgstr "Я должен вам сообщить... Рядом с вами ведутся активные правительственные оборонительные операции."
+msgstr "Береговой Охранник (по радио): Я должен вам сообщить... Рядом с вами ведутся активные правительственные оборонительные операции."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2413,7 +2414,7 @@ msgstr "72 ГРАДУСА, 59 МИНУТ И 6 СЕКУНД С.Ш., 2 ГРАДУ�
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr "Подождите, что это, это радио? Алло? Алло! Слава Богу, вам удалось!"
+msgstr "Джон Деррил (по радио): Подождите, что это, это радио? Алло? Алло! Слава Богу, вам удалось!"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2441,21 +2442,21 @@ msgstr "Корпорация Arque прекратила передачу ВСЕ�
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr "Наши примерные координаты: 72 градуса, 59 минут и 6 секунд с.ш. и 2 градуса, 51 минута и 54 секунды в.д."
+msgstr "Джон Деррил (по радио): Наши примерные координаты: 72 градуса, 59 минут и 6 секунд с.ш. и 2 градуса, 51 минута и 54 секунды в.д."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "John Derril (over radio): Uh, it's John."
-msgstr "Это Джон."
+msgstr "Джон Деррил (по радио): Это Джон."
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
 msgid "John Derril (over radio): Hello! Hello? Coastguard?! Anyone there?"
-msgstr "Алло! Алло? Береговая охрана? Есть там кто-нибудь?"
+msgstr "Джон Деррил (по радио): Алло! Алло? Береговая охрана? Есть там кто-нибудь?"
 
 #. Key:	John05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2469,7 +2470,7 @@ msgstr "Какие правительственные оборонительны
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
 msgid "John Derril (over radio): Coastguard are you there? Is anyone there? Someone pick up..."
-msgstr "Береговая охрана, вы там? Есть там кто-нибудь? Эй, возьмите кто-нибудь трубку..."
+msgstr "Джон Деррил (по радио): Береговая охрана, вы там? Есть там кто-нибудь? Эй, возьмите кто-нибудь трубку..."
 
 #. Key:	John06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2532,7 +2533,7 @@ msgstr "Присоединяйтесь к сообществу для получ
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr "АКТИВНЫЙ"
+msgstr "АКТИВЕН"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
@@ -2546,7 +2547,7 @@ msgstr "СТАТУС ПОДАВИТЕЛЯ УВЧ-СИГНАЛОВ: "
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RemoteOverrideLabel"
 msgid "REMOTE OVERRIDE"
-msgstr "УДАЛЕННОЕ БЛОКИРОВАНИЕ"
+msgstr "УДАЛЕННАЯ БЛОКИРОВКА"
 
 #. Key:	LoadingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
@@ -2560,14 +2561,14 @@ msgstr "ЗАГРУЗКА"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "ДНЕЙ ДО СОБЫТИЙ АКТА 1"
+msgstr "ДНИ ДО СОБЫТИЙ АКТА 1"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr "ФЭР АЙЛ, ШЕТЛАНД, ШОТЛАНДИЯ"
+msgstr "ФЭР АЙЛ, ШЁТЛАНД, ШОТЛАНДИЯ"
 
 #. Key:	HangarPendingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
