@@ -1,17 +1,18 @@
-﻿# Game Dutch translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-10-12 12:29\n"
-"PO-Revision-Date: 2019-10-12 12:29\n"
+"PO-Revision-Date: 2019-10-13 15:29+0200\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -116,7 +117,7 @@ msgstr "Rennen en springen"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSwimUp"
 msgid "Swim up"
-msgstr ""
+msgstr "Omhoog zwemmen"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1102,22 +1103,34 @@ msgstr "Voer de twee-factor-authenticatiecode in om te overschrijven"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
-msgstr "ONREGELMATIGHEID GEDETECTEERD\r\nOverschrijvingen in gebieden A en B"
+msgid ""
+"ANOMALY DETECTED\r\n"
+"Overrides located in areas A and B"
+msgstr ""
+"ONREGELMATIGHEID GEDETECTEERD\r\n"
+"Overschrijvingen in gebieden A en B"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
-msgstr "GEBIED VEILIG\r\nWERKSTATION VERGRENDELD"
+msgid ""
+"AREA DESIGNATED SAFE\r\n"
+"WORKSTATION LOCKED"
+msgstr ""
+"GEBIED VEILIG\r\n"
+"WERKSTATION VERGRENDELD"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr "Voer het wachtwoord in om te overschrijven\r\nHINT: Aantal monsters"
+msgid ""
+"Enter passcode to override\r\n"
+"HINT: Specimen count"
+msgstr ""
+"Voer het wachtwoord in om te overschrijven\r\n"
+"HINT: Aantal monsters"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1152,105 +1165,105 @@ msgstr "CODE OPNIEUW VERZENDEN"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionAlarmClockRinging"
 msgid "[Alarm clock rings]"
-msgstr ""
+msgstr "[wekker gaat af]"
 
 #. Key:	CaptionAlarmClockTicking
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionAlarmClockTicking"
 msgid "[Alarm clock ticking]"
-msgstr ""
+msgstr "[wekker tikt]"
 
 #. Key:	CaptionChainlinkFence
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionChainlinkFence"
 msgid "[Chainlink fence rattles]"
-msgstr ""
+msgstr "[gaashekwerk rammelt]"
 
 #. Key:	CaptionFighterJetApproach
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionFighterJetApproach"
 msgid "[Fighter jet, approach]"
-msgstr ""
+msgstr "[aankomende straaljager]"
 
 #. Key:	CaptionFighterJetFlyOver
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionFighterJetFlyOver"
 msgid "[Fighter jet, fly over]"
-msgstr ""
+msgstr "[overvliegende straaljager]"
 
 #. Key:	CaptionInfectedAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedAttack"
 msgid "[Infected human, attack]"
-msgstr ""
+msgstr "[geïnfecteerd mens valt aan]"
 
 #. Key:	CaptionRubberDuck
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionRubberDuck"
 msgid "[Rubber duck squeaks]"
-msgstr ""
+msgstr "[rubbereendje piept]"
 
 #. Key:	CaptionSurfaceGasp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionSurfaceGasp"
 msgid "[Surface, gasp for air]"
-msgstr ""
+msgstr "[hap naar lucht aan oppervlak]"
 
 #. Key:	CaptionThunderClap
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionThunderClap"
 msgid "[Thunder clap]"
-msgstr ""
+msgstr "[donderslag]"
 
 #. Key:	CaptionToiletFlushes
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionToiletFlushes"
 msgid "[Toilet flushes]"
-msgstr ""
+msgstr "[toilet wordt doorgetrokken]"
 
 #. Key:	CaptionToiletLid
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionToiletLid"
 msgid "[Toilet lid hits]"
-msgstr ""
+msgstr "[toiletdeksel klapt dicht]"
 
 #. Key:	CaptionUnderwaterAmbience
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterAmbience"
 msgid "[Underwater, ambiance]"
-msgstr ""
+msgstr "[geluiden onder water]"
 
 #. Key:	CaptionUnderwaterCurrent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterCurrent"
 msgid "[Underwater, large wave]"
-msgstr ""
+msgstr "[grote golf onder water]"
 
 #. Key:	CaptionUnderwaterExplosion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterExplosion"
 msgid "[Underwater, explosion]"
-msgstr ""
+msgstr "[explosie onder water]"
 
 #. Key:	CaptionUnderwaterMetalCreaking
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterMetalCreaking"
 msgid "[Underwater, large metal creaking]"
-msgstr ""
+msgstr "[knarsend metaal onder water]"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1522,15 +1535,59 @@ msgstr "Luchtschacht"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr "Hallo,\r\n\r\nWe hebben meldingen gehad dat een schacht van de airconditioning op jullie locatie is beschadigd.\r\n\r\nWe bieden onze verontschuldigingen aan voor enige ongemakken die dit kan veroorzaken.\r\n\r\nBedankt,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgid ""
+"Hello,\r\n"
+"\r\n"
+"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
+"\r\n"
+"We apologise for the inconveneince this may cause.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr ""
+"Hallo,\r\n"
+"\r\n"
+"We hebben meldingen gehad dat een schacht van de airconditioning op jullie locatie is beschadigd.\r\n"
+"\r\n"
+"We bieden onze verontschuldigingen aan voor enige ongemakken die dit kan veroorzaken.\r\n"
+"\r\n"
+"Bedankt,\r\n"
+"\r\n"
+"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr "Hallo,\r\n\r\nBedankt voor uw aanvraag van een nieuwe beveiligingspenning. Uw ticket ter referentie is AGO15824.\r\n\r\nWat zijn de volgende stappen?\r\n\r\nEen lid van het AGO-team zal op uw aanvraag reageren. Merk op dat u afhankelijk van de ernst van uw aanvraag om aanvullende informatie gevraagd kunt worden.\r\n\r\nBedankt,\r\n\r\nArque Global Operations Badge Services\r\n\r\nDit is een automatische e-mail. Reageer er niet op."
+msgid ""
+"Hi,\r\n"
+"\r\n"
+"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
+"\r\n"
+"What are the next steps?\r\n"
+"\r\n"
+"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Badge Services\r\n"
+"\r\n"
+"This is an automated email, please do not respond."
+msgstr ""
+"Hallo,\r\n"
+"\r\n"
+"Bedankt voor uw aanvraag van een nieuwe beveiligingspenning. Uw ticket ter referentie is AGO15824.\r\n"
+"\r\n"
+"Wat zijn de volgende stappen?\r\n"
+"\r\n"
+"Een lid van het AGO-team zal op uw aanvraag reageren. Merk op dat u afhankelijk van de ernst van uw aanvraag om aanvullende informatie gevraagd kunt worden.\r\n"
+"\r\n"
+"Bedankt,\r\n"
+"\r\n"
+"Arque Global Operations Badge Services\r\n"
+"\r\n"
+"Dit is een automatische e-mail. Reageer er niet op."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1550,8 +1607,28 @@ msgstr "Bedankt voor uw aanvraag"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Hallo Liam,\r\n\r\nWe hebben je aanvraag voor een nieuwe penning ontvangen. Vanwege het machtigingsniveau van je rol moet ik een aantal gegevens verifiëren over het kwijtraken van de penning.\r\n\r\nReageer alsjeblieft met zo veel mogelijk details over het voorval als je kunt.\r\n\r\nBedankt,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgid ""
+"Hi Liam,\r\n"
+"\r\n"
+"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
+"\r\n"
+"Please respond with as much detail as you can about the incident.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr ""
+"Hallo Liam,\r\n"
+"\r\n"
+"We hebben je aanvraag voor een nieuwe penning ontvangen. Vanwege het machtigingsniveau van je rol moet ik een aantal gegevens verifiëren over het kwijtraken van de penning.\r\n"
+"\r\n"
+"Reageer alsjeblieft met zo veel mogelijk details over het voorval als je kunt.\r\n"
+"\r\n"
+"Bedankt,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1571,15 +1648,49 @@ msgstr "RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Liam,\r\n\r\nKun je me alsjeblieft aangeven waar je je penning bent kwijtgeraakt en waar deze nu is? We moeten zeker weten dat deze zich niet buiten de faciliteit bevindt. Mocht dit wel zo zijn, dan is dat een groot probleem voor het bedrijf.\r\n\r\nBedoel je met 'vos' letterlijk het rode, harige beest? Dat lijkt me erg onwaarschijnlijk. Je geeft hiermee aan dat een vos door de beveiliging van onze basis is gekomen? Dan lijk je je werk niet goed uit te voeren? Betekent dit ook dat mensen zo de faciliteit in kunnen wandelen?\r\n\r\nAangezien je locatie onregelmatig toegang tot de globale internetdiensten en de Arque Global VPN heeft, kunnen we actieve penningen niet op afstand uitschakelen.\r\n\r\nWaar denk je dat je penning is?\r\n\r\nMet vriendelijke groet,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgid ""
+"Liam,\r\n"
+"\r\n"
+"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
+"\r\n"
+"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
+"\r\n"
+"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
+"\r\n"
+"Tell me, where do you believe your badge to be?\r\n"
+"\r\n"
+"Yours,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr ""
+"Liam,\r\n"
+"\r\n"
+"Kun je me alsjeblieft aangeven waar je je penning bent kwijtgeraakt en waar deze nu is? We moeten zeker weten dat deze zich niet buiten de faciliteit bevindt. Mocht dit wel zo zijn, dan is dat een groot probleem voor het bedrijf.\r\n"
+"\r\n"
+"Bedoel je met 'vos' letterlijk het rode, harige beest? Dat lijkt me erg onwaarschijnlijk. Je geeft hiermee aan dat een vos door de beveiliging van onze basis is gekomen? Dan lijk je je werk niet goed uit te voeren? Betekent dit ook dat mensen zo de faciliteit in kunnen wandelen?\r\n"
+"\r\n"
+"Aangezien je locatie onregelmatig toegang tot de globale internetdiensten en de Arque Global VPN heeft, kunnen we actieve penningen niet op afstand uitschakelen.\r\n"
+"\r\n"
+"Waar denk je dat je penning is?\r\n"
+"\r\n"
+"Met vriendelijke groet,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr "Hoi sorry dat me penning door een vos is gepakt , ik weet niet zeker waar hij nu is maar ik kan de duer niet meer open maken en niet meer werken\r\n\r\nbedankt"
+msgid ""
+"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
+"\r\n"
+"thanks"
+msgstr ""
+"Hoi sorry dat me penning door een vos is gepakt , ik weet niet zeker waar hij nu is maar ik kan de duer niet meer open maken en niet meer werken\r\n"
+"\r\n"
+"bedankt"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1592,8 +1703,26 @@ msgstr "RE: RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr "Team,\r\n\r\nZie de bijlage voor de laatste editie van de Wentworth Herald. Let op de vermelding van Arque - moeten we dit onderzoeken?\r\n\r\nTer herinnering: praat zonder goedkeuring niet met de lokale media.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgid ""
+"Team,\r\n"
+"\r\n"
+"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
+"\r\n"
+"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
+"\r\n"
+"Lucy Beeshaw\r\n"
+"\r\n"
+"PR Senior Specialist"
+msgstr ""
+"Team,\r\n"
+"\r\n"
+"Zie de bijlage voor de laatste editie van de Wentworth Herald. Let op de vermelding van Arque - moeten we dit onderzoeken?\r\n"
+"\r\n"
+"Ter herinnering: praat zonder goedkeuring niet met de lokale media.\r\n"
+"\r\n"
+"Lucy Beeshaw\r\n"
+"\r\n"
+"PR Senior Specialist"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1627,8 +1756,14 @@ msgstr "Chat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr "Denk na voordat je dit bericht print. Het milieu is in gevaar. Bij Arque geven we ook om bomen.\r\n\r\nWerknemers dienen vuur te stoken met houtskool in plaats van met hout. Red de bomen, red de wereld."
+msgid ""
+"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
+"\r\n"
+"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr ""
+"Denk na voordat je dit bericht print. Het milieu is in gevaar. Bij Arque geven we ook om bomen.\r\n"
+"\r\n"
+"Werknemers dienen vuur te stoken met houtskool in plaats van met hout. Red de bomen, red de wereld."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1725,8 +1860,12 @@ msgstr "Help ook met vertalen!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Tijdelijk einde\r\nBinnenkort meer inhoud!"
+msgid ""
+"Temporary Ending\r\n"
+"More Content Soon!"
+msgstr ""
+"Tijdelijk einde\r\n"
+"Binnenkort meer inhoud!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1935,8 +2074,14 @@ msgstr "Lokale bewoonster Rosie Hardman ziet de algen als een bedreiging en is z
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr "De vuurtoren op de landtong in Redton wordt door de lokale burgemeester John Menn buiten bedrijf gesteld na een onderzoek door de kustwacht.\r\n\r\n\"We zijn er zeker van dat dit het voorbijgaande verkeer niet zal hinderen\", vertelt Bill Hayak van de afdeling Onderzoek Maritiem Verkeer. Hij voegt toe: \"Vroeger voeren er veel vrachtschepen langs de kust van Redton, maar nu is dit niet meer nodig doordat de vaarroutes vanuit het binnenland zijn aangepast.\""
+msgid ""
+"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
+"\r\n"
+"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr ""
+"De vuurtoren op de landtong in Redton wordt door de lokale burgemeester John Menn buiten bedrijf gesteld na een onderzoek door de kustwacht.\r\n"
+"\r\n"
+"\"We zijn er zeker van dat dit het voorbijgaande verkeer niet zal hinderen\", vertelt Bill Hayak van de afdeling Onderzoek Maritiem Verkeer. Hij voegt toe: \"Vroeger voeren er veel vrachtschepen langs de kust van Redton, maar nu is dit niet meer nodig doordat de vaarroutes vanuit het binnenland zijn aangepast.\""
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -1949,15 +2094,39 @@ msgstr "Bij navraag bleek de burgemeester niet beschikbaar voor commentaar totda
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr "Lokale bewoners zijn niet blij met de wijziging. Eén bewoner is bezorgd over de effecten op kleine handelsschepen die nog op het eiland aanmeren en zegt dat dit de genadeklap is voor de stille haven van het eiland: \"Het stopt veel van de bedrijvigheid op het eiland.\"\r\n\r\nSoms is de vuurtoren het enige dat kleinere schepen laat komen en met lokale bedrijven laat handelen. Het is iets waar we allemaal bang voor zijn. Wat gebeurt er wanneer er hier geen import meer over is?"
+msgid ""
+"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
+"\r\n"
+"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr ""
+"Lokale bewoners zijn niet blij met de wijziging. Eén bewoner is bezorgd over de effecten op kleine handelsschepen die nog op het eiland aanmeren en zegt dat dit de genadeklap is voor de stille haven van het eiland: \"Het stopt veel van de bedrijvigheid op het eiland.\"\r\n"
+"\r\n"
+"Soms is de vuurtoren het enige dat kleinere schepen laat komen en met lokale bedrijven laat handelen. Het is iets waar we allemaal bang voor zijn. Wat gebeurt er wanneer er hier geen import meer over is?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr "Een van de populairste wedstrijden in Redton is terug voor het jaarlijkse evenement.\r\n\r\nDe gemeenschap komt elk jaar samen om de meest angstaanjagende en griezelige vogelverschrikkers te maken om de vogels weg te houden. De winnaar van vorig jaar was de achtjarige Joshua Fenton wiens voorstelling van zijn oma de jury overhaalde.\r\n\r\nDe winnaar van de wedstrijd van dit jaar krijgt een aantal overheerlijke taarten van Julia Menn, de vrouw van de burgemeester die onlangs haar eigen patisserie op het eiland opende.\r\n\r\nDe festiviteiten houden niet op met de vogelverschrikkers die de hele week te aanschouwen zijn. In het hele dorp zijn er kraampjes en andere activiteiten. Als je de vogelverschrikkers nog niet hebt gezien, breng dan een bezoek aan het evenement om te zien waar het allemaal om gaat en om wat van de lekkerste gerechten en drankjes die Redton te bieden heeft te proeven.\r\n\r\nAls je geen tijd hebt om even langs te gaan, kijk dan uit naar de volgende editie waar we alle inzendingen in zullen plaatsen."
+msgid ""
+"One of the most popular competitions Redton holds is back for its annual event.\r\n"
+"\r\n"
+"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
+"\r\n"
+"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
+"\r\n"
+"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
+"\r\n"
+"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr ""
+"Een van de populairste wedstrijden in Redton is terug voor het jaarlijkse evenement.\r\n"
+"\r\n"
+"De gemeenschap komt elk jaar samen om de meest angstaanjagende en griezelige vogelverschrikkers te maken om de vogels weg te houden. De winnaar van vorig jaar was de achtjarige Joshua Fenton wiens voorstelling van zijn oma de jury overhaalde.\r\n"
+"\r\n"
+"De winnaar van de wedstrijd van dit jaar krijgt een aantal overheerlijke taarten van Julia Menn, de vrouw van de burgemeester die onlangs haar eigen patisserie op het eiland opende.\r\n"
+"\r\n"
+"De festiviteiten houden niet op met de vogelverschrikkers die de hele week te aanschouwen zijn. In het hele dorp zijn er kraampjes en andere activiteiten. Als je de vogelverschrikkers nog niet hebt gezien, breng dan een bezoek aan het evenement om te zien waar het allemaal om gaat en om wat van de lekkerste gerechten en drankjes die Redton te bieden heeft te proeven.\r\n"
+"\r\n"
+"Als je geen tijd hebt om even langs te gaan, kijk dan uit naar de volgende editie waar we alle inzendingen in zullen plaatsen."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2560,4 +2729,3 @@ msgstr "UREN NA DE GEBEURTENISSEN VAN ACT I"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "ONBEKEND EILAND, NOORSE ZEE"
-
