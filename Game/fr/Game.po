@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-10-12 12:29\n"
-"PO-Revision-Date: 2019-10-12 12:29\n"
+"POT-Creation-Date: 2019-10-15 21:43\n"
+"PO-Revision-Date: 2019-10-15 21:43\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -307,6 +307,13 @@ msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
 msgstr ""
 
+#. Key:	ButtonHUD
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonHUD"
+msgid "Interface"
+msgstr ""
+
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -475,6 +482,13 @@ msgctxt "Menus,CheckboxDisableVignette"
 msgid "Disable Vignette"
 msgstr ""
 
+#. Key:	CheckboxEnableClosedCaptions
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableClosedCaptions"
+msgid "Enable Closed Captions"
+msgstr ""
+
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -508,6 +522,13 @@ msgstr "Limite les frames à 30fps pour éviter la surchauffe de systèmes comme
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
 msgid "Use {Platform} Language"
+msgstr ""
+
+#. Key:	CheckboxUseSimpleSubtitleFont
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxUseSimpleSubtitleFont"
+msgid "Use Simple Subtitle Font"
 msgstr ""
 
 #. Key:	CheckboxVSync
@@ -615,6 +636,13 @@ msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
 msgstr ""
 
+#. Key:	LabelExampleSubtitle
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelExampleSubtitle"
+msgid "Example Subtitle"
+msgstr ""
+
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -711,6 +739,13 @@ msgstr "Volume de la Musique"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderScreenPercentage"
 msgid "Screen Percentage"
+msgstr ""
+
+#. Key:	SliderSubtitleFontSizeMultiplier
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,SliderSubtitleFontSizeMultiplier"
+msgid "Subtitle Font Size"
 msgstr ""
 
 #. Key:	SliderVoiceVolume
@@ -1161,11 +1196,32 @@ msgctxt "ST_Captions,CaptionAlarmClockTicking"
 msgid "[Alarm clock ticking]"
 msgstr ""
 
+#. Key:	CaptionBodyThud
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionBodyThud"
+msgid "[Thud, body hits floor]"
+msgstr ""
+
 #. Key:	CaptionChainlinkFence
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionChainlinkFence"
 msgid "[Chainlink fence rattles]"
+msgstr ""
+
+#. Key:	CaptionDoorBurstOpen
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionDoorBurstOpen"
+msgid "[Door bursts open]"
+msgstr ""
+
+#. Key:	CaptionExplosion
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionExplosion"
+msgid "[Explosion]"
 msgstr ""
 
 #. Key:	CaptionFighterJetApproach
@@ -1182,11 +1238,46 @@ msgctxt "ST_Captions,CaptionFighterJetFlyOver"
 msgid "[Fighter jet, fly over]"
 msgstr ""
 
+#. Key:	CaptionFleshImpact
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionFleshImpact"
+msgid "[Flesh impact]"
+msgstr ""
+
+#. Key:	CaptionGunshot
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionGunshot"
+msgid "[Gunshot]"
+msgstr ""
+
 #. Key:	CaptionInfectedAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedAttack"
 msgid "[Infected human, attack]"
+msgstr ""
+
+#. Key:	CaptionInfectedChasing
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionInfectedChasing"
+msgid "[Infected human, begin chasing]"
+msgstr ""
+
+#. Key:	CaptionInfectedGroan
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionInfectedGroan"
+msgid "[Infected human, groan]"
+msgstr ""
+
+#. Key:	CaptionOnimousMusic
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionOnimousMusic"
+msgid "[Ominous music starts]"
 msgstr ""
 
 #. Key:	CaptionRubberDuck
