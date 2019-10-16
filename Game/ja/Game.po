@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-10-15 21:43\n"
-"PO-Revision-Date: 2019-10-15 21:43\n"
+"POT-Creation-Date: 2019-10-16 21:42\n"
+"PO-Revision-Date: 2019-10-16 21:42\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -223,6 +223,13 @@ msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
 msgstr "Chapter 4"
 
+#. Key:	ButtonControllerBindings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControllerBindings"
+msgid "Controller Bindings"
+msgstr ""
+
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -320,6 +327,13 @@ msgstr ""
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
 msgstr "Discordに参加する"
+
+#. Key:	ButtonKeyboardBindings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonKeyboardBindings"
+msgid "Keyboard Bindings"
+msgstr ""
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus

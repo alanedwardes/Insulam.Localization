@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-10-15 21:43\n"
-"PO-Revision-Date: 2019-10-15 21:43\n"
+"POT-Creation-Date: 2019-10-16 21:42\n"
+"PO-Revision-Date: 2019-10-16 21:42\n"
 "Language-Team: \n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +118,6 @@ msgctxt "Hints,HintSwimUp"
 msgid "Swim up"
 msgstr "Peldēt uz augšu"
 
-
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -224,6 +223,13 @@ msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
 msgstr "4. nodaļa"
 
+#. Key:	ButtonControllerBindings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonControllerBindings"
+msgid "Controller Bindings"
+msgstr ""
+
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -315,13 +321,19 @@ msgctxt "Menus,ButtonHUD"
 msgid "Interface"
 msgstr "Saskarne"
 
-
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
 msgstr "Pievienoties Discord"
+
+#. Key:	ButtonKeyboardBindings
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonKeyboardBindings"
+msgid "Keyboard Bindings"
+msgstr ""
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -491,7 +503,6 @@ msgctxt "Menus,CheckboxEnableClosedCaptions"
 msgid "Enable Closed Captions"
 msgstr "Iespējot subtitrus"
 
-
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -533,7 +544,6 @@ msgstr "Izmantot {Platform} Valodu"
 msgctxt "Menus,CheckboxUseSimpleSubtitleFont"
 msgid "Use Simple Subtitle Font"
 msgstr "Lietot vienkāršu subtitru fontu"
-
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -647,7 +657,6 @@ msgctxt "Menus,LabelExampleSubtitle"
 msgid "Example Subtitle"
 msgstr "Subtitru piemērs"
 
-
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -752,7 +761,6 @@ msgstr "Ekrāna procentuālā attiecība"
 msgctxt "Menus,SliderSubtitleFontSizeMultiplier"
 msgid "Subtitle Font Size"
 msgstr "Subtitru fonta lielums"
-
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1146,7 +1154,6 @@ msgctxt "ST_ArqueCapture01,LockdownBody01"
 msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
 msgstr "KONSTATĒTA ANOMĀLIJA\r\nZonās A un B atrasti pārtraukumi"
 
-
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1196,14 +1203,12 @@ msgctxt "ST_Captions,CaptionAlarmClockRinging"
 msgid "[Alarm clock rings]"
 msgstr "[Zvana modinātājpulkstenis]"
 
-
 #. Key:	CaptionAlarmClockTicking
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionAlarmClockTicking"
 msgid "[Alarm clock ticking]"
 msgstr "[Modinātājpulkstenis tikšķ]"
-
 
 #. Key:	CaptionBodyThud
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1212,14 +1217,12 @@ msgctxt "ST_Captions,CaptionBodyThud"
 msgid "[Thud, body hits floor]"
 msgstr "[Bum, ķermenis nokrīt zemē]"
 
-
 #. Key:	CaptionChainlinkFence
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionChainlinkFence"
 msgid "[Chainlink fence rattles]"
 msgstr "[Ķēžu žogs nograb]"
-
 
 #. Key:	CaptionDoorBurstOpen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1228,14 +1231,12 @@ msgctxt "ST_Captions,CaptionDoorBurstOpen"
 msgid "[Door bursts open]"
 msgstr "[Durvis atsitas vaļā]"
 
-
 #. Key:	CaptionExplosion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionExplosion"
 msgid "[Explosion]"
 msgstr "[Sprādziens]"
-
 
 #. Key:	CaptionFighterJetApproach
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1250,7 +1251,6 @@ msgstr "[Kaujas lidmašīna, tuvojas]"
 msgctxt "ST_Captions,CaptionFighterJetFlyOver"
 msgid "[Fighter jet, fly over]"
 msgstr "[Kaujas lidmašīna, pārlido pāri]"
-
 
 #. Key:	CaptionFleshImpact
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1280,7 +1280,6 @@ msgctxt "ST_Captions,CaptionInfectedChasing"
 msgid "[Infected human, begin chasing]"
 msgstr "[Inficētais sāk ķeršanu]"
 
-
 #. Key:	CaptionInfectedGroan
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1288,14 +1287,12 @@ msgctxt "ST_Captions,CaptionInfectedGroan"
 msgid "[Infected human, groan]"
 msgstr "[Inficētais rūc]"
 
-
 #. Key:	CaptionOnimousMusic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionOnimousMusic"
 msgid "[Ominous music starts]"
-
-msgstr "[Sākas draudīga mūzika]"
+msgstr ""
 
 #. Key:	CaptionRubberDuck
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1304,14 +1301,12 @@ msgctxt "ST_Captions,CaptionRubberDuck"
 msgid "[Rubber duck squeaks]"
 msgstr "[Gumijas pīle pīkst]"
 
-
 #. Key:	CaptionSurfaceGasp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionSurfaceGasp"
 msgid "[Surface, gasp for air]"
 msgstr "[Virszeme, elsiens pēc gaisa]"
-
 
 #. Key:	CaptionThunderClap
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1320,14 +1315,12 @@ msgctxt "ST_Captions,CaptionThunderClap"
 msgid "[Thunder clap]"
 msgstr "[Pērkons]"
 
-
 #. Key:	CaptionToiletFlushes
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionToiletFlushes"
 msgid "[Toilet flushes]"
 msgstr "[Tualetē nolaists ūdens]"
-
 
 #. Key:	CaptionToiletLid
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1343,14 +1336,12 @@ msgctxt "ST_Captions,CaptionUnderwaterAmbience"
 msgid "[Underwater, ambiance]"
 msgstr "[Zemūdens, fons]"
 
-
 #. Key:	CaptionUnderwaterCurrent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterCurrent"
 msgid "[Underwater, large wave]"
 msgstr "[Zemūdens, liels vilnis]"
-
 
 #. Key:	CaptionUnderwaterExplosion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1359,14 +1350,12 @@ msgctxt "ST_Captions,CaptionUnderwaterExplosion"
 msgid "[Underwater, explosion]"
 msgstr "[Zemūdens, sprādziens]"
 
-
 #. Key:	CaptionUnderwaterMetalCreaking
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterMetalCreaking"
 msgid "[Underwater, large metal creaking]"
 msgstr "[Zemūdens, liela metāla čīkstēšana]"
-
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1535,7 +1524,6 @@ msgstr "Nezināms: Sveicināti?"
 msgctxt "ST_ComputerDebbieLogan,Chat02"
 msgid "You: hi"
 msgstr "Tu: čau"
-
 
 #. Key:	Chat03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1865,7 +1853,6 @@ msgstr "PALDIES"
 msgctxt "ST_JohnActI,JohnActI01"
 msgid "John Derril (over radio): Hello?"
 msgstr "Džons Derils (rācija): Halo?"
-
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -2391,7 +2378,6 @@ msgstr "Nedomāju, ka viņi nāk atpakaļ. Nevaru beigt nervozēt par to, ka es 
 msgctxt "ST_Radio,JohnBroadcast06a"
 msgid "John Derril (over radio): Please, ANYONE listening to this. If you think it's bad here... it's worse."
 msgstr "Džons Derils (rācija): Lūdzu, JEBKURŠ, kurš šo ziņu klausās. Ja domā, ka šeit iet slikti... te ir vēl sliktāk."
-
 
 #. Key:	JohnBroadcast06b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
