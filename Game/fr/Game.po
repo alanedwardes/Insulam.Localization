@@ -9,7 +9,7 @@ msgstr ""
 "Last-Translator: \n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"PO-Revision-Date: 2019-10-24 21:07+0100\n"
+"PO-Revision-Date: 2019-10-25 18:28+0100\n"
 "POT-Creation-Date: 2019-10-22 20:58\n"
 "Project-Id-Version: Game\n"
 "X-Generator: Poedit 2.2.4\n"
@@ -1915,70 +1915,70 @@ msgstr "MERCI À"
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
 msgid "John Derril (over radio): Hello?"
-msgstr ""
+msgstr "John Derril (à la radio) : Allô ?"
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
-msgstr ""
+msgstr "Si quelqu'un entend ceci, mon nom est Johnathan Derril."
 
 #. Key:	JohnActI02Alt
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr ""
+msgstr "Si quelqu'un entend ceci, j'ai besoin d'aide."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI03"
 msgid "And I need help."
-msgstr ""
+msgstr "Et j'ai besoin d'aide."
 
 #. Key:	JohnActI04
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr ""
+msgstr "Ces choses, elles ont... envahi l'île."
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr ""
+msgstr "Qui que ce soit, s'il vous plaît, j'ai des provisions, mais -"
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
-msgstr ""
+msgstr "Ils sont là."
 
 #. Key:	LaserScan01
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Arque Scanner (via loudspeaker): Welcome to Arque East. Please stand by for biological scan."
-msgstr ""
+msgstr "Arque Scanner (via haut-parleur): Bienvenue à Arque East. Veuillez patienter pour une analyse biologique."
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan02"
 msgid "Biological scan completed. No foreign material found."
-msgstr ""
+msgstr "Analyse biologique terminée. Aucun matériau étranger trouvé."
 
 #. Key:	LaserScan03
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr ""
+msgstr "Veuillez procéder et passez une bonne journée."
 
 #. Key:	CallOut1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2105,13 +2105,16 @@ msgstr ""
 msgctxt "ST_Newspaper02,Body01"
 msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
 msgstr ""
+"Le phare situé sur les terres de Redton est prêt à être déclassé par le maire John Menn, à la suite d'une enquête menée par les garde-côtes.\n"
+"\n"
+"« Nous sommes convaincus qu'il n'y aura aucun impact sur trafic maritime de la zone » commenta Bill Hayak du département des enquêtes sur le trafic maritime. « À certains moments, on pouvait voir des navires cargo au large des côtes de Redton, maintenant ce n'est plus le cas depuis la modification des routes maritimes. » a t-il ajouté."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body02"
 msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
-msgstr ""
+msgstr "Interrogé, le maire refuse tout commentaire jusqu'à ce qu'il y ait une déclaration officielle de la fermeture du phare."
 
 #. Key:	Body03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2119,6 +2122,9 @@ msgstr ""
 msgctxt "ST_Newspaper02,Body03"
 msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
 msgstr ""
+"Les résidents locaux ne sont pas ravis du changement. Un résident local préoccupé par ses effets sur les petits navires commerciaux toujours présents sur le port de l'île, disait que c'est le dernier clou du cercueil pour mettre à mort la partie portuaire de l'île. « Beaucoup d'activités de l'île vont s'arrêter ».\n"
+"\n"
+"Parfois, le phare est la seule chose qui permet aux petits navires de venir commercer avec les entreprises locales, c'est quelque chose qui nous rend tous inquiets. Que va-t-il nous arriver lorsqu'il n'y aura plus aucune entreprise importatrice ici ?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2126,41 +2132,50 @@ msgstr ""
 msgctxt "ST_Newspaper02,Body04"
 msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
 msgstr ""
+"L'une des compétitions les plus populaires de Redton est de retour pour son événement annuel.\n"
+"\n"
+"La communauté se réunit tous les ans pour créer les plus terrifiants épouvantails afin d'éloigner les oiseaux. Le gagnant de l'année dernière, Joshua Fenton, était un garçon de huit ans de l'école locale qui a réussi à gagner le vote des juges grâce à la représentation de sa grand-mère.\n"
+"\n"
+"Cette année, le vainqueur de la compétition recevra une sélection raffinée de gâteaux de Julia Menn, la femme du maire qui a récemment ouvert son propre magasin de gâteaux sur l'île.\n"
+"\n"
+"Les festivités ne s'arrêtent pas qu'aux épouvantails qui sont exposés toute la semaine. Des tas d'autres activités ont lieu partout en ville. Si vous n'avez pas encore vu les épouvantails, faites un tour à cet événement pour voir de quoi il s'agit, en plus de pouvoir participer aux dégustations des meilleurs aliments et boissons que Redton peut vous offrir.\n"
+"\n"
+"Si vous ne pouvez pas allez voir les épouvantails, consultez le prochain numéro. Nous feront une pleine page sur les participants du concours."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body05"
 msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
-msgstr ""
+msgstr "Deux semaines se sont écoulées depuis qu'un employé local d'Arque, Christian Plithe, a perdu son chat noir « Lucky ». Il demande à tous ceux le voyant de le contacter immédiatement."
 
 #. Key:	Body06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body06"
 msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
-msgstr ""
+msgstr "Trente employés ont remarqué en début de semaine dernière que le géant Arque Corporation a fait l'acquisition de Phillips Pharmaceuticals, le fabricant pharmaceutique local. Le rachat fait suite à la dépression nerveuse de son ancien propriétaire, résultant à une recherche d'investisseurs."
 
 #. Key:	Callout01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Callout01"
 msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
-msgstr ""
+msgstr "« TROP PEU » DE NAVIRES POUR ÊTRE UNE QUESTION DE SÉCURITÉ, NOUS ONT CONFIÉ LES GARDE-CÔTES"
 
 #. Key:	Headline01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline01"
 msgid "LIGHTHOUSE DECOMMISSIONED"
-msgstr ""
+msgstr "PHARE DÉSAFFECTÉ"
 
 #. Key:	Headline02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline02"
 msgid "LOCAL SCARECROW COMPETITION UNDERWAY"
-msgstr ""
+msgstr "COMPÉTITION LOCALE D'ÉPOUVANTAILS"
 
 #. Key:	Headline03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2174,42 +2189,42 @@ msgstr "PERDU"
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline04"
 msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
-msgstr ""
+msgstr "ARQUE CORPORATION ACQUIERT PHILLIPS PHARMACEUTICALS"
 
 #. Key:	ReadMore01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,ReadMore01"
 msgid "MORE ON PAGE 7"
-msgstr ""
+msgstr "PLUS D'INFORMATIONS SUR LA PAGE 7"
 
 #. Key:	ReadMore02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,ReadMore02"
 msgid "MORE ON PAGE 10"
-msgstr ""
+msgstr "PLUS D'INFORMATIONS SUR LA PAGE 10"
 
 #. Key:	ReadMore
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,ReadMore"
 msgid "MORE INSIDE"
-msgstr ""
+msgstr "PLUS INSIDE"
 
 #. Key:	Tagline
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Tagline"
 msgid "THE FIRST FOR NEWS, GOSSIP, SPORT, SHOWBIZ, BUSINESS AND CROSSWORDS. IT'S YOUR NEWSPAPER, YOUR LIFE."
-msgstr ""
+msgstr "LE PREMIER POUR LES ACTUS GOSSIP, SPORT, SHOWBIZ, BUSINESS ET MOTS CROISÉS. C'EST VOTRE JOURNAL, VOTRE VIE."
 
 #. Key:	Title
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 #: /Game/Resources/Localisation/ST_NewspaperShared.ST_NewspaperShared
 msgctxt "ST_NewspaperShared,Title"
 msgid "WENTWORTH HERALD"
-msgstr ""
+msgstr "WENTWORTH HERALD"
 
 #. Key:	NewsReport01
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
