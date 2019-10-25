@@ -1,18 +1,17 @@
-#  Game French translation.
-#  Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+﻿# Game French translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: fr\n"
-"Language-Team: \n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"PO-Revision-Date: 2019-10-25 18:28+0100\n"
-"POT-Creation-Date: 2019-10-22 20:58\n"
 "Project-Id-Version: Game\n"
-"X-Generator: Poedit 2.2.4\n"
+"POT-Creation-Date: 2019-10-25 18:30\n"
+"PO-Revision-Date: 2019-10-25 18:30\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1629,37 +1628,14 @@ msgstr "Évent"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
 msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
-"Salut,\n"
-"\n"
-"Nous avons appris qu'un évent de climatisation dans votre bureau a été endommagé.\n"
-"\n"
-"Nous nous excusons pour le désagrément occasionné.\n"
-"\n"
-"Merci,\n"
-"\n"
-"Arque Global Operations\n"
-"Service d'assistance de la coordination des installations sur plusieurs sites"
+msgstr "Salut,\n\nNous avons appris qu'un évent de climatisation dans votre bureau a été endommagé.\n\nNous nous excusons pour le désagrément occasionné.\n\nMerci,\n\nArque Global Operations\nService d'assistance de la coordination des installations sur plusieurs sites"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
 msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr ""
-"Bonjour,,\n"
-"\n"
-"Merci d'avoir demandé un nouveau badge de sécurité. La référence de votre requête est AGO15824.\n"
-"\n"
-"Quelles seront les prochaines étapes ?\n"
-"\n"
-"Un membre de l'équipe AGO va répondre à votre demande. Veuillez noter que, en fonction de la gravité de cette demande, il peut vous être demandé de fournir des renseignements supplémentaires.\n"
-"\n"
-"Merci,\n"
-"\n"
-"Services des badges, Arque Global Operations\n"
-"\n"
-"Ceci est un message automatique. Merci de ne pas y répondre."
+msgstr "Bonjour,,\n\nMerci d'avoir demandé un nouveau badge de sécurité. La référence de votre requête est AGO15824.\n\nQuelles seront les prochaines étapes ?\n\nUn membre de l'équipe AGO va répondre à votre demande. Veuillez noter que, en fonction de la gravité de cette demande, il peut vous être demandé de fournir des renseignements supplémentaires.\n\nMerci,\n\nServices des badges, Arque Global Operations\n\nCeci est un message automatique. Merci de ne pas y répondre."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1680,17 +1656,7 @@ msgstr "Merci pour votre demande"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
 msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Bonjour Liam,\n"
-"\n"
-"Nous avons reçu votre demande d'un nouveau badge. En raison du niveau d'habilitation de sécurité de votre poste, je dois vérifier quelques détails sur les circonstances de la perte de votre badge précédent.\n"
-"\n"
-"Veuillez répondre en fournissant le plus possible de détails sur l'incident.\n"
-"\n"
-"Merci,\n"
-"\n"
-"Hugo Webber\n"
-"Spécialiste senior d'assistance à la sécurité des installations, Arque Global Operations"
+msgstr "Bonjour Liam,\n\nNous avons reçu votre demande d'un nouveau badge. En raison du niveau d'habilitation de sécurité de votre poste, je dois vérifier quelques détails sur les circonstances de la perte de votre badge précédent.\n\nVeuillez répondre en fournissant le plus possible de détails sur l'incident.\n\nMerci,\n\nHugo Webber\nSpécialiste senior d'assistance à la sécurité des installations, Arque Global Operations"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1711,31 +1677,14 @@ msgstr "RE : AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Liam,\n"
-"\n"
-"Pouvez-vous décrire les circonstances de la perte de votre badge et fournir sa localisation actuelle ? Nous avons besoin de nous assurer qu'il ne se trouve pas à l'extérieur de l'installation, circonstance qui poserait un grave problème à l'entreprise.\n"
-"\n"
-"Quand vous parlez d'un renard, est-ce bien du petit animal roux à fourrure ? Cela semble très improbable. Vous affirmez donc qu'un renard a franchi les contrôles de sécurité de la base? Cela signifie-t-il que vous ne faites pas votre travail correctement ? Cela signifie-t-il que les gens peuvent rentrer librement dans les installations ?\n"
-"\n"
-"Étant donné sa localisation, votre site dispose d’un accès très incomplet aux services Internet mondiaux et au VPN d'Arque Global. Il n’est donc pas possible de désactiver un badge à distance.\n"
-"\n"
-"Enfin, dites-moi, où pensez-vous que se trouve votre badge ?\n"
-"\n"
-"Bien à vous,\n"
-"\n"
-"Hugo Webber\n"
-"Spécialiste senior d'assistance à la sécurité des installations, Arque Global Operations"
+msgstr "Liam,\n\nPouvez-vous décrire les circonstances de la perte de votre badge et fournir sa localisation actuelle ? Nous avons besoin de nous assurer qu'il ne se trouve pas à l'extérieur de l'installation, circonstance qui poserait un grave problème à l'entreprise.\n\nQuand vous parlez d'un renard, est-ce bien du petit animal roux à fourrure ? Cela semble très improbable. Vous affirmez donc qu'un renard a franchi les contrôles de sécurité de la base? Cela signifie-t-il que vous ne faites pas votre travail correctement ? Cela signifie-t-il que les gens peuvent rentrer librement dans les installations ?\n\nÉtant donné sa localisation, votre site dispose d’un accès très incomplet aux services Internet mondiaux et au VPN d'Arque Global. Il n’est donc pas possible de désactiver un badge à distance.\n\nEnfin, dites-moi, où pensez-vous que se trouve votre badge ?\n\nBien à vous,\n\nHugo Webber\nSpécialiste senior d'assistance à la sécurité des installations, Arque Global Operations"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
 msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr ""
-"Bonjour, je suis désolé, mais mon badge a bien été attrapé par un renard. Je ne sais pas où il est maintenant, mais, ce qui est sûr, c'est que je ne peux plus franchir la porte, ni faire mon travail.\n"
-"\n"
-"Merci"
+msgstr "Bonjour, je suis désolé, mais mon badge a bien été attrapé par un renard. Je ne sais pas où il est maintenant, mais, ce qui est sûr, c'est que je ne peux plus franchir la porte, ni faire mon travail.\n\nMerci"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1749,16 +1698,7 @@ msgstr "RE : RE : AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
 msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr ""
-"À toute l'équipe,\n"
-"\n"
-"Veuillez trouver ci-joint la dernière édition du Wentworth Herald. Notez qu'Arque est mentionné. Faut-il que nous enquêtions ?\n"
-"\n"
-"Je vous rappelle que vous ne devez pas parler aux médias locaux sans autorisation.\n"
-"\n"
-"Lucy Beeshaw\n"
-"\n"
-"Spécialiste senior en relations publiques"
+msgstr "À toute l'équipe,\n\nVeuillez trouver ci-joint la dernière édition du Wentworth Herald. Notez qu'Arque est mentionné. Faut-il que nous enquêtions ?\n\nJe vous rappelle que vous ne devez pas parler aux médias locaux sans autorisation.\n\nLucy Beeshaw\n\nSpécialiste senior en relations publiques"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1793,10 +1733,7 @@ msgstr "Chat"
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
 msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr ""
-"Veuillez réfléchir avant d'imprimer ce message. Notre environnement est en danger. Ici, à Arque, les arbres sont l’une de nos principales préoccupations.\n"
-"\n"
-"En fait, il a été demandé à tous les employés de remplacer les foyers à bois par des foyers à charbon. Pensez-y, sauvez les arbres, sauvez la planète."
+msgstr "Veuillez réfléchir avant d'imprimer ce message. Notre environnement est en danger. Ici, à Arque, les arbres sont l’une de nos principales préoccupations.\n\nEn fait, il a été demandé à tous les employés de remplacer les foyers à bois par des foyers à charbon. Pensez-y, sauvez les arbres, sauvez la planète."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1985,28 +1922,28 @@ msgstr "Veuillez procéder et passez une bonne journée."
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,CallOut1"
 msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
-msgstr ""
+msgstr "« J'ai travaillé chez Phil's pendant plus de 10 ans et maintenant, ils me laissent partir. Ils sont sans cœur »."
 
 #. Key:	Headline
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr ""
+msgstr "ARQUE CORPORATION FINALISE L'ACQUISITION DE PHILLIP'S PHARMACEUTICALS"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline2"
 msgid "SHIPS \"DANGEROUSLY CLOSE\" TO COLLISIONS WITHOUT LIGHTHOUSE"
-msgstr ""
+msgstr "NAVIRES « DANGEREUSEMENT SUR LE POINT » DE S'ÉCRASER EN L'ABSENCE DE PHARE"
 
 #. Key:	Headline3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline3"
 msgid "RED ALGAE NUMBERS STRONG"
-msgstr ""
+msgstr "NOMBRE ÉLEVÉ D'ALGUES ROUGES"
 
 #. Key:	Navigation1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2020,94 +1957,91 @@ msgstr "PLUS SUR LA PAGE 11"
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr ""
+msgstr "L’acquisition de la société pharmaceutique locale Phillip's Pharmaceuticals s’est achevée à la fin de la semaine dernière avec le licenciement de cinquante employés, soit vingt de plus que prévu initialement."
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph02"
 msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
-msgstr ""
+msgstr "La nouvelle est apparue avec l'annonce par Arque Corporation de son intention de s'étendre dans la région à des fins de recherche non spécifiées."
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph03"
 msgid "The former owner and founder Phillip Beaumont was forced out of the company after his very public breakdown, in which he was arrested after running around the island nude. We were unable to contact Phillip for comment, however his ex-wife described the takeover as “probably strategic”."
-msgstr ""
+msgstr "L’ancien propriétaire et fondateur, Phillip Beaumont, a été contraint de quitter la société à la suite de son accès de dépression en public, où il a été arrêté après avoir couru nu autour de l’île. Nous n'avons pas pu contacter Phillip pour obtenir des commentaires, mais son ex-femme a décrit la prise de contrôle comme « probablement stratégique »."
 
 #. Key:	Paragraph04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph04"
 msgid "It now appears the new owners had no interest in Phillip’s Pharmaceuticals and its employees, they were instead more interested in the facility and the land on which it was built."
-msgstr ""
+msgstr "Il semble que les nouveaux propriétaires n’ont aucun intérêt pour Phillip's Pharmaceuticals et ses employés, mais sont plutôt attirés par l’installation et le terrain sur lequel elle a été construite."
 
 #. Key:	Paragraph05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph05"
 msgid "Ben Killamock, an ex-employee was frustrated that his livelihood had been taken from him. Job opportunities on the island are few and far between, and for the majority of ex-employees, moving away from the island is the only option."
-msgstr ""
+msgstr "Ben Killamock, un ancien employé, était frustré par le fait que son gagne-pain lui ait été enlevé. Les opportunités d'emploi sur l'île sont rares et pour la majorité des anciens employés, s'éloigner de l'île est la seule option."
 
 #. Key:	Paragraph06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph06"
 msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
-msgstr ""
+msgstr "Les propriétaires actuels du site fermé de la mine de Liam Brothers seraient également en pourparlers avec Arque Corporation. La mine est proche des installations de Phillip’s Pharmaceuticals et semble présenter une valeur stratégique pour la société."
 
 #. Key:	Paragraph07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph07"
 msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
-msgstr ""
+msgstr "Nous avons contacté Arque Corporation pour recueillir leurs commentaires, mais ils ont refusé, affirmant que « la société respecte toutes les lois locales sur l'emploi et a offert une rémunération équitable à tous les employés réaffectés ». Le journal a découvert que la « compensation » est couverte par un accord de confidentialité, de sorte que les montants réels des paiements faits aux anciens employés ne sont pas connus."
 
 #. Key:	Paragraph08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph08"
 msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
-msgstr ""
+msgstr "Selon le pêcheur John Alexanders, les navires qui passent près de l'île sont « sur le point de s'écraser dangereusement » avec la fermeture du phare de Redton."
 
 #. Key:	Paragraph09
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph09"
 msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
-msgstr ""
+msgstr "Le Wentworth Herald a couvert la saga exclusivement la semaine dernière, car le phare devait être mis hors service alors que son coût en compensait l'utilité."
 
 #. Key:	Paragraph10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph10"
 msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
-msgstr ""
+msgstr "Le Département des enquêtes sur le trafic maritime s'est refusé à tout commentaire, après avoir déclaré dans le numéro de la semaine dernière qu'il était « confiant que cela n'affectera nullement le trafic »."
 
 #. Key:	Paragraph11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph11"
 msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
-msgstr ""
+msgstr "Les colonies d'algues situées sur l'île restent fortes, car des enquêtes récentes révèlent une augmentation considérable de la quantité d'algues dites « algues rouges ». Cette espèce d'algues unique en son genre continue à envahir les lacs et autres étendues d'eau naturelles."
 
 #. Key:	Paragraph12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph12"
 msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
-msgstr ""
+msgstr "Rosie Hardman, une résidente locale, considère les algues comme une menace et serait heureuse de les voir disparaître. Elle a déclaré : « Les algues prennent le dessus, nous devons nous en débarrasser le plus vite possible. Je ne veux pas que toute l'eau de l'île devienne stagnante. À quoi servent ces algues de toute façon ? »"
 
 #. Key:	Body01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
 msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr ""
-"Le phare situé sur les terres de Redton est prêt à être déclassé par le maire John Menn, à la suite d'une enquête menée par les garde-côtes.\n"
-"\n"
-"« Nous sommes convaincus qu'il n'y aura aucun impact sur trafic maritime de la zone » commenta Bill Hayak du département des enquêtes sur le trafic maritime. « À certains moments, on pouvait voir des navires cargo au large des côtes de Redton, maintenant ce n'est plus le cas depuis la modification des routes maritimes. » a t-il ajouté."
+msgstr "Le phare situé sur les terres de Redton est prêt à être déclassé par le maire John Menn, à la suite d'une enquête menée par les garde-côtes.\n\n« Nous sommes convaincus qu'il n'y aura aucun impact sur trafic maritime de la zone » commenta Bill Hayak du département des enquêtes sur le trafic maritime. « À certains moments, on pouvait voir des navires cargo au large des côtes de Redton, maintenant ce n'est plus le cas depuis la modification des routes maritimes. » a t-il ajouté."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2121,26 +2055,14 @@ msgstr "Interrogé, le maire refuse tout commentaire jusqu'à ce qu'il y ait une
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
 msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr ""
-"Les résidents locaux ne sont pas ravis du changement. Un résident local préoccupé par ses effets sur les petits navires commerciaux toujours présents sur le port de l'île, disait que c'est le dernier clou du cercueil pour mettre à mort la partie portuaire de l'île. « Beaucoup d'activités de l'île vont s'arrêter ».\n"
-"\n"
-"Parfois, le phare est la seule chose qui permet aux petits navires de venir commercer avec les entreprises locales, c'est quelque chose qui nous rend tous inquiets. Que va-t-il nous arriver lorsqu'il n'y aura plus aucune entreprise importatrice ici ?"
+msgstr "Les résidents locaux ne sont pas ravis du changement. Un résident local préoccupé par ses effets sur les petits navires commerciaux toujours présents sur le port de l'île, disait que c'est le dernier clou du cercueil pour mettre à mort la partie portuaire de l'île. « Beaucoup d'activités de l'île vont s'arrêter ».\n\nParfois, le phare est la seule chose qui permet aux petits navires de venir commercer avec les entreprises locales, c'est quelque chose qui nous rend tous inquiets. Que va-t-il nous arriver lorsqu'il n'y aura plus aucune entreprise importatrice ici ?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
 msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr ""
-"L'une des compétitions les plus populaires de Redton est de retour pour son événement annuel.\n"
-"\n"
-"La communauté se réunit tous les ans pour créer les plus terrifiants épouvantails afin d'éloigner les oiseaux. Le gagnant de l'année dernière, Joshua Fenton, était un garçon de huit ans de l'école locale qui a réussi à gagner le vote des juges grâce à la représentation de sa grand-mère.\n"
-"\n"
-"Cette année, le vainqueur de la compétition recevra une sélection raffinée de gâteaux de Julia Menn, la femme du maire qui a récemment ouvert son propre magasin de gâteaux sur l'île.\n"
-"\n"
-"Les festivités ne s'arrêtent pas qu'aux épouvantails qui sont exposés toute la semaine. Des tas d'autres activités ont lieu partout en ville. Si vous n'avez pas encore vu les épouvantails, faites un tour à cet événement pour voir de quoi il s'agit, en plus de pouvoir participer aux dégustations des meilleurs aliments et boissons que Redton peut vous offrir.\n"
-"\n"
-"Si vous ne pouvez pas allez voir les épouvantails, consultez le prochain numéro. Nous feront une pleine page sur les participants du concours."
+msgstr "L'une des compétitions les plus populaires de Redton est de retour pour son événement annuel.\n\nLa communauté se réunit tous les ans pour créer les plus terrifiants épouvantails afin d'éloigner les oiseaux. Le gagnant de l'année dernière, Joshua Fenton, était un garçon de huit ans de l'école locale qui a réussi à gagner le vote des juges grâce à la représentation de sa grand-mère.\n\nCette année, le vainqueur de la compétition recevra une sélection raffinée de gâteaux de Julia Menn, la femme du maire qui a récemment ouvert son propre magasin de gâteaux sur l'île.\n\nLes festivités ne s'arrêtent pas qu'aux épouvantails qui sont exposés toute la semaine. Des tas d'autres activités ont lieu partout en ville. Si vous n'avez pas encore vu les épouvantails, faites un tour à cet événement pour voir de quoi il s'agit, en plus de pouvoir participer aux dégustations des meilleurs aliments et boissons que Redton peut vous offrir.\n\nSi vous ne pouvez pas allez voir les épouvantails, consultez le prochain numéro. Nous feront une pleine page sur les participants du concours."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
