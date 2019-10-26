@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2019-10-22 20:58\n"
-"PO-Revision-Date: 2019-10-23 17:13+0300\n"
+"PO-Revision-Date: 2019-10-26 15:10+0300\n"
 "Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -47,7 +47,7 @@ msgstr "Käytä taskulamppua"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr "Karkaa"
+msgstr "Pakene"
 
 #. Key:	HintGameSaved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -488,7 +488,7 @@ msgstr "Poista raitatehosteet käytöstää"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSubtitles"
 msgid "Disable Subtitles"
-msgstr "Poista tekstitys käytöstä"
+msgstr "Poista puheen tekstitys käytöstä"
 
 #. Key:	CheckboxDisableVignette
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -502,7 +502,7 @@ msgstr "Poista vinjetti käytöstä"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableClosedCaptions"
 msgid "Enable Closed Captions"
-msgstr "Näytä Tekstitykset"
+msgstr "Tekstitä ääniefektit"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -544,7 +544,7 @@ msgstr "Käytä {Platform} Kieltä"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUseSimpleSubtitleFont"
 msgid "Use Simple Subtitle Font"
-msgstr "Käytä Simppeliä Tekstitys Fonttia"
+msgstr "Pääteviivaton tekstitysfontti"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -649,14 +649,14 @@ msgstr "ESTRANGED"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr "Anna huijaus"
+msgstr "Anna huijauskomento"
 
 #. Key:	LabelExampleSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExampleSubtitle"
 msgid "Example Subtitle"
-msgstr "Tekstitys Esimerkki"
+msgstr "Esimerkkitekstitys"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -684,7 +684,7 @@ msgstr "Globaali"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelStatisticName"
 msgid "Statistic Name"
-msgstr "Tilasto Nimi"
+msgstr "Tilasto"
 
 #. Key:	LabelStatistics
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -761,7 +761,7 @@ msgstr "Näytön käyttöaste"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderSubtitleFontSizeMultiplier"
 msgid "Subtitle Font Size"
-msgstr "Tekstityksen Fontti Koko"
+msgstr "Tekstityksen skaalaus"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -880,7 +880,7 @@ msgstr "Me huomattiin, että se oikeesti alkaa hohkamaan, jos sen jättää paik
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part4"
 msgid "So, uh, that's cool! Uh, got a little sample here with me that..."
-msgstr "Joten, tota, se on aika hienoa! Tota noin, mulla on tässä pieni näyte, jonka"
+msgstr "Joten, tota, se on aika hienoa! Tota noin, mulla on tässä pieni näyte, jonka..."
 
 #. Key:	LiamJonesDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -957,7 +957,7 @@ msgstr "Ja muuten, Hawthorne, heti kun pystyt, niin hukkasin mun kulkutunnisteen
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "Mutta kun puhut turvatyypeille, niin sano että ööh... niinku…"
+msgstr "mutta kun puhut turvatyypeille, niin sano että ööh... niinku…"
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -978,7 +978,7 @@ msgstr "Kettu, hiipi sisään, ja vei minun lätkän, ja totanoin, nyt en pääs
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "Siis niinku, jos voit vaan kertoo niille ton... koska viimeksi kun näin kävi,"
+msgstr "Siis niinku, jos voit vaan kertoo niille ton... koska viimeksi kun näin kävi, "
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1228,14 +1228,14 @@ msgstr "[Herätyskellon tikitystä]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionBodyThud"
 msgid "[Thud, body hits floor]"
-msgstr "[Jymähdys, ruumis kaatuu lattialle]"
+msgstr "[Jymähdys, ruumis iskeytyy lattialle]"
 
 #. Key:	CaptionChainlinkFence
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionChainlinkFence"
 msgid "[Chainlink fence rattles]"
-msgstr "[Verkkoaita Helisee]"
+msgstr "[Verkkoaita helisee]"
 
 #. Key:	CaptionDoorBurstOpen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1256,49 +1256,49 @@ msgstr "[Räjähdys]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionFighterJetApproach"
 msgid "[Fighter jet, approach]"
-msgstr "[Taisteluhävittäjä, lähenee]"
+msgstr "[Taisteluhävittäjä, lähestyy]"
 
 #. Key:	CaptionFighterJetFlyOver
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionFighterJetFlyOver"
 msgid "[Fighter jet, fly over]"
-msgstr "[Taisteluhävittäjä, yli lento]"
+msgstr "[Taisteluhävittäjä, ylilento]"
 
 #. Key:	CaptionFleshImpact
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionFleshImpact"
 msgid "[Flesh impact]"
-msgstr "[Liha isku]"
+msgstr "[Lihaisku]"
 
 #. Key:	CaptionGunshot
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionGunshot"
 msgid "[Gunshot]"
-msgstr "[Ase Laukaus]"
+msgstr "[Laukaus]"
 
 #. Key:	CaptionInfectedAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedAttack"
 msgid "[Infected human, attack]"
-msgstr "[Tarttunut Ihminen, hyökkäys]"
+msgstr "[Tarttunut ihminen, hyökkäys]"
 
 #. Key:	CaptionInfectedChasing
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedChasing"
 msgid "[Infected human, begin chasing]"
-msgstr "[Tarttunut Ihminen, Jahtauksen aloitus]"
+msgstr "[Tarttunut ihminen, jahtauksen aloitus]"
 
 #. Key:	CaptionInfectedGroan
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedGroan"
 msgid "[Infected human, groan]"
-msgstr "[Tarttunut Ihminen, voihkia]"
+msgstr "[Tarttunut ihminen, voihketta]"
 
 #. Key:	CaptionOnimousMusic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1312,14 +1312,14 @@ msgstr "[Uhkaava musiikki alkaa]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionRubberDuck"
 msgid "[Rubber duck squeaks]"
-msgstr "[Kumi-Ankka vikisee]"
+msgstr "[Kumiankan vikinä]"
 
 #. Key:	CaptionSurfaceGasp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionSurfaceGasp"
 msgid "[Surface, gasp for air]"
-msgstr "[Pinta, haukkoa henkeään]"
+msgstr "[Nousu pinnalle, hengen haukkomista]"
 
 #. Key:	CaptionThunderClap
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1333,7 +1333,7 @@ msgstr "[Ukkosen jyrähdys]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionToiletFlushes"
 msgid "[Toilet flushes]"
-msgstr "[Vessa huuhtelee]"
+msgstr "[Vessan huuhtelu]"
 
 #. Key:	CaptionToiletLid
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1347,28 +1347,28 @@ msgstr "[Vessan kansi osuu]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterAmbience"
 msgid "[Underwater, ambiance]"
-msgstr "[Vedenalla, tunnelma]"
+msgstr "[Veden alla, tunnelma]"
 
 #. Key:	CaptionUnderwaterCurrent
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterCurrent"
 msgid "[Underwater, large wave]"
-msgstr "[Vedenalla, suuri aalto]"
+msgstr "[Veden alla, suuri aalto]"
 
 #. Key:	CaptionUnderwaterExplosion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterExplosion"
 msgid "[Underwater, explosion]"
-msgstr "[Vedenalla, räjähdys]"
+msgstr "[Veden alla, räjähdys]"
 
 #. Key:	CaptionUnderwaterMetalCreaking
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionUnderwaterMetalCreaking"
 msgid "[Underwater, large metal creaking]"
-msgstr "[Vedenalla, suuri metallin narisu]"
+msgstr "[Veden alla, suuren metallin narina]"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1438,35 +1438,35 @@ msgstr "Kuka olisi uskonut? Sokol-Glockner, yksi maailman suurimmista yksityisis
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
 msgid "Arque Bottles Dispensed"
-msgstr "Arque Pulloja Toimitettu"
+msgstr "Arque-pulloja hankittu"
 
 #. Key:	StatisticBulletsFired
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticBulletsFired"
 msgid "Bullets Fired"
-msgstr "Luodit Amuttu"
+msgstr "Laukauksia ammuttu"
 
 #. Key:	StatisticCamerasDestroyed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticCamerasDestroyed"
 msgid "Cameras Destroyed"
-msgstr "Kamerat Tuhottu"
+msgstr "Kameroita rikottu"
 
 #. Key:	StatisticCheatsUsed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticCheatsUsed"
 msgid "Cheats Used"
-msgstr "Käytet Huijaukset"
+msgstr "Huijauksia käytetty"
 
 #. Key:	StatisticGamesStarted
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticGamesStarted"
 msgid "Games Started"
-msgstr "Aloitetut Pelit"
+msgstr "Pelejä aloitettu"
 
 #. Key:	StatisticHeadshots
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1487,21 +1487,21 @@ msgstr "Tarttuneita tapettu"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticItemsFlushed"
 msgid "Items Flushed"
-msgstr "Esineitä Huuhdettu"
+msgstr "Esineitä huuhdeltu"
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticSokolKilled"
 msgid "Sokol-Glockner Killed"
-msgstr "Sokol-Glockner:eita tapettu"
+msgstr "Sokol-Glocker tapettu"
 
 #. Key:	StatisticTimesDied
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticTimesDied"
 msgid "Times Died"
-msgstr "Kertoja Kuoltu"
+msgstr "Kertoja kuoltu"
 
 #. Key:	NoAccessMessage
 #. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
@@ -1620,7 +1620,7 @@ msgstr "Olet nyt poissa linjoilta."
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,ChatTitle"
 msgid "Chat with Unknown"
-msgstr "Keskustelu käyttäjän Tuntematon kanssa"
+msgstr "Chat: Tuntematon"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1682,7 +1682,7 @@ msgid ""
 msgstr ""
 "Hei,\r\n"
 "\r\n"
-"Kiitos pyynnöstänne saada uusi kulkutunniste. Pyynnöllenne on annettu tunnistse AGO15824.\r\n"
+"Kiitos pyynnöstänne saada uusi kulkutunniste. Pyynnöllenne on annettu tunniste AGO15824.\r\n"
 "\r\n"
 "Mitä seuraavaksi?\r\n"
 "\r\n"
@@ -1699,7 +1699,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Sender"
 msgid "AGO Badge Services"
-msgstr "AGO Kulkutunnisteiden hallinta"
+msgstr "AGO Kulkutunnisteet"
 
 #. Key:	Email01_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1726,7 +1726,7 @@ msgid ""
 msgstr ""
 "Hei Liam,\r\n"
 "\r\n"
-"Olemme vastaan ottaneet pyyntönne saada uusi kulkutunniste. Ottaen huomioon teidän turvaluokituksenne, minun täytyy pyytää teiltä lisätietoja liittyen siihen, kuinka edellinen tunnisteenne katosi.\r\n"
+"Olemme vastaanottaneet pyyntönne saada uusi kulkutunniste. Ottaen huomioon teidän turvaluokituksenne, minun täytyy pyytää teiltä lisätietoja liittyen siihen, kuinka edellinen tunnisteenne katosi.\r\n"
 "\r\n"
 "Kerrothan mahdollisimman tarkasti tästä tapauksesta.\r\n"
 "\r\n"
@@ -1917,7 +1917,7 @@ msgstr "Ja {name} (Sinä!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Cast"
 msgid "CAST"
-msgstr "NÄYTTELIJÄT"
+msgstr "ÄÄNINÄYTTELIJÄT"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -1938,7 +1938,7 @@ msgstr "Hylkäämisen Jälkeen"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr "Taistele tai Pakene"
+msgstr "Taistelu vai Pako"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -2223,9 +2223,9 @@ msgid ""
 "\r\n"
 "If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
 msgstr ""
-"Yksi Redtonin suositummista kilpailuista järjestetään taas vuotuisessa tapahtumassaan.\r\n"
+"Yksi Redtonin suosituimmista kilpailuista järjestetään taas vuotuisessa tapahtumassaan.\r\n"
 "\r\n"
-"Yhteisö kokoontuu joka vuosi tavoitteena luoda pelottavimmat ja karmivimmat linnunpelättimet pitämässä linnut poissa. Viime vuoden voittaja oli kahdeksanvuotias paikallinen koulupoika Joshua Fenton, jonka tulkinta omasta isoäidistään sai tuomarit puolelleen.\r\n"
+"Yhteisö kokoontuu joka vuosi tavoitteenaan luoda pelottavimmat ja karmivimmat linnunpelättimet pitämään linnut poissa. Viime vuoden voittaja oli kahdeksanvuotias paikallinen koulupoika Joshua Fenton, jonka tulkinta omasta isoäidistään sai tuomarit puolelleen.\r\n"
 "\r\n"
 "Tänä vuonna kilpailun voittaja saa hienon lajitelman kakkuja pormestarin vaimon Julia Mennin hiljattain avaamasta saaren uudesta kakkukaupasta.\r\n"
 "\r\n"
@@ -2245,7 +2245,7 @@ msgstr "Kaksi viikkoa on kulunut siitä, kun paikallinen Arquen työntekijä Chr
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body06"
 msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
-msgstr "Kolmellekymmenelle työntekijälle annettiin ilmoitus aikaisin viime viikolla kun yhtiöjätti Arque Corporation viimeisteli paikallisen lääkevalmistajan Phillips Pharmaceuticals'in oston. Yhtiökauppa tapahtui pian sen jälkeen, kun yhtiön edellinen johtaja esitti hermoromahduksensa hyvin julkisesti, jonka seurauksena yhtiölle alettiin etsimään sijoittajia."
+msgstr "Kolmellekymmenelle työntekijälle annettiin ilmoitus aikaisin viime viikolla kun yhtiöjätti Arque Corporation viimeisteli paikallisen lääkevalmistajan Phillips Pharmaceuticalsin oston. Yhtiökauppa tapahtui pian sen jälkeen, kun yhtiön edellinen johtaja esitti hermoromahduksensa hyvin julkisesti, jonka seurauksena yhtiölle alettiin etsimään sijoittajia."
 
 #. Key:	Callout01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2273,14 +2273,14 @@ msgstr "PAIKALLINEN LINNUNPELÄTINKILPAILU MENEILLÄÄN"
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline03"
 msgid "LOST"
-msgstr "KADONNUT"
+msgstr "MISSÄ?"
 
 #. Key:	Headline04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline04"
 msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
-msgstr "ARQUE CORPORATION OSTAA PHILLIPS PHARMACEUTICALSIN"
+msgstr "ARQUE CORPORATION OSTAA PHILLIPS PHARMA- CEUTICALSIN"
 
 #. Key:	ReadMore01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2378,7 +2378,7 @@ msgstr "Sokol-Glockner oli otsikoissa aikaisemmin tänä vuonna heidän oltua os
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr "Arque Corporationin työntekijän ampumiseen vahingossa yhdellä heidän merenpäällisistä lautoista."
+msgstr "Arque Corporationin työntekijän ampumiseen vahingossa yhdellä heidän merenpäällisistä lautoistaan."
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2427,7 +2427,7 @@ msgstr "mutta tänään pohjoisen asukkaille on luvassa tyyni päivä."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorologit suosittelevat kaikkia alueella olevia varautumaan pahentuvaan myrskyyn"
+msgstr "Meteorologit suosittelevat kaikkia alueella olevia varautumaan pahentuvaan myrskyyn,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
