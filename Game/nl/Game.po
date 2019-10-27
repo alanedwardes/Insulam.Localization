@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-10-22 20:58\n"
-"PO-Revision-Date: 2019-10-22 20:58\n"
+"POT-Creation-Date: 2019-10-27 11:02\n"
+"PO-Revision-Date: 2019-10-27 11:02\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -26,6 +26,20 @@ msgstr "Geen voortgang in \"{Title}\" (cheats gebruikt)"
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
 msgstr "Bukken"
+
+#. Key:	HintDriveBoat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintDriveBoat"
+msgid "Drive boat"
+msgstr ""
+
+#. Key:	HintEnterBoat
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintEnterBoat"
+msgid "Enter boat"
+msgstr ""
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
