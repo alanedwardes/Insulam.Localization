@@ -32,14 +32,14 @@ msgstr "Altından eğilerek geç"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintDriveBoat"
 msgid "Drive boat"
-msgstr ""
+msgstr "Botu sür"
 
 #. Key:	HintEnterBoat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintEnterBoat"
 msgid "Enter boat"
-msgstr ""
+msgstr "Bota bin"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -242,7 +242,7 @@ msgstr "Bölüm 4"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControllerBindings"
 msgid "Controller Bindings"
-msgstr ""
+msgstr "Gamepad Atamaları"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -333,7 +333,7 @@ msgstr "Depo Dalgası"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHUD"
 msgid "Interface"
-msgstr ""
+msgstr "Arayüz"
 
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -347,7 +347,7 @@ msgstr "Discord'umuza Katıl"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
-msgstr ""
+msgstr "Klavye Atamaları"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -515,7 +515,7 @@ msgstr "Süslemeleri Kapat"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableClosedCaptions"
 msgid "Enable Closed Captions"
-msgstr ""
+msgstr "Altyazıları Kullan"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -557,7 +557,7 @@ msgstr " {Platform} Dilini Kullan"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUseSimpleSubtitleFont"
 msgid "Use Simple Subtitle Font"
-msgstr ""
+msgstr "Basit Altyazı Fontu Kullan"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -669,7 +669,7 @@ msgstr "Hile Gir"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExampleSubtitle"
 msgid "Example Subtitle"
-msgstr ""
+msgstr "Örnek Altyazı"
 
 #. Key:	LabelExperimentalOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1229,7 +1229,7 @@ msgstr "[Alarmı saat tik-tak sesi çıkartıyor]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionBodyThud"
 msgid "[Thud, body hits floor]"
-msgstr ""
+msgstr "[Tok ses, ceset yere düşüyor]"
 
 #. Key:	CaptionChainlinkFence
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1243,14 +1243,14 @@ msgstr "[Zincirli çit gıcırdıyor]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionDoorBurstOpen"
 msgid "[Door bursts open]"
-msgstr ""
+msgstr "[Kapı vurularak açılıyor]"
 
 #. Key:	CaptionExplosion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionExplosion"
 msgid "[Explosion]"
-msgstr ""
+msgstr "[Patlama]"
 
 #. Key:	CaptionFighterJetApproach
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1278,7 +1278,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionGunshot"
 msgid "[Gunshot]"
-msgstr ""
+msgstr "[Silah Sesi]"
 
 #. Key:	CaptionInfectedAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1292,21 +1292,21 @@ msgstr "[Enfekte insan saldırıyor]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedChasing"
 msgid "[Infected human, begin chasing]"
-msgstr ""
+msgstr "[Enfekte kovalamaya başlıyor]"
 
 #. Key:	CaptionInfectedGroan
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedGroan"
 msgid "[Infected human, groan]"
-msgstr ""
+msgstr "[Enfekte inliyor]"
 
 #. Key:	CaptionOnimousMusic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionOnimousMusic"
 msgid "[Ominous music starts]"
-msgstr ""
+msgstr "[Kaygı verici müzik başlıyor]+"
 
 #. Key:	CaptionRubberDuck
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -2489,7 +2489,7 @@ msgstr "Orada kimse varmı?! Bu bir acil yardım sinyali,tekrarlıyorum,bu bir a
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02a"
 msgid "Does anyone copy? The island has been overrun."
-msgstr "Kimse duyuromu? Ada istilada."
+msgstr "Kimse duyuyor mu? Ada istilada."
 
 #. Key:	John02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
