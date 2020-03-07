@@ -1,18 +1,17 @@
+﻿# Game Romanian translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2019-11-17 20:51\n"
-"PO-Revision-Date: 2020-01-05 21:15+0200\n"
+"POT-Creation-Date: 2020-03-07 22:11\n"
+"PO-Revision-Date: 2020-03-07 22:11\n"
 "Language-Team: \n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100&gt;19)||((n%100==0)&amp;&amp;(n!=0)))?2:1));\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1166,34 +1165,22 @@ msgstr "Pune codul de autentificare pentru a oprima"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid ""
-"ANOMALY DETECTED\r\n"
-"Overrides located in areas A and B"
-msgstr ""
-"ANOMALIE DETECTATĂ\n"
-"Oprimări localizate în zonele A și B"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr "ANOMALIE DETECTATĂ\nOprimări localizate în zonele A și B"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid ""
-"AREA DESIGNATED SAFE\r\n"
-"WORKSTATION LOCKED"
-msgstr ""
-"ZONĂ CONSIDERATĂ SIGURĂ\n"
-"STAȚIUNEA DE LUCRU ÎNCHISĂ"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr "ZONĂ CONSIDERATĂ SIGURĂ\nSTAȚIUNEA DE LUCRU ÎNCHISĂ"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid ""
-"Enter passcode to override\r\n"
-"HINT: Specimen count"
-msgstr ""
-"Pune parola pentru a oprima\n"
-"INDICIU: Numărul de specimene"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr "Pune parola pentru a oprima\nINDICIU: Numărul de specimene"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1654,59 +1641,15 @@ msgstr "Conducte de aer"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid ""
-"Hello,\r\n"
-"\r\n"
-"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
-"\r\n"
-"We apologise for the inconveneince this may cause.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
-"Salut, \r\n"
-"\r\n"
-"Noi am avut plângeri că conducta de aer din biroul tău a fost stricată.\r\n"
-"\r\n"
-"Ne cerem scuze pentru deranjamentul cauzat.\r\n"
-"\r\n"
-" Mulțumim, \r\n"
-"\r\n"
-"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "Salut, \r\n\r\nNoi am avut plângeri că conducta de aer din biroul tău a fost stricată.\r\n\r\nNe cerem scuze pentru deranjamentul cauzat.\r\n\r\n Mulțumim, \r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid ""
-"Hi,\r\n"
-"\r\n"
-"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
-"\r\n"
-"What are the next steps?\r\n"
-"\r\n"
-"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Badge Services\r\n"
-"\r\n"
-"This is an automated email, please do not respond."
-msgstr ""
-"Salut, \r\n"
-"\r\n"
-"Î?i mulțumim pentru cererea unei noi insigne de securitate. Pentru aceasta, tichetul tău este AGO15824.\r\n"
-"\r\n"
-" Care sunt pașii următori?\r\n"
-"\r\n"
-" Un membru din echipa AGO va răspunde la cererea ta. Ia aminte că s-ar putea să fii pus să oferi mai multe informații depinzând de gravitatea cererii tale.\r\n"
-"\r\n"
-" Mulțumim,\r\n"
-"\r\n"
-" Arque Global Operations Badge Services \r\n"
-"\r\n"
-"Acesta este un mesaj automat, te rugăm să nu răspunzi."
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr "Salut, \r\n\r\nÎ?i mulțumim pentru cererea unei noi insigne de securitate. Pentru aceasta, tichetul tău este AGO15824.\r\n\r\n Care sunt pașii următori?\r\n\r\n Un membru din echipa AGO va răspunde la cererea ta. Ia aminte că s-ar putea să fii pus să oferi mai multe informații depinzând de gravitatea cererii tale.\r\n\r\n Mulțumim,\r\n\r\n Arque Global Operations Badge Services \r\n\r\nAcesta este un mesaj automat, te rugăm să nu răspunzi."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1726,28 +1669,8 @@ msgstr "Mulțumim pentru cererea ta"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid ""
-"Hi Liam,\r\n"
-"\r\n"
-"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
-"\r\n"
-"Please respond with as much detail as you can about the incident.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Salut Liam, \r\n"
-"\r\n"
-"Am recepționat cererea ta pentru o nouă insignă de securitate. Din cauza nivelului tău de acces, am nevoie sa verific câteva detalii despre cum insigna a fost pierdută.\r\n"
-"\r\n"
-" Te rog să răspunzi cât de detaliat poți cu privire la acest incident. \r\n"
-"\r\n"
-"Mulțumim,\r\n"
-"\r\n"
-" Hugo Wrbber\r\n"
-" Senior Arque Global Facilities Specialist"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Salut Liam, \r\n\r\nAm recepționat cererea ta pentru o nouă insignă de securitate. Din cauza nivelului tău de acces, am nevoie sa verific câteva detalii despre cum insigna a fost pierdută.\r\n\r\n Te rog să răspunzi cât de detaliat poți cu privire la acest incident. \r\n\r\nMulțumim,\r\n\r\n Hugo Wrbber\r\n Senior Arque Global Facilities Specialist"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1767,49 +1690,15 @@ msgstr "RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid ""
-"Liam,\r\n"
-"\r\n"
-"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
-"\r\n"
-"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
-"\r\n"
-"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
-"\r\n"
-"Tell me, where do you believe your badge to be?\r\n"
-"\r\n"
-"Yours,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Liam,\r\n"
-"\r\n"
-" Ai putea te rog să explici exact cum s-a pierdut insigna ?i unde este acum? Trebuie să știm dacă este sau nu înafara facilității - dacă este, atunci este o problema foarte serioasă pentru companie.\r\n"
-"\r\n"
-" Cu privire la vulpe, te referi la animalul cu blană roșie propriu-zis? Pare cam ciudat, argumentul tău este ca o vulpe a trecut prin securitatea bazei noastre? Cu siguranță asta însemnă că tu nu îți faci treaba cum trebuie? Asta însemnă că oamenii pot intra în facilitate?\r\n"
-"\r\n"
-" De când locația ta are acces restricționat la servicile de internet globale ?i VPN-ul Arque Global, nu este posibil să dezactivezi insigna activă manual.\r\n"
-"\r\n"
-" Spune-mi, unde crezi că insinga ta se află?\r\n"
-"\r\n"
-" Al tău,\r\n"
-"\r\n"
-" Hugo Webber\r\n"
-" Senior Arque Global Facilities Security Support Specialist"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Liam,\r\n\r\n Ai putea te rog să explici exact cum s-a pierdut insigna ?i unde este acum? Trebuie să știm dacă este sau nu înafara facilității - dacă este, atunci este o problema foarte serioasă pentru companie.\r\n\r\n Cu privire la vulpe, te referi la animalul cu blană roșie propriu-zis? Pare cam ciudat, argumentul tău este ca o vulpe a trecut prin securitatea bazei noastre? Cu siguranță asta însemnă că tu nu îți faci treaba cum trebuie? Asta însemnă că oamenii pot intra în facilitate?\r\n\r\n De când locația ta are acces restricționat la servicile de internet globale ?i VPN-ul Arque Global, nu este posibil să dezactivezi insigna activă manual.\r\n\r\n Spune-mi, unde crezi că insinga ta se află?\r\n\r\n Al tău,\r\n\r\n Hugo Webber\r\n Senior Arque Global Facilities Security Support Specialist"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid ""
-"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
-"\r\n"
-"thanks"
-msgstr ""
-"Salut, scuze, insigna mea a fost luată de o vulpe, nu sunt sigur unde este dar nu mai am acces ?i prin urmare nu îmi pot face treaba\r\n"
-"\r\n"
-"mulțumesc"
+msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgstr "Salut, scuze, insigna mea a fost luată de o vulpe, nu sunt sigur unde este dar nu mai am acces ?i prin urmare nu îmi pot face treaba\r\n\r\nmulțumesc"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1822,26 +1711,8 @@ msgstr "RE: RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid ""
-"Team,\r\n"
-"\r\n"
-"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
-"\r\n"
-"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
-"\r\n"
-"Lucy Beeshaw\r\n"
-"\r\n"
-"PR Senior Specialist"
-msgstr ""
-"Echipă,\r\n"
-"\r\n"
-" Vă rog să vedeți atașamentele pentru cea mai noua ediție Wentworth Herald. Notă de menționare către Arque - trebuie să investigăm asta?\r\n"
-"\r\n"
-" Ca o amintire, vă rog sa nu vorbiți cu presa locală fără autorizație concretă.\r\n"
-"\r\n"
-" Lucy Beeshaw\r\n"
-"\r\n"
-" PR Senior Specialist"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr "Echipă,\r\n\r\n Vă rog să vedeți atașamentele pentru cea mai noua ediție Wentworth Herald. Notă de menționare către Arque - trebuie să investigăm asta?\r\n\r\n Ca o amintire, vă rog sa nu vorbiți cu presa locală fără autorizație concretă.\r\n\r\n Lucy Beeshaw\r\n\r\n PR Senior Specialist"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1875,14 +1746,8 @@ msgstr "Conversație"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid ""
-"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
-"\r\n"
-"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr ""
-"Te rog, gândește-te înainte să printezi aces mesaj. Mediul înconjurător este în pericol. Copacii sunt unii dintre protejații noștri aici, la Arque. \r\n"
-"\r\n"
-"Ba chiar, este o necesitate ca toți angajații să înlocuiască focurile din lemn cu cărbune. Ține minte, salvează copacii, salvează lumea."
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr "Te rog, gândește-te înainte să printezi aces mesaj. Mediul înconjurător este în pericol. Copacii sunt unii dintre protejații noștri aici, la Arque. \r\n\r\nBa chiar, este o necesitate ca toți angajații să înlocuiască focurile din lemn cu cărbune. Ține minte, salvează copacii, salvează lumea."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -1979,9 +1844,7 @@ msgstr "Ajutor Traduceți prea mult!"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,MoreSoon"
-msgid ""
-"Temporary Ending\r\n"
-"More Content Soon!"
+msgid "Temporary Ending\r\nMore Content Soon!"
 msgstr "Terminare temporară \\ r \\ nMai mult conținut în curând!"
 
 #. Key:	Translators
@@ -2191,14 +2054,8 @@ msgstr "Locuitorul Rosie Hardman consideră algele un pericol și ar fi mai feri
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid ""
-"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
-"\r\n"
-"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr ""
-"Farul situat în Redton este stabilit să fie decomisionat de către primarul local John Menn, după o investigație făcută de gardienii de coastă.\r\n"
-"\r\n"
-"Suntem convinși că nu va afecta traficul\\ a comentat Bill Hayak de la Departamentul de Trafic Maritim. Pe când puteai vedea vapoare de marfă chiar lângă coasta Redton, acum nu mai este cazul cu rute ale vapoarelor fiind alterate a adăugat el."
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "Farul situat în Redton este stabilit să fie decomisionat de către primarul local John Menn, după o investigație făcută de gardienii de coastă.\r\n\r\nSuntem convinși că nu va afecta traficul\\ a comentat Bill Hayak de la Departamentul de Trafic Maritim. Pe când puteai vedea vapoare de marfă chiar lângă coasta Redton, acum nu mai este cazul cu rute ale vapoarelor fiind alterate a adăugat el."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2211,39 +2068,15 @@ msgstr "Când a fost întrebat, primarul a refuzat să comenteze până a public
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid ""
-"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
-"\r\n"
-"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr ""
-"Locuitorii nu sunt fericiți cu schimbarea, unul dintre ei era chiar îngrijorat despre efectul avut asupra comerțului, spunând ca este cireașa de pe tort pentru docul liniștit al insulei. Oprește o mare parte din afacerile insulei a declarat.\r\n"
-"\r\n"
-"Câteodată, farul este singurul obiect care permite vapoarelor mici să vină să facă comer? cu localnicii, este ceva despre care toți suntem îngrijorați - ce se întâmplă când nu o să mai fie comer? aici?"
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "Locuitorii nu sunt fericiți cu schimbarea, unul dintre ei era chiar îngrijorat despre efectul avut asupra comerțului, spunând ca este cireașa de pe tort pentru docul liniștit al insulei. Oprește o mare parte din afacerile insulei a declarat.\r\n\r\nCâteodată, farul este singurul obiect care permite vapoarelor mici să vină să facă comer? cu localnicii, este ceva despre care toți suntem îngrijorați - ce se întâmplă când nu o să mai fie comer? aici?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid ""
-"One of the most popular competitions Redton holds is back for its annual event.\r\n"
-"\r\n"
-"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
-"\r\n"
-"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
-"\r\n"
-"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
-"\r\n"
-"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr ""
-"Una dintre cele mai importante competiții din Redton s-a reîntors pentru evenimentul anual. \r\n"
-"\r\n"
-"omunitatea se unește în fiecare an ca să creeze cea mai înfricoșătoare sperietoare de ciori care să țina păsările departe. Câștigătorul ulimului an a fost un băiat local de 8 ani, Joshua Fenton, a cărui reprezentare a bunicei sale a câștigat votul judecătorilor.\r\n"
-"\r\n"
-"Acest an, câștigătorului concursului i se va da o selecție bine aleasa de prăjituri de la Julia Menn, nevasta primarului, care ?i-a deschid de curând propria cofetărie pe insulă.\r\n"
-"\r\n"
-"Festivitățile nu se opresc la sperietorile de ciori - care sunt la vedere întreaga săptămână, sunt buticuri ?i alte activități care se petrec în tot ora?ul. Dacă nu ai văzut încă sperietorile de ciori, mergi la evenimentul anual să vezi despre ce este toată agitația și încearcă cea mai bună mâncare si băutură pe care o poate oferi Redton.\r\n"
-"\r\n"
-"Dacă nu poți merge să vezi sperietorile de ciori, verifică numarul următor unde vom prezenta toți participanții."
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "Una dintre cele mai importante competiții din Redton s-a reîntors pentru evenimentul anual. \r\n\r\nomunitatea se unește în fiecare an ca să creeze cea mai înfricoșătoare sperietoare de ciori care să țina păsările departe. Câștigătorul ulimului an a fost un băiat local de 8 ani, Joshua Fenton, a cărui reprezentare a bunicei sale a câștigat votul judecătorilor.\r\n\r\nAcest an, câștigătorului concursului i se va da o selecție bine aleasa de prăjituri de la Julia Menn, nevasta primarului, care ?i-a deschid de curând propria cofetărie pe insulă.\r\n\r\nFestivitățile nu se opresc la sperietorile de ciori - care sunt la vedere întreaga săptămână, sunt buticuri ?i alte activități care se petrec în tot ora?ul. Dacă nu ai văzut încă sperietorile de ciori, mergi la evenimentul anual să vezi despre ce este toată agitația și încearcă cea mai bună mâncare si băutură pe care o poate oferi Redton.\r\n\r\nDacă nu poți merge să vezi sperietorile de ciori, verifică numarul următor unde vom prezenta toți participanții."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2846,3 +2679,4 @@ msgstr "ORE DUPĂ EVENIMENTELE DIN ACTUL I"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "INSULĂ NECUNOSCUTĂ, MAREA NORVEGIANĂ"
+
