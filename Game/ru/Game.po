@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-07 22:11\n"
-"PO-Revision-Date: 2020-03-07 22:11\n"
+"POT-Creation-Date: 2020-03-07 22:13\n"
+"PO-Revision-Date: 2020-03-07 22:13\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -26,6 +26,13 @@ msgstr "\"{Title}\" прогресс остановлен (Использова�
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
 msgstr "Присесть"
+
+#. Key:	HintDive
+#. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
+#: /Game/Resources/Localisation/ST_Hints.ST_Hints
+msgctxt "Hints,HintDive"
+msgid "Dive"
+msgstr ""
 
 #. Key:	HintDriveBoat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -524,6 +531,13 @@ msgctxt "Menus,CheckboxEnableStatsForNerds"
 msgid "Enable On-Screen Stats"
 msgstr "Включить показ статистики"
 
+#. Key:	CheckboxInvertController
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxInvertController"
+msgid "Invert Controller"
+msgstr ""
+
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -782,6 +796,13 @@ msgstr "Размер шрифта субтитров"
 msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
 msgstr "Громкость Речи"
+
+#. Key:	TooltipInvertController
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipInvertController"
+msgid "Invert the controller Y axis"
+msgstr ""
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
