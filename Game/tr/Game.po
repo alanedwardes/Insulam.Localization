@@ -809,7 +809,7 @@ msgstr "En iyi tahminimiz Britanya Deniz Kuvvetlerinden kaçıyorlardı ve adada
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "Archaeologist (recording): The pirates and sailors were involved in some kind of internal conflict."
-msgstr "Korsanlar ve denizciler bir çeşit iç çatışma girmişler."
+msgstr "Arkeolojist (kaydediyor): Korsanlar ve denizciler bir çeşit iç çatışma girmişler."
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -830,7 +830,7 @@ msgstr "Bu mağarada sarhoş oldukları düşünüyoruz ve kemiklerdeki ısırma
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "Birkaç kişiyi hasta olduklarından dolayı takımdan çıkardık."
+msgstr "Arkeolojist (kaydediyor): Birkaç kişiyi hasta olduklarından dolayı takımdan çıkardık."
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1572,14 +1572,14 @@ msgstr "Sen: sana yardımcı olabilirmiyim?"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat07"
 msgid "You: are you still there? hello?"
-msgstr "Sen: hayla ordamısın? alo?"
+msgstr "Sen: hâlâ ordamısın? alo?"
 
 #. Key:	Chat08
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat08"
 msgid "Unknown: mic?"
-msgstr "Bilinmeyen: mikrafon?"
+msgstr "Bilinmeyen: mikrofon?"
 
 #. Key:	Chat09
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -2587,7 +2587,7 @@ msgstr "Bu 2014 Half-Life 2 modu ESTRANGED ACT I'in devamıdır,Windows, Mac ve 
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
-msgstr "Yardım almak için,hatları raporlamak ve destek vermek için, topluluğa katılın!"
+msgstr "Yardım almak için,hataları raporlamak ve destek vermek için, topluluğa katılın!"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
