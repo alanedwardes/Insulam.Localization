@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-07 22:13\n"
-"PO-Revision-Date: 2020-03-07 22:13\n"
+"POT-Creation-Date: 2020-03-08 13:18\n"
+"PO-Revision-Date: 2020-03-08 13:18\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1301,6 +1301,13 @@ msgctxt "ST_Captions,CaptionGunshot"
 msgid "[Gunshot]"
 msgstr "[Gunshot]"
 
+#. Key:	CaptionHeavyMetalDoorClose
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionHeavyMetalDoorClose"
+msgid "[Heavy metal door closes]"
+msgstr "[Heavy metal door closes]"
+
 #. Key:	CaptionInfectedAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1335,6 +1342,13 @@ msgstr "[Ominous music starts]"
 msgctxt "ST_Captions,CaptionRubberDuck"
 msgid "[Rubber duck squeaks]"
 msgstr "[Rubber duck squeaks]"
+
+#. Key:	CaptionShortAlarm
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionShortAlarm"
+msgid "[Short alarm]"
+msgstr "[Short alarm]"
 
 #. Key:	CaptionSurfaceGasp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1391,6 +1405,13 @@ msgstr "[Underwater, explosion]"
 msgctxt "ST_Captions,CaptionUnderwaterMetalCreaking"
 msgid "[Underwater, large metal creaking]"
 msgstr "[Underwater, large metal creaking]"
+
+#. Key:	CaptionWheelchairRattling
+#. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
+#: /Game/Resources/Localisation/ST_Captions.ST_Captions
+msgctxt "ST_Captions,CaptionWheelchairRattling"
+msgid "[Wheelchair rattling against concrete floor]"
+msgstr "[Wheelchair rattling against concrete floor]"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1930,6 +1951,76 @@ msgstr "Anyone, please, I have supplies, but-"
 msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
 msgstr "They're out there."
+
+#. Key:	JohnBed01_a
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed01_a"
+msgid "Hey, can you hear me?"
+msgstr "Hey, can you hear me?"
+
+#. Key:	JohnBed01_b
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed01_b"
+msgid "You're not going to believe this but..."
+msgstr "You're not going to believe this but..."
+
+#. Key:	JohnBed01_c
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed01_c"
+msgid "It's me! It's John"
+msgstr "It's me! It's John"
+
+#. Key:	JohnBed02_a
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed02_a"
+msgid "I found you whilst I was walking around outside"
+msgstr "I found you whilst I was walking around outside"
+
+#. Key:	JohnBed02_b
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed02_b"
+msgid "...took you back to this research facility."
+msgstr "...took you back to this research facility."
+
+#. Key:	JohnBed02_c
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed02_c"
+msgid "You were in a really bad shape."
+msgstr "You were in a really bad shape."
+
+#. Key:	JohnBed03_a
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed03_a"
+msgid "Hmm... still doesn't look like you're completely with me..."
+msgstr "Hmm... still doesn't look like you're completely with me..."
+
+#. Key:	JohnBed03_b
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed03_b"
+msgid "Maybe you need a bit more rest."
+msgstr "Maybe you need a bit more rest."
+
+#. Key:	JohnBed04_a
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed04_a"
+msgid "I'm going to look around this place some more."
+msgstr "I'm going to look around this place some more."
+
+#. Key:	JohnBed04_b
+#. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+#: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
+msgctxt "ST_JohnBunker,JohnBed04_b"
+msgid "When you wake up, we've got things to discuss."
+msgstr "When you wake up, we've got things to discuss."
 
 #. Key:	LaserScan01
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
