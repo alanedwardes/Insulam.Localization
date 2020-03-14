@@ -1,11 +1,11 @@
-# Game German translation.
+﻿# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-08 13:18\n"
-"PO-Revision-Date: 2020-03-08 13:18\n"
+"POT-Creation-Date: 2020-03-14 15:39\n"
+"PO-Revision-Date: 2020-03-14 15:39\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -661,8 +661,8 @@ msgstr "Fenstermodus"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II EARLY ACCESS"
-msgstr "AKT II EARLY ACCESS"
+msgid "ACT II"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1881,13 +1881,6 @@ msgstr "\"Estranged\" ist ein Warenzeichen von Alan Edwardes"
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
 msgstr "Hilf auch zu übersetzen!"
-
-#. Key:	MoreSoon
-#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
-#: /Game/Resources/Localisation/ST_Credits.ST_Credits
-msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Temporäres Ende\r\nMehr Inhalt kommt bald!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits

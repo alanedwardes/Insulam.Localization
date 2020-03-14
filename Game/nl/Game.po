@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-08 13:18\n"
-"PO-Revision-Date: 2020-03-08 13:18\n"
+"POT-Creation-Date: 2020-03-14 15:39\n"
+"PO-Revision-Date: 2020-03-14 15:39\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -661,8 +661,8 @@ msgstr "Venstermodus"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II EARLY ACCESS"
-msgstr "ACT II - VROEGTIJDIGE TOEGANG"
+msgid "ACT II"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1881,13 +1881,6 @@ msgstr "\"Estranged\" is een handelsmerk van Alan Edwardes"
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
 msgstr "Help ook met vertalen!"
-
-#. Key:	MoreSoon
-#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
-#: /Game/Resources/Localisation/ST_Credits.ST_Credits
-msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "Tijdelijk einde\r\nBinnenkort meer inhoud!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits

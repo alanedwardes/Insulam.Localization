@@ -1,18 +1,17 @@
+﻿# Game Finnish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-08 13:18\n"
-"PO-Revision-Date: 2020-03-09 18:28+0200\n"
+"POT-Creation-Date: 2020-03-14 15:39\n"
+"PO-Revision-Date: 2020-03-14 15:39\n"
 "Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.3\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -662,8 +661,8 @@ msgstr "Ikkunointi"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II EARLY ACCESS"
-msgstr "ACT II EARLY ACCESS"
+msgid "ACT II"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1187,34 +1186,22 @@ msgstr "Ohitus: Anna kaksivaiheisen tunnistamisen koodi"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid ""
-"ANOMALY DETECTED\r\n"
-"Overrides located in areas A and B"
-msgstr ""
-"POIKKEAMA HAVAITTU\r\n"
-"Lukituksen ohitus alueilla A ja B"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr "POIKKEAMA HAVAITTU\r\nLukituksen ohitus alueilla A ja B"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid ""
-"AREA DESIGNATED SAFE\r\n"
-"WORKSTATION LOCKED"
-msgstr ""
-"ALUE MERKITTY TURVALLISEKSI\r\n"
-"TYÖASEMA LUKITTU"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr "ALUE MERKITTY TURVALLISEKSI\r\nTYÖASEMA LUKITTU"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid ""
-"Enter passcode to override\r\n"
-"HINT: Specimen count"
-msgstr ""
-"Ohitus: Anna tunnusluku\r\n"
-"Vinkki: Koekaniinien lukumäärä"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr "Ohitus: Anna tunnusluku\r\nVinkki: Koekaniinien lukumäärä"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1696,59 +1683,15 @@ msgstr "Ilmanvaihtokanava"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid ""
-"Hello,\r\n"
-"\r\n"
-"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
-"\r\n"
-"We apologise for the inconveneince this may cause.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
-"Tervehdys,\r\n"
-"\r\n"
-"Olemme saaneet raportin, jonka mukaan ilmanvaihtokanava teidän toimistossanne on rikkoontunut.\r\n"
-"\r\n"
-"Pyydämme anteeksi tämän aiheuttamaa häiriötä.\r\n"
-"\r\n"
-"Kiitos,\r\n"
-"\r\n"
-"Arque Global Operations Maailmanlaajuinen kiinteistöhuolto"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "Tervehdys,\r\n\r\nOlemme saaneet raportin, jonka mukaan ilmanvaihtokanava teidän toimistossanne on rikkoontunut.\r\n\r\nPyydämme anteeksi tämän aiheuttamaa häiriötä.\r\n\r\nKiitos,\r\n\r\nArque Global Operations Maailmanlaajuinen kiinteistöhuolto"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid ""
-"Hi,\r\n"
-"\r\n"
-"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
-"\r\n"
-"What are the next steps?\r\n"
-"\r\n"
-"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Badge Services\r\n"
-"\r\n"
-"This is an automated email, please do not respond."
-msgstr ""
-"Hei,\r\n"
-"\r\n"
-"Kiitos pyynnöstänne saada uusi kulkutunniste. Pyynnöllenne on annettu tunniste AGO15824.\r\n"
-"\r\n"
-"Mitä seuraavaksi?\r\n"
-"\r\n"
-"Joku AGO:n jäsenistä ottaa teihin yhteyttä. Huomioithan, että teidän voidaan pyytää antamaan lisätietoja riippuen pyyntönne vakavuudesta.\r\n"
-"\r\n"
-"Kiitos,\r\n"
-"\r\n"
-"Arque Global Operations Kulkutunnisteiden hallinta\r\n"
-"\r\n"
-"Tämä on automaattisesti luotu viesti, älä vastaa siihen."
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr "Hei,\r\n\r\nKiitos pyynnöstänne saada uusi kulkutunniste. Pyynnöllenne on annettu tunniste AGO15824.\r\n\r\nMitä seuraavaksi?\r\n\r\nJoku AGO:n jäsenistä ottaa teihin yhteyttä. Huomioithan, että teidän voidaan pyytää antamaan lisätietoja riippuen pyyntönne vakavuudesta.\r\n\r\nKiitos,\r\n\r\nArque Global Operations Kulkutunnisteiden hallinta\r\n\r\nTämä on automaattisesti luotu viesti, älä vastaa siihen."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1768,28 +1711,8 @@ msgstr "Kiitos pyynnöstänne"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid ""
-"Hi Liam,\r\n"
-"\r\n"
-"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
-"\r\n"
-"Please respond with as much detail as you can about the incident.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Hei Liam,\r\n"
-"\r\n"
-"Olemme vastaanottaneet pyyntönne saada uusi kulkutunniste. Ottaen huomioon teidän turvaluokituksenne, minun täytyy pyytää teiltä lisätietoja liittyen siihen, kuinka edellinen tunnisteenne katosi.\r\n"
-"\r\n"
-"Kerrothan mahdollisimman tarkasti tästä tapauksesta.\r\n"
-"\r\n"
-"Kiitos,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Vanhempi Arque Global Facilities Turvallisuusspesialisti"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Hei Liam,\r\n\r\nOlemme vastaanottaneet pyyntönne saada uusi kulkutunniste. Ottaen huomioon teidän turvaluokituksenne, minun täytyy pyytää teiltä lisätietoja liittyen siihen, kuinka edellinen tunnisteenne katosi.\r\n\r\nKerrothan mahdollisimman tarkasti tästä tapauksesta.\r\n\r\nKiitos,\r\n\r\nHugo Webber\r\nVanhempi Arque Global Facilities Turvallisuusspesialisti"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1809,49 +1732,15 @@ msgstr "VS: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid ""
-"Liam,\r\n"
-"\r\n"
-"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
-"\r\n"
-"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
-"\r\n"
-"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
-"\r\n"
-"Tell me, where do you believe your badge to be?\r\n"
-"\r\n"
-"Yours,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Liam,\r\n"
-"\r\n"
-"Voisitko kuvailla, kuinka tarkalleen ottaen kulkukorttisi katosi, ja missä se on nyt? Meidän täytyy varmistaa, että se ei ole laitoksen ulkopuolella - koska jos se on, niin se on yhtiöllemme iso ongelma.\r\n"
-"\r\n"
-"Viitaten kettuun, tarkoitatko siis kirjaimellisesti punertavaa turkiseläintä? Se vaikuttaa kovin epätodennäköiseltä, väite, että kettu läpäisi meidän turvatarkastukset? Sehän tarkoittaisi, että te ette tee omaa työtänne kunnolla? Pystyykö siis kuka tahansa noin vain kävelemään sisälle?\r\n"
-"\r\n"
-"Koska teidän sijainnissanne on kovin heikko kantavuus internetiin ja Arque Global VPN:ään, aktiivisia kulkulupia ei ole mahdollista poistaa käytöstä etäältä.\r\n"
-"\r\n"
-"Kertoisitteko, missä uskotte kulkutunnisteenne olevan?\r\n"
-"\r\n"
-"Terveisin,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Vanhempi Arque Global Facilities Turvallisuusspesialisti"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Liam,\r\n\r\nVoisitko kuvailla, kuinka tarkalleen ottaen kulkukorttisi katosi, ja missä se on nyt? Meidän täytyy varmistaa, että se ei ole laitoksen ulkopuolella - koska jos se on, niin se on yhtiöllemme iso ongelma.\r\n\r\nViitaten kettuun, tarkoitatko siis kirjaimellisesti punertavaa turkiseläintä? Se vaikuttaa kovin epätodennäköiseltä, väite, että kettu läpäisi meidän turvatarkastukset? Sehän tarkoittaisi, että te ette tee omaa työtänne kunnolla? Pystyykö siis kuka tahansa noin vain kävelemään sisälle?\r\n\r\nKoska teidän sijainnissanne on kovin heikko kantavuus internetiin ja Arque Global VPN:ään, aktiivisia kulkulupia ei ole mahdollista poistaa käytöstä etäältä.\r\n\r\nKertoisitteko, missä uskotte kulkutunnisteenne olevan?\r\n\r\nTerveisin,\r\n\r\nHugo Webber\r\nVanhempi Arque Global Facilities Turvallisuusspesialisti"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid ""
-"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
-"\r\n"
-"thanks"
-msgstr ""
-"Hei anteeksi kettu vei minun kulkulätkän , en ole varma mihin se mein mutta en pääse enää ovesta sisään enkä siis tehdä työtäni\r\n"
-"\r\n"
-"kiitos"
+msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgstr "Hei anteeksi kettu vei minun kulkulätkän , en ole varma mihin se mein mutta en pääse enää ovesta sisään enkä siis tehdä työtäni\r\n\r\nkiitos"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1864,26 +1753,8 @@ msgstr "VS: VS: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid ""
-"Team,\r\n"
-"\r\n"
-"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
-"\r\n"
-"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
-"\r\n"
-"Lucy Beeshaw\r\n"
-"\r\n"
-"PR Senior Specialist"
-msgstr ""
-"Tiimi,\r\n"
-"\r\n"
-"Katsokaa liitteenä viimeisin Wentworthin Sanomat. Huomatkaa juttu Arquesta - pitäisikö asiaa tutkia?\r\n"
-"\r\n"
-"Muistutuksena, älkää antako lausuntoja medialle ilman erillistä hyväksyntää.\r\n"
-"\r\n"
-"Lucy Beeshaw\r\n"
-"\r\n"
-"PR Erikoisspesialisti"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr "Tiimi,\r\n\r\nKatsokaa liitteenä viimeisin Wentworthin Sanomat. Huomatkaa juttu Arquesta - pitäisikö asiaa tutkia?\r\n\r\nMuistutuksena, älkää antako lausuntoja medialle ilman erillistä hyväksyntää.\r\n\r\nLucy Beeshaw\r\n\r\nPR Erikoisspesialisti"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -1917,14 +1788,8 @@ msgstr "Keskustelu"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid ""
-"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
-"\r\n"
-"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr ""
-"Mietihän hetki, ennen kuin tulostat tämän viestin. Ympäristömme on vaarassa. Puut ovat yksi meidän suurimpia huolenaiheitamme Arquessa.\r\n"
-"\r\n"
-"Itse asiassa, kaikkien työntekijöidemme on määrätty vaihtamaan puulämmitys hiililämmitykseen. Muista, pelasta puut, pelasta maailma."
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr "Mietihän hetki, ennen kuin tulostat tämän viestin. Ympäristömme on vaarassa. Puut ovat yksi meidän suurimpia huolenaiheitamme Arquessa.\r\n\r\nItse asiassa, kaikkien työntekijöidemme on määrätty vaihtamaan puulämmitys hiililämmitykseen. Muista, pelasta puut, pelasta maailma."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2016,17 +1881,6 @@ msgstr "\"Estranged\" on Alan Edwardesin tavaramerkki"
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
 msgstr "Auta kääntämään myös!"
-
-#. Key:	MoreSoon
-#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
-#: /Game/Resources/Localisation/ST_Credits.ST_Credits
-msgctxt "ST_Credits,MoreSoon"
-msgid ""
-"Temporary Ending\r\n"
-"More Content Soon!"
-msgstr ""
-"Väliaikainen lopetus\r\n"
-"Lisää tulossa pian!"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -2305,14 +2159,8 @@ msgstr "Paikallinen asukas Rosie Hardman kutsuu levää vitsaukseksi, ja toivois
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid ""
-"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
-"\r\n"
-"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr ""
-"Redtonin niemellä sijaitsevan majakan toiminta on loppumassa, kun paikan pormestari John Menn antoi lausuntonsa rannikkovartioston tutkimuksen jälkeen.\r\n"
-"\r\n"
-"\"Olemme varmoja, ettei tällä ole vaikutusta laivaliikenteeseen\" kommentoi Bill Hayak Merenkuluntutkimusvirastosta. \"Vaikka joskus rahtilaivoja näkyi aivan Redtonin rannikon läheisyydessä, mantereelta lähtevien rahtireittien muututtua asiat eivät ole enää samoin,\" hän lisäsi."
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "Redtonin niemellä sijaitsevan majakan toiminta on loppumassa, kun paikan pormestari John Menn antoi lausuntonsa rannikkovartioston tutkimuksen jälkeen.\r\n\r\n\"Olemme varmoja, ettei tällä ole vaikutusta laivaliikenteeseen\" kommentoi Bill Hayak Merenkuluntutkimusvirastosta. \"Vaikka joskus rahtilaivoja näkyi aivan Redtonin rannikon läheisyydessä, mantereelta lähtevien rahtireittien muututtua asiat eivät ole enää samoin,\" hän lisäsi."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2325,39 +2173,15 @@ msgstr "Kysyttäessä asiaa pormestarilta hän ei suostunut kommentoimaan ennen 
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid ""
-"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
-"\r\n"
-"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr ""
-"Paikalliset asukkaat eivät ole onnellisia muutokseen. Yksi kertoi huolensa pienistä kauppalaivoista, jotka vielä pysähtyivät saarella, kuvaillen muutoksen olevan viimeinen naula saaren hiljaisen sataman arkkuun. \"Se lopettaa ison osan saaren kaupoista,\" hän sanoi.\r\n"
-"\r\n"
-"Joskus majakka on ainoa asia, mikä mahdollistaa pienempien alusten turvallisen saapumisen saarelle tekemään kauppoja paikallisten kanssa. Se on asia, josta olemme kaikki huolissamme - mitä tapahtuu, kun tuontia ei enää ole?"
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "Paikalliset asukkaat eivät ole onnellisia muutokseen. Yksi kertoi huolensa pienistä kauppalaivoista, jotka vielä pysähtyivät saarella, kuvaillen muutoksen olevan viimeinen naula saaren hiljaisen sataman arkkuun. \"Se lopettaa ison osan saaren kaupoista,\" hän sanoi.\r\n\r\nJoskus majakka on ainoa asia, mikä mahdollistaa pienempien alusten turvallisen saapumisen saarelle tekemään kauppoja paikallisten kanssa. Se on asia, josta olemme kaikki huolissamme - mitä tapahtuu, kun tuontia ei enää ole?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid ""
-"One of the most popular competitions Redton holds is back for its annual event.\r\n"
-"\r\n"
-"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
-"\r\n"
-"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
-"\r\n"
-"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
-"\r\n"
-"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr ""
-"Yksi Redtonin suosituimmista kilpailuista järjestetään taas vuotuisessa tapahtumassaan.\r\n"
-"\r\n"
-"Yhteisö kokoontuu joka vuosi tavoitteenaan luoda pelottavimmat ja karmivimmat linnunpelättimet pitämään linnut poissa. Viime vuoden voittaja oli kahdeksanvuotias paikallinen koulupoika Joshua Fenton, jonka tulkinta omasta isoäidistään sai tuomarit puolelleen.\r\n"
-"\r\n"
-"Tänä vuonna kilpailun voittaja saa hienon lajitelman kakkuja pormestarin vaimon Julia Mennin hiljattain avaamasta saaren uudesta kakkukaupasta.\r\n"
-"\r\n"
-"Juhlallisuudet eivät rajoitu vain koko viikon esillä oleviin linnunpelättimiin. Kojuja ja muita aktiviteettejä on järjestetty ympäri kaupunkia. Jos et ole vielä nähnyt linnunpelättimiä, ota suunnaksi paikallinen vuosittainen tapahtuma ja koe mistä kaikki oikein puhuvat. Samalla pääset nauttimaan Redtonin parhaista ruoka- ja juomatarjoiluista.\r\n"
-"\r\n"
-"Jos et pääse itse paikalle tutkimaan linnunpelättimiä, niin ei hätää! Seuraavassa numerossa nimittäin käymme yksityiskohtaisesti lävitse kaikki kilpailuun osallistujat."
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "Yksi Redtonin suosituimmista kilpailuista järjestetään taas vuotuisessa tapahtumassaan.\r\n\r\nYhteisö kokoontuu joka vuosi tavoitteenaan luoda pelottavimmat ja karmivimmat linnunpelättimet pitämään linnut poissa. Viime vuoden voittaja oli kahdeksanvuotias paikallinen koulupoika Joshua Fenton, jonka tulkinta omasta isoäidistään sai tuomarit puolelleen.\r\n\r\nTänä vuonna kilpailun voittaja saa hienon lajitelman kakkuja pormestarin vaimon Julia Mennin hiljattain avaamasta saaren uudesta kakkukaupasta.\r\n\r\nJuhlallisuudet eivät rajoitu vain koko viikon esillä oleviin linnunpelättimiin. Kojuja ja muita aktiviteettejä on järjestetty ympäri kaupunkia. Jos et ole vielä nähnyt linnunpelättimiä, ota suunnaksi paikallinen vuosittainen tapahtuma ja koe mistä kaikki oikein puhuvat. Samalla pääset nauttimaan Redtonin parhaista ruoka- ja juomatarjoiluista.\r\n\r\nJos et pääse itse paikalle tutkimaan linnunpelättimiä, niin ei hätää! Seuraavassa numerossa nimittäin käymme yksityiskohtaisesti lävitse kaikki kilpailuun osallistujat."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2960,3 +2784,4 @@ msgstr "TUNTEJA OSAN I TAPAHTUMIEN JÄLKEEN"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "TUNTEMATON SAARI, NORJANMERI"
+

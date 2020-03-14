@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-08 13:18\n"
-"PO-Revision-Date: 2020-03-08 13:18\n"
+"POT-Creation-Date: 2020-03-14 15:39\n"
+"PO-Revision-Date: 2020-03-14 15:39\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -661,8 +661,8 @@ msgstr "窗口模式"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II EARLY ACCESS"
-msgstr "ACT II早期访问"
+msgid "ACT II"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1881,13 +1881,6 @@ msgstr "“Estranged”是Alan Edwardes的商标"
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
 msgstr "帮助翻译！"
-
-#. Key:	MoreSoon
-#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
-#: /Game/Resources/Localisation/ST_Credits.ST_Credits
-msgctxt "ST_Credits,MoreSoon"
-msgid "Temporary Ending\r\nMore Content Soon!"
-msgstr "临时结束\r\n更多内容很快！"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
