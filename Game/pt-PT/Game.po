@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-14 15:39\n"
-"PO-Revision-Date: 2020-03-14 15:39\n"
+"POT-Creation-Date: 2020-03-27 20:27\n"
+"PO-Revision-Date: 2020-03-27 20:27\n"
 "Language-Team: \n"
 "Language: pt-PT\n"
 "MIME-Version: 1.0\n"
@@ -523,6 +523,13 @@ msgstr "Desativar Vinheta"
 msgctxt "Menus,CheckboxEnableClosedCaptions"
 msgid "Enable Closed Captions"
 msgstr "Ativar Legendas para Efeitos Sonoros"
+
+#. Key:	CheckboxEnableDebugLogger
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableDebugLogger"
+msgid "Enable Developer Messages"
+msgstr ""
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
