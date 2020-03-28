@@ -1,4 +1,4 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -529,7 +529,7 @@ msgstr "Erweiterte Untertitel aktivieren"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableDebugLogger"
 msgid "Enable Developer Messages"
-msgstr ""
+msgstr "Entwicklernachrichten aktivieren"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
