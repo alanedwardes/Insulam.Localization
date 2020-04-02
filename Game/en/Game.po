@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-03-27 20:27\n"
-"PO-Revision-Date: 2020-03-27 20:27\n"
+"POT-Creation-Date: 2020-04-02 22:01\n"
+"PO-Revision-Date: 2020-04-02 22:01\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -678,6 +678,20 @@ msgctxt "Menus,GameTitle"
 msgid "ESTRANGED"
 msgstr "ESTRANGED"
 
+#. Key:	LabelAchievementName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelAchievementName"
+msgid "Achievement Name"
+msgstr "Achievement Name"
+
+#. Key:	LabelAchievements
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,LabelAchievements"
+msgid "Achievements"
+msgstr "Achievements"
+
 #. Key:	LabelEnterCheat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -804,6 +818,13 @@ msgctxt "Menus,SliderVoiceVolume"
 msgid "Voice Volume"
 msgstr "Voice Volume"
 
+#. Key:	TooltipAchievementGlobalPercentage
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,TooltipAchievementGlobalPercentage"
+msgid "{Percent}% of all players have {Achievement}"
+msgstr "{Percent}% of all players have {Achievement}"
+
 #. Key:	TooltipInvertController
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -894,6 +915,90 @@ msgstr "We don't anticipate that our usage of the algae will be affected at all 
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
 msgstr "And we consider it completely harmless, we don't anticipate it being a problem."
+
+#. Key:	JohnDiary1Part1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part1"
+msgid "This is Johnathan Derril. I'm recording this for whoever finds it."
+msgstr "This is Johnathan Derril. I'm recording this for whoever finds it."
+
+#. Key:	JohnDiary1Part10
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part10"
+msgid "I've given up hope of ever holding my daughter again or looking into my wife's eyes just one more time."
+msgstr "I've given up hope of ever holding my daughter again or looking into my wife's eyes just one more time."
+
+#. Key:	JohnDiary1Part11
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part11"
+msgid "I have to accept it now."
+msgstr "I have to accept it now."
+
+#. Key:	JohnDiary1Part12
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part12"
+msgid "They're gone."
+msgstr "They're gone."
+
+#. Key:	JohnDiary1Part2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part2"
+msgid "They can't cover up what happened on the island."
+msgstr "They can't cover up what happened on the island."
+
+#. Key:	JohnDiary1Part3
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part3"
+msgid "I made it here on a dingy after escaping a bombing by military aircraft."
+msgstr "I made it here on a dingy after escaping a bombing by military aircraft."
+
+#. Key:	JohnDiary1Part4
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part4"
+msgid "They wanted to destroy any evidence of what happened there."
+msgstr "They wanted to destroy any evidence of what happened there."
+
+#. Key:	JohnDiary1Part5
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part5"
+msgid "Finding this research station was nothing short of a miracle."
+msgstr "Finding this research station was nothing short of a miracle."
+
+#. Key:	JohnDiary1Part6
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part6"
+msgid "I still haven't worked out exactly what this station is for and who owns it but"
+msgstr "I still haven't worked out exactly what this station is for and who owns it but"
+
+#. Key:	JohnDiary1Part7
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part7"
+msgid "...it was easy to get into, and has lots of supplies."
+msgstr "...it was easy to get into, and has lots of supplies."
+
+#. Key:	JohnDiary1Part8
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part8"
+msgid "Difficult questions like \"how will I get home\" and \"is there a home left to go to\""
+msgstr "Difficult questions like \"how will I get home\" and \"is there a home left to go to\""
+
+#. Key:	JohnDiary1Part9
+#. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
+#: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
+msgctxt "Recordings,JohnDiary1Part9"
+msgid "...well they're for another day."
+msgstr "...well they're for another day."
 
 #. Key:	LiamJonesDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1482,6 +1587,174 @@ msgstr "Tell me who you're co-operating with. Otherwise, Hell isn't a severe eno
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
+
+#. Key:	AchievementBaristaDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementBaristaDescription"
+msgid "Tidy the coffee cups from the refreshments table in the Arque teaching room."
+msgstr "Tidy the coffee cups from the refreshments table in the Arque teaching room."
+
+#. Key:	AchievementBaristaName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementBaristaName"
+msgid "Barista"
+msgstr "Barista"
+
+#. Key:	AchievementDeadlyFishermanDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementDeadlyFishermanDescription"
+msgid "Get 5 headshots with a firearm weapon."
+msgstr "Get 5 headshots with a firearm weapon."
+
+#. Key:	AchievementDeadlyFishermanName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementDeadlyFishermanName"
+msgid "Deadly Fisherman"
+msgstr "Deadly Fisherman"
+
+#. Key:	AchievementFlushedAwayDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementFlushedAwayDescription"
+msgid "Flush 10 items in the Fisherman's cabin."
+msgstr "Flush 10 items in the Fisherman's cabin."
+
+#. Key:	AchievementFlushedAwayName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementFlushedAwayName"
+msgid "Flushed Away"
+msgstr "Flushed Away"
+
+#. Key:	AchievementIsolatedDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementIsolatedDescription"
+msgid "Finish the game."
+msgstr "Finish the game."
+
+#. Key:	AchievementIsolatedName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementIsolatedName"
+msgid "Isolated"
+msgstr "Isolated"
+
+#. Key:	AchievementMasterMarksmanDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementMasterMarksmanDescription"
+msgid "Score 30 or more points in the shooting gallery."
+msgstr "Score 30 or more points in the shooting gallery."
+
+#. Key:	AchievementMasterMarksmanName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementMasterMarksmanName"
+msgid "Master Marksman"
+msgstr "Master Marksman"
+
+#. Key:	AchievementMasterWaterCollectorDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementMasterWaterCollectorDescription"
+msgid "Take John's bucket to the end of the game."
+msgstr "Take John's bucket to the end of the game."
+
+#. Key:	AchievementMasterWaterCollectorName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementMasterWaterCollectorName"
+msgid "Master Water Collector"
+msgstr "Master Water Collector"
+
+#. Key:	AchievementPhotogenicDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementPhotogenicDescription"
+msgid "Destroy Arque security cameras."
+msgstr "Destroy Arque security cameras."
+
+#. Key:	AchievementPhotogenicName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementPhotogenicName"
+msgid "Photogenic"
+msgstr "Photogenic"
+
+#. Key:	AchievementTrippingHazardDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTrippingHazardDescription"
+msgid "Remove a tripping hazard by creating a slipping hazard."
+msgstr "Remove a tripping hazard by creating a slipping hazard."
+
+#. Key:	AchievementTrippingHazardName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTrippingHazardName"
+msgid "Tripping Hazard"
+msgstr "Tripping Hazard"
+
+#. Key:	AchievementTwoBirdsDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTwoBirdsDescription"
+msgid "Kill two infected with headshots using a single bullet."
+msgstr "Kill two infected with headshots using a single bullet."
+
+#. Key:	AchievementTwoBirdsName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTwoBirdsName"
+msgid "Two Birds"
+msgstr "Two Birds"
+
+#. Key:	AchievementWeatherForDucksDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementWeatherForDucksDescription"
+msgid "Let the ducks swim in the Fisherman's bath."
+msgstr "Let the ducks swim in the Fisherman's bath."
+
+#. Key:	AchievementWeatherForDucksName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementWeatherForDucksName"
+msgid "Weather for Ducks"
+msgstr "Weather for Ducks"
+
+#. Key:	AchievementWellHydratedDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementWellHydratedDescription"
+msgid "Dispense all Arque Water bottles in a single playthrough."
+msgstr "Dispense all Arque Water bottles in a single playthrough."
+
+#. Key:	AchievementWellHydratedName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementWellHydratedName"
+msgid "Well Hydrated"
+msgstr "Well Hydrated"
+
+#. Key:	AchievementYouMonsterDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementYouMonsterDescription"
+msgid "Shoot an innocent bird from the sky. (Why would you want this?)"
+msgstr "Shoot an innocent bird from the sky. (Why would you want this?)"
+
+#. Key:	AchievementYouMonsterName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementYouMonsterName"
+msgid "\"You Monster\""
+msgstr "\"You Monster\""
 
 #. Key:	StatisticArqueBottlesDispensed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
