@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-10 13:24\n"
-"PO-Revision-Date: 2020-05-10 13:24\n"
+"POT-Creation-Date: 2020-05-10 22:33\n"
+"PO-Revision-Date: 2020-05-10 22:33\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -1588,6 +1588,20 @@ msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Kto by pomyślał? Sokol-Glockner, jeden z największych prywatnych kontrahentów na świecie, wie, jak zadać ból."
 
+#. Key:	AchievementAudiophileDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileDescription"
+msgid "Listen to all tape recorders."
+msgstr ""
+
+#. Key:	AchievementAudiophileName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileName"
+msgid "Audiophile"
+msgstr ""
+
 #. Key:	AchievementBaristaDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1700,6 +1714,20 @@ msgctxt "ST_Collectables,AchievementTrippingHazardName"
 msgid "Tripping Hazard"
 msgstr ""
 
+#. Key:	AchievementTunedInDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInDescription"
+msgid "Align the model satellite dish with its real-world counterpart."
+msgstr ""
+
+#. Key:	AchievementTunedInName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInName"
+msgid "Tuned In"
+msgstr ""
+
 #. Key:	AchievementTwoBirdsDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1810,6 +1838,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticItemsFlushed"
 msgid "Items Flushed"
+msgstr ""
+
+#. Key:	StatisticRecordingsListened
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticRecordingsListened"
+msgid "Recordings Listened To"
 msgstr ""
 
 #. Key:	StatisticSokolKilled
