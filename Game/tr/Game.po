@@ -1593,14 +1593,14 @@ msgstr "Bizi kim sandın? Sokol-Glockner, dünyanın en büyük özel güvenlik 
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementAudiophileDescription"
 msgid "Listen to all tape recorders."
-msgstr ""
+msgstr "Tüm kayıtları dinle."
 
 #. Key:	AchievementAudiophileName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementAudiophileName"
 msgid "Audiophile"
-msgstr ""
+msgstr "Ses Meraklısı"
 
 #. Key:	AchievementBaristaDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1719,14 +1719,14 @@ msgstr "Tetikleyici Tehlike"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTunedInDescription"
 msgid "Align the model satellite dish with its real-world counterpart."
-msgstr ""
+msgstr "Model uyduyu gerçek uydu ile hizala."
 
 #. Key:	AchievementTunedInName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTunedInName"
 msgid "Tuned In"
-msgstr ""
+msgstr "Ayarlı"
 
 #. Key:	AchievementTwoBirdsDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1845,7 +1845,7 @@ msgstr "İsraf Edilen Eşyalar"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticRecordingsListened"
 msgid "Recordings Listened To"
-msgstr ""
+msgstr "Dinlenilen Kayıt Sayısı"
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
