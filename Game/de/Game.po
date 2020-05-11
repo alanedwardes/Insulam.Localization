@@ -1,11 +1,11 @@
-# Game German translation.
+﻿# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-04-02 22:01\n"
-"PO-Revision-Date: 2020-04-02 22:01\n"
+"POT-Creation-Date: 2020-05-10 22:33\n"
+"PO-Revision-Date: 2020-05-10 22:33\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1588,6 +1588,20 @@ msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Wer hätte das gedacht? Sokol-Glockner, einer der größten privaten Sicherheitsunternehmen der Welt, weiß, wie man Schmerzen zufügt."
 
+#. Key:	AchievementAudiophileDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileDescription"
+msgid "Listen to all tape recorders."
+msgstr ""
+
+#. Key:	AchievementAudiophileName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileName"
+msgid "Audiophile"
+msgstr ""
+
 #. Key:	AchievementBaristaDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1700,6 +1714,20 @@ msgctxt "ST_Collectables,AchievementTrippingHazardName"
 msgid "Tripping Hazard"
 msgstr "Stolpergefahr"
 
+#. Key:	AchievementTunedInDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInDescription"
+msgid "Align the model satellite dish with its real-world counterpart."
+msgstr ""
+
+#. Key:	AchievementTunedInName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInName"
+msgid "Tuned In"
+msgstr ""
+
 #. Key:	AchievementTwoBirdsDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1811,6 +1839,13 @@ msgstr "Infizierte getötet"
 msgctxt "ST_Collectables,StatisticItemsFlushed"
 msgid "Items Flushed"
 msgstr "Gegenstände weggespült"
+
+#. Key:	StatisticRecordingsListened
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticRecordingsListened"
+msgid "Recordings Listened To"
+msgstr ""
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -2944,7 +2979,7 @@ msgstr "Jeder, der auf dieser Frequenz ist, gehen Sie jetzt! Warum zum Teufel si
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr "Half-Life ist eine eingetragenes Warenzeichen der Valve Corporation."
+msgstr "Half-Life ist eine eingetragenes Warenzeichen der Valve Corporation"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -2957,8 +2992,8 @@ msgstr "Estranged unterliegt dem Urheberrecht © 2011 an Alan Edwardes."
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
-msgstr "ESTRANGED ACT II wurde von einer Person in seiner Freizeit und mit Hilfe eines Sounddesigners, Leveldesigners, 3D-Künstlers und einer Gemeinschaft von Übersetzern und Testern entwickelt."
+msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED ACT II wurde von einer Person in seiner Freizeit und mit Hilfe eines Sounddesigners, Leveldesigners, 3D-Künstlers und einer Gemeinschaft von Übersetzern und Testern entwickelt"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-04-03 20:00\n"
-"PO-Revision-Date: 2020-04-03 20:00\n"
+"POT-Creation-Date: 2020-05-10 22:33\n"
+"PO-Revision-Date: 2020-05-10 22:33\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -1588,6 +1588,20 @@ msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Bizi kim sandın? Sokol-Glockner, dünyanın en büyük özel güvenlik şirketlerinden biri, acının nasıl verileceğini bilir."
 
+#. Key:	AchievementAudiophileDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileDescription"
+msgid "Listen to all tape recorders."
+msgstr "Tüm kayıtları dinle."
+
+#. Key:	AchievementAudiophileName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileName"
+msgid "Audiophile"
+msgstr "Ses Meraklısı"
+
 #. Key:	AchievementBaristaDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1691,7 +1705,7 @@ msgstr "Fotojenik"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTrippingHazardDescription"
 msgid "Remove a tripping hazard by creating a slipping hazard."
-msgstr ""
+msgstr "Düşürücü tehlikeyi kaygan tehlikeye dönüştür."
 
 #. Key:	AchievementTrippingHazardName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1699,6 +1713,20 @@ msgstr ""
 msgctxt "ST_Collectables,AchievementTrippingHazardName"
 msgid "Tripping Hazard"
 msgstr "Tetikleyici Tehlike"
+
+#. Key:	AchievementTunedInDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInDescription"
+msgid "Align the model satellite dish with its real-world counterpart."
+msgstr "Model uyduyu gerçek uydu ile hizala."
+
+#. Key:	AchievementTunedInName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInName"
+msgid "Tuned In"
+msgstr "Ayarlı"
 
 #. Key:	AchievementTwoBirdsDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1811,6 +1839,13 @@ msgstr "Öldürülen Enfekteler"
 msgctxt "ST_Collectables,StatisticItemsFlushed"
 msgid "Items Flushed"
 msgstr "İsraf Edilen Eşyalar"
+
+#. Key:	StatisticRecordingsListened
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticRecordingsListened"
+msgid "Recordings Listened To"
+msgstr "Dinlenilen Kayıt Sayısı"
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -2957,7 +2992,7 @@ msgstr "Estranged tüm hakları saklıdır © 2011 Alan Edwardes"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
+msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
 msgstr "ESTRANGED ACT II bir kişinin boş zamanları ile yapıldı,ses dizaynırı, seviye dizaynırı, 3D artist ve topluluktan tercümanlar ve test oyuncuları yardımıyla yapıldı"
 
 #. Key:	Paragraph02

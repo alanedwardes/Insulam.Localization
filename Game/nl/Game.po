@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-04-02 22:01\n"
-"PO-Revision-Date: 2020-04-03 22:08+0200\n"
+"POT-Creation-Date: 2020-05-10 22:33\n"
+"PO-Revision-Date: 2020-05-11 00:49+0200\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1601,6 +1601,20 @@ msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
 msgstr "Wie had dat gedacht? Sokol-Glockner, een van 's werelds grootste particuliere beveiligingsaannemers, weet hoe het mensen pijn moet doen."
 
+#. Key:	AchievementAudiophileDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileDescription"
+msgid "Listen to all tape recorders."
+msgstr "Luister naar alle bandrecorders."
+
+#. Key:	AchievementAudiophileName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementAudiophileName"
+msgid "Audiophile"
+msgstr "Audiofiel"
+
 #. Key:	AchievementBaristaDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1713,6 +1727,20 @@ msgctxt "ST_Collectables,AchievementTrippingHazardName"
 msgid "Tripping Hazard"
 msgstr "Struikelgevaar"
 
+#. Key:	AchievementTunedInDescription
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInDescription"
+msgid "Align the model satellite dish with its real-world counterpart."
+msgstr "Lijn de modelschotel af met zijn tegenhanger in de echte wereld."
+
+#. Key:	AchievementTunedInName
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,AchievementTunedInName"
+msgid "Tuned In"
+msgstr "Afgestemd"
+
 #. Key:	AchievementTwoBirdsDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1824,6 +1852,13 @@ msgstr "Geïnfecteerden gedood"
 msgctxt "ST_Collectables,StatisticItemsFlushed"
 msgid "Items Flushed"
 msgstr "Voorwerpen doorgespoeld"
+
+#. Key:	StatisticRecordingsListened
+#. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
+#: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
+msgctxt "ST_Collectables,StatisticRecordingsListened"
+msgid "Recordings Listened To"
+msgstr "Opnames beluisterd"
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -3122,7 +3157,7 @@ msgstr "Estranged is auteursrechtelijk beschermd © 2011 Alan Edwardes"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a sound designer, level designer, 3D artist and a community of translators and testers"
+msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
 msgstr "ESTRANGED: ACT II is ontwikkeld door één persoon in zijn vrije tijd, met hulp van een geluidsontwerper, levelontwerper, 3D-artiest en communityvertalers en -testers"
 
 #. Key:	Paragraph02
