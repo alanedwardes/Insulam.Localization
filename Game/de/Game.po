@@ -1,4 +1,4 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -1593,14 +1593,14 @@ msgstr "Wer hätte das gedacht? Sokol-Glockner, einer der größten privaten Sic
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementAudiophileDescription"
 msgid "Listen to all tape recorders."
-msgstr ""
+msgstr "Höre dir alle Tonbandgeräte an."
 
 #. Key:	AchievementAudiophileName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementAudiophileName"
 msgid "Audiophile"
-msgstr ""
+msgstr "Hohe Wiedergabequalität"
 
 #. Key:	AchievementBaristaDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1719,14 +1719,14 @@ msgstr "Stolpergefahr"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTunedInDescription"
 msgid "Align the model satellite dish with its real-world counterpart."
-msgstr ""
+msgstr "Richte die Modell-Satellitenschüssel an deinem realen Gegenstück aus."
 
 #. Key:	AchievementTunedInName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTunedInName"
 msgid "Tuned In"
-msgstr ""
+msgstr "Eingestimmt"
 
 #. Key:	AchievementTwoBirdsDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1845,7 +1845,7 @@ msgstr "Gegenstände weggespült"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticRecordingsListened"
 msgid "Recordings Listened To"
-msgstr ""
+msgstr "Aufnahmen angehört"
 
 #. Key:	StatisticSokolKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
