@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2020-05-14 22:34\n"
-"PO-Revision-Date: 2020-05-17 15:43+0100\n"
+"PO-Revision-Date: 2020-05-17 16:21+0100\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -250,7 +250,7 @@ msgstr "Глава 4"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControllerBindings"
 msgid "Controller Bindings"
-msgstr "Свързване с контролер"
+msgstr "Свързване на бутоните на контролера"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -355,7 +355,7 @@ msgstr "Присъедини се към Discord"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
-msgstr "Свързване на клавиатура"
+msgstr "Свързване на клавишите на клавиатура"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -523,14 +523,14 @@ msgstr "Изключване на винета"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableClosedCaptions"
 msgid "Enable Closed Captions"
-msgstr "Включване на надписите"
+msgstr "Включване на затворени надписи"
 
 #. Key:	CheckboxEnableDebugLogger
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableDebugLogger"
 msgid "Enable Developer Messages"
-msgstr "Включване на съобщения до разработчиците"
+msgstr "Включване на съобщения за програмисти"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -579,7 +579,7 @@ msgstr "Използвай {Platform} език"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUseSimpleSubtitleFont"
 msgid "Use Simple Subtitle Font"
-msgstr "Използвай проста форма на субтитрите"
+msgstr "Използвай обикновен шрифт на субтитрите"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -922,14 +922,14 @@ msgstr "И го считаме за напълно безобидно, не оч
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part1"
 msgid "This is Johnathan Derril. I'm recording this for whoever finds it."
-msgstr "Това е Джонатан Деръл. Записвам това за който го намери."
+msgstr "Това е Джонатан Деръл. Записвам това за всеки, който го намери."
 
 #. Key:	JohnDiary1Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part10"
 msgid "I've given up hope of ever holding my daughter again or looking into my wife's eyes just one more time."
-msgstr "Загубих всякаква надежда да държа дъщеря си в ръцете си отново или да погледна съпругата си в очите само още един път."
+msgstr "Загубих всякаква надежда някога да държа дъщеря си в ръце отново или да погледна съпругата си в очите само още един път."
 
 #. Key:	JohnDiary1Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -950,7 +950,7 @@ msgstr "Те си отидоха."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part2"
 msgid "They can't cover up what happened on the island."
-msgstr "Те не могат да покриват случилото се на острова."
+msgstr "Те не могат да прикриват случилото се на острова."
 
 #. Key:	JohnDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -964,7 +964,7 @@ msgstr "Добрах се до тук на малка гумена лодка с
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part4"
 msgid "They wanted to destroy any evidence of what happened there."
-msgstr "Те искат да унищожат всички доказателства за случилото се там."
+msgstr "Те искаха да унищожат всички доказателства за случилото се там."
 
 #. Key:	JohnDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1361,14 +1361,14 @@ msgstr "ИЗПРАТИ КОД ОТНОВО"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionAlarmClockRinging"
 msgid "[Alarm clock rings]"
-msgstr "[Звъни будилник]"
+msgstr "[Звънене на будилник]"
 
 #. Key:	CaptionAlarmClockTicking
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionAlarmClockTicking"
 msgid "[Alarm clock ticking]"
-msgstr "[Тиктака будилник]"
+msgstr "[Тиктакане на будилник]"
 
 #. Key:	CaptionBodyThud
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1753,7 +1753,7 @@ msgstr "Убий двама заразени с удар в главата с е
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTwoBirdsName"
 msgid "Two Birds"
-msgstr "Две птици"
+msgstr "С един куршум, два заека"
 
 #. Key:	AchievementWeatherForDucksDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1795,14 +1795,14 @@ msgstr "Застреляй невинна птица от небето. (Защ�
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementYouMonsterName"
 msgid "\"You Monster\""
-msgstr "„Ти чудовище“"
+msgstr "„Ти, чудовище“"
 
 #. Key:	StatisticArqueBottlesDispensed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
 msgid "Arque Bottles Dispensed"
-msgstr "Арк бутилки изразходени"
+msgstr "Купени Арк бутилки"
 
 #. Key:	StatisticBulletsFired
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -2283,7 +2283,7 @@ msgstr "И {name} (Ти!)"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Cast"
 msgid "CAST"
-msgstr "УЧАСТНИЦИ"
+msgstr "АКТЬОРСКИ СЪСТАВ"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -2423,7 +2423,7 @@ msgstr "Намерих те докато се разхождах наоколо 
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_b"
 msgid "...took you back to this research facility."
-msgstr "…донесох те до изследователската база."
+msgstr "...донесох те до изследователската база."
 
 #. Key:	JohnBed02_c
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
@@ -2437,7 +2437,7 @@ msgstr "Беше в много лошо състояние."
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed03_a"
 msgid "Hmm... still doesn't look like you're completely with me..."
-msgstr "Хмм… все още не изглежда, че си напълно в съзнание..."
+msgstr "Хмм… все още не изглеждаш напълно в съзнание..."
 
 #. Key:	JohnBed03_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
@@ -2451,14 +2451,14 @@ msgstr "Може би се нуждаеш от още малко почивка.
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed04_a"
 msgid "I'm going to look around this place some more."
-msgstr "Ще разгледам това място още малко."
+msgstr "Ще разгледам около това място още малко."
 
 #. Key:	JohnBed04_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed04_b"
 msgid "When you wake up, we've got things to discuss."
-msgstr "Когато се събудиш, имаме неща, които да обсъдим."
+msgstr "Когато се събудиш, имаме неща за обсъждане."
 
 #. Key:	LaserScan01
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
