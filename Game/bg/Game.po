@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2020-05-14 22:34\n"
-"PO-Revision-Date: 2020-05-17 16:21+0100\n"
+"PO-Revision-Date: 2020-05-17 16:31+0100\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -3048,7 +3048,7 @@ msgstr "ЗАЛИЧАВАНЕ ЗАПОЧНАТО, ИЗЧИСТВАНЕ НА НА�
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01b"
 msgid "72 DEGREES, 59 MINUTES AND 6 SECONDS NORTH, 2 DEGREES, 51 MINUTES AND 54 SECONDS EAST"
-msgstr "72 ГРАДУСА, 59 МИНУТИ И 6 СЕКУНДИ НА СЕВЕР, 2 ГРАДУСА, 51 МИНУТИ И 54 СЕКУНДИ НА ИЗТОК"
+msgstr "72 ГРАДУСА, 59 МИНУТИ И 6 СЕКУНДИ СЕВЕРНА ШИРИНА, 2 ГРАДУСА, 51 МИНУТИ И 54 СЕКУНДИ ИЗТОЧНА ДЪЛЖИНА"
 
 #. Key:	John01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -3083,7 +3083,7 @@ msgstr "Корпорация Арк е прекратявала предаван
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr "Намираме се приблизително на 72 градуса, 59 минути и 6 секунди Север, и ъъ, 2 градуса, 51 минути и 54 секунди Изток."
+msgstr "Намираме се приблизително на 72 градуса, 59 минути и 6 секунди северна ширина, и ъъ, 2 градуса, 51 минути и 54 секунди източна дължина."
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
