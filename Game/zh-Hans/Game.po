@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-14 22:34\n"
-"PO-Revision-Date: 2020-05-14 22:34\n"
+"POT-Creation-Date: 2020-05-19 20:39\n"
+"PO-Revision-Date: 2020-05-19 20:39\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -2175,6 +2175,13 @@ msgstr "岗位弃"
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
 msgstr "战斗或逃跑"
+
+#. Key:	Contributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Contributors"
+msgid "CONTRIBUTORS"
+msgstr ""
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-14 22:34\n"
-"PO-Revision-Date: 2020-05-14 22:34\n"
+"POT-Creation-Date: 2020-05-19 20:39\n"
+"PO-Revision-Date: 2020-05-19 20:39\n"
 "Language-Team: \n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -2175,6 +2175,13 @@ msgstr "رها کردن پست"
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
 msgstr "جنگیدن یا فرار"
+
+#. Key:	Contributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Contributors"
+msgid "CONTRIBUTORS"
+msgstr ""
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
