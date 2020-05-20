@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-19 20:39\n"
-"PO-Revision-Date: 2020-05-19 20:39\n"
+"POT-Creation-Date: 2020-05-20 17:23\n"
+"PO-Revision-Date: 2020-05-20 17:23\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1523,7 +1523,7 @@ msgstr "[Подводный звук скрежета металла]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionWheelchairRattling"
 msgid "[Wheelchair rattling against concrete floor]"
-msgstr "[Звук падающей на бетонное покрытие инвалидной коляски]"
+msgstr "[Инвалидная коляска гремит о бетонный пол]"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1628,7 +1628,7 @@ msgstr "Попасть в голову 5 раз из огнестрельног�
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementDeadlyFishermanName"
 msgid "Deadly Fisherman"
-msgstr "Смертоносный рыбак"
+msgstr "Смертельный рыбак"
 
 #. Key:	AchievementFlushedAwayDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1642,7 +1642,7 @@ msgstr "Промыть 10 предметов в хижине рыбака"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementFlushedAwayName"
 msgid "Flushed Away"
-msgstr "Промывка"
+msgstr "Смытый прочь"
 
 #. Key:	AchievementIsolatedDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1761,7 +1761,7 @@ msgstr "Хорошая погода для уток"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementWellHydratedDescription"
 msgid "Dispense all Arque Water bottles in a single playthrough."
-msgstr "Израсходовать все бутылки с водой Arque за одно прохождение"
+msgstr "Возьмите все бутылки из каждого автомата с водой Arque за одно прохождение"
 
 #. Key:	AchievementWellHydratedName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -2272,63 +2272,63 @@ msgstr "Они там, снаружи."
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed01_a"
 msgid "Hey, can you hear me?"
-msgstr "Эй, вы меня слышите?"
+msgstr "Эй, ты меня слышишь?"
 
 #. Key:	JohnBed01_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed01_b"
 msgid "You're not going to believe this but..."
-msgstr "Вы не поверите, но..."
+msgstr "Ты не поверишь в это, но..."
 
 #. Key:	JohnBed01_c
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed01_c"
 msgid "It's me! It's John"
-msgstr "Это я! Это Джон"
+msgstr "Это я! Джон."
 
 #. Key:	JohnBed02_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_a"
 msgid "I found you whilst I was walking around outside"
-msgstr "Я нашел вас пока осматривал окрестности"
+msgstr "Я нашёл тебя пока бродил снаружи"
 
 #. Key:	JohnBed02_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_b"
 msgid "...took you back to this research facility."
-msgstr "... и притащил назад сюда, в этот исследовательский комплекс."
+msgstr "...притащил тебя в этот исследовательский центр."
 
 #. Key:	JohnBed02_c
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_c"
 msgid "You were in a really bad shape."
-msgstr "Вы выглядели действительно неважно."
+msgstr "Ты был в очень плохом состоянии."
 
 #. Key:	JohnBed03_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed03_a"
 msgid "Hmm... still doesn't look like you're completely with me..."
-msgstr "Хмм... все еще непохоже, что вы окончательно в сознании..."
+msgstr "Хмм.. похоже что ты ещё не до конца пришёл в сознание..."
 
 #. Key:	JohnBed03_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed03_b"
 msgid "Maybe you need a bit more rest."
-msgstr "Возможно, вам нужно еще немного отдохнуть."
+msgstr "Может тебе стоит ещё немного отдохнуть."
 
 #. Key:	JohnBed04_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed04_a"
 msgid "I'm going to look around this place some more."
-msgstr "Я собираюсь еще немного пройтись по окрестностям."
+msgstr "А когда ты проснёшься, у нас будет масса вещей для обсуждения."
 
 #. Key:	JohnBed04_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
