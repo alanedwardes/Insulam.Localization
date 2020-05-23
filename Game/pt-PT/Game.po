@@ -1,18 +1,17 @@
+﻿# Game Portuguese (Portugal) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-19 20:39\n"
-"PO-Revision-Date: 2020-05-22 18:15+0100\n"
+"POT-Creation-Date: 2020-05-23 15:33\n"
+"PO-Revision-Date: 2020-05-23 15:33\n"
 "Language-Team: \n"
-"Language: pt_PT\n"
+"Language: pt-PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.2.1\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1299,34 +1298,22 @@ msgstr "Introduza o código de autenticação para desbloquear"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid ""
-"ANOMALY DETECTED\r\n"
-"Overrides located in areas A and B"
-msgstr ""
-"ANOMALIA DETETADA\r\n"
-"Desbloqueios nas áreas A e B"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr "ANOMALIA DETETADA\r\nDesbloqueios nas áreas A e B"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid ""
-"AREA DESIGNATED SAFE\r\n"
-"WORKSTATION LOCKED"
-msgstr ""
-"ÁREA SEGURA\r\n"
-"TERMINAL BLOQUEADO"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr "ÁREA SEGURA\r\nTERMINAL BLOQUEADO"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid ""
-"Enter passcode to override\r\n"
-"HINT: Specimen count"
-msgstr ""
-"Introduza o código de desbloqueio\r\n"
-"PISTA: Contagem de espécimes"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr "Introduza o código de desbloqueio\r\nPISTA: Contagem de espécimes"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -2011,59 +1998,15 @@ msgstr "Conduta de ar"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid ""
-"Hello,\r\n"
-"\r\n"
-"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
-"\r\n"
-"We apologise for the inconveneince this may cause.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
-"Bom dia,\r\n"
-"\r\n"
-"Recebemos queixas de que uma conduta de ar condicionado no seu local de trabalho está danificada.\r\n"
-"\r\n"
-"Lamentamos qualquer inconveniência que isto possa causar.\r\n"
-"\r\n"
-"Com os melhores cumprimentos,\r\n"
-"\r\n"
-"Suporte Internacional de Coordenação às Instalações das Operações Globais Arque"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "Bom dia,\r\n\r\nRecebemos queixas de que uma conduta de ar condicionado no seu local de trabalho está danificada.\r\n\r\nLamentamos qualquer inconveniência que isto possa causar.\r\n\r\nCom os melhores cumprimentos,\r\n\r\nSuporte Internacional de Coordenação às Instalações das Operações Globais Arque"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid ""
-"Hi,\r\n"
-"\r\n"
-"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
-"\r\n"
-"What are the next steps?\r\n"
-"\r\n"
-"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Badge Services\r\n"
-"\r\n"
-"This is an automated email, please do not respond."
-msgstr ""
-"Olá,\r\n"
-"\r\n"
-"Agradecemos o seu pedido de um novo cartão de segurança. Como referência, o seu ticket é AGO15824.\r\n"
-"\r\n"
-"Quais são os próximos passos?\r\n"
-"\r\n"
-"Um membro da equipa OGA irá enviar uma resposta ao seu pedido. Tenha em conta que pode-lhe ser pedidas informações adicionais dependendo da gravidade do seu pedido.\r\n"
-"\r\n"
-"Obrigado,\r\n"
-"\r\n"
-"Serviços de Cartões de Segurança das Operações Globais Arque\r\n"
-"\r\n"
-"Este é um email automatizado, por favor não responda a esta mensagem."
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr "Olá,\r\n\r\nAgradecemos o seu pedido de um novo cartão de segurança. Como referência, o seu ticket é AGO15824.\r\n\r\nQuais são os próximos passos?\r\n\r\nUm membro da equipa OGA irá enviar uma resposta ao seu pedido. Tenha em conta que pode-lhe ser pedidas informações adicionais dependendo da gravidade do seu pedido.\r\n\r\nObrigado,\r\n\r\nServiços de Cartões de Segurança das Operações Globais Arque\r\n\r\nEste é um email automatizado, por favor não responda a esta mensagem."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2083,28 +2026,8 @@ msgstr "Agradecemos o seu pedido"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid ""
-"Hi Liam,\r\n"
-"\r\n"
-"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
-"\r\n"
-"Please respond with as much detail as you can about the incident.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Olá Liam,\r\n"
-"\r\n"
-"Recebemos o seu pedido por um novo cartão. Devido ao nível de autorização do teu cargo, preciso de verificar como o cartão se perdeu.\r\n"
-"\r\n"
-"Por favor responde com o máximo de detalhe possível acerca do incidente.\r\n"
-"\r\n"
-"Obrigado,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Especialista de Suporte de Segurança às Instalações Globais Arque"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Olá Liam,\r\n\r\nRecebemos o seu pedido por um novo cartão. Devido ao nível de autorização do teu cargo, preciso de verificar como o cartão se perdeu.\r\n\r\nPor favor responde com o máximo de detalhe possível acerca do incidente.\r\n\r\nObrigado,\r\n\r\nHugo Webber\r\nEspecialista de Suporte de Segurança às Instalações Globais Arque"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2124,49 +2047,15 @@ msgstr "RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid ""
-"Liam,\r\n"
-"\r\n"
-"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
-"\r\n"
-"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
-"\r\n"
-"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
-"\r\n"
-"Tell me, where do you believe your badge to be?\r\n"
-"\r\n"
-"Yours,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Liam,\r\n"
-"\r\n"
-"Podias descrever exatamente como é que perdeste o teu cartão, e onde é que ele está agora? Precisamos de saber que não está fora das instalações - se for o caso é um problema muito grave para a empresa.\r\n"
-"\r\n"
-"Por raposa estás a falar literalmente daquele animal vermelho e peludo? Parece-me ser muito rebuscado, estás a afirmar que uma raposa conseguiu trespassar a nossa segurança na base? Isso quer dizer que não estás a fazer o teu trabalho como deve ser? E isto significa que qualquer um pode entrar facilmente nas tuas instalações?\r\n"
-"\r\n"
-"Como o teu local tem um acesso fraco à internet e à VPN Global da Arque, não é possível desativar os cartões remotamente.\r\n"
-"\r\n"
-"Diz-me uma coisa, onde é que achas que deixaste o teu cartão?\r\n"
-"\r\n"
-"Cumprimentos,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Especialista de Suporte de Segurança às Instalações Globais Arque"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Liam,\r\n\r\nPodias descrever exatamente como é que perdeste o teu cartão, e onde é que ele está agora? Precisamos de saber que não está fora das instalações - se for o caso é um problema muito grave para a empresa.\r\n\r\nPor raposa estás a falar literalmente daquele animal vermelho e peludo? Parece-me ser muito rebuscado, estás a afirmar que uma raposa conseguiu trespassar a nossa segurança na base? Isso quer dizer que não estás a fazer o teu trabalho como deve ser? E isto significa que qualquer um pode entrar facilmente nas tuas instalações?\r\n\r\nComo o teu local tem um acesso fraco à internet e à VPN Global da Arque, não é possível desativar os cartões remotamente.\r\n\r\nDiz-me uma coisa, onde é que achas que deixaste o teu cartão?\r\n\r\nCumprimentos,\r\n\r\nHugo Webber\r\nEspecialista de Suporte de Segurança às Instalações Globais Arque"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid ""
-"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
-"\r\n"
-"thanks"
-msgstr ""
-"Ola desculpem o meu cartao foi levado por uma raposa , e nao sei odne se meteu mas já não consigo abrir a porta e assim nao consigo trabalhar\r\n"
-"\r\n"
-"obrigado"
+msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgstr "Ola desculpem o meu cartao foi levado por uma raposa , e nao sei odne se meteu mas já não consigo abrir a porta e assim nao consigo trabalhar\r\n\r\nobrigado"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2179,26 +2068,8 @@ msgstr "RE: RE: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid ""
-"Team,\r\n"
-"\r\n"
-"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
-"\r\n"
-"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
-"\r\n"
-"Lucy Beeshaw\r\n"
-"\r\n"
-"PR Senior Specialist"
-msgstr ""
-"Equipa,\r\n"
-"\r\n"
-"Por favor vejam no anexo a última edição do Wentworth Herald. Destaco a menção da Arque - vale a pena investigar?\r\n"
-"\r\n"
-"Para vos relembrar, por favor não falem aos meios de comunicação social locais sem a devida autorização.\r\n"
-"\r\n"
-"Lucy Beeshaw\r\n"
-"\r\n"
-"Especialista Sénior em RP"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr "Equipa,\r\n\r\nPor favor vejam no anexo a última edição do Wentworth Herald. Destaco a menção da Arque - vale a pena investigar?\r\n\r\nPara vos relembrar, por favor não falem aos meios de comunicação social locais sem a devida autorização.\r\n\r\nLucy Beeshaw\r\n\r\nEspecialista Sénior em RP"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2232,14 +2103,8 @@ msgstr "Chat"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid ""
-"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
-"\r\n"
-"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr ""
-"Por favor pense antes de imprimir esta mensagem. O ambiente está em perigo. As florestas são uma das maiores preocupações aqui na Arque.\r\n"
-"\r\n"
-"De facto, é obrigatório que todos os funcionários substituam as suas fogueiras a lenha por carvão. Lembre-se: salve as árvores, salve o mundo."
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr "Por favor pense antes de imprimir esta mensagem. O ambiente está em perigo. As florestas são uma das maiores preocupações aqui na Arque.\r\n\r\nDe facto, é obrigatório que todos os funcionários substituam as suas fogueiras a lenha por carvão. Lembre-se: salve as árvores, salve o mundo."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2616,14 +2481,8 @@ msgstr "Uma residente local, Rosie Hardman, considera que as algas são uma amea
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid ""
-"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
-"\r\n"
-"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr ""
-"O farol situado na costa de Redton está agendado para ser desativado em breve pelo presidente da localidade, John Menn, após uma investigação levada a cabo pelo guarda costeiro local.\r\n"
-"\r\n"
-"\"Estamos confiantes que isto não irá afetar qualquer tráfego que passa na zona\" comentou Bill Hayak, do Departamento de Investigação de Tráfego Marítimo, \"enquanto que há algum tempo era possível ver cargueiros perto da costa de Redton, agora já não é possível devido a rotas comerciais vindas do continente terem sido alteradas\", acrescentou."
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "O farol situado na costa de Redton está agendado para ser desativado em breve pelo presidente da localidade, John Menn, após uma investigação levada a cabo pelo guarda costeiro local.\r\n\r\n\"Estamos confiantes que isto não irá afetar qualquer tráfego que passa na zona\" comentou Bill Hayak, do Departamento de Investigação de Tráfego Marítimo, \"enquanto que há algum tempo era possível ver cargueiros perto da costa de Redton, agora já não é possível devido a rotas comerciais vindas do continente terem sido alteradas\", acrescentou."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2636,39 +2495,15 @@ msgstr "Quando interrogado, o presidente da câmara recusou-se a comentar sobre 
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid ""
-"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
-"\r\n"
-"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr ""
-"Os residentes locais não estão contentes com a notícia, um residente local mostrou-se preocupado com os seus efeitos em navios pequenos que ainda descarregam mercadorias na ilha, afirmando que este foi o último prego no caixão para o sossegado porto da ilha. \"Impede muitas das transações que são efetuadas na ilha\", disse ele.\r\n"
-"\r\n"
-"\"Às vezes o farol é a única coisa que permite com que navios mais pequenos venham e negociem com comerciantes locais, e é algo com que todos nós estamos preocupados - o que acontecerá quando não houverem mais negócios de importação aqui?\""
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "Os residentes locais não estão contentes com a notícia, um residente local mostrou-se preocupado com os seus efeitos em navios pequenos que ainda descarregam mercadorias na ilha, afirmando que este foi o último prego no caixão para o sossegado porto da ilha. \"Impede muitas das transações que são efetuadas na ilha\", disse ele.\r\n\r\n\"Às vezes o farol é a única coisa que permite com que navios mais pequenos venham e negociem com comerciantes locais, e é algo com que todos nós estamos preocupados - o que acontecerá quando não houverem mais negócios de importação aqui?\""
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid ""
-"One of the most popular competitions Redton holds is back for its annual event.\r\n"
-"\r\n"
-"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
-"\r\n"
-"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
-"\r\n"
-"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
-"\r\n"
-"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr ""
-"Uma das competições mais populares de Redton está de volta para a sua edição deste ano. \r\n"
-"\r\n"
-"A comunidade junta-se todos os anos para criar alguns dos espantalhos mais assustadores e mórbidos para afastar as aves. O vencedor do ano passado foi Joshua Fenton, um aluno de oito anos cuja representação visual da sua avó conquistou o júri.\r\n"
-"\r\n"
-"O vencedor da competição deste ano receberá uma bela variedade de bolos da Julia Menn, a esposa do presidente que abriu recentemente a sua pastelaria na ilha.\r\n"
-"\r\n"
-"Mas as festividades não acabam com os espantalhos - que estão em exposição durante a semana inteira; também há barracas de jogos e de comida, e outras atividades a decorrer em diversos locais na vila. Se ainda não viu os espantalhos, dirija-se ao evento para ver o porquê de tanto alarido e prove alguns dos melhores pratos e bebidas que Redton tem para oferecer.\r\n"
-"\r\n"
-"Se não puder vir até Redton para ver os espantalhos, pode verificar a próxima edição, onde vamos apresentar uma análise completa das criações dos participantes."
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "Uma das competições mais populares de Redton está de volta para a sua edição deste ano. \r\n\r\nA comunidade junta-se todos os anos para criar alguns dos espantalhos mais assustadores e mórbidos para afastar as aves. O vencedor do ano passado foi Joshua Fenton, um aluno de oito anos cuja representação visual da sua avó conquistou o júri.\r\n\r\nO vencedor da competição deste ano receberá uma bela variedade de bolos da Julia Menn, a esposa do presidente que abriu recentemente a sua pastelaria na ilha.\r\n\r\nMas as festividades não acabam com os espantalhos - que estão em exposição durante a semana inteira; também há barracas de jogos e de comida, e outras atividades a decorrer em diversos locais na vila. Se ainda não viu os espantalhos, dirija-se ao evento para ver o porquê de tanto alarido e prove alguns dos melhores pratos e bebidas que Redton tem para oferecer.\r\n\r\nSe não puder vir até Redton para ver os espantalhos, pode verificar a próxima edição, onde vamos apresentar uma análise completa das criações dos participantes."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -3271,3 +3106,4 @@ msgstr "HORAS DEPOIS DOS EVENTOS DO ESTRANGED: ACT I"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "ILHA DESCONHECIDA, ALGURES NO MAR DA NORUEGA"
+
