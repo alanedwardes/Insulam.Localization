@@ -1,11 +1,11 @@
-﻿# Game Polish translation.
+# Game Polish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-28 22:31\n"
-"PO-Revision-Date: 2020-05-28 22:31\n"
+"POT-Creation-Date: 2020-05-10 22:33\n"
+"PO-Revision-Date: 2020-05-10 22:33\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintAchievementNotAchieved"
 msgid "\"{Title}\" not progressed (cheats used)"
-msgstr "Nie ma postępu w \"{Title}\" (użyane oszustwa)\""
+msgstr "Nie ma postępu w \"{Title}\ (użyane oszustwa)""
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -669,7 +669,7 @@ msgstr "Tryb okna"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "ACT II"
-msgstr "ACT II"
+msgstr "AKT II"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2176,13 +2176,6 @@ msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
 msgstr "Walcz albo uciekaj"
 
-#. Key:	Contributors
-#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
-#: /Game/Resources/Localisation/ST_Credits.ST_Credits
-msgctxt "ST_Credits,Contributors"
-msgid "CONTRIBUTORS"
-msgstr ""
-
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -3049,7 +3042,7 @@ msgstr "ŁADOWANIE"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "KILKA DNI PO WYDARZENIACH AKTU I"
+msgstr "KILKA DNI PRZED WYDARZENIAMI AKTU I"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
