@@ -1,11 +1,11 @@
-﻿# Game Finnish translation.
+# Game Finnish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2020-07-26 12:42\n"
-"PO-Revision-Date: 2020-07-26 12:42\n"
+"PO-Revision-Date: 2020-07-26 13:17\n"
 "Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "Ei asetettu"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressButton"
 msgid "Press a button"
-msgstr ""
+msgstr "Paina nappia"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -487,7 +487,7 @@ msgstr "Poista syvyysnäkö käytöstä"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableForceFeedback"
 msgid "Disable Vibration"
-msgstr ""
+msgstr "Poista värinä käytöstä"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
