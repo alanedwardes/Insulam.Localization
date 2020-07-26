@@ -1,11 +1,11 @@
-# Game Polish translation.
+﻿# Game Polish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-10 22:33\n"
-"PO-Revision-Date: 2020-05-10 22:33\n"
+"POT-Creation-Date: 2020-07-26 12:42\n"
+"PO-Revision-Date: 2020-07-26 12:42\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -166,6 +166,13 @@ msgstr "Korzystaj z komputera"
 msgctxt "Menus,BindingNotSet"
 msgid "None"
 msgstr "Brak"
+
+#. Key:	BindingPressButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressButton"
+msgid "Press a button"
+msgstr ""
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -474,6 +481,13 @@ msgstr "Wyłącz zamknięcie środowiska"
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
 msgstr "Wyłącz głębie ostrości"
+
+#. Key:	CheckboxDisableForceFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableForceFeedback"
+msgid "Disable Vibration"
+msgstr ""
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2175,6 +2189,13 @@ msgstr "Porzucenie"
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
 msgstr "Walcz albo uciekaj"
+
+#. Key:	Contributors
+#. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
+#: /Game/Resources/Localisation/ST_Credits.ST_Credits
+msgctxt "ST_Credits,Contributors"
+msgid "CONTRIBUTORS"
+msgstr ""
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits

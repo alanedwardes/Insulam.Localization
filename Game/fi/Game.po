@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-28 22:31\n"
-"PO-Revision-Date: 2020-05-28 22:31\n"
+"POT-Creation-Date: 2020-07-26 12:42\n"
+"PO-Revision-Date: 2020-07-26 12:42\n"
 "Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -166,6 +166,13 @@ msgstr "Ohjaa tietokonetta"
 msgctxt "Menus,BindingNotSet"
 msgid "None"
 msgstr "Ei asetettu"
+
+#. Key:	BindingPressButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,BindingPressButton"
+msgid "Press a button"
+msgstr ""
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -474,6 +481,13 @@ msgstr "Poista Ambient Occlusion käytöstä"
 msgctxt "Menus,CheckboxDisableDepthOfField"
 msgid "Disable Depth of Field"
 msgstr "Poista syvyysnäkö käytöstä"
+
+#. Key:	CheckboxDisableForceFeedback
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxDisableForceFeedback"
+msgid "Disable Vibration"
+msgstr ""
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
