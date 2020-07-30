@@ -172,7 +172,7 @@ msgstr "Ничего"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressButton"
 msgid "Press a button"
-msgstr ""
+msgstr "Нажмите кнопку"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -487,7 +487,7 @@ msgstr "Отключить глубину резкости"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableForceFeedback"
 msgid "Disable Vibration"
-msgstr ""
+msgstr "Отключить вибрацию"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
