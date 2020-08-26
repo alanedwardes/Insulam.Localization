@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-08-25 21:53\n"
-"PO-Revision-Date: 2020-08-25 21:53\n"
+"POT-Creation-Date: 2020-08-25 21:55\n"
+"PO-Revision-Date: 2020-08-25 21:55\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -682,7 +682,7 @@ msgstr "Mode fenêtre"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
+msgid "THE DEPARTURE"
 msgstr ""
 
 #. Key:	GameTitle
@@ -3013,8 +3013,8 @@ msgstr "Estranged est sous copyright © 2011 Alan Edwardes"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACTE II a été développé par une personne pendant son temps libre, avec l'aide d'un concepteur de son, d'un concepteur de niveaux, d'un artiste 3D et d'une communauté de traducteurs et de testeurs"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED THE DEPARTURE a été développé par une personne pendant son temps libre, avec l'aide d'un concepteur de son, d'un concepteur de niveaux, d'un artiste 3D et d'une communauté de traducteurs et de testeurs"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen

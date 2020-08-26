@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-08-25 21:53\n"
-"PO-Revision-Date: 2020-08-25 21:53\n"
+"POT-Creation-Date: 2020-08-25 21:55\n"
+"PO-Revision-Date: 2020-08-25 21:55\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -682,8 +682,8 @@ msgstr "窗口模式"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "ACT II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3013,8 +3013,8 @@ msgstr "《Estranged》的版权归 © 2011 Alan Edwardes 所有"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "《ESTRANGED ACT II》是由一个人在业余时间开发制作，制作期间，得到了音效设计师、关卡设计师、3D 美术师以及翻译和测试团体的帮助。"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "《ESTRANGED THE DEPARTURE》是由一个人在业余时间开发制作，制作期间，得到了音效设计师、关卡设计师、3D 美术师以及翻译和测试团体的帮助。"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-08-25 21:53\n"
-"PO-Revision-Date: 2020-08-25 21:53\n"
+"POT-Creation-Date: 2020-08-25 21:55\n"
+"PO-Revision-Date: 2020-08-25 21:55\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -682,8 +682,8 @@ msgstr "Режим отображения"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "АКТ II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3013,8 +3013,8 @@ msgstr "Estranged является авторским правом © 2011 Alan 
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II была разработана одним человеком в свободное время и при поддержке звукорежиссера, дизайнера уровней, 3D художника и сообщества переводчиков и тестеров"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr ""
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-08-25 21:53\n"
-"PO-Revision-Date: 2020-08-25 21:53\n"
+"POT-Creation-Date: 2020-08-25 21:55\n"
+"PO-Revision-Date: 2020-08-25 21:55\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -682,7 +682,7 @@ msgstr "Fönsterläge"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
+msgid "THE DEPARTURE"
 msgstr ""
 
 #. Key:	GameTitle
@@ -3013,7 +3013,7 @@ msgstr ""
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
 msgstr ""
 
 #. Key:	Paragraph02

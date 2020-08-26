@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-08-25 21:53\n"
-"PO-Revision-Date: 2020-08-25 21:53\n"
+"POT-Creation-Date: 2020-08-25 21:55\n"
+"PO-Revision-Date: 2020-08-25 21:55\n"
 "Language-Team: \n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -682,8 +682,8 @@ msgstr "Loga režīms"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "ACT II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3013,8 +3013,8 @@ msgstr "Estranged © 2011 Alans Eduards"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II izstrādāja viena persona savā brīvajā laikā, ar palīdzību no skaņu, līmeņu dizainera, 3D mākslinieka, tulkotājiem un testētājiem no kopienas"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED THE DEPARTURE izstrādāja viena persona savā brīvajā laikā, ar palīdzību no skaņu, līmeņu dizainera, 3D mākslinieka, tulkotājiem un testētājiem no kopienas"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
