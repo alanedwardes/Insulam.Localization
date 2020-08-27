@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-08-25 21:55\n"
-"PO-Revision-Date: 2020-08-25 21:55\n"
+"POT-Creation-Date: 2020-08-26 22:29\n"
+"PO-Revision-Date: 2020-08-26 22:29\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -2936,7 +2936,7 @@ msgstr "¿Alguien me copia? La isla ha sido invadida."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
-msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
 msgstr "Arque Corporation ha estado deteniendo TODOS los mensajes transmitidos desde la isla. ¡Necesitamos apoyo militar de INMEDIATO!"
 
 #. Key:	John03a
