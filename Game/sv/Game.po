@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-08-26 22:29\n"
-"PO-Revision-Date: 2020-08-26 22:29\n"
+"POT-Creation-Date: 2020-09-07 19:34\n"
+"PO-Revision-Date: 2020-09-07 19:34\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -3062,7 +3062,7 @@ msgstr "LADDAR"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
-msgid "DAYS BEFORE THE EVENTS OF ACT I"
+msgid "BEFORE THE STORM"
 msgstr ""
 
 #. Key:	DockEstablishingTitle
@@ -3111,7 +3111,7 @@ msgstr "TID"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
-msgid "HOURS AFTER THE EVENTS OF ACT I"
+msgid "AFTER THE SHIPWRECK"
 msgstr ""
 
 #. Key:	TheFallEstablishingTitle
