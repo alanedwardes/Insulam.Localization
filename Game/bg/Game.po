@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-07-26 12:42\n"
-"PO-Revision-Date: 2020-07-26 12:42\n"
+"POT-Creation-Date: 2020-09-07 19:34\n"
+"PO-Revision-Date: 2020-09-07 19:34\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -682,8 +682,8 @@ msgstr "Режим на прозореца"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "ЧАСТ II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2936,7 +2936,7 @@ msgstr "Копира ли някой? Островът е опустошен."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
-msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
 msgstr "Корпорация Арк е прекратявала предаването на ВСИЧКИ съобщения от острова. Нуждаем се НЕЗАБАВНО от военна помощ!"
 
 #. Key:	John03a
@@ -3013,8 +3013,8 @@ msgstr "Estranged е под авторското право на © 2011 Alan Ed
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II беше разработена от един човек в свободно му време, с помощта на общност от преводачи и тестери"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED THE DEPARTURE беше разработена от един човек в свободно му време, с помощта на общност от преводачи и тестери"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3062,8 +3062,8 @@ msgstr "ЗАРЕЖДАНЕ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
-msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "ДНИ ПРЕДИ СЪБИТИЯТА ОТ ЧАСТ I"
+msgid "BEFORE THE STORM"
+msgstr "ПРЕДИ БУРЯТА"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3111,8 +3111,8 @@ msgstr "ВРЕМЕ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
-msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "ЧАСОВЕ СЛЕД СЪБИТИЯТА ОТ ЧАСТ I"
+msgid "AFTER THE SHIPWRECK"
+msgstr "СЛЕД КОРАБОКРУШЕНИЕТО"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World

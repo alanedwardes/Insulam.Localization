@@ -1,11 +1,11 @@
-# Game German translation.
+﻿# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-07-26 12:42\n"
-"PO-Revision-Date: 2020-07-26 12:42\n"
+"POT-Creation-Date: 2020-09-07 19:34\n"
+"PO-Revision-Date: 2020-09-07 19:34\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -682,8 +682,8 @@ msgstr "Fenstermodus"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "ACT II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2936,7 +2936,7 @@ msgstr "Hat das jemand verstanden? Die Insel wurde überrannt."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
-msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
 msgstr "Die Arque Corporation hat ALLE Funknachrichten von der Insel gestoppt. Wir brauchen UMGEHEND militärische Hilfe!"
 
 #. Key:	John03a
@@ -3013,8 +3013,8 @@ msgstr "Estranged unterliegt dem Urheberrecht © 2011 an Alan Edwardes."
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II wurde von einer Person in seiner Freizeit und mit Hilfe eines Sounddesigners, Leveldesigners, 3D-Künstlers und einer Gemeinschaft von Übersetzern und Testern entwickelt"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED THE DEPARTURE wurde von einer Person in seiner Freizeit und mit Hilfe eines Sounddesigners, Leveldesigners, 3D-Künstlers und einer Gemeinschaft von Übersetzern und Testern entwickelt"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3062,8 +3062,8 @@ msgstr "LADE...."
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
-msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "TAGE VOR DEN EREIGNISSEN VON ACT I"
+msgid "BEFORE THE STORM"
+msgstr ""
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3111,8 +3111,8 @@ msgstr "ZEIT"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
-msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "STUNDEN NACH DEN EREIGNISSEN VON ACT I"
+msgid "AFTER THE SHIPWRECK"
+msgstr ""
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World

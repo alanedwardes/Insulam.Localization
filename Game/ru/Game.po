@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-07-26 12:42\n"
-"PO-Revision-Date: 2020-07-26 12:42\n"
+"POT-Creation-Date: 2020-09-07 19:34\n"
+"PO-Revision-Date: 2020-09-07 19:34\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "Ничего"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressButton"
 msgid "Press a button"
-msgstr "Нажминте кнопку"
+msgstr "Нажмите кнопку"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -682,8 +682,8 @@ msgstr "Режим отображения"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "АКТ II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2936,7 +2936,7 @@ msgstr "Кто-нибудь слышит меня? Остров захвачен
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
-msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
 msgstr "Корпорация Arque прекратила передачу ВСЕХ сообщений с острова. Нам НЕМЕДЛЕННО нужна военная помощь!"
 
 #. Key:	John03a
@@ -3013,8 +3013,8 @@ msgstr "Estranged является авторским правом © 2011 Alan 
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II была разработана одним человеком в свободное время и при поддержке звукорежиссера, дизайнера уровней, 3D художника и сообщества переводчиков и тестеров"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr ""
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3062,8 +3062,8 @@ msgstr "ЗАГРУЗКА"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
-msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "НЕСКОЛЬКО ДНЕЙ ДО СОБЫТИЙ 1 АКТА"
+msgid "BEFORE THE STORM"
+msgstr ""
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3111,8 +3111,8 @@ msgstr "ВРЕМЯ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
-msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "НЕСКОЛЬКО ЧАСОВ ПОСЛЕ СОБЫТИЙ 1 АКТА"
+msgid "AFTER THE SHIPWRECK"
+msgstr ""
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World

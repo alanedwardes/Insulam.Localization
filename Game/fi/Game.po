@@ -1,11 +1,11 @@
-# Game Finnish translation.
+﻿# Game Finnish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-07-26 12:42\n"
-"PO-Revision-Date: 2020-07-26 13:17\n"
+"POT-Creation-Date: 2020-09-07 19:34\n"
+"PO-Revision-Date: 2020-09-07 19:34\n"
 "Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -682,8 +682,8 @@ msgstr "Ikkunointi"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "ACT II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2936,7 +2936,7 @@ msgstr "Kuuleeko kukaan? Tämä saari on valloitettu."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
-msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
 msgstr "Arque Corporation on estänyt KAIKKI lähetysviestit saarelta. Me tarvitsemme VÄLITÖNTÄ sotilaallista apua!"
 
 #. Key:	John03a
@@ -3013,8 +3013,8 @@ msgstr "Estranged on copyright © 2011 Alan Edwardes"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II kehitettiin yhden henkilön toimesta hänen vapaa-ajallaan, saaden apua äänisuunnittelijalta, kenttäsuunnittelijalta, 3D-artistilta sekä kääntäjien ja testaajien yhteisöltä"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED THE DEPARTURE kehitettiin yhden henkilön toimesta hänen vapaa-ajallaan, saaden apua äänisuunnittelijalta, kenttäsuunnittelijalta, 3D-artistilta sekä kääntäjien ja testaajien yhteisöltä"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3062,8 +3062,8 @@ msgstr "LADATAAN"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
-msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "PÄIVIÄ ENNEN OSAN I TAPAHTUMIA"
+msgid "BEFORE THE STORM"
+msgstr ""
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3111,8 +3111,8 @@ msgstr "AIKA"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
-msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "TUNTEJA OSAN I TAPAHTUMIEN JÄLKEEN"
+msgid "AFTER THE SHIPWRECK"
+msgstr ""
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World

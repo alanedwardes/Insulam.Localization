@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-07-26 12:42\n"
-"PO-Revision-Date: 2020-07-26 12:42\n"
+"POT-Creation-Date: 2020-09-07 19:34\n"
+"PO-Revision-Date: 2020-09-07 19:34\n"
 "Language-Team: \n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -682,8 +682,8 @@ msgstr "Loga režīms"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "ACT II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2936,7 +2936,7 @@ msgstr "Vai kāds kopē? Šī sala ir tikusi pārpildīta."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
-msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
 msgstr "Arque Korporācija aptur VISUS ziņojumus no salas. Mums ir nepieciešama TŪLĪTĒJA palīdzība!"
 
 #. Key:	John03a
@@ -3013,8 +3013,8 @@ msgstr "Estranged © 2011 Alans Eduards"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II izstrādāja viena persona savā brīvajā laikā, ar palīdzību no skaņu, līmeņu dizainera, 3D mākslinieka, tulkotājiem un testētājiem no kopienas"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED THE DEPARTURE izstrādāja viena persona savā brīvajā laikā, ar palīdzību no skaņu, līmeņu dizainera, 3D mākslinieka, tulkotājiem un testētājiem no kopienas"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3062,8 +3062,8 @@ msgstr "IELĀDĒ"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
-msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "DAŽAS DIENAS PIRMS PIRMĀS DAĻAS NOTIKUMIEM"
+msgid "BEFORE THE STORM"
+msgstr ""
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3111,8 +3111,8 @@ msgstr "LAIKS"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
-msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "DAŽAS STUNDAS PĒC PIRMĀS DAĻAS NOTIKUMIEM"
+msgid "AFTER THE SHIPWRECK"
+msgstr ""
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World

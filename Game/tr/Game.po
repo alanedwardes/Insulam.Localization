@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-07-26 12:42\n"
-"PO-Revision-Date: 2020-07-26 12:42\n"
+"POT-Creation-Date: 2020-09-07 19:34\n"
+"PO-Revision-Date: 2020-09-07 19:34\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "Hiçbiri"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressButton"
 msgid "Press a button"
-msgstr ""
+msgstr "Bir tuşa bas"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -487,7 +487,7 @@ msgstr "Alan Derinliğini Kapat"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableForceFeedback"
 msgid "Disable Vibration"
-msgstr ""
+msgstr "Titremeyi Devre Dışı Bırak"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -682,8 +682,8 @@ msgstr "Pencereli Modu"
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
-msgid "ACT II"
-msgstr "ACT II"
+msgid "THE DEPARTURE"
+msgstr ""
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -893,7 +893,7 @@ msgstr "Bu mağarada sarhoş oldukları düşünüyoruz ve kemiklerdeki ısırma
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "Arkeolojist (kaydediyor): Birkaç kişiyi hasta olduklarından dolayı takımdan çıkardık."
+msgstr "Arkeolojist (kaydediyor): Takımdan birkaç kişiyi hasta hissettiğinden dolayı çıkarmak zorunda kadlık.Cesetlerin yanında ki birşeyin buna sebep olduğunu düşünüyoruz."
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -907,7 +907,7 @@ msgstr "Bundan sonra TEHLİKELİ MADDE kıyafetleri giyeceğiz.Güvenli olmadı�
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part1"
 msgid "Gareth Thomas (recording): This is Gareth Thomas speaking. We have analysed the algae samples"
-msgstr "Gareth Thomas konuşuyor.Yosun örneklerini analiz ettik"
+msgstr "Gareth Thomas (Kaydediyor):Gareth Thomas konuşuyor.Yosun örneklerini analiz ettik"
 
 #. Key:	GarethThomasDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -928,7 +928,7 @@ msgstr "Tüm yosunların planktondan etkilendiğini tahmint etmiyoruz."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,GarethThomasDiary1Part4"
 msgid "And we consider it completely harmless, we don't anticipate it being a problem."
-msgstr "Ve tamamen zararsın olduğunu düşünüyoruz, problem olucağını sanmıyoruz."
+msgstr "Ve tamamen zararsın olduğunu düşünüyoruz, problem çıkaracağını sanmıyoruz."
 
 #. Key:	JohnDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1558,7 +1558,7 @@ msgstr "Sen rezaletsin. Burada ne olduğunun farkında mısın? Bunu SENİN durd
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01c"
 msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
-msgstr "Sen bir böceksin. Çok uluslu şirket olan Arquenin böceği koparıp atmasında hiçbir problem yok."
+msgstr "Sen bir böceksin. Arque gibi çok uluslu bir şirketin bu böceği koparıp atabilmesi çok kolay."
 
 #. Key:	CaptureGuard01d
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -2013,7 +2013,7 @@ msgstr "Havalandırma Borusu"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
 msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr "Merhaba,ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrendik.\r\n\r\nVerdiğimiz rahatsızlıktan dolayı özür dileriz.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Cross-Geo Tesisi Koordinasyon Desteği"
+msgstr "Merhaba, ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrendik.\r\n\r\nVerdiğimiz rahatsızlıktan dolayı özür dileriz.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Cross-Geo Tesisi Koordinasyon Desteği"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2195,7 +2195,7 @@ msgstr "Savaş veya Kaç"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Contributors"
 msgid "CONTRIBUTORS"
-msgstr ""
+msgstr "KATKIDA BULUNANLAR"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -2608,7 +2608,7 @@ msgstr "WENWORTH HERALD"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
 msgid "News Presenter (on TV): The private security firm Sokol-Glockner has been criticised for the second time this year"
-msgstr "Özel güvenlik firması Sokol-Glockner bu yıl ikinci kez eleştirildi"
+msgstr "Televizyondaki Sunucu:Özel güvenlik firması Sokol-Glockner bu yıl ikinci kez eleştirildi"
 
 #. Key:	NewsReport02
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2936,7 +2936,7 @@ msgstr "Kimse duyuyor mu? Ada istilada."
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
-msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary asssistance!"
+msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
 msgstr "Arque şirketi TÜM adadaki mesajları blokluyor.ACİL askeri yardıma ihtiyacımız var!"
 
 #. Key:	John03a
@@ -3013,8 +3013,8 @@ msgstr "Estranged tüm hakları saklıdır © 2011 Alan Edwardes"
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
-msgid "ESTRANGED ACT II was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "ESTRANGED ACT II bir kişinin boş zamanları ile yapıldı,ses dizaynırı, seviye dizaynırı, 3D artist ve topluluktan tercümanlar ve test oyuncuları yardımıyla yapıldı"
+msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
+msgstr "ESTRANGED THE DEPARTURE bir kişinin boş zamanları ile yapıldı,ses dizaynırı, seviye dizaynırı, 3D artist ve topluluktan tercümanlar ve test oyuncuları yardımıyla yapıldı"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3062,8 +3062,8 @@ msgstr "YÜKLENİYOR"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
-msgid "DAYS BEFORE THE EVENTS OF ACT I"
-msgstr "ACT I OLAYLARINDAN GÜNLER ÖNCE"
+msgid "BEFORE THE STORM"
+msgstr ""
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3111,8 +3111,8 @@ msgstr "ZAMAN"
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
-msgid "HOURS AFTER THE EVENTS OF ACT I"
-msgstr "ACT I OLAYLARINDAN SAATLER SONRA"
+msgid "AFTER THE SHIPWRECK"
+msgstr ""
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
