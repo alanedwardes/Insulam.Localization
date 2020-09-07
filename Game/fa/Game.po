@@ -32,21 +32,21 @@ msgstr "نشستن"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintDive"
 msgid "Dive"
-msgstr ""
+msgstr "شیرجه زدن"
 
 #. Key:	HintDriveBoat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintDriveBoat"
 msgid "Drive boat"
-msgstr ""
+msgstr "راندن قایق"
 
 #. Key:	HintEnterBoat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintEnterBoat"
 msgid "Enter boat"
-msgstr ""
+msgstr "سوار قایق شدن"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -557,7 +557,7 @@ msgstr "Enable On-Screen Stats"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxInvertController"
 msgid "Invert Controller"
-msgstr ""
+msgstr "برعکس کردن کنترلر"
 
 #. Key:	CheckboxInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -844,7 +844,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipInvertController"
 msgid "Invert the controller Y axis"
-msgstr ""
+msgstr "برعکس کردن محور Y کنترلر"
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1432,7 +1432,7 @@ msgstr "[شلیک]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionHeavyMetalDoorClose"
 msgid "[Heavy metal door closes]"
-msgstr ""
+msgstr "[بسته شدن درب فلزی سنگین]"
 
 #. Key:	CaptionInfectedAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1474,7 +1474,7 @@ msgstr "[اردک پلاستیکی فشرده شده]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionShortAlarm"
 msgid "[Short alarm]"
-msgstr ""
+msgstr "[آژیر کوتاه]"
 
 #. Key:	CaptionSurfaceGasp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1537,7 +1537,7 @@ msgstr "[زیر آب، فلز بزرگ صدا میکنه]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionWheelchairRattling"
 msgid "[Wheelchair rattling against concrete floor]"
-msgstr ""
+msgstr "[لرزش صندلی ویلچر روی بتن]"
 
 #. Key:	CaptureGuard01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -2286,63 +2286,63 @@ msgstr "اونا اون بیرونن."
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed01_a"
 msgid "Hey, can you hear me?"
-msgstr ""
+msgstr "هِی، صدامو میشنوی؟"
 
 #. Key:	JohnBed01_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed01_b"
 msgid "You're not going to believe this but..."
-msgstr ""
+msgstr "باورت نمیشه ولی..."
 
 #. Key:	JohnBed01_c
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed01_c"
 msgid "It's me! It's John"
-msgstr ""
+msgstr "منم! \"جان\""
 
 #. Key:	JohnBed02_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_a"
 msgid "I found you whilst I was walking around outside"
-msgstr ""
+msgstr "وقتی داشتم بیرون قدم میزدم پیدات کردم"
 
 #. Key:	JohnBed02_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_b"
 msgid "...took you back to this research facility."
-msgstr ""
+msgstr "...اوردمت به این مکان تحقیقاتی."
 
 #. Key:	JohnBed02_c
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_c"
 msgid "You were in a really bad shape."
-msgstr ""
+msgstr "خیلی وضعت بد بود."
 
 #. Key:	JohnBed03_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed03_a"
 msgid "Hmm... still doesn't look like you're completely with me..."
-msgstr ""
+msgstr "همم...بازم به نظر نمیرسه حالت کاملا خوب شده باشه..."
 
 #. Key:	JohnBed03_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed03_b"
 msgid "Maybe you need a bit more rest."
-msgstr ""
+msgstr "شاید کمی دیگه استراحت نیاز داری."
 
 #. Key:	JohnBed04_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed04_a"
 msgid "I'm going to look around this place some more."
-msgstr ""
+msgstr "من میرم کمی دیگه این اطرافو نگاه بندازم."
 
 #. Key:	JohnBed04_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
