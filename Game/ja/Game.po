@@ -172,7 +172,7 @@ msgstr "なし"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,BindingPressButton"
 msgid "Press a button"
-msgstr ""
+msgstr "ボタンを押してください"
 
 #. Key:	BindingPressKey
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -487,7 +487,7 @@ msgstr "被写界深度を無効にする"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableForceFeedback"
 msgid "Disable Vibration"
-msgstr ""
+msgstr "振動を無効にする"
 
 #. Key:	CheckboxDisableHighlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2195,7 +2195,7 @@ msgstr "戦うのか、逃げるのか"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Contributors"
 msgid "CONTRIBUTORS"
-msgstr ""
+msgstr "寄稿者"
 
 #. Key:	CreatedWithUnrealEngine
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
