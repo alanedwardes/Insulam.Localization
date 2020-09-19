@@ -1,6 +1,6 @@
 # Insulam.Localization
 
-This repository contains the localisable text for Estranged: Act II, available on Steam: https://store.steampowered.com/app/582890
+This repository contains the localisable text for Estranged: The Departure, available on Steam: https://store.steampowered.com/app/582890
 
 ## Translating
 1. Find the `Game.po` file for your language from the [Game folder](https://github.com/alanedwardes/Insulam.Localization/tree/master/Game)
