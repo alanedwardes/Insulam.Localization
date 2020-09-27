@@ -1,4 +1,4 @@
-﻿# Game Finnish translation.
+# Game Finnish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -368,7 +368,7 @@ msgstr "Näppäimistön painikkeet"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLicenses"
 msgid "Licenses"
-msgstr ""
+msgstr "Lisenssit"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3042,7 +3042,7 @@ msgstr "Saadaksesi apua, raportoidaksesi bugeja, ja palautteen antamiseksi, liit
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,PressButton"
 msgid "PRESS"
-msgstr ""
+msgstr "PAINA"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
