@@ -1,17 +1,17 @@
-﻿# Game Portuguese (Brazil) translation.
+﻿# Game Portuguese translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-09 21:57\n"
-"PO-Revision-Date: 2020-09-09 21:57\n"
+"POT-Creation-Date: 2020-09-27 19:40\n"
+"PO-Revision-Date: 2020-09-27 19:40\n"
 "Language-Team: \n"
-"Language: pt-BR\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -362,6 +362,13 @@ msgstr "Adira Discord"
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
 msgstr "Vinculações do teclado"
+
+#. Key:	ButtonLicenses
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLicenses"
+msgid "Licenses"
+msgstr ""
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3029,6 +3036,13 @@ msgstr "Este jogo é uma sequência independente do mod ESTRANGED ACT I de 2014 
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
 msgstr "Para obter ajuda, relatar erros e enviar comentários, participe da comunidade!"
+
+#. Key:	PressButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,PressButton"
+msgid "PRESS"
+msgstr ""
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer

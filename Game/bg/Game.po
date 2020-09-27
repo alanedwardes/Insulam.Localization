@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-09 21:57\n"
-"PO-Revision-Date: 2020-09-09 21:57\n"
+"POT-Creation-Date: 2020-09-27 19:40\n"
+"PO-Revision-Date: 2020-09-27 19:40\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -362,6 +362,13 @@ msgstr "Присъедини се към Discord"
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
 msgstr "Свързване на клавишите на клавиатура"
+
+#. Key:	ButtonLicenses
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLicenses"
+msgid "Licenses"
+msgstr ""
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3029,6 +3036,13 @@ msgstr "Тази игра е самостоятелно продължение �
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
 msgstr "Присъединете се, за да получите помощ, съобщите за грешки в играта и изпратите отзиви!"
+
+#. Key:	PressButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,PressButton"
+msgid "PRESS"
+msgstr ""
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer

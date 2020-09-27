@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-09 21:57\n"
-"PO-Revision-Date: 2020-09-09 21:57\n"
+"POT-Creation-Date: 2020-09-27 19:40\n"
+"PO-Revision-Date: 2020-09-27 19:40\n"
 "Language-Team: \n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -361,6 +361,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
+msgstr ""
+
+#. Key:	ButtonLicenses
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLicenses"
+msgid "Licenses"
 msgstr ""
 
 #. Key:	ButtonLoadGame
@@ -3028,6 +3035,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
+msgstr ""
+
+#. Key:	PressButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,PressButton"
+msgid "PRESS"
 msgstr ""
 
 #. Key:	ActiveLabel

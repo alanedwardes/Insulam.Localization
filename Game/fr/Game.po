@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-09 21:57\n"
-"PO-Revision-Date: 2020-09-09 21:57\n"
+"POT-Creation-Date: 2020-09-27 19:40\n"
+"PO-Revision-Date: 2020-09-27 19:40\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -362,6 +362,13 @@ msgstr "Rejoignez le discord"
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
 msgstr "Touche du clavier"
+
+#. Key:	ButtonLicenses
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLicenses"
+msgid "Licenses"
+msgstr ""
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3029,6 +3036,13 @@ msgstr "Ce jeu est une suite autonome de la version 2014 de Half-Life 2 modifié
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
 msgstr "Pour obtenir de l'aide, signaler des bugs et envoyer des commentaires, rejoignez la communauté !"
+
+#. Key:	PressButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,PressButton"
+msgid "PRESS"
+msgstr ""
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer

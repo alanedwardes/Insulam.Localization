@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-09 21:57\n"
-"PO-Revision-Date: 2020-09-09 21:57\n"
+"POT-Creation-Date: 2020-09-27 19:40\n"
+"PO-Revision-Date: 2020-09-27 19:40\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -362,6 +362,13 @@ msgstr "Discord-server"
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
 msgstr "Toetsenbordconfiguratie"
+
+#. Key:	ButtonLicenses
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonLicenses"
+msgid "Licenses"
+msgstr ""
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3029,6 +3036,13 @@ msgstr "Dit spel is een losstaand vervolg op de mod voor Half-Life 2 uit 2014, E
 msgctxt "ST_SplashScreen,Paragraph03"
 msgid "To get help, report bugs and submit feedback, join the community!"
 msgstr "Word onderdeel van de community om hulp te krijgen, bugs te melden en feedback te geven!"
+
+#. Key:	PressButton
+#. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+#: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
+msgctxt "ST_SplashScreen,PressButton"
+msgid "PRESS"
+msgstr ""
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
