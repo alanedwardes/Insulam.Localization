@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-27 19:40\n"
-"PO-Revision-Date: 2020-09-27 19:40\n"
+"POT-Creation-Date: 2020-09-28 20:49\n"
+"PO-Revision-Date: 2020-09-28 20:49\n"
 "Language-Team: \n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -591,7 +591,7 @@ msgstr "Limitați rata de cadre la 30FPS pentru a menține dispozitivele mobile,
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
-msgid "Use {Platform} Language"
+msgid "Use System Language"
 msgstr ""
 
 #. Key:	CheckboxUseSimpleSubtitleFont

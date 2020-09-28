@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-27 19:40\n"
-"PO-Revision-Date: 2020-09-27 19:40\n"
+"POT-Creation-Date: 2020-09-28 20:49\n"
+"PO-Revision-Date: 2020-09-28 20:49\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -591,8 +591,8 @@ msgstr "将帧速率限制为30FPS，以便在播放时保持笔记本电脑等�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
-msgid "Use {Platform} Language"
-msgstr "使用 {Platform} 语言"
+msgid "Use System Language"
+msgstr ""
 
 #. Key:	CheckboxUseSimpleSubtitleFont
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
