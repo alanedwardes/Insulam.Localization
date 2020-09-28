@@ -1,4 +1,4 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -368,7 +368,7 @@ msgstr "Tastatur Einstellungen"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonLicenses"
 msgid "Licenses"
-msgstr ""
+msgstr "Lizenzen"
 
 #. Key:	ButtonLoadGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3014,7 +3014,7 @@ msgstr "Half-Life ist eine eingetragenes Warenzeichen der Valve Corporation"
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr "Estranged unterliegt dem Urheberrecht © 2011 an Alan Edwardes."
+msgstr "Estranged unterliegt dem Urheberrecht © 2011 von Alan Edwardes."
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3042,7 +3042,7 @@ msgstr "Um Hilfe zu erhalten, Fehler zu melden und Feedback abzugeben, tritt der
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,PressButton"
 msgid "PRESS"
-msgstr ""
+msgstr "DRÜCKE"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
