@@ -1,18 +1,17 @@
+﻿# Game Turkish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-09-28 20:49\n"
-"PO-Revision-Date: 2020-09-29 21:25+0100\n"
+"POT-Creation-Date: 2020-09-29 20:28\n"
+"PO-Revision-Date: 2020-09-29 20:28\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.4.1\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -1320,34 +1319,22 @@ msgstr "İki haneli doğrulama kodu girin"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid ""
-"ANOMALY DETECTED\r\n"
-"Overrides located in areas A and B"
-msgstr ""
-"BİLİNMEYEN BİRİ TESPİT EDİLDİ\r\n"
-"Geçersiz kılma noktaları A ve B alanındadır"
+msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
+msgstr "BİLİNMEYEN BİRİ TESPİT EDİLDİ\r\nGeçersiz kılma noktaları A ve B alanındadır"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid ""
-"AREA DESIGNATED SAFE\r\n"
-"WORKSTATION LOCKED"
-msgstr ""
-"ALAN GÜVENLİ\r\n"
-"\\İŞ İSTASYONU KİLİTLİ"
+msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
+msgstr "ALAN GÜVENLİ\r\n\\İŞ İSTASYONU KİLİTLİ"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid ""
-"Enter passcode to override\r\n"
-"HINT: Specimen count"
-msgstr ""
-"Geçersiz kılmak için şifreyi girin\r\n"
-"İPUCU:Numune Sayısı"
+msgid "Enter passcode to override\r\nHINT: Specimen count"
+msgstr "Geçersiz kılmak için şifreyi girin\r\nİPUCU:Numune Sayısı"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -2032,57 +2019,15 @@ msgstr "Havalandırma Borusu"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid ""
-"Hello,\r\n"
-"\r\n"
-"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
-"\r\n"
-"We apologise for the inconveneince this may cause.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr ""
-"Merhaba, ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrendik.\r\n"
-"\r\n"
-"Verdiğimiz rahatsızlıktan dolayı özür dileriz.\r\n"
-"\r\n"
-"Teşekkürler,\r\n"
-"\r\n"
-"Arque Küresel Operasyonlar Cross-Geo Tesisi Koordinasyon Desteği"
+msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr "Merhaba, ofisinizdeki havalandırma borusunun hasarlı olduğunu öğrendik.\r\n\r\nVerdiğimiz rahatsızlıktan dolayı özür dileriz.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Cross-Geo Tesisi Koordinasyon Desteği"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid ""
-"Hi,\r\n"
-"\r\n"
-"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
-"\r\n"
-"What are the next steps?\r\n"
-"\r\n"
-"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Arque Global Operations Badge Services\r\n"
-"\r\n"
-"This is an automated email, please do not respond."
-msgstr ""
-"Merhaba,\r\n"
-"\r\n"
-"Yeni güvenlik rozeti istediğiniz için teşekkürler. Referans için, biletiniz AGO15824.\r\n"
-"\r\n"
-"Sonraki adımlar mı ney?\r\n"
-"\r\n"
-"Bir AGO takımı üyesi size cevap vericek.Lütfen isteğinizin ciddiyetine bağlı olarak opsiyonel yardım alabileceğinizi unutmayın.\r\n"
-"\r\n"
-"Teşekkürler,\r\n"
-"\r\n"
-"Arque Küresel Operasyonlar Rozet Hizmetleri\r\n"
-"\r\n"
-"Bu bir otomatik maildir,lütfen cevap vermeyin."
+msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
+msgstr "Merhaba,\r\n\r\nYeni güvenlik rozeti istediğiniz için teşekkürler. Referans için, biletiniz AGO15824.\r\n\r\nSonraki adımlar mı ney?\r\n\r\nBir AGO takımı üyesi size cevap vericek.Lütfen isteğinizin ciddiyetine bağlı olarak opsiyonel yardım alabileceğinizi unutmayın.\r\n\r\nTeşekkürler,\r\n\r\nArque Küresel Operasyonlar Rozet Hizmetleri\r\n\r\nBu bir otomatik maildir,lütfen cevap vermeyin."
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2102,28 +2047,8 @@ msgstr "İsteğiniz için teşekkürler"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid ""
-"Hi Liam,\r\n"
-"\r\n"
-"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
-"\r\n"
-"Please respond with as much detail as you can about the incident.\r\n"
-"\r\n"
-"Thanks,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Merhaba Liam,\r\n"
-"\r\n"
-"Yeni rozet istediğini duyduk.Rolunun seviyesinden dolayı, rozetinin nasıl yanlış yerleştirdiği hakkında birkaç detayı onaylamam lazım.\r\n"
-"\r\n"
-"Lütfen bu olay hakkında en fazla detay ile cevap verin.\r\n"
-"\r\n"
-"Teşekkürler,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Kıdemli Arque Küresel Tesisler Güvenlik Desteği Uzmanı"
+msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Merhaba Liam,\r\n\r\nYeni rozet istediğini duyduk.Rolunun seviyesinden dolayı, rozetinin nasıl yanlış yerleştirdiği hakkında birkaç detayı onaylamam lazım.\r\n\r\nLütfen bu olay hakkında en fazla detay ile cevap verin.\r\n\r\nTeşekkürler,\r\n\r\nHugo Webber\r\nKıdemli Arque Küresel Tesisler Güvenlik Desteği Uzmanı"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2143,49 +2068,15 @@ msgstr "Cevap AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid ""
-"Liam,\r\n"
-"\r\n"
-"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
-"\r\n"
-"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
-"\r\n"
-"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
-"\r\n"
-"Tell me, where do you believe your badge to be?\r\n"
-"\r\n"
-"Yours,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-"Senior Arque Global Facilities Security Support Specialist"
-msgstr ""
-"Liam,\r\n"
-"\r\n"
-"Lütfen bana rozetinin nasıl yanlış yerleştirildiğini anlatırmısın ve şimdi nerede.Tesisin dışında oldup olduğunu bilmemiz lazım - eğer öyle birşeyse şirket için çok ciddi problem.\r\n"
-"\r\n"
-"Tilki derken gerçekten kızıl hayvanı mı kastettin?Böyle birşey imkansız gibi,tilki üssümüzdeki güvenliği geçtiğini söylüyorsun?BU senin işini doğru düzgün yapmadığının kanıtı galiba?Bu senin tesiine insanların elini kolunu sallayarak girebileceğinimi gösteriyor?\r\n"
-"\r\n"
-"Senin lokasyonun zor birşekilde küresel iinternet ve Arque Küresel VPN ile bulunması çok zor olduğundan, geçerli rozetleri uzaktan deaktif etmek imkansız.\r\n"
-"\r\n"
-"Söyle bana, rozetin nerede olabilir?\r\n"
-"\r\n"
-"Senin,\r\n"
-"\r\n"
-"Hugo Webber\r\n"
-" Kıdemli Arque Küresel Tesisi Güvenlik Desteği Uzmanı"
+msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
+msgstr "Liam,\r\n\r\nLütfen bana rozetinin nasıl yanlış yerleştirildiğini anlatırmısın ve şimdi nerede.Tesisin dışında oldup olduğunu bilmemiz lazım - eğer öyle birşeyse şirket için çok ciddi problem.\r\n\r\nTilki derken gerçekten kızıl hayvanı mı kastettin?Böyle birşey imkansız gibi,tilki üssümüzdeki güvenliği geçtiğini söylüyorsun?BU senin işini doğru düzgün yapmadığının kanıtı galiba?Bu senin tesiine insanların elini kolunu sallayarak girebileceğinimi gösteriyor?\r\n\r\nSenin lokasyonun zor birşekilde küresel iinternet ve Arque Küresel VPN ile bulunması çok zor olduğundan, geçerli rozetleri uzaktan deaktif etmek imkansız.\r\n\r\nSöyle bana, rozetin nerede olabilir?\r\n\r\nSenin,\r\n\r\nHugo Webber\r\n Kıdemli Arque Küresel Tesisi Güvenlik Desteği Uzmanı"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid ""
-"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
-"\r\n"
-"thanks"
-msgstr ""
-"Merhaba benim rozetim tilki tarafından alındı, nereye gittiğini bilmiyorum fakat kapıdan geçemiyorum ve işimi yapamıyorum\r\n"
-"\r\n"
-"teşekkürler"
+msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
+msgstr "Merhaba benim rozetim tilki tarafından alındı, nereye gittiğini bilmiyorum fakat kapıdan geçemiyorum ve işimi yapamıyorum\r\n\r\nteşekkürler"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2198,26 +2089,8 @@ msgstr "CEVAP:CEVAP: AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid ""
-"Team,\r\n"
-"\r\n"
-"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
-"\r\n"
-"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
-"\r\n"
-"Lucy Beeshaw\r\n"
-"\r\n"
-"PR Senior Specialist"
-msgstr ""
-"Takım,\r\n"
-"\r\n"
-"Lütfen en güncel Wentworth Herald gazatesine bakın.Arque'yi bahsetlitmişler - bunu araştırmamız gerekirmi?\r\n"
-"\r\n"
-"Hatırlatıcı olarak,lütfen bölgesel medya ile gerekli izin olmadan konuşmayın.\r\n"
-"\r\n"
-"Lucy Beeshaw\r\n"
-"\r\n"
-"PR Kıdemli Uzman"
+msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
+msgstr "Takım,\r\n\r\nLütfen en güncel Wentworth Herald gazatesine bakın.Arque'yi bahsetlitmişler - bunu araştırmamız gerekirmi?\r\n\r\nHatırlatıcı olarak,lütfen bölgesel medya ile gerekli izin olmadan konuşmayın.\r\n\r\nLucy Beeshaw\r\n\r\nPR Kıdemli Uzman"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2251,14 +2124,8 @@ msgstr "Sohbet"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid ""
-"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
-"\r\n"
-"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr ""
-"Lütfen, bu mesajı yazırmadan önce tekrar düşünün. Çevre tehlike içinde. Ağaçlar Arque'nin ana kaygılarından biri.\r\n"
-"\r\n"
-"Gerçekte,tüm çalışanlar geçmiş dosyalarını kömür ateşi ile değiştirmeli.Hatırlayın,ağaçları kurtarın, dünyayı kurtarın."
+msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr "Lütfen, bu mesajı yazırmadan önce tekrar düşünün. Çevre tehlike içinde. Ağaçlar Arque'nin ana kaygılarından biri.\r\n\r\nGerçekte,tüm çalışanlar geçmiş dosyalarını kömür ateşi ile değiştirmeli.Hatırlayın,ağaçları kurtarın, dünyayı kurtarın."
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2635,14 +2502,8 @@ msgstr "Yerel sakin Rosie Hardman, algi bir tehdit olarak görüyor ve gitmiş o
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid ""
-"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
-"\r\n"
-"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr ""
-"Kara çıkışında Redton'da bulunan deniz feneri, sahil güvenlik görevlisi tarafından yürütülen bir soruşturmanın ardından yerel belediye başkanı John Menn tarafından görevden alınmak üzere ayarlandı.\r\n"
-"\r\n"
-"\"Bunun etkilemeyeceğinden eminiz Herhangi bir trafik etkilemiyor \"yorumunu yaptı. “Bir kerede Redton sahilinin hemen dışında kargo gemileri görebiliyorken, artık ana karadan nakliye rotalarının değişmesi artık geçerli değil” dedi."
+msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr "Kara çıkışında Redton'da bulunan deniz feneri, sahil güvenlik görevlisi tarafından yürütülen bir soruşturmanın ardından yerel belediye başkanı John Menn tarafından görevden alınmak üzere ayarlandı.\r\n\r\n\"Bunun etkilemeyeceğinden eminiz Herhangi bir trafik etkilemiyor \"yorumunu yaptı. “Bir kerede Redton sahilinin hemen dışında kargo gemileri görebiliyorken, artık ana karadan nakliye rotalarının değişmesi artık geçerli değil” dedi."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2655,33 +2516,15 @@ msgstr "Sorgulandığında belediye başkanı, deniz fenerinin kapanışı hakk�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid ""
-"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
-"\r\n"
-"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr ""
-"Yerel sakinler değişiklikten memnun değil, bir yerel sakin, hala adada bulunan küçük ticaret gemileri üzerindeki etkilerinden endişe duyuyordu ve bu, adanın sessiz iskelesinin tabutundaki son çivi olduğunu söyledi. \"Adanın işinin çoğunu durdurur\" dedi.\r\n"
-"\r\n"
-"Bazen deniz feneri daha küçük gemilerin yerel işletmelerle gelip ticaret yapmasına izin veren tek şey, hepimiz için endişe ettiğimiz bir şey - burada ithalat işi kalmazsa ne olur?"
+msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr "Yerel sakinler değişiklikten memnun değil, bir yerel sakin, hala adada bulunan küçük ticaret gemileri üzerindeki etkilerinden endişe duyuyordu ve bu, adanın sessiz iskelesinin tabutundaki son çivi olduğunu söyledi. \"Adanın işinin çoğunu durdurur\" dedi.\r\n\r\nBazen deniz feneri daha küçük gemilerin yerel işletmelerle gelip ticaret yapmasına izin veren tek şey, hepimiz için endişe ettiğimiz bir şey - burada ithalat işi kalmazsa ne olur?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid ""
-"One of the most popular competitions Redton holds is back for its annual event.\r\n"
-"\r\n"
-"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
-"\r\n"
-"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
-"\r\n"
-"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
-"\r\n"
-"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr ""
-"Redton'un sahip olduğu en popüler yarışmalardan biri, yıl etkinliği için geri döndü.\r\n"
-"\r\n"
-"Topluluk her yıl, kuşları uzak tutmak için en korkunç ve korkunç korkuluklar yaratmak için bir araya geliyor. Geçen yılın galibi sekiz yaşında bir yerel okul çocuğu oldu."
+msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr "Redton'un sahip olduğu en popüler yarışmalardan biri, yıl etkinliği için geri döndü.\r\n\r\nTopluluk her yıl, kuşları uzak tutmak için en korkunç ve korkunç korkuluklar yaratmak için bir araya geliyor. Geçen yılın galibi sekiz yaşında bir yerel okul çocuğu oldu."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -3291,3 +3134,4 @@ msgstr "GEMI ENKAZıNDAN SONRA"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "BİLİNMEYEN ADA, NORVEÇ DENİZİ"
+
