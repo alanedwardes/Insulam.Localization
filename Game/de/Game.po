@@ -1,4 +1,4 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -592,7 +592,7 @@ msgstr "Begrenzt die Bildrate auf 30 FPS, um mobile Geräte wie Laptops kühler 
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUsePlatformCulture"
 msgid "Use System Language"
-msgstr ""
+msgstr "Systemsprache benutzen"
 
 #. Key:	CheckboxUseSimpleSubtitleFont
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -1656,7 +1656,7 @@ msgstr "Tödlicher Fischer"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementFlushedAwayDescription"
 msgid "Flush 10 items in the Fisherman's cabin."
-msgstr "Spüle 10 Gegenstände in der Fischerhütte runter."
+msgstr "Spüle 10 Gegenstände in der Hütte des Fischers runter."
 
 #. Key:	AchievementFlushedAwayName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1712,7 +1712,7 @@ msgstr "Meister Wassersammler"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementPhotogenicDescription"
 msgid "Destroy Arque security cameras."
-msgstr "Zerstöre die Überwachungskameras von Arque."
+msgstr "Zerstöre 20 Arque-Überwachungskameras."
 
 #. Key:	AchievementPhotogenicName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1726,7 +1726,7 @@ msgstr "Fotogen"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTrippingHazardDescription"
 msgid "Remove a tripping hazard by creating a slipping hazard."
-msgstr "Entferne eine Stolpergefahr, indem du eine Rutschgefahr erzeugst."
+msgstr "Entferne die Stolpergefahr, indem du eine Rutschgefahr erzeugst."
 
 #. Key:	AchievementTrippingHazardName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1740,7 +1740,7 @@ msgstr "Stolpergefahr"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTunedInDescription"
 msgid "Align the model satellite dish with its real-world counterpart."
-msgstr "Richte die Modell-Satellitenschüssel an deinem realen Gegenstück aus."
+msgstr "Richte die Modell-Satellitenschüssel gleich wie das reale Gegenstück aus."
 
 #. Key:	AchievementTunedInName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1782,7 +1782,7 @@ msgstr "Badewetter für Enten"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementWellHydratedDescription"
 msgid "Dispense all Arque Water bottles in a single playthrough."
-msgstr "Verteile alle Arque Wasserflaschen in einem einzigen Spieldurchgang."
+msgstr "Verbrauche alle Arque Wasserflaschen in einem einzigen Spieldurchgang."
 
 #. Key:	AchievementWellHydratedName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1796,7 +1796,7 @@ msgstr "Gut hydratisiert"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementYouMonsterDescription"
 msgid "Shoot an innocent bird from the sky. (Why would you want this?)"
-msgstr "Schieße einen unschuldigen Vogel vom Himmel. (Warum solltest du das wollen?)"
+msgstr "Schieße einen unschuldigen Vogel vom Himmel. (Warum solltest du das tun?)"
 
 #. Key:	AchievementYouMonsterName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -3028,7 +3028,7 @@ msgstr "ESTRANGED THE DEPARTURE wurde von einer Person in seiner Freizeit und mi
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr "Dieses Spiel ist eine eigenständige Fortsetzung des 2014  Half-Life 2 Mods ESTRANGED ACT I, erhältlich für Windows, Mac und Linux, kostenlos bei Steam."
+msgstr "Dieses Spiel ist eine eigenständige Fortsetzung des 2014 Half-Life 2 Mods ESTRANGED ACT I, erhältlich für Windows, Mac und Linux, kostenlos bei Steam."
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3056,7 +3056,7 @@ msgstr "AKTIV"
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,RadioSignalJammerLabel"
 msgid "UHF SIGNAL JAMMER STATUS:"
-msgstr "UHF SIGNAL STÖRSENDER STATUS:"
+msgstr "UHF-SIGNAL STÖRSENDER STATUS:"
 
 #. Key:	RemoteOverrideLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
