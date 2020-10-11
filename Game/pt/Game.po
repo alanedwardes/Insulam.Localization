@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-10-09 09:29\n"
-"PO-Revision-Date: 2020-10-09 09:29\n"
+"POT-Creation-Date: 2020-10-11 21:36\n"
+"PO-Revision-Date: 2020-10-11 21:36\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -187,6 +187,13 @@ msgstr "Premir uma tecla"
 msgctxt "Menus,ButtonAA"
 msgid "Anti-Aliasing"
 msgstr "Anti-Serrilhamento"
+
+#. Key:	ButtonAboutShorts
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonAboutShorts"
+msgid "About Shorts"
+msgstr ""
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -439,6 +446,27 @@ msgstr "Tela"
 msgctxt "Menus,ButtonShadows"
 msgid "Shadows"
 msgstr "Sombras"
+
+#. Key:	ButtonShort01
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShort01"
+msgid "Trainwreck"
+msgstr ""
+
+#. Key:	ButtonShort03
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShort03"
+msgid "Waterfront"
+msgstr ""
+
+#. Key:	ButtonShorts
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShorts"
+msgid "Shorts"
+msgstr ""
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3071,6 +3099,20 @@ msgstr "DESATIVAÇÃO REMOTA"
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
 msgstr "CARREGANDO"
+
+#. Key:	WindowAboutShorts1
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,WindowAboutShorts1"
+msgid "Shorts are short levels which are unconnected to the main story but do take place in the Estranged universe. The levels were added in content updates after the game was released."
+msgstr ""
+
+#. Key:	WindowAboutShorts2
+#. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
+#: /Game/Resources/Localisation/ST_Windows.ST_Windows
+msgctxt "Windows,WindowAboutShorts2"
+msgid "Please note: These levels do not have the same performance targets as main game, and may not have subtitle support for dialogue, or support for languages other than English."
+msgstr ""
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
