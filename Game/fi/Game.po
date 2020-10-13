@@ -1,11 +1,11 @@
-﻿# Game Finnish translation.
+# Game Finnish translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2020-10-11 21:36\n"
-"PO-Revision-Date: 2020-10-11 21:36\n"
+"PO-Revision-Date: 2020-10-13 23:47\n"
 "Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -193,7 +193,7 @@ msgstr "Anti-Aliasing"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAboutShorts"
 msgid "About Shorts"
-msgstr ""
+msgstr "Mitä ovat lyhyet?"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -452,21 +452,21 @@ msgstr "Varjot"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort01"
 msgid "Trainwreck"
-msgstr ""
+msgstr "Junaonnettomuus"
 
 #. Key:	ButtonShort03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort03"
 msgid "Waterfront"
-msgstr ""
+msgstr "Ranta"
 
 #. Key:	ButtonShorts
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShorts"
 msgid "Shorts"
-msgstr ""
+msgstr "Lyhyet"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3105,14 +3105,14 @@ msgstr "LADATAAN"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,WindowAboutShorts1"
 msgid "Shorts are short levels which are unconnected to the main story but do take place in the Estranged universe. The levels were added in content updates after the game was released."
-msgstr ""
+msgstr "Lyhyet ovat lyhyitä kenttiä, jotka eivät ole osana päätarinaa mutta sijoittuvat Estranged-ympäristöön. Nämä kentät ovat pelin julkaisun jälkeen lisättyä sisältöä."
 
 #. Key:	WindowAboutShorts2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,WindowAboutShorts2"
 msgid "Please note: These levels do not have the same performance targets as main game, and may not have subtitle support for dialogue, or support for languages other than English."
-msgstr ""
+msgstr "Huomioitavaa: Näiden kenttien tekniset vaatimukset voivat poiketa pääpelistä eikä niille välttämättä ole keskustelujen tekstitystä tai muuta kielitukea englannin lisäksi."
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
