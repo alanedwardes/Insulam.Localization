@@ -1,4 +1,4 @@
-﻿# Game German translation.
+# Game German translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -193,7 +193,7 @@ msgstr "Kantenglättung"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAboutShorts"
 msgid "About Shorts"
-msgstr ""
+msgstr "Über kurze Spiele"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -452,21 +452,21 @@ msgstr "Schatten"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort01"
 msgid "Trainwreck"
-msgstr ""
+msgstr "Zugunglück"
 
 #. Key:	ButtonShort03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort03"
 msgid "Waterfront"
-msgstr ""
+msgstr "Ufergegend"
 
 #. Key:	ButtonShorts
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShorts"
 msgid "Shorts"
-msgstr ""
+msgstr "Kurze Spiele"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -3105,14 +3105,14 @@ msgstr "LADE...."
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,WindowAboutShorts1"
 msgid "Shorts are short levels which are unconnected to the main story but do take place in the Estranged universe. The levels were added in content updates after the game was released."
-msgstr ""
+msgstr "Kurze Spiele sind kleine Levels, die nicht mit der Hauptgeschichte verbunden sind, aber im Estranged-Universum stattfinden. Diese Levels wurden erst in den Inhalts-Updates hinzugefügt, nachdem das Spiel veröffentlicht wurde."
 
 #. Key:	WindowAboutShorts2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,WindowAboutShorts2"
 msgid "Please note: These levels do not have the same performance targets as main game, and may not have subtitle support for dialogue, or support for languages other than English."
-msgstr ""
+msgstr "Beachte bitte: Diese Level haben nicht die gleichen Leistungsziele wie das Hauptspiel und unterstützen möglicherweise keine Untertitel für den Dialog oder andere Sprachen wie Englisch."
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
