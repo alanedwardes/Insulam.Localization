@@ -2110,7 +2110,7 @@ msgstr ""
 "\r\n"
 "感谢，\r\n"
 "\r\n"
-"阿克全球运营识别证服务\r\n"
+"阿尔克全球运营识别证服务\r\n"
 "\r\n"
 "这封电子邮件为自动发送，请不要回复。"
 
@@ -2154,7 +2154,7 @@ msgstr ""
 "感谢，\r\n"
 "\r\n"
 "雨果·韦伯\r\n"
-"阿克全球设施高级安全支持专家"
+"阿尔克全球设施高级安全支持专家"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2203,7 +2203,7 @@ msgstr ""
 "你的，\r\n"
 "\r\n"
 "雨果·韦伯\r\n"
-"阿克全球设施高级安全支持专家"
+"阿尔克全球设施高级安全支持专家"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2296,7 +2296,7 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
 msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
-msgstr "此信息已由阿克安全扫描程序扫描过。应该没有恶意软件。"
+msgstr "此信息已由阿尔克安全扫描程序扫描过。应该没有恶意软件。"
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2359,7 +2359,7 @@ msgstr "废弃哨所"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr "战斗或逃避"
+msgstr "战斗或逃生"
 
 #. Key:	Contributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -2590,7 +2590,7 @@ msgstr "对当地制药公司——菲利普制药公司的收购于上周晚些
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph02"
 msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
-msgstr "消息传出之际，阿克公司宣布在该地区进行扩张的计划，以进行某些未经公布的研究。"
+msgstr "消息传出之际，阿尔克公司宣布在该地区进行扩张的计划，以进行某些未经公布的研究。"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2618,14 +2618,14 @@ msgstr "本·克拉莫克，是菲利普制药公司的一名前雇员，对于�
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph06"
 msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
-msgstr "据报道，利阿姆兄弟矿场的目前所有者也正在与阿克公司进行谈判。 该矿场靠近菲利普制药工厂，而且似乎对阿克公司具有战略价值。"
+msgstr "据报道，利阿姆兄弟矿场的目前所有者也正在与阿尔克公司进行谈判。 该矿场靠近菲利普制药工厂，而且似乎对阿尔克公司具有战略价值。"
 
 #. Key:	Paragraph07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph07"
 msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
-msgstr "我们联系了阿克公司，但是他们拒绝发表任何评论，并表示说“公司已经遵守了当地所有的劳动法，并向所有被重新安置的员工提供了公平的补偿”。 我们发现，由于“赔偿”属于保密协议的一部分，因此提供给前雇员的实际货币数字将无从知晓。"
+msgstr "我们联系了阿尔克公司，但是他们拒绝发表任何评论，并表示说“公司已经遵守了当地所有的劳动法，并向所有被重新安置的员工提供了公平的补偿”。 我们发现，由于“赔偿”属于保密协议的一部分，因此提供给前雇员的实际货币数字将无从知晓。"
 
 #. Key:	Paragraph08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -3334,7 +3334,7 @@ msgstr "时间"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "AFTER THE SHIPWRECK"
-msgstr "触礁之后"
+msgstr "沉船之后"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
