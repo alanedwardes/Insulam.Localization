@@ -1,24 +1,25 @@
-﻿# Game Chinese (Simplified) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2020-10-11 21:36\n"
-"PO-Revision-Date: 2020-10-11 21:36\n"
+"PO-Revision-Date: 2023-04-08 14:19+0800\n"
+"Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh-Hans\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Key:	HintAchievementNotAchieved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintAchievementNotAchieved"
 msgid "\"{Title}\" not progressed (cheats used)"
-msgstr "《{Title}》 未进行 （使用作弊）"
+msgstr "成就“{Title}”的进度无效（已使用作弊）"
 
 #. Key:	HintCrouch
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -39,21 +40,21 @@ msgstr "潜水"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintDriveBoat"
 msgid "Drive boat"
-msgstr "驾驶船"
+msgstr "驾驶船只"
 
 #. Key:	HintEnterBoat
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintEnterBoat"
 msgid "Enter boat"
-msgstr "进入船"
+msgstr "进入船只"
 
 #. Key:	HintFireM9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFireM9"
 msgid "Fire M9"
-msgstr "消防M9"
+msgstr "使用 M9 手枪开火"
 
 #. Key:	HintFlashlight
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -67,7 +68,7 @@ msgstr "切换手电筒"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlee"
 msgid "Flee"
-msgstr "逃跑"
+msgstr "逃生"
 
 #. Key:	HintGameSaved
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -81,14 +82,14 @@ msgstr "游戏已保存"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintInteract"
 msgid "Interact"
-msgstr "相互作用"
+msgstr "互动"
 
 #. Key:	HintJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr "上跳"
+msgstr "向上跳"
 
 #. Key:	HintLoading
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -109,7 +110,7 @@ msgstr "四处走走"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintOpenGate"
 msgid "Open gate"
-msgstr "打开门"
+msgstr "打开大门"
 
 #. Key:	HintPickaxe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -130,14 +131,14 @@ msgstr "拿起物体"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSprintJump"
 msgid "Run and Jump"
-msgstr "跑步和跳跃"
+msgstr "奔跑和跳跃"
 
 #. Key:	HintSwimUp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintSwimUp"
 msgid "Swim up"
-msgstr "游上来"
+msgstr "向上游"
 
 #. Key:	HintThrowRock
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -158,7 +159,7 @@ msgstr "打开电视"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintUseMouse"
 msgid "Control computer"
-msgstr "控制电脑"
+msgstr "操控电脑"
 
 #. Key:	BindingNotSet
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -193,7 +194,7 @@ msgstr "抗锯齿"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonAboutShorts"
 msgid "About Shorts"
-msgstr ""
+msgstr "关于“精简版”"
 
 #. Key:	ButtonAdvanced
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -214,7 +215,7 @@ msgstr "应用更改"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonArcade"
 msgid "Arcade"
-msgstr "拱廊"
+msgstr "游乐场"
 
 #. Key:	ButtonAutoDetectSettings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -235,56 +236,56 @@ msgstr "返回"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter1"
 msgid "Chapter 1"
-msgstr "第1章"
+msgstr "第 1 章"
 
 #. Key:	ButtonChapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter2"
 msgid "Chapter 2"
-msgstr "第2章"
+msgstr "第 2 章"
 
 #. Key:	ButtonChapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter3"
 msgid "Chapter 3"
-msgstr "第3章"
+msgstr "第 3 章"
 
 #. Key:	ButtonChapter4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonChapter4"
 msgid "Chapter 4"
-msgstr "第4章"
+msgstr "第 4 章"
 
 #. Key:	ButtonControllerBindings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControllerBindings"
 msgid "Controller Bindings"
-msgstr "控制器绑定"
+msgstr "控制器按键绑定"
 
 #. Key:	ButtonControlOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonControlOptions"
 msgid "Controls"
-msgstr "控制"
+msgstr "控制项"
 
 #. Key:	ButtonCredits
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonCredits"
 msgid "Load Credits"
-msgstr "学分"
+msgstr "查看制作人员名单"
 
 #. Key:	ButtonEffects
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonEffects"
 msgid "Effects"
-msgstr "效果"
+msgstr "特效"
 
 #. Key:	ButtonExit
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -298,14 +299,14 @@ msgstr "退出"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExitToMenu"
 msgid "Exit to Menu"
-msgstr "退出菜单"
+msgstr "退出至主菜单"
 
 #. Key:	ButtonExtras
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonExtras"
 msgid "Extras"
-msgstr "附加功能"
+msgstr "额外选项"
 
 #. Key:	ButtonFeedback
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -326,14 +327,14 @@ msgstr "叶子"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGameplayOptions"
 msgid "Gameplay"
-msgstr "游戏内容"
+msgstr "游戏设置"
 
 #. Key:	ButtonGraphicsOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonGraphicsOptions"
 msgid "Graphics"
-msgstr "图形"
+msgstr "画面设置"
 
 #. Key:	ButtonGuides
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -347,28 +348,28 @@ msgstr "指南"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHordeWarehouse"
 msgid "Warehouse Horde"
-msgstr "仓库拱廊"
+msgstr "仓库生存"
 
 #. Key:	ButtonHUD
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonHUD"
 msgid "Interface"
-msgstr "接口"
+msgstr "界面设置"
 
 #. Key:	ButtonJoinDiscord
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonJoinDiscord"
 msgid "Join Discord"
-msgstr "加入Discord"
+msgstr "加入 Discord 服务器"
 
 #. Key:	ButtonKeyboardBindings
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonKeyboardBindings"
 msgid "Keyboard Bindings"
-msgstr "键盘绑定"
+msgstr "按键绑定"
 
 #. Key:	ButtonLicenses
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -396,7 +397,7 @@ msgstr "新游戏"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonPostProcess"
 msgid "Post-process"
-msgstr "后期过程"
+msgstr "后期处理"
 
 #. Key:	ButtonPrelude
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -410,14 +411,14 @@ msgstr "序幕"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonRange"
 msgid "Shooting Range"
-msgstr "射击范围"
+msgstr "训练靶场"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonResume"
 msgid "Resume Game"
-msgstr "继续"
+msgstr "继续游戏"
 
 #. Key:	ButtonSaveGame
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -431,7 +432,7 @@ msgstr "保存游戏"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSaveLoad"
 msgid "Save / Load"
-msgstr "保存/加载"
+msgstr "保存/载入"
 
 #. Key:	ButtonScreenOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -452,21 +453,21 @@ msgstr "阴影"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort01"
 msgid "Trainwreck"
-msgstr ""
+msgstr "火车残骸"
 
 #. Key:	ButtonShort03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort03"
 msgid "Waterfront"
-msgstr ""
+msgstr "海滨"
 
 #. Key:	ButtonShorts
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShorts"
 msgid "Shorts"
-msgstr ""
+msgstr "精简版"
 
 #. Key:	ButtonSoundOptions
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -480,7 +481,7 @@ msgstr "声音"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonSteamForums"
 msgid "Steam Forums"
-msgstr "Steam论坛"
+msgstr "Steam 论坛"
 
 #. Key:	ButtonTextures
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -501,7 +502,7 @@ msgstr "可视距离"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxCommentary"
 msgid "In-Game Commentary"
-msgstr "开发者评论"
+msgstr "开发者注释"
 
 #. Key:	CheckboxDisableAmbientOcclusion
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -536,21 +537,21 @@ msgstr "禁用对象突出显示"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableHUD"
 msgid "Disable HUD"
-msgstr "禁用HUD"
+msgstr "禁用 HUD"
 
 #. Key:	CheckboxDisableMotionBlur
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr "禁用运动模糊"
+msgstr "禁用动态模糊"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableSceneFringe"
 msgid "Disable Scene Fringe"
-msgstr "禁用场景边缘"
+msgstr "禁用屏幕黑边"
 
 #. Key:	CheckboxDisableSubtitles
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -599,7 +600,7 @@ msgstr "反转控制器"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxInvertMouse"
 msgid "Invert Mouse"
-msgstr "鼠标反转"
+msgstr "反转鼠标"
 
 #. Key:	CheckboxLaptopMode
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -613,7 +614,7 @@ msgstr "笔记本模式"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxLaptopModeHelp"
 msgid "Limit the frame rate to 30FPS to keep mobile devices such as laptops cooler when playing."
-msgstr "将帧速率限制为30FPS，以便在播放时保持笔记本电脑等移动设备的温度更低。"
+msgstr "将帧速率限制为 30FPS，以便降低在使用笔记本电脑等移动设备游玩时的功耗和温度。"
 
 #. Key:	CheckboxUsePlatformCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -627,7 +628,7 @@ msgstr "使用系统语言"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxUseSimpleSubtitleFont"
 msgid "Use Simple Subtitle Font"
-msgstr "使用简单字幕字体"
+msgstr "使用 Simple 字幕字体"
 
 #. Key:	CheckboxVSync
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -641,7 +642,7 @@ msgstr "垂直同步"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownAAMethod"
 msgid "AA Method"
-msgstr "AA方法"
+msgstr "抗锯齿模式"
 
 #. Key:	DropdownCulture
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -690,7 +691,7 @@ msgstr "全屏"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,DropdownItemWindowModelBorderless"
 msgid "Borderless"
-msgstr "无边界"
+msgstr "无边框"
 
 #. Key:	DropdownItemWindowModeWindowed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -718,14 +719,14 @@ msgstr "窗口模式"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTag"
 msgid "THE DEPARTURE"
-msgstr ""
+msgstr "逃生"
 
 #. Key:	GameTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,GameTitle"
 msgid "ESTRANGED"
-msgstr "ESTRANGED"
+msgstr "隔离"
 
 #. Key:	LabelAchievementName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -746,7 +747,7 @@ msgstr "成就"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelEnterCheat"
 msgid "Enter Cheat"
-msgstr "输入作弊"
+msgstr "输入作弊指令"
 
 #. Key:	LabelExampleSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -760,21 +761,21 @@ msgstr "字幕示例"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptions"
 msgid "Experimental Options"
-msgstr "实验选项"
+msgstr "实验性选项"
 
 #. Key:	LabelExperimentalOptionsHelp
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelExperimentalOptionsHelp"
 msgid "These options are experimental and may be lost."
-msgstr "这些选项是实验性的，可能会丢失。"
+msgstr "这些选项是实验性的，可能会在之后的版本移除。"
 
 #. Key:	LabelGlobalStats
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,LabelGlobalStats"
 msgid "Global"
-msgstr "全局"
+msgstr "全球"
 
 #. Key:	LabelStatisticName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -816,7 +817,7 @@ msgstr "控制器灵敏度"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderEffectsVolume"
 msgid "Effects Volume"
-msgstr "效果音量"
+msgstr "音效音量"
 
 #. Key:	SliderFieldOfView
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -830,7 +831,7 @@ msgstr "视场"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderGamma"
 msgid "Gamma"
-msgstr "伽马"
+msgstr "伽马值"
 
 #. Key:	SliderMouseSensitivity
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -858,7 +859,7 @@ msgstr "屏幕百分比"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,SliderSubtitleFontSizeMultiplier"
 msgid "Subtitle Font Size"
-msgstr "副标题字号"
+msgstr "字幕字体大小"
 
 #. Key:	SliderVoiceVolume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -872,63 +873,63 @@ msgstr "语音音量"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipAchievementGlobalPercentage"
 msgid "{Percent}% of all players have {Achievement}"
-msgstr "{Percent}%玩家已获得{Achievement}"
+msgstr "{Percent}% 的玩家已获得成就“{Achievement}”"
 
 #. Key:	TooltipInvertController
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipInvertController"
 msgid "Invert the controller Y axis"
-msgstr "反转控制器Y轴"
+msgstr "反转控制器 Y 轴"
 
 #. Key:	TooltipInvertMouse
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,TooltipInvertMouse"
 msgid "Invert the mouse Y axis"
-msgstr "反转鼠标Y轴"
+msgstr "反转鼠标 Y 轴"
 
 #. Key:	ArcheologistDiary1Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
-msgstr "这里的骷髅被证实是水手和海盗。"
+msgstr "考古学家（录音）：我们已确认这些骷髅原本是水手和海盗。"
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part2"
 msgid "Our best guess is that they were fleeing the British Navy and sought refuge on the island."
-msgstr "我们猜最有可能是他们逃离英国海军，在岛上避难。"
+msgstr "我们最有可能的猜测，是他们当时正在逃离英国海军，然后来到了岛上避难。"
 
 #. Key:	ArcheologistDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part1"
 msgid "Archaeologist (recording): The pirates and sailors were involved in some kind of internal conflict."
-msgstr "海盗和水手产生了某种内鬥。"
+msgstr "考古学家（录音）：海盗和水手发生了某种内斗。"
 
 #. Key:	ArcheologistDiary2Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part2"
 msgid "We were assuming it was over the precious artefacts that we recovered from this cave."
-msgstr "我们假设那是为了从这个洞穴中找出的珍贵文物。"
+msgstr "我们假设那是为了这些我们从洞穴中找出的珍贵文物。"
 
 #. Key:	ArcheologistDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary2Part3"
 msgid "We think that they were likely inebriated at the time, and there are bite marks on some of the bones that appear to be human."
-msgstr "我们认为他们当时可能已经醉了，而且在一些看似人类的骨头上有咬痕。"
+msgstr "我们认为他们当时很可能已经醉了，而且在一些骨头上有类似人类的咬痕。"
 
 #. Key:	ArcheologistDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary3Part1"
 msgid "Archaeologist (recording): We had to extract some of the team, as they fell ill. We have to assume they disturbed something near the bodies."
-msgstr "因为有人生病时，我们不得不调离部分团队。 我们只能假设他们在尸体附近打扰了某些东西。"
+msgstr "考古学家（录音）：因为有人生病时，我们不得不调离部分团队。 我们只能假设他们在尸体附近打扰了某些东西。"
 
 #. Key:	ArcheologistDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -970,7 +971,7 @@ msgstr "我们认为它完全无害，我们不认为这会是一个问题。"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part1"
 msgid "This is Johnathan Derril. I'm recording this for whoever finds it."
-msgstr "我是乔纳森·德瑞尔。我的这段录音是给找到它的人听。"
+msgstr "我是乔纳森·德瑞尔。我这段录音留给找到它的每个人。"
 
 #. Key:	JohnDiary1Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1005,21 +1006,21 @@ msgstr "那些人掩盖不了岛上发生的事情。"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part3"
 msgid "I made it here on a dinghy after escaping a bombing by military aircraft."
-msgstr "军机轰炸后，我乘小艇逃到了这里。"
+msgstr "在军方的战斗机轰炸后，我乘小艇逃到了这里。"
 
 #. Key:	JohnDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part4"
 msgid "They wanted to destroy any evidence of what happened there."
-msgstr "那些人想毁掉那里发生过的一切证据。"
+msgstr "那些人想毁掉那里发生过的一切的证据。"
 
 #. Key:	JohnDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part5"
 msgid "Finding this research station was nothing short of a miracle."
-msgstr "发现研究站简直是个奇迹。"
+msgstr "我会发现这个研究站简直是个奇迹。"
 
 #. Key:	JohnDiary1Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1033,7 +1034,7 @@ msgstr "我还没有弄清这座研究站是干什么用的，它属于谁，但
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part7"
 msgid "...it was easy to get into, and has lots of supplies."
-msgstr "......轻而易举就能进去，而且里边有很多补给。"
+msgstr "......我轻而易举就进来了，而且里边有很多补给。"
 
 #. Key:	JohnDiary1Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1054,14 +1055,14 @@ msgstr "......留给明天去想吧。"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "这是，呃，利阿姆·琼斯的音频日记，＃1，呃，"
+msgstr "利阿姆·琼斯（录音）：这是，呃，利阿姆·琼斯的音频日记，编号 1，呃"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part2"
 msgid "We just started studying the algae, and uh"
-msgstr "我们刚刚研究了这种藻类，呃"
+msgstr "我们刚刚研究了这种藻类，然后呃"
 
 #. Key:	LiamJonesDiary1Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1082,14 +1083,14 @@ msgstr "所以，呃，这真的很酷！呃，我现在拿到了一点样本…
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part5"
 msgid "...i'm going to leave in my office for a bit, just to see what happens to it."
-msgstr "我现在要把它放在我的办公室，然后看看之后会发生什么。"
+msgstr "...我要把它放在我的办公室，然后看看之后会发生什么。"
 
 #. Key:	LiamJonesDiary2Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
-msgstr "这是呃，利亚姆琼斯呃，的日记＃2"
+msgstr "利阿姆·琼斯（录音）：这是呃，利阿姆·琼斯呃，的日记，编号 2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1103,14 +1104,14 @@ msgstr "就那样做吧，霍桑，让他们知道我弄丢了，我需要一个
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "或者你甚至可以说我需要一个备用识别证，另一个......我不知道它去了哪里"
+msgstr "或者你甚至可以说我需要一个备用识别证，又一个......我不知道上一个去了哪里"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "......反正基本上我就是需要另一个识别证"
+msgstr "......总之就是我需要另一个识别证"
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1131,7 +1132,7 @@ msgstr "然后给我弄一个新识别证，那就太好了。 好。"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part2"
 msgid "The samples are doing OK, we're just observing them now to see what happens"
-msgstr "样本一切很好，我们现在只是观察它们，看看会发生什么"
+msgstr "样本一切正常，我们现在只是观察它们，看看会发生什么"
 
 #. Key:	LiamJonesDiary2Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1145,35 +1146,35 @@ msgstr "总公司要求一些样本，所以我们会用箱子运送一些样本
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part4"
 msgid "Also, Hawthorne, when you get the chance, I lost my security badge..."
-msgstr "还有，霍桑，，我弄丢了安全识别证，如果有机会的话......"
+msgstr "还有，霍桑，我弄丢了安全识别证，如果有机会的话......"
 
 #. Key:	LiamJonesDiary2Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "但当你谈到识别证的时候，人们只会说.....呃......就像......"
+msgstr "但当你和管识别证的人沟通的时候，你就说.....呃......就说......"
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part6"
 msgid "I don't know, someone- no, no, someone didn't take it, that's a bad reason"
-msgstr "我不知道，有人，不，不，没有人拿走，这是一个烂理由"
+msgstr "我想想，有人把它—— 不，不，没有人把它拿走，这是一个烂理由"
 
 #. Key:	LiamJonesDiary2Part7
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part7"
 msgid "A fox, snuck in, and took my badge, and um, now I can't get into the main facility"
-msgstr "一只狐狸，偷偷溜进来，叨走了我的识别证，嗯，所以现在我无法进入主设施"
+msgstr "这样说吧，一只狐狸，偷偷溜进来，叨走了我的识别证，嗯，所以现在我无法进入主设施"
 
 #. Key:	LiamJonesDiary2Part8
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part8"
 msgid "Um so, if you could just tell them that... because last time it happened, "
-msgstr "嗯，如果你能告诉他们......因为上次发生过了，"
+msgstr "嗯，如果你能告诉他们......因为上次丢了之后，"
 
 #. Key:	LiamJonesDiary2Part9
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1187,35 +1188,35 @@ msgstr "他们说这是我的错，所以不太愿意换新的给我"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "我是利亚姆琼斯，现场活样本安全工程师。我们刚刚准许"
+msgstr "利阿姆·琼斯（录音）：我是利阿姆·琼斯，现场的活体样本安全工程师。我们刚刚准许"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part2"
 msgid "Dr Frederick Prezella, into the observation room, uh, he became violent"
-msgstr "弗雷德里克普雷泽拉博士，进入观察室，呃，他变得暴力"
+msgstr "让弗雷德里克·普雷泽拉博士，进入观察室，呃，他变得很暴力"
 
 #. Key:	LiamJonesDiary3Part3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part3"
 msgid "and attacked one of my members of staff so we're going to keep him"
-msgstr "并袭击了我的一名员工，所以我们要留住他"
+msgstr "还袭击了我的一名员工，所以我们要让他..."
 
 #. Key:	LiamJonesDiary3Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part4"
 msgid "under observation and probably move him off the island as soon as we can."
-msgstr "接受观察，然后大概会尽快将他带离岛上。"
+msgstr "继续接受观察，然后应该会尽快将他带离小岛。"
 
 #. Key:	LiamJonesDiary3Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part5"
 msgid "We're not sure what caused this."
-msgstr "我们不确定是什么原因造成的。"
+msgstr "我们不确定是什么原因导致的。"
 
 #. Key:	ActionConsole
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1243,7 +1244,7 @@ msgstr "切换手电筒"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionInteract"
 msgid "Interact"
-msgstr "相互作用"
+msgstr "互动"
 
 #. Key:	ActionJump
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1292,14 +1293,14 @@ msgstr "向右移动"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionPrimaryAttack"
 msgid "Primary Attack"
-msgstr "主攻击"
+msgstr "主要攻击"
 
 #. Key:	ActionQuickLoad
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionQuickLoad"
 msgid "Quick Load"
-msgstr "快速加载"
+msgstr "快速载入"
 
 #. Key:	ActionQuickSave
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
@@ -1313,21 +1314,21 @@ msgstr "快速保存"
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionReload"
 msgid "Reload"
-msgstr "重装武器"
+msgstr "装填武器"
 
 #. Key:	ActionSecondaryAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSecondaryAttack"
 msgid "Secondary Attack"
-msgstr "二次攻击"
+msgstr "次要攻击"
 
 #. Key:	ActionSprint
 #. SourceLocation:	/Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 #: /Game/Resources/Localisation/ST_ActionAxisNames.ST_ActionAxisNames
 msgctxt "ST_ActionAxisNames,ActionSprint"
 msgid "Sprint"
-msgstr "冲刺"
+msgstr "奔跑"
 
 #. Key:	CallElevator
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1341,49 +1342,61 @@ msgstr "呼叫电梯"
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,EnterTwoFactor01"
 msgid "Enter two-factor authentication code to override"
-msgstr "输入双因素身份验证代码"
+msgstr "输入双重验证代码以手动超驰封锁"
 
 #. Key:	LockdownBody01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody01"
-msgid "ANOMALY DETECTED\r\nOverrides located in areas A and B"
-msgstr "检测到不规则\n区域A和B中的界面"
+msgid ""
+"ANOMALY DETECTED\r\n"
+"Overrides located in areas A and B"
+msgstr ""
+"检测到异常\r\n"
+"在 A 区和 B 区发现系统锁定"
 
 #. Key:	LockdownBody02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody02"
-msgid "AREA DESIGNATED SAFE\r\nWORKSTATION LOCKED"
-msgstr "区域是安全的"
+msgid ""
+"AREA DESIGNATED SAFE\r\n"
+"WORKSTATION LOCKED"
+msgstr ""
+"已确定区域安全\r\n"
+"工作站已锁定"
 
 #. Key:	LockdownBody03
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownBody03"
-msgid "Enter passcode to override\r\nHINT: Specimen count"
-msgstr "输入密码以覆盖\r\n提示：标本计数"
+msgid ""
+"Enter passcode to override\r\n"
+"HINT: Specimen count"
+msgstr ""
+"输入密码以覆盖\r\n"
+"提示：标本计数"
 
 #. Key:	LockdownTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownTitle01"
 msgid "LOCKDOWN ENABLED"
-msgstr "安全锁已启用"
+msgstr "封锁已启动"
 
 #. Key:	LockdownTitle02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,LockdownTitle02"
 msgid "LOCKDOWN DISABLED"
-msgstr "安全锁被禁用"
+msgstr "封锁已解除"
 
 #. Key:	PhoneTitle01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 #: /Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
 msgctxt "ST_ArqueCapture01,PhoneTitle01"
 msgid "AUTH CODE"
-msgstr "授权码"
+msgstr "验证码"
 
 #. Key:	ReSendCode
 #. SourceLocation:	/Game/Resources/Localisation/ST_ArqueCapture01.ST_ArqueCapture01
@@ -1397,7 +1410,7 @@ msgstr "重新发送验证码"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionAlarmClockRinging"
 msgid "[Alarm clock rings]"
-msgstr "[闹钟声响]"
+msgstr "[闹钟响起]"
 
 #. Key:	CaptionAlarmClockTicking
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1418,7 +1431,7 @@ msgstr "[砰的一声，身体倒地]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionChainlinkFence"
 msgid "[Chainlink fence rattles]"
-msgstr "[篱笆声响]"
+msgstr "[栅栏声响]"
 
 #. Key:	CaptionDoorBurstOpen
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1467,28 +1480,28 @@ msgstr "[枪声]"
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionHeavyMetalDoorClose"
 msgid "[Heavy metal door closes]"
-msgstr "[重金属门关闭]"
+msgstr "[沉重金属门关闭]"
 
 #. Key:	CaptionInfectedAttack
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedAttack"
 msgid "[Infected human, attack]"
-msgstr "[感染人类，攻击]"
+msgstr "[感染者，攻击]"
 
 #. Key:	CaptionInfectedChasing
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedChasing"
 msgid "[Infected human, begin chasing]"
-msgstr "[感染人类，追逐]"
+msgstr "[感染者，追逐]"
 
 #. Key:	CaptionInfectedGroan
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
 #: /Game/Resources/Localisation/ST_Captions.ST_Captions
 msgctxt "ST_Captions,CaptionInfectedGroan"
 msgid "[Infected human, groan]"
-msgstr "[感染人类，呻吟]"
+msgstr "[感染者，呻吟]"
 
 #. Key:	CaptionOnimousMusic
 #. SourceLocation:	/Game/Resources/Localisation/ST_Captions.ST_Captions
@@ -1579,42 +1592,42 @@ msgstr "[轮椅在水泥地面上发出声响]"
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01a"
 msgid "Arque Guard: You thought we'd just let you keep wandering around the island, killing Sokol-Glockner personnel?"
-msgstr "你以为我们会让你一直在岛上闲逛，杀死索科尔 格洛克纳的人？"
+msgstr "你以为我们会让你一直在岛上闲逛，杀死“猎鹰格洛克”人员？"
 
 #. Key:	CaptureGuard01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01b"
 msgid "You're a disgrace. You think you know what's going on here? You think it's something YOU can stop?"
-msgstr "你是个耻辱。你以为你知道这里发生了什么？ 你以为这是你可以阻止的吗？"
+msgstr "你可真丢脸。你以为你知道这里发生了什么？ 你以为这是你可以阻止的吗？"
 
 #. Key:	CaptureGuard01c
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01c"
 msgid "You're an insect. An insect a multi-national corporation like Arque has no problem swatting away."
-msgstr "你是一只小虫。 像阿克这样的跨国公司可以轻松踩死的小虫。"
+msgstr "你是个无名小卒。像阿尔克这样的跨国公司动动手就可以捏死你。"
 
 #. Key:	CaptureGuard01d
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01d"
 msgid "We took the liberty of searching your cabin over on the Shetland isles. It really is too bad that the cabin burned up, with your mangled body inside."
-msgstr "我们可以随便搜索你在设得兰岛上的小屋。小屋内部烧毁，而你残缺的尸身在里面，真是太惨了。"
+msgstr "我们可以随便搜查你在设得兰岛上的小屋。小屋烧的外焦里嫩，而你残缺的尸身在里面，真是太惨了。"
 
 #. Key:	CaptureGuard01e
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01e"
 msgid "Why are you here? You think you can change what's happening? We're protecting the world, don't you understand that?"
-msgstr "你为什么会在这？ 你认为你可以改变正在发生的事情吗？ 我们在保护世界，你不明白吗？"
+msgstr "你为什么会在这？ 你认为你可以改变正在发生的事情吗？ 我们是在保护世界，你明白吗？"
 
 #. Key:	CaptureGuard01f
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01f"
 msgid "This is all part of Arque's very necessary precautionary plan, one that you will NOT be interfering with."
-msgstr "这是阿克非常必要预防计划的一部分，而你无法干涉。"
+msgstr "这是阿尔克极其必要的预防计划的一部分，而你无法干涉。"
 
 #. Key:	CaptureGuard01g
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
@@ -1628,35 +1641,35 @@ msgstr "数百万、数千万、甚至数十亿人。你不懂我们在这里保
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard01h"
 msgid "Tell me who you're co-operating with. Otherwise, Hell isn't a severe enough word, that will describe the pain that you'll be put through."
-msgstr "告诉我你和谁合作。否则，地狱就不再是一个可怕的词，它还是你将要经历的痛苦。"
+msgstr "告诉我你和谁合作。否则，“地狱”这个词也无法形容你将要经历的痛苦。"
 
 #. Key:	CaptureGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 #: /Game/Resources/Localisation/ST_CaptureGuard01.ST_CaptureGuard01
 msgctxt "ST_CaptureGuard01,CaptureGuard02"
 msgid "Who'd have thought? Sokol-Glockner, one of the biggest private security contractors in the world, knows how to inflict pain."
-msgstr "谁有想过呢？身为世界上最大的私人保安承包商之一，索科尔格洛克纳当然知道如何施加痛苦。"
+msgstr "谁有想过呢？作为世界上最大的私人安保承包商之一，“猎鹰格洛克”当然知道如何制造痛苦。"
 
 #. Key:	AchievementAudiophileDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementAudiophileDescription"
 msgid "Listen to all tape recorders."
-msgstr "收听所有录音"
+msgstr "收听所有录音。"
 
 #. Key:	AchievementAudiophileName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementAudiophileName"
 msgid "Audiophile"
-msgstr "高保真音响爱好者"
+msgstr "音频爱好者"
 
 #. Key:	AchievementBaristaDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementBaristaDescription"
 msgid "Tidy the coffee cups from the refreshments table in the Arque teaching room."
-msgstr "整理Arque教学室茶点桌上的咖啡杯。"
+msgstr "整理阿尔克教学室茶点桌上的咖啡杯。"
 
 #. Key:	AchievementBaristaName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1670,35 +1683,35 @@ msgstr "咖啡师"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementDeadlyFishermanDescription"
 msgid "Get 5 headshots with a firearm weapon."
-msgstr "用枪械完成 5 次爆头。"
+msgstr "用枪支完成 5 次爆头。"
 
 #. Key:	AchievementDeadlyFishermanName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementDeadlyFishermanName"
 msgid "Deadly Fisherman"
-msgstr "致命渔夫"
+msgstr "夺命渔夫"
 
 #. Key:	AchievementFlushedAwayDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementFlushedAwayDescription"
 msgid "Flush 10 items in the Fisherman's cabin."
-msgstr "在费舍曼小屋顺马桶冲走 10 个物品。"
+msgstr "在渔夫木屋用马桶冲走 10 个物品。"
 
 #. Key:	AchievementFlushedAwayName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementFlushedAwayName"
 msgid "Flushed Away"
-msgstr "顺马桶冲走"
+msgstr "来也匆匆，去也冲冲"
 
 #. Key:	AchievementIsolatedDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementIsolatedDescription"
 msgid "Finish the game."
-msgstr "完成游戏。"
+msgstr "通关游戏。"
 
 #. Key:	AchievementIsolatedName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1726,105 +1739,105 @@ msgstr "神射手"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementMasterWaterCollectorDescription"
 msgid "Take John's bucket to the end of the game."
-msgstr "把约翰的水桶带到游戏的最后。"
+msgstr "将约翰的水桶携带至游戏结束。"
 
 #. Key:	AchievementMasterWaterCollectorName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementMasterWaterCollectorName"
 msgid "Master Water Collector"
-msgstr "主集水器"
+msgstr "水桶收藏大师"
 
 #. Key:	AchievementPhotogenicDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementPhotogenicDescription"
 msgid "Destroy Arque security cameras."
-msgstr "毁掉 Arque 的监控摄像头。"
+msgstr "破坏阿尔克的监控摄像头。"
 
 #. Key:	AchievementPhotogenicName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementPhotogenicName"
 msgid "Photogenic"
-msgstr "上镜的"
+msgstr "拒绝拍照"
 
 #. Key:	AchievementTrippingHazardDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTrippingHazardDescription"
 msgid "Remove a tripping hazard by creating a slipping hazard."
-msgstr "通过产生滑倒危险来消除绊倒危险。"
+msgstr "通过制造滑倒危险来消除跌倒危险。"
 
 #. Key:	AchievementTrippingHazardName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTrippingHazardName"
 msgid "Tripping Hazard"
-msgstr "绊倒危险"
+msgstr "跌倒危险"
 
 #. Key:	AchievementTunedInDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTunedInDescription"
 msgid "Align the model satellite dish with its real-world counterpart."
-msgstr "将模型碟形卫星天线与其实际的碟形卫星天线对齐。"
+msgstr "将模型卫星接收天线与实际的卫星接收天线对齐。"
 
 #. Key:	AchievementTunedInName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTunedInName"
 msgid "Tuned In"
-msgstr "收听"
+msgstr "收听信号"
 
 #. Key:	AchievementTwoBirdsDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTwoBirdsDescription"
 msgid "Kill two infected with headshots using a single bullet."
-msgstr "用一颗子弹杀死两个感染者。"
+msgstr "使用一颗子弹杀死两名感染者。"
 
 #. Key:	AchievementTwoBirdsName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementTwoBirdsName"
 msgid "Two Birds"
-msgstr "两只鸟"
+msgstr "一箭双雕"
 
 #. Key:	AchievementWeatherForDucksDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementWeatherForDucksDescription"
 msgid "Let the ducks swim in the Fisherman's bath."
-msgstr "让鸭子在费舍曼的浴池里游泳。"
+msgstr "让鸭子在渔夫小屋的浴缸里游泳。"
 
 #. Key:	AchievementWeatherForDucksName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementWeatherForDucksName"
 msgid "Weather for Ducks"
-msgstr "鸭子的天气"
+msgstr "鸭子节"
 
 #. Key:	AchievementWellHydratedDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementWellHydratedDescription"
 msgid "Dispense all Arque Water bottles in a single playthrough."
-msgstr "在一次播放中分配所有 Arque 水瓶。"
+msgstr "在一次游玩流程中买走所有的阿尔克水瓶。"
 
 #. Key:	AchievementWellHydratedName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementWellHydratedName"
 msgid "Well Hydrated"
-msgstr "水合良好"
+msgstr "充分补水"
 
 #. Key:	AchievementYouMonsterDescription
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementYouMonsterDescription"
 msgid "Shoot an innocent bird from the sky. (Why would you want this?)"
-msgstr "从天上射杀一只无辜的鸟。 （你为什么想要这个？）"
+msgstr "射杀一只在天上飞的无辜的鸟。 （你为什么要这样做？）"
 
 #. Key:	AchievementYouMonsterName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1838,49 +1851,49 @@ msgstr "“你这个怪物”"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticArqueBottlesDispensed"
 msgid "Arque Bottles Dispensed"
-msgstr "已分发 Arque 瓶"
+msgstr "已买的阿尔克水瓶"
 
 #. Key:	StatisticBulletsFired
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticBulletsFired"
 msgid "Bullets Fired"
-msgstr "发射子弹"
+msgstr "发射子弹次数"
 
 #. Key:	StatisticCamerasDestroyed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticCamerasDestroyed"
 msgid "Cameras Destroyed"
-msgstr "摄像机被毁"
+msgstr "摧毁摄像头数量"
 
 #. Key:	StatisticCheatsUsed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticCheatsUsed"
 msgid "Cheats Used"
-msgstr "开挂"
+msgstr "作弊次数"
 
 #. Key:	StatisticGamesStarted
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticGamesStarted"
 msgid "Games Started"
-msgstr "玩过游戏次数"
+msgstr "开始游戏次数"
 
 #. Key:	StatisticHeadshots
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticHeadshots"
 msgid "Headshots"
-msgstr "爆头"
+msgstr "爆头次数"
 
 #. Key:	StatisticInfectedKilled
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticInfectedKilled"
 msgid "Infected Killed"
-msgstr "被杀感染人类"
+msgstr "感染者击杀数"
 
 #. Key:	StatisticItemsFlushed
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1901,7 +1914,7 @@ msgstr "听过的录音"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,StatisticSokolKilled"
 msgid "Sokol-Glockner Killed"
-msgstr "Sokol-Glockner被杀"
+msgstr "“猎鹰格洛克”击杀数"
 
 #. Key:	StatisticTimesDied
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -1915,7 +1928,7 @@ msgstr "死亡次数"
 #: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
 msgctxt "ST_Commentary,NoAccessMessage"
 msgid "Ensure that you have a working Internet connection, and that you can access youtube.com"
-msgstr "确保您的互联网连接正常，并且可以访问 youtube.com"
+msgstr "请确保您的互联网连接正常，并且可以访问 youtube.com"
 
 #. Key:	NoAccessTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_Commentary.ST_Commentary
@@ -1929,14 +1942,14 @@ msgstr "无法加载视频"
 #: /Game/Resources/Localisation/ST_Commentary.ST_Commentary
 msgctxt "ST_Commentary,ViewOnYouTubeLabel"
 msgid "View in HD on YouTube"
-msgstr "在YouTube上高清观看"
+msgstr "在 YouTube 上观看高清视频"
 
 #. Key:	Chat01
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat01"
 msgid "Unknown: Hello?"
-msgstr "未知人士：你好？"
+msgstr "未知：你好？"
 
 #. Key:	Chat02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1950,14 +1963,14 @@ msgstr "您：你好"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat03"
 msgid "Unknown: Hello"
-msgstr "未知人士：你好"
+msgstr "未知：你好"
 
 #. Key:	Chat04
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat04"
 msgid "You: yes, we did that bit"
-msgstr "您：是的，我们以前做过。"
+msgstr "您：你好，我们刚才说过了"
 
 #. Key:	Chat05
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1985,7 +1998,7 @@ msgstr "您：你还在吗？你好？"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat08"
 msgid "Unknown: mic?"
-msgstr "未知人士：麦克风？"
+msgstr "未知：麦克风？"
 
 #. Key:	Chat09
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -1999,21 +2012,21 @@ msgstr "您：你好，你需要什么？"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat10"
 msgid "You: ??? just tell me what you need"
-msgstr "您：？？？麻烦你告诉我你需要什么。"
+msgstr "您：？？？麻烦你告诉我你需要什么"
 
 #. Key:	Chat11
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat11"
 msgid "You: what is your problem? can you please stop bugging me now, i need to work"
-msgstr "您：你有什么问题吗？可否请你不要骚扰我，我需要工作。"
+msgstr "您：你有什么问题吗？可否请你不要骚扰我，我需要工作"
 
 #. Key:	Chat12
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Chat12"
 msgid "You: STOP IT FFS"
-msgstr "您：好烦啊，这人有病吧！"
+msgstr "您：好烦啊，这人有病吧"
 
 #. Key:	Chat13
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -2027,7 +2040,7 @@ msgstr "您已下线。"
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,ChatTitle"
 msgid "Chat with Unknown"
-msgstr "与未知人士聊天"
+msgstr "与“未知”聊天"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
@@ -2047,22 +2060,66 @@ msgstr "通风口"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 #: /Game/Resources/Localisation/ST_ComputerDebbieLogan01.ST_ComputerDebbieLogan01
 msgctxt "ST_ComputerDebbieLogan,Email03_Content"
-msgid "Hello,\r\n\r\nWe have had reports that an air conditioning vent in your office location has been damaged.\r\n\r\nWe apologise for the inconveneince this may cause.\r\n\r\nThanks,\r\n\r\nArque Global Operations Cross-Geo Facilities Co-Ordination Support"
-msgstr "您好，\n\n我们收到报告称，在您的办公室有一个空调通风口已经损坏。\n\n对于可能造成的不便，我们深表歉意。\n\n谢谢，\n\n阿克全球运营跨地域设施协调支持"
+msgid ""
+"Hello,\r\n"
+"\r\n"
+"We have had reports that an air conditioning vent in your office location has been damaged.\r\n"
+"\r\n"
+"We apologise for the inconveneince this may cause.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Cross-Geo Facilities Co-Ordination Support"
+msgstr ""
+"您好，\r\n"
+"\r\n"
+"我们收到报告称，在您的办公室有一个空调通风口已经损坏。\r\n"
+"\r\n"
+"对于可能造成的不便，我们深表歉意。\r\n"
+"\r\n"
+"感谢，\r\n"
+"\r\n"
+"阿尔克全球运营跨地域设施协调支持"
 
 #. Key:	Email01_Content
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Content"
-msgid "Hi,\r\n\r\nThank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n\r\nWhat are the next steps?\r\n\r\nA member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n\r\nThanks,\r\n\r\nArque Global Operations Badge Services\r\n\r\nThis is an automated email, please do not respond."
-msgstr "你好，\n\n感谢你请求新的安全徽章。 作为参考，你的票证为AGO15824。\n\n接下来的步骤是什么？\n\nAGO团队的成员将回复你的请求。 请注意，我们可能会要求你提供其他信息，具体取决于你的请求的严重程度。\n\n\n谢谢，\n\n阿克全球运营徽章服务\n\n这封电子邮件为自动发送，请不要回复。"
+msgid ""
+"Hi,\r\n"
+"\r\n"
+"Thank you for your request for a new security badge. For reference, your ticket is AGO15824.\r\n"
+"\r\n"
+"What are the next steps?\r\n"
+"\r\n"
+"A member of the AGO team will respond to your request. Please note that you may be asked to provide additional information depending on the severity of your request.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Arque Global Operations Badge Services\r\n"
+"\r\n"
+"This is an automated email, please do not respond."
+msgstr ""
+"你好，\r\n"
+"\r\n"
+"感谢你请求新的安全识别证。 作为参考，你的票证为 AGO15824。\r\n"
+"\r\n"
+"接下来的步骤是什么？\r\n"
+"\r\n"
+"AGO 团队的成员将回复你的请求。 请注意，我们可能会要求你提供其他信息，具体取决于你的请求的严重程度。\r\n"
+"\r\n"
+"感谢，\r\n"
+"\r\n"
+"阿尔克全球运营识别证服务\r\n"
+"\r\n"
+"这封电子邮件为自动发送，请不要回复。"
 
 #. Key:	Email01_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email01_Sender"
 msgid "AGO Badge Services"
-msgstr "AGO　徽章服务"
+msgstr "AGO 识别证服务"
 
 #. Key:	Email01_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2075,8 +2132,29 @@ msgstr "感谢你的请求"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
-msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "利亚姆，你好，\n\n我们已收到你的新徽章请求。由于你的职位的安全许可级别，我需要验证一些有关徽章是如何被放错地方的细节。\n\n\n请尽可能多地回复相关事件的细节。\n\n\n谢谢,\n\n雨果·韦伯\n阿克全球设施高级安全支持专家"
+msgid ""
+"Hi Liam,\r\n"
+"\r\n"
+"We have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n"
+"\r\n"
+"Please respond with as much detail as you can about the incident.\r\n"
+"\r\n"
+"Thanks,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr ""
+"利亚姆，你好，\r\n"
+"\r\n"
+"我们已收到你的新识别证请求。由于你的职位的安全许可级别，我需要验证一些有关识别证是如何被放错地方的细节。\r\n"
+"\r\n"
+"\r\n"
+"请尽可能多地回复相关事件的细节。\r\n"
+"\r\n"
+"感谢，\r\n"
+"\r\n"
+"雨果·韦伯\r\n"
+"阿尔克全球设施高级安全支持专家"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2096,15 +2174,49 @@ msgstr "回复：AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
-msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "利亚姆，\n\n你能否详细说明你的徽章是如何被放错了地方，以及徽章现在的位置？ 我们需要知道它仍然在设施之内，因为如果不是的话，这对公司来说是一个非常严重的问题。\n\n\n你说到狐狸，指的是字面意思上的，红色毛茸茸的动物吗？ 这似乎不太可能，你是说有只狐狸闯入了我们基地的安全系统？ 当然这意味着你没有做好自己的工作是吗？ 这是否意味着人们可以随便进入到你的设施？\n\n\n由于你所在的位置对全球互联网服务和阿克全球VPN的访问非常不稳定，因此无法远程停用处于使用状态的徽章。\n\n\n告诉我，你认为你的徽章在哪里？\n\n你的，\n\n雨果·韦伯\n阿克全球设施高级安全支持专家"
+msgid ""
+"Liam,\r\n"
+"\r\n"
+"Could you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n"
+"\r\n"
+"By fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n"
+"\r\n"
+"Since your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n"
+"\r\n"
+"Tell me, where do you believe your badge to be?\r\n"
+"\r\n"
+"Yours,\r\n"
+"\r\n"
+"Hugo Webber\r\n"
+"Senior Arque Global Facilities Security Support Specialist"
+msgstr ""
+"利亚姆，\r\n"
+"\r\n"
+"你能否详细说明你的识别证是如何被放错了地方，以及识别证现在的位置？ 我们需要知道它仍然在设施之内，因为如果不是的话，这对公司来说是一个非常严重的问题。\r\n"
+"\r\n"
+"你说到狐狸，指的是字面意思上的，红色毛茸茸的动物吗？ 这似乎不太可能，你是说有只狐狸闯入了我们基地的安全系统？ 当然这意味着你没有做好自己的工作是吗？ 这是否意味着人们可以随便进入到你的设施？\r\n"
+"\r\n"
+"由于你所在的位置对全球互联网服务和阿尔克全球 VPN 的访问非常不稳定，因此无法远程停用处于使用状态的识别证。\r\n"
+"\r\n"
+"告诉我，你认为你的识别证在哪里？\r\n"
+"\r\n"
+"你的，\r\n"
+"\r\n"
+"雨果·韦伯\r\n"
+"阿尔克全球设施高级安全支持专家"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Quote"
-msgid "Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n\r\nthanks"
-msgstr "你好，对不起，我的徽章被一只狐狸叼走了，我不知道这只狐狸去了哪里，但是我无法进门了，我没办法做我的工作。\n\n谢谢"
+msgid ""
+"Hi sorry my badge was taken by a fox , i am not sure where it wnet but i cant get into the door anymore and i cant do my job\r\n"
+"\r\n"
+"thanks"
+msgstr ""
+"你好，对不起，我的识别证被一只狐狸叼走了，我不知道这只狐狸去了哪里，但是我无法进门了，我没办法做我的工作。\r\n"
+"\r\n"
+"谢谢"
 
 #. Key:	Email03_Subject
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2117,8 +2229,26 @@ msgstr "回复：回复：AGO15824"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
-msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr "团队成员，\n\n请查看附件中的最新版本的温特沃斯先驱报。注意其中对阿克的提及，我们需要调查一下这个情况吗？\n\n\n提醒大家一下，请不要在没有适当授权的情况下对当地媒体说任何事情。\n\n露西·比肖\n\n公共关系高级专家"
+msgid ""
+"Team,\r\n"
+"\r\n"
+"Please see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n"
+"\r\n"
+"As a reminder, please do not speak to the local media without the proper authorisation.\r\n"
+"\r\n"
+"Lucy Beeshaw\r\n"
+"\r\n"
+"PR Senior Specialist"
+msgstr ""
+"团队成员，\r\n"
+"\r\n"
+"请查看附件中的最新版本的温特沃斯先驱报。注意其中对阿尔克的提及，我们需要调查一下这个情况吗？\r\n"
+"\r\n"
+"提醒大家一下，请不要在没有适当授权的情况下对当地媒体说任何事情。\r\n"
+"\r\n"
+"露西·比肖\r\n"
+"\r\n"
+"公共关系高级专家"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2152,15 +2282,21 @@ msgstr "聊天"
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
-msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr "请在打印此信息之前先考虑一下。环境正面临着危险。树木是阿克关注的主要焦点之一。\n\n事实上，我们要求所有员工用煤碳生火取代木头生火。记住，拯救树木，就是拯救世界。"
+msgid ""
+"Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n"
+"\r\n"
+"In fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
+msgstr ""
+"请在打印此信息之前先考虑一下。环境正面临着危险。树木是阿尔克关注的主要焦点之一。\r\n"
+"\r\n"
+"事实上，我们要求所有员工用煤碳生火取代木头生火。记住，拯救树木，就是拯救世界。"
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter02"
 msgid "This message has been scanned by the Arque security scanner. There is probably no malware."
-msgstr "此信息已由阿克安全扫描程序扫描过。应该没有恶意软件。"
+msgstr "此信息已由阿尔克安全扫描程序扫描过。应该没有恶意软件。"
 
 #. Key:	Email
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2188,42 +2324,42 @@ msgstr "其他贡献者"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYou"
 msgid "And You!"
-msgstr "谢谢你的演奏！"
+msgstr "感谢你的游玩！"
 
 #. Key:	AndYouTemplated
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,AndYouTemplated"
 msgid "And {name} (You!)"
-msgstr "谢谢你的演奏，{name}!"
+msgstr "感谢你的游玩，{name}！"
 
 #. Key:	Cast
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Cast"
 msgid "CAST"
-msgstr "演职人员"
+msgstr "配音演员"
 
 #. Key:	Chapter1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter1"
 msgid "Through the Cracks"
-msgstr "通过裂缝"
+msgstr "穿越废墟"
 
 #. Key:	Chapter2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter2"
 msgid "Post Abandon"
-msgstr "岗位弃"
+msgstr "废弃哨所"
 
 #. Key:	Chapter3
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Chapter3"
 msgid "Fight or Flight"
-msgstr "战斗或逃跑"
+msgstr "战斗或逃生"
 
 #. Key:	Contributors
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
@@ -2237,56 +2373,56 @@ msgstr "贡献者"
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,CreatedWithUnrealEngine"
 msgid "Created with Unreal Engine"
-msgstr "创建于虚幻引擎"
+msgstr "使用虚幻引擎制作"
 
 #. Key:	EstrangedTradeMark
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,EstrangedTradeMark"
 msgid "\"Estranged\" is a trade mark of Alan Edwardes"
-msgstr "“Estranged”是Alan Edwardes的商标"
+msgstr "“Estranged”商标归 Alan Edwardes 所有"
 
 #. Key:	HelpTranslate
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,HelpTranslate"
 msgid "Help Translate Too!"
-msgstr "帮助翻译！"
+msgstr "请帮助我们翻译！"
 
 #. Key:	Translators
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,Translators"
 msgid "TRANSLATORS"
-msgstr "译者"
+msgstr "翻译人员"
 
 #. Key:	WithThanksTo
 #. SourceLocation:	/Game/Resources/Localisation/ST_Credits.ST_Credits
 #: /Game/Resources/Localisation/ST_Credits.ST_Credits
 msgctxt "ST_Credits,WithThanksTo"
 msgid "WITH THANKS TO"
-msgstr "谢谢"
+msgstr "特别感谢"
 
 #. Key:	JohnActI01
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI01"
 msgid "John Derril (over radio): Hello?"
-msgstr "喂？"
+msgstr "约翰森·德瑞尔（来自无线电）：喂？"
 
 #. Key:	JohnActI02
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
-msgstr "有人能听到吗……我的名字是约翰森.德瑞尔（Johnathan Derril）。"
+msgstr "有人能听到吗，我的名字是约翰森·德瑞尔。"
 
 #. Key:	JohnActI02Alt
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr "有人能听到吗, 我需要帮助。"
+msgstr "有人能听到吗，我需要帮助。"
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -2300,21 +2436,21 @@ msgstr "我需要帮助。"
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI04"
 msgid "These things, they've taken over the island."
-msgstr "那些东西，它们……正在占领整座小岛。"
+msgstr "那些东西，它们正在占领整座小岛。"
 
 #. Key:	JohnActI05
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI05"
 msgid "Anyone, please, I have supplies, but-"
-msgstr "有人吗，拜托了，我这有补给品，但是-"
+msgstr "有人吗，拜托了，我这有补给品，但是——"
 
 #. Key:	JohnActI06
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI06"
 msgid "They're out there."
-msgstr "他们在那里。"
+msgstr "它们在外面。"
 
 #. Key:	JohnBed01_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
@@ -2335,7 +2471,7 @@ msgstr "你可能不会相信，但……"
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed01_c"
 msgid "It's me! It's John"
-msgstr "是我！我是约翰"
+msgstr "是我！约翰"
 
 #. Key:	JohnBed02_a
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
@@ -2349,7 +2485,7 @@ msgstr "我在外面散步时发现了你"
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed02_b"
 msgid "...took you back to this research facility."
-msgstr "……把你带回了这处研究设施。"
+msgstr "……然后把你带回了这处研究设施。"
 
 #. Key:	JohnBed02_c
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
@@ -2363,7 +2499,7 @@ msgstr "你当时的身体状况非常糟糕。"
 #: /Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
 msgctxt "ST_JohnBunker,JohnBed03_a"
 msgid "Hmm... still doesn't look like you're completely with me..."
-msgstr "呃……看样子你还是没有完全听懂我的话……"
+msgstr "呃……看样子你还不能完全听懂我的话……"
 
 #. Key:	JohnBed03_b
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnBunker.ST_JohnBunker
@@ -2391,7 +2527,7 @@ msgstr "等你醒来，我们有事情要讨论。"
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan01"
 msgid "Arque Scanner (via loudspeaker): Welcome to Arque East. Please stand by for biological scan."
-msgstr "欢迎来到阿克。 请等待生物扫描。"
+msgstr "阿尔克扫描系统（通过扬声器）：欢迎来到阿尔克东区。请耐心等待生物扫描完成。"
 
 #. Key:	LaserScan02
 #. SourceLocation:	/Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
@@ -2405,21 +2541,21 @@ msgstr "生物扫描完成。没有发现异物。"
 #: /Game/Resources/Localisation/ST_LaserScan01.ST_LaserScan01
 msgctxt "ST_LaserScan01,LaserScan03"
 msgid "Please proceed, and have a nice day."
-msgstr "请继续，祝你有愉快的一天。"
+msgstr "请继续，祝您度过愉快的一天。"
 
 #. Key:	CallOut1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,CallOut1"
 msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
-msgstr "“我在菲利普公司已经工作10多年了，他们就这样解雇我了。真是无情啊。“"
+msgstr "“我在菲利普公司已经工作 10 多年了，他们就这样解雇我了。真是无情啊。“"
 
 #. Key:	Headline
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr "阿克公司完成了对菲利普医药公司的收购"
+msgstr "阿尔克公司完成了对菲利普医药公司的收购"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2440,7 +2576,7 @@ msgstr "红藻增长猖獗"
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Navigation1"
 msgid "MORE ON PAGE 11"
-msgstr "转至11页"
+msgstr "详见第十一版"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2454,7 +2590,7 @@ msgstr "对当地制药公司——菲利普制药公司的收购于上周晚些
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph02"
 msgid "The news came as Arque Corporation announced its plans to expand into the region for unstated research purposes."
-msgstr "消息传出之际，阿克公司宣布在该地区进行扩张的计划，以进行某些未经公布的研究。"
+msgstr "消息传出之际，阿尔克公司宣布在该地区进行扩张的计划，以进行某些未经公布的研究。"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2482,14 +2618,14 @@ msgstr "本·克拉莫克，是菲利普制药公司的一名前雇员，对于�
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph06"
 msgid "The current owners of the closed Liam Brothers’ Mine site are also reportedly in talks with Arque Corporation. The mine is close to the Phillip’s Pharmaceuticals facility, and appears to be of strategic value to the corporation."
-msgstr "据报道，利阿姆兄弟矿场的目前所有者也正在与阿克公司进行谈判。 该矿场靠近菲利普制药工厂，而且似乎对阿克公司具有战略价值。"
+msgstr "据报道，利阿姆兄弟矿场的目前所有者也正在与阿尔克公司进行谈判。 该矿场靠近菲利普制药工厂，而且似乎对阿尔克公司具有战略价值。"
 
 #. Key:	Paragraph07
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph07"
 msgid "We contacted Arque Corporation for comment, however they declined, stating that “the corporation follows all local employment laws, and has offered fair compensation to all re-deployed employees”. The newspaper has discovered that the “compensation” is covered by a non-disclosure agreement, so actual monetary figures provided to ex-employees are unknown."
-msgstr "我们联系了阿克公司，但是他们拒绝发表任何评论，并表示说“公司已经遵守了当地所有的劳动法，并向所有被重新安置的员工提供了公平的补偿”。 我们发现，由于“赔偿”属于保密协议的一部分，因此提供给前雇员的实际货币数字将无从知晓。"
+msgstr "我们联系了阿尔克公司，但是他们拒绝发表任何评论，并表示说“公司已经遵守了当地所有的劳动法，并向所有被重新安置的员工提供了公平的补偿”。 我们发现，由于“赔偿”属于保密协议的一部分，因此提供给前雇员的实际货币数字将无从知晓。"
 
 #. Key:	Paragraph08
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2530,8 +2666,14 @@ msgstr "当地居民罗西·哈德曼认为这些藻类是一种威胁，如果�
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
-msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr "在经过海岸警卫队调查后，本市市长约翰.梅恩决定让坐落在雷德顿附近陆地突出部分的灯塔退役。\n\n“我们确信这不会影响过往的交通，”海运交通调查部门的比尔.哈耶克如是说。“曾经在雷德顿海岸附近就能看到货船，然而由于来自大陆的航线更改，现在已经再也看不到了。”他补充道。"
+msgid ""
+"The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n"
+"\r\n"
+"\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
+msgstr ""
+"在经过海岸警卫队调查后，本市市长约翰.梅恩决定让坐落在雷德顿附近陆地突出部分的灯塔退役。\n"
+"\n"
+"“我们确信这不会影响过往的交通，”海运交通调查部门的比尔.哈耶克如是说。“曾经在雷德顿海岸附近就能看到货船，然而由于来自大陆的航线更改，现在已经再也看不到了。”他补充道。"
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2544,15 +2686,39 @@ msgstr "当被记者提问时，市长表示在就关闭灯塔一事发表官方
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
-msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr "当地居民对这个变化感到不满，一名本地居民担心这会影响到仍旧在本岛停靠的小型船只，并表示这将是对该岛无人问津的港口最后的致命一击。“它会阻止许多岛上的生意。”他说道。\n\n有时候灯塔是来与本地生意进行交易的小型船只的唯一依靠，这是大家都担心的问题——所有进口贸易都消亡会带来怎样的后果？"
+msgid ""
+"Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n"
+"\r\n"
+"Sometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
+msgstr ""
+"当地居民对这个变化感到不满，一名本地居民担心这会影响到仍旧在本岛停靠的小型船只，并表示这将是对该岛无人问津的港口最后的致命一击。“它会阻止许多岛上的生意。”他说道。\n"
+"\n"
+"有时候灯塔是来与本地生意进行交易的小型船只的唯一依靠，这是大家都担心的问题——所有进口贸易都消亡会带来怎样的后果？"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
-msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr "一年一度的在雷德顿举行的最具影响力的比赛又回来啦。\\v\n每年整个社区都要聚在一起创作最阴森恐怖的稻草人来驱赶鸟类。去年的获奖者是八岁大的本地学生约书亚.芬顿他的作品对他祖母形象的“完美”呈现赢得了评审小组的一致好评。\n\n市长的妻子茱莉亚.梅恩最近刚在岛上开起了自己的蛋糕店。今年的获奖者将获得一组由她制作的经过精心挑选的蛋糕。\n\n整个庆祝活动可不光是欣赏稻草人——稻草人将持续展出整整一周，还有在全镇各处进行的其它活动。如果您还没参观过那些稻草人就赶快去活动现场开开眼界并品尝雷德顿最美味的食物和饮料吧。\n\n如果您不能亲自参观那些稻草人的话就请关注下期，届时我们将完整向您介绍所有参赛作品。"
+msgid ""
+"One of the most popular competitions Redton holds is back for its annual event.\r\n"
+"\r\n"
+"The community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n"
+"\r\n"
+"This year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n"
+"\r\n"
+"The festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n"
+"\r\n"
+"If you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
+msgstr ""
+"一年一度的在雷德顿举行的最具影响力的比赛又回来啦。\r\n"
+"\r\n"
+"每年整个社区都要聚在一起创作最阴森恐怖的稻草人来驱赶鸟类。去年的获奖者是八岁大的本地学生约书亚.芬顿他的作品对他祖母形象的“完美”呈现赢得了评审小组的一致好评。\r\n"
+"\r\n"
+"市长的妻子茱莉亚.梅恩最近刚在岛上开起了自己的蛋糕店。今年的获奖者将获得一组由她制作的经过精心挑选的蛋糕。\r\n"
+"\r\n"
+"整个庆祝活动可不光是欣赏稻草人——稻草人将持续展出整整一周，还有在全镇各处进行的其它活动。如果您还没参观过那些稻草人就赶快去活动现场开开眼界并品尝雷德顿最美味的食物和饮料吧。\r\n"
+"\r\n"
+"如果您不能亲自参观那些稻草人的话就请关注下期，届时我们将完整向您介绍所有参赛作品。"
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2643,7 +2809,7 @@ msgstr "文特沃斯先锋报"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport01"
 msgid "News Presenter (on TV): The private security firm Sokol-Glockner has been criticised for the second time this year"
-msgstr "私人保安公司索科尔格洛克纳 (Sokol-Glockner) 因在保护任务中大量使用实弹，"
+msgstr "新闻主持人（来自电视）：私人安保公司“猎鹰格洛克”因在保护任务中大量使用实弹"
 
 #. Key:	NewsReport02
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2664,7 +2830,7 @@ msgstr "该公司的政策规定，所有任务都会使用实弹，"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport04"
 msgid "however campaigners say this is unnecessary, and incites the violence they wish to avoid."
-msgstr "但是反对人士认为这是不必要的，而且会剌激他们极力避免的暴力。"
+msgstr "但是反对人士认为这是不必要的，而且会煽动他们极力避免的暴力。"
 
 #. Key:	NewsReport05
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2692,21 +2858,21 @@ msgstr "消息来源指出这就是为什么政府不对此事发表评论。"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "今年早些时候，索科尔格洛克纳因为阿克公司 (Arque Corporation)"
+msgstr "今年早些时候，因为阿尔克公司"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport09"
 msgid "an Arque Corporation employee on one of its offshore drilling platforms."
-msgstr "的海上钻井平台员工意外射击事故而成为头条新闻。"
+msgstr "的海上钻井平台的一名员工意外中弹事故而成为头条新闻。"
 
 #. Key:	NewsReport10
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport10"
 msgid "The 37 year old employee emerged on a beach after evidently swimming from the platform,"
-msgstr "据说这名 37 岁的员工从平台上游泳，而后出现在海滩上，"
+msgstr "据说这名 37 岁的员工显然是从平台上游下来的，而后出现在海滩上，"
 
 #. Key:	NewsReport11
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2720,35 +2886,35 @@ msgstr "医生后来证实他腿上有一颗子弹。"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport12"
 msgid "Sokol-Glockner confirmed the bullet was fired from one of their weapons,"
-msgstr "索科尔格洛克纳证实子弹是从他们的武器发射的，"
+msgstr "“猎鹰格洛克”证实子弹来自他们的武器，"
 
 #. Key:	NewsReport13
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport13"
 msgid "but refused to comment on the case. It insisted it was working with the relevant authorities."
-msgstr "但拒绝对此案发表评论。它们坚称此事是与有关当局合作。"
+msgstr "但该公司拒绝对此案发表评论。他们坚称正在与有关当局合作。"
 
 #. Key:	NewsReport14
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport14"
 msgid "Weather now - storm Edwin continues to make landfall,"
-msgstr "现在是天气预报，埃德温风暴继续登陆，"
+msgstr "接下来是天气预报—— 埃德温风暴继续登陆，"
 
 #. Key:	NewsReport15
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport15"
 msgid "but today provides residents in the north with a day of calm."
-msgstr "但今天给了北方居民一天的平静。"
+msgstr "但今天给北方的居民带来了平静的一天。"
 
 #. Key:	NewsReport16
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "气象学家呼籲该地区的每个人，最严重风暴还没到来，"
+msgstr "但气象学家提醒该地区的每个人，最严重的风暴还没到来，"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2762,28 +2928,28 @@ msgstr "所以应该准备用浴缸储水，并储备至少两天的食物。"
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr "这就是今天的新闻。明早 7 点请准时收看早餐新闻会 (Breakfast Burst)。"
+msgstr "以上就是今天的新闻。明早 7 点请准时收看早餐新闻会。"
 
 #. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01a"
 msgid "Unknown (over radio): This is an automated message from Arque Corporation."
-msgstr "这是来自Arque Corporation的自动消息。"
+msgstr "未知（来自无线电）：这是一条来自阿尔克公司的自动播放信息。"
 
 #. Key:	ArqueBroadcast01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr "强制宵禁正在生效。请留在里面。"
+msgstr "强制性宵禁实行中。请呆在室内。"
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02a"
 msgid "John Derril (over radio): If there's ANYONE listening to this, I need help."
-msgstr "如果此刻有人听到这个，我真的需要帮助。"
+msgstr "约翰森·德瑞尔（来自无线电）：如果此刻有人听到这个，我真的需要帮助。"
 
 #. Key:	JohnBroadcast02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2797,7 +2963,7 @@ msgstr "他们在播放一则宵禁消息，但是……"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr "我不知道为什么？是发生故障了吗？"
+msgstr "我不知道这是为什么。是发生故障了吗？"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2811,7 +2977,7 @@ msgstr "上帝啊，我希望他们并不是在尝试掩盖真相……"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03a"
 msgid "John Derril (over radio): I'm just going to... continue broadcasting until I can't anymore."
-msgstr "我只是需要……继续广播，直到最后一刻。"
+msgstr "约翰森·德瑞尔（来自无线电）：我只是需要……继续广播，直到最后一刻。"
 
 #. Key:	JohnBroadcast03b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2825,7 +2991,7 @@ msgstr "过往的船只，飞机……肯定有人会听到求救的消息的。
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast04a"
 msgid "John Derril (over radio): I was split up from my wife and daughter when the things came."
-msgstr "当丧尸来的时候，我和我的妻子、女儿分开了。"
+msgstr "约翰森·德瑞尔（来自无线电）：当丧尸来的时候，我和我的妻子、女儿分开了。"
 
 #. Key:	JohnBroadcast04b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2839,7 +3005,7 @@ msgstr "我们正在度假……度假啊！没人会想到发生这种事情，
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast05a"
 msgid "John Derril (over radio): I know how to fix radios... not much else."
-msgstr "我知道怎么修理无线电……别的不太会。"
+msgstr "约翰森·德瑞尔（来自无线电）：我知道怎么修理无线电……别的不太会。"
 
 #. Key:	JohnBroadcast05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2888,14 +3054,14 @@ msgstr "公司一定是做了什么事阻止了这次沟通。"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07a"
 msgid "John Derril (over radio): Why has no one checked up on us? This is a small island, but there's still people..."
-msgstr "为什么没有人来看看我们的情况呢？我知道这只是个小岛，但是上面还有人啊……"
+msgstr "约翰森·德瑞尔（来自无线电）：为什么没有人来看看我们的情况呢？我知道这只是个小岛，但是上面还有人啊……"
 
 #. Key:	JohnBroadcast07b
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast07b"
 msgid "I wish we'd never booked this holiday... if I could undo the last few months... God..."
-msgstr "我真希望我们从来没有预定这趟度假之旅……如果过去几个月能从来的话……上帝啊……"
+msgstr "我真希望我们从来没有预定这趟度假之旅……如果过去几个月能重来的话……上帝啊……"
 
 #. Key:	JohnBroadcast07c
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2909,35 +3075,35 @@ msgstr "……现在不停地说“如果当时”也没有用了。"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard01"
 msgid "Coast Guard (over radio): This is the Norwegian Coast Guard. Please state your coordinates."
-msgstr "这是挪威海岸警卫队。 请表明你的坐标位置。"
+msgstr "海岸警卫队（来自无线电）：这是挪威海岸警卫队。 请表明你的坐标位置。"
 
 #. Key:	CoastGuard02
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard02"
 msgid "Coast Guard (over radio): OK"
-msgstr "好"
+msgstr "海岸警卫队（来自无线电）：好"
 
 #. Key:	CoastGuard03
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
-msgstr "我必须通知你......政府已对你的所在位置进行积极防御行动。"
+msgstr "海岸警卫队（来自无线电）：我必须通知你......政府已对你的所在位置展开防御行动。"
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard04"
 msgid "We are requesting clearance. Stand by."
-msgstr "我们正在要求净空。继续待命。"
+msgstr "我们正在请求批准。继续待命。"
 
 #. Key:	Dispatcher01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
 msgid "Unknown (over radio): COMMENCE EXPUNGE, OBSERVER CLEANSE"
-msgstr "开始清除，排除观察者"
+msgstr "未知（来自无线电）：开始清除，排除观察者"
 
 #. Key:	Dispatcher01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2951,49 +3117,49 @@ msgstr "北纬 72 度 59 分 6 秒，东经 2 度 51 分 54 秒"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01a"
 msgid "John Derril (over radio): Wait what's that... is that the radio? Hello? Hello! Oh God yes you did it!"
-msgstr "等等，那是什么......是无线电吗？ 哈啰？ 天啊，太好了，你做到了！"
+msgstr "约翰森·德瑞尔（来自无线电）：等等，那是什么......无线电恢复了？ 喂？喂！噢，天啊，太好了，你成功了！"
 
 #. Key:	John01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John01b"
 msgid "Is there anyone there?! This is an SOS, I repeat, an SOS"
-msgstr "那里有人吗？！ 这是一个求救信号，再说一遍这是求救信号"
+msgstr "有人听到吗？！这是一个求救信号，再说一遍，这是一个求救信号"
 
 #. Key:	John02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02a"
 msgid "Does anyone copy? The island has been overrun."
-msgstr "有人听到吗？ 本岛已被占领。"
+msgstr "有人能听到吗？这个小岛已被占领。"
 
 #. Key:	John02b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
-msgstr "阿克公司已经禁止从岛上发出的所有广播信息。 我们需要立即的军事援助！"
+msgstr "阿尔克公司先前封锁了所有来自岛上的无线电信息。我们急需军事援助！"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John03a"
 msgid "John Derril (over radio): We're at approximately 72 degrees, 59 minutes and 6 seconds North, and uh, 2 degrees, 51 minutes and 54 seconds East."
-msgstr "我们在大约北纬 72 度 59 分 6 秒，东经 2 度 51 分 54 秒。"
+msgstr "约翰森·德瑞尔（来自无线电）：我们在大约北纬 72 度 59 分 6 秒，东经 2 度 51 分 54 秒。"
 
 #. Key:	John04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John04a"
 msgid "John Derril (over radio): Uh, it's John."
-msgstr "呃，这是约翰。"
+msgstr "约翰森·德瑞尔（来自无线电）：呃，这是约翰。"
 
 #. Key:	John05a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05a"
 msgid "John Derril (over radio): Hello! Hello? Coastguard?! Anyone there?"
-msgstr "你好？  海岸警卫队？！ 有人在吗？"
+msgstr "约翰森·德瑞尔（来自无线电）：喂！喂？海岸警卫队？！有人在吗？"
 
 #. Key:	John05b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -3007,7 +3173,7 @@ msgstr "什么政府防御行动？ 你在说什么？"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John05c"
 msgid "John Derril (over radio): Coastguard are you there? Is anyone there? Someone pick up..."
-msgstr "海岸警卫你在吗？ 有人在吗？ 接起来啊......"
+msgstr "约翰森·德瑞尔（来自无线电）：海岸警卫队能听到吗？有人吗？来个人回话啊......"
 
 #. Key:	John06a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -3021,42 +3187,42 @@ msgstr "哦不......不，不，不，不会吧！"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06b"
 msgid "Get out of there! Anyone, anyone listening to this, leave the island, right now, by whatever means you can!"
-msgstr "离开这！ 任何正在听的人，现在马上通过任何方式离开这个岛！"
+msgstr "快离开这里！任何听到的人，立刻离开小岛！现在马上想办法离开这个小岛！"
 
 #. Key:	John06c
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John06c"
 msgid "Anyone on this frequency just go! Why the hell would they do this?"
-msgstr "任何听到这个频道的人都去！ 该死的，他们为什么会这么做？"
+msgstr "任何听到我说话的人都快跑！ 该死的，他们为什么要这么做？"
 
 #. Key:	Copyright01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright01"
 msgid "Half-Life is a registered trademark of Valve Corporation"
-msgstr "《Half-Life》是威尔乌集团 (Valve Corporation) 的注册商标"
+msgstr "《半条命》是维尔福软件公司 (Valve Corporation) 的注册商标"
 
 #. Key:	Copyright02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Copyright02"
 msgid "Estranged is copyright © 2011 Alan Edwardes"
-msgstr "《Estranged》的版权归 © 2011 Alan Edwardes 所有"
+msgstr "《隔离》的版权归 © 2011 Alan Edwardes 所有"
 
 #. Key:	Paragraph01
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph01"
 msgid "ESTRANGED THE DEPARTURE was developed by one person in their spare time, with help from a community of translators and testers"
-msgstr "《ESTRANGED THE DEPARTURE》是由一个人在业余时间开发制作，制作期间，得到了音效设计师、关卡设计师、3D 美术师以及翻译和测试团体的帮助。"
+msgstr "《隔离：逃生》是由一个人在业余时间开发制作，制作期间，得到了音效设计师、关卡设计师、3D 美术师以及翻译和测试团体的帮助"
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,Paragraph02"
 msgid "This game is a standalone sequel to the 2014 Half-Life 2 mod ESTRANGED ACT I, available for Windows, Mac and Linux for free on Steam"
-msgstr "这款游戏是 2014 年《Half-Life 2》游戏模组《ESTRANGED ACT I》的独立续集，可在 Steam 上免费领取， Windows、Mac 和 Linux 均适用。"
+msgstr "这款游戏是 2014 年《半条命 2》游戏模组《隔离：第一幕》的独立续集，可在 Steam 上免费领取， Windows、Mac 和 Linux 均适用"
 
 #. Key:	Paragraph03
 #. SourceLocation:	/Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
@@ -3070,14 +3236,14 @@ msgstr "如需获取帮助、报告错误以及提交反馈，请加入社区！
 #: /Game/Resources/Localisation/ST_SplashScreen.ST_SplashScreen
 msgctxt "ST_SplashScreen,PressButton"
 msgid "PRESS"
-msgstr ""
+msgstr "按下"
 
 #. Key:	ActiveLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 #: /Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
 msgctxt "ST_TransmitterComputer,ActiveLabel"
 msgid "ACTIVE"
-msgstr "激活"
+msgstr "已启动"
 
 #. Key:	RadioSignalJammerLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_TransmitterComputer.ST_TransmitterComputer
@@ -3098,28 +3264,28 @@ msgstr "远程控制"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,LoadingLabel"
 msgid "LOADING"
-msgstr "读取中"
+msgstr "载入中"
 
 #. Key:	WindowAboutShorts1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,WindowAboutShorts1"
 msgid "Shorts are short levels which are unconnected to the main story but do take place in the Estranged universe. The levels were added in content updates after the game was released."
-msgstr ""
+msgstr "“精简版”是与主要剧情无关的短关卡，但发生在《隔离》的世界观中。这些关卡是在游戏发布后添加到内容更新中的。"
 
 #. Key:	WindowAboutShorts2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,WindowAboutShorts2"
 msgid "Please note: These levels do not have the same performance targets as main game, and may not have subtitle support for dialogue, or support for languages other than English."
-msgstr ""
+msgstr "请注意：这些关卡的性能等级与主线游戏不同，可能不支持对话字幕，也不支持英语以外的语言。"
 
 #. Key:	DockEstablishingSubtitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingSubtitle"
 msgid "BEFORE THE STORM"
-msgstr "暴风雨来临前"
+msgstr "风暴之前"
 
 #. Key:	DockEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3140,7 +3306,7 @@ msgstr "待定"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,HangarRoundLabel"
 msgid "ROUND"
-msgstr "轮"
+msgstr "回合"
 
 #. Key:	RangeLevelLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3154,7 +3320,7 @@ msgstr "级"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,RangePointsLabel"
 msgid "POINTS"
-msgstr "点数"
+msgstr "得分"
 
 #. Key:	RangeTimeLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3168,7 +3334,7 @@ msgstr "时间"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,TheFallEstablishingSubtitle"
 msgid "AFTER THE SHIPWRECK"
-msgstr "船舶残骸之后"
+msgstr "沉船之后"
 
 #. Key:	TheFallEstablishingTitle
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
@@ -3176,4 +3342,3 @@ msgstr "船舶残骸之后"
 msgctxt "World,TheFallEstablishingTitle"
 msgid "UNKNOWN ISLAND, NORWEGIAN SEA"
 msgstr "未知的岛屿，挪威海"
-
