@@ -2797,7 +2797,7 @@ msgstr "Viņi pārraida paziņojumu par komandantstundu, bet"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast02c"
 msgid "I don't understand why. Is it a malfunction?"
-msgstr "es nesaprotu kāpēc. Vai tie ir darbības traucējumi?"
+msgstr "Es nesaprotu kāpēc. Vai tie ir darbības traucējumi?"
 
 #. Key:	JohnBroadcast02d
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2818,7 +2818,7 @@ msgstr "Džons Derils (rācija): Es vienkārši... turpināšu pārraidīt līdz
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast03b"
 msgid "Passing ships, aeroplanes... SOMETHING has to pick this up."
-msgstr "Garāmejoši kuģi, lidmašīnas... KĀDAM mani ir jāuztver."
+msgstr "Garāmejoši kuģi, lidmašīnas... KĀDAM šo ir jāuztver."
 
 #. Key:	JohnBroadcast04a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2881,7 +2881,7 @@ msgstr "Mums ir nepieciešama armija. Kāpēc neviens vēl nav atnācis?"
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,JohnBroadcast06c"
 msgid "That company must be doing something to stop the communication."
-msgstr "Ta kompānija noteikti kaut kas dara, kas aptur saziņu."
+msgstr "Tā kompānija noteikti dara kaut ko, kas aptur saziņu."
 
 #. Key:	JohnBroadcast07a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2923,7 +2923,7 @@ msgstr "Krasta apsardze (rācija): OK"
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,CoastGuard03"
 msgid "Coast Guard (over radio): I have to inform you... there is an active government defence operation underway at your position."
-msgstr "Krasta apsardze (rācija): Man jūs jāinformē... ka Jūsu pozīcijā norisinās aktīva valdības aizsardzības operācija."
+msgstr "Krasta apsardze (rācija): Man jūs jāinformē... ka Jūsu pozīcijā norisinās aktīva valdības vadīta aizsardzības operācija."
 
 #. Key:	CoastGuard04
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -2937,7 +2937,7 @@ msgstr "Pieprasām atļauju. Uzgaidiet."
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,Dispatcher01a"
 msgid "Unknown (over radio): COMMENCE EXPUNGE, OBSERVER CLEANSE"
-msgstr "Nezināms (rācija): DZĒŠANAS SĀKŠANA, NOVĒROTĀJA TĪRĪŠANA"
+msgstr "Nezināms (rācija): SĀKT IZNĪCINĀŠANU, ACULIECINIEKU TĪRĪŠANA"
 
 #. Key:	Dispatcher01b
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -3126,7 +3126,7 @@ msgstr "PIRMS VĒTRAS"
 #: /Game/Resources/Localisation/ST_World.ST_World
 msgctxt "World,DockEstablishingTitle"
 msgid "FAIR ISLE, SHETLAND, SCOTLAND"
-msgstr "FAIR SALA, ŠETLENDA, SKOTIJA"
+msgstr "FAIR ISLE, ŠETLENDA, SKOTIJA"
 
 #. Key:	HangarPendingLabel
 #. SourceLocation:	/Game/Resources/Localisation/ST_World.ST_World
