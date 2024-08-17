@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-07-29 21:38\n"
-"PO-Revision-Date: 2024-07-29 21:38\n"
+"POT-Creation-Date: 2024-08-17 15:16\n"
+"PO-Revision-Date: 2024-08-17 15:16\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -459,6 +459,13 @@ msgstr ""
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort03"
 msgid "Waterfront"
+msgstr ""
+
+#. Key:	ButtonShort06
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,ButtonShort06"
+msgid "Blizzard"
 msgstr ""
 
 #. Key:	ButtonShorts
