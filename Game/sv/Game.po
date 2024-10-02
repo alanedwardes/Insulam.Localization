@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-08-24 15:50\n"
-"PO-Revision-Date: 2024-08-24 15:50\n"
+"POT-Creation-Date: 2024-10-02 20:20\n"
+"PO-Revision-Date: 2024-10-02 20:20\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -587,12 +587,33 @@ msgctxt "Menus,CheckboxEnableDebugLogger"
 msgid "Enable Developer Messages"
 msgstr ""
 
+#. Key:	CheckboxEnableHighestModelDetail
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableHighestModelDetail"
+msgid "Enable Highest Model Detail"
+msgstr ""
+
+#. Key:	CheckboxEnableHighestShadowDetail
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableHighestShadowDetail"
+msgid "Enable Highest Shadow Detail"
+msgstr ""
+
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableStatsForNerds"
 msgid "Enable On-Screen Stats"
 msgstr "Aktivera statistik på skärmen"
+
+#. Key:	CheckboxEnableSuperSampling
+#. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
+#: /Game/Resources/Localisation/ST_Menus.ST_Menus
+msgctxt "Menus,CheckboxEnableSuperSampling"
+msgid "Enable Super Sampling"
+msgstr ""
 
 #. Key:	CheckboxInvertController
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
