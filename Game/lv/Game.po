@@ -466,7 +466,7 @@ msgstr "Krastmala"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonShort06"
 msgid "Blizzard"
-msgstr ""
+msgstr "Putenis"
 
 #. Key:	ButtonShorts
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -592,14 +592,14 @@ msgstr "Iespējot Izstrādātāja Ziņas"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableHighestModelDetail"
 msgid "Enable Highest Model Detail"
-msgstr ""
+msgstr "Iespējot augstāko modeļa detalizāciju"
 
 #. Key:	CheckboxEnableHighestShadowDetail
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableHighestShadowDetail"
 msgid "Enable Highest Shadow Detail"
-msgstr ""
+msgstr "Iespējot augstāko ēnu detalizāciju"
 
 #. Key:	CheckboxEnableStatsForNerds
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -613,7 +613,7 @@ msgstr "Iespējot statistiku uz ekrāna"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxEnableSuperSampling"
 msgid "Enable Super Sampling"
-msgstr ""
+msgstr "Iespējot Super Sampling"
 
 #. Key:	CheckboxInvertController
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -2524,77 +2524,77 @@ msgstr "Mēs sazinājāmies ar Arque Korporāciju, taču viņi noliedza, norādo
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph08"
 msgid "Ships passing near to the island are \"dangerously close\" to crashing, with the closure of the Redton lighthouse, according to fisherman John Alexanders."
-msgstr ""
+msgstr "Pēc zvejnieka Džona Aleksandera teiktā, kuģi, kas brauc salas tuvumā, ir \"bīstami tuvu\" avārijai, jo Redtonas bāka ir slēgta."
 
 #. Key:	Paragraph09
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph09"
 msgid "The Wentworth Herald covered the saga exclusively last week, as the lighthouse was set to be decommissioned amid suggestions that its cost outweighed its usefulness."
-msgstr ""
+msgstr "Laikraksts \"Wentworth Herald\" pagājušajā nedēļā ekskluzīvi atspoguļoja šo sāgu, kad bāku bija paredzēts demontēt, jo izskanēja aizdomas, ka tās izmaksas pārsniedz tās noderību."
 
 #. Key:	Paragraph10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph10"
 msgid "The Department of Maritime Traffic Investigation declined to comment, after stating in last weeks' issue that they were \"confident that this won't impact any passing traffic\"."
-msgstr ""
+msgstr "Jūras Satiksmes Izmeklēšanas Departaments atteicās sniegt komentārus pēc tam, kad pagājušās nedēļas numurā bija paziņojis, ka \"ir pārliecināts, ka tas neietekmēs garāmbraucošo satiksmi\"."
 
 #. Key:	Paragraph11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph11"
 msgid "The colonies of algae situated on the island remain strong, as recent surveys show a vast increase in the amount of so called \"red algae\", the island's very own unique species of algae continues to take over lakes, and other natural bodies of water."
-msgstr ""
+msgstr "Uz salas esošās aļģu kolonijas joprojām ir spēcīgas, jo nesen veiktie pētījumi liecina par ievērojamu tā saukto \"sarkano aļģu\" daudzuma pieaugumu, salas unikālā aļģu suga turpina pārņemt ezerus un citas dabiskas ūdenstilpes."
 
 #. Key:	Paragraph12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph12"
 msgid "Local resident Rosie Hardman considers the algae a menace, and would be happier if it were gone, saying \"It [the algae] is taking over, we need to get rid of it as soon as possible. I don't want all of the water on the island to be stagnant. What is it good for anyway?\""
-msgstr ""
+msgstr "Vietējā iedzīvotāja Rozija Hārdmena aļģes uzskata par draudu un būtu priecīgāka, ja to vairs nebūtu, sakot: \"Tās [aļģes] pārņem visu, mums no tām jāatbrīvojas pēc iespējas ātrāk. Es nevēlos, lai viss salas ūdens ir nostāvējies. Kam tas vispār der?\""
 
 #. Key:	Body01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body01"
 msgid "The lighthouse situated in Redton on the land outjut is set to be decommissioned by the local mayor John Menn, following an investigation carried out by the coastguard.\r\n\r\n\"We're confident that this won't impact any passing traffic\" commented Bill Hayak of the Department of Maritime Traffic Investigation. \"Whilst at one time you could see cargo ships just off the coast of Redton, now it's no longer the case with shipping routes from the mainland being altered\" he added."
-msgstr ""
+msgstr "Pēc krasta apsardzes veiktās izmeklēšanas vietējais mērs Džons Menns plāno pamest bāku, kas atrodas Redtonā uz sauszemes.\r\n\r\n\"Esam pārliecināti, ka tas neietekmēs garāmbraucošo satiksmi,\" komentēja Jūras satiksmes izmeklēšanas departamenta pārstāvis Bils Hajaks. \"Lai gan kādreiz pie Redtonas krastiem varēja redzēt kravas kuģus, tagad kuģu ceļi no cietzemes vairs netiek mainīti,\" viņš piebilda."
 
 #. Key:	Body02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body02"
 msgid "When questioned the mayor refused to comment until he had released an official statement about the closure of the lighthouse."
-msgstr ""
+msgstr "Mērs atteicās sniegt komentārus uz jautājumiem, kamēr nebija publicējis oficiālu paziņojumu par bākas slēgšanu."
 
 #. Key:	Body03
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body03"
 msgid "Local residents aren't happy with the change, one local resident was concerned about its effects on small trade vessels that still port at the island, saying that it was the final nail in the coffin for the island's quiet dock. \"It stops a lot of the island's business\" he said.\r\n\r\nSometimes the lighthouse is the only thing that allows smaller vessels to come and trade with local businesses, it's something that we're all worried about - what happens when there's no import business left here?"
-msgstr ""
+msgstr "Vietējie iedzīvotāji nav apmierināti ar šīm izmaiņām. Viens vietējais iedzīvotājs pauda bažas par to ietekmi uz mazajiem tirdzniecības kuģiem, kas joprojām piestāj salā, sakot, ka tā ir pēdējā nagla salas klusās piestātnes zārkā. \"Tas aptur lielu daļu salas biznesu,\" viņš teica.\r\n\r\nDažreiz bāka ir vienīgā lieta, kas ļauj mazākiem kuģiem ierasties un tirgoties ar vietējiem uzņēmumiem, un tas ir kaut kas tāds, par ko mēs visi uztraucamies – kas notiks, ja šeit vairs nebūs importa biznesa?"
 
 #. Key:	Body04
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body04"
 msgid "One of the most popular competitions Redton holds is back for its annual event.\r\n\r\nThe community comes together every year to create the most fearsome and ghoulish scarecrows to keep away the birds. Last year's winner was eight year old local school boy Joshua Fenton who's representation of his Grandmother won over the panel of judges.\r\n\r\nThis year the winner of the competition gets a fine selection of cakes from Julia Menn, the mayor's wife who recently opened her own cake shop on the island.\r\n\r\nThe festivities don't stop with the scarecrows - that are on display all week, there are stalls and other activities taking place all across the town. If you haven't seen the scarecrows yet head on down to the annual event to see what all the fuss is about and sample some of the finest food and drink Redton has to offer.\r\n\r\nIf you can't get down to see the scarecrows check out the next issue, where we will have a full run down of the entries."
-msgstr ""
+msgstr "Viens no populārākajiem Redtonas ikgadējiem konkursiem ir klāt.\r\n\r\nKopiena katru gadu sanāk kopā, lai radītu visbaismīgākos un šausminošākos putnubiedēkļus, lai atbaidītu putnus. Pagājušā gada uzvarētājs bija astoņus gadus vecais vietējās skolas zēns Džošua Fentons, kura vecmāmiņas attēlojums pārliecināja žūrijas locekļus.\r\n\r\nŠogad konkursa uzvarētājs saņems smalku kūku izlasi no Džūlijas Mennas, mēra sievas, kura nesen atvēra savu konditoreju salā.\r\n\r\nSvinības nebeidzas ar putnubiedēkļiem - tie ir apskatāmi visu nedēļu, visā pilsētā ir stendi un citas aktivitātes. Ja vēl neesi redzējis putnubiedēkļus, dodies uz ikgadējo pasākumu, lai uzzinātu, par ko ir viss šis tracis, un nobaudi labākos ēdienus un dzērienus, ko Redtona var piedāvāt.\r\n\r\nJa nevari apskatīt putnubiedēkļus, ieskaties nākamajā numurā, kurā būs pilns ierakstu saraksts."
 
 #. Key:	Body05
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body05"
 msgid "Two weeks have gone by since local Arque employee Christian Plithe lost his black cat 'Lucky'. He has urged anyone who sees the cat to contact him immediately."
-msgstr ""
+msgstr "Ir pagājušas divas nedēļas, kopš vietējā Arque darbinieks Kristians Plits zaudēja savu melno kaķi Lakiju. Viņš aicina ikvienu, kurš redz šo kaķi, nekavējoties sazināties ar viņu."
 
 #. Key:	Body06
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Body06"
 msgid "Thirty workers were handed notices early last week as the giant Arque Corporation completed its acquisition of local pharmaceutical manufacturer Phillips Pharmaceuticals. The buyout follows a very public breakdown of the previous owner, resulting in a search for investors."
-msgstr ""
+msgstr "Pagājušās nedēļas sākumā trīsdesmit darbiniekiem tika izsniegti atlūgumi, jo milzis Arque Corporation pabeidza vietējā farmācijas ražotāja Phillips Pharmaceuticals iegādi. Izpirkšana notiek pēc iepriekšējā īpašnieka ļoti publiskas krīzes, kuras rezultātā tika meklēti investori."
 
 #. Key:	Callout01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
