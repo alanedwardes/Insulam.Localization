@@ -25,7 +25,7 @@ msgstr "\"{Title}\" nav progresēts (izmantota šmaukšanās)"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintCrouch"
 msgid "Crouch under"
-msgstr "Rāpties apakšā"
+msgstr "Tupties"
 
 #. Key:	HintDive
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -88,7 +88,7 @@ msgstr "Izmantot"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintJump"
 msgid "Jump up"
-msgstr "Lēkt augšā"
+msgstr "Lēkt"
 
 #. Key:	HintLoading
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
@@ -410,7 +410,7 @@ msgstr "Ievads"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,ButtonRange"
 msgid "Shooting Range"
-msgstr "Šaudīšanās lauks"
+msgstr "Šautuve"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -515,7 +515,7 @@ msgstr "Komentāri spēles laikā"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableAmbientOcclusion"
 msgid "Disable Ambient Occlusion"
-msgstr "Atspējot apkārtējās vides nosprostojumu"
+msgstr "Atspējot Ambient Occlusion"
 
 #. Key:	CheckboxDisableDepthOfField
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -550,7 +550,7 @@ msgstr "Atpējot HUD"
 #: /Game/Resources/Localisation/ST_Menus.ST_Menus
 msgctxt "Menus,CheckboxDisableMotionBlur"
 msgid "Disable Motion Blur"
-msgstr "Atspējot kustības miglošanu"
+msgstr "Atspējot Motion Blur"
 
 #. Key:	CheckboxDisableSceneFringe
 #. SourceLocation:	/Game/Resources/Localisation/ST_Menus.ST_Menus
@@ -921,7 +921,7 @@ msgstr "Apgriezt peles Y asi"
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,ArcheologistDiary1Part1"
 msgid "Archaeologist (recording): The skeletons here are confirmed to be sailors and pirates."
-msgstr "Arheoloģists (ieraksts): Apstiprināts, ka skeleti ir kuģotāji un pirāti."
+msgstr "Arheoloģists (ieraksts): Ir gūts apstiprinājums, ka šie skeleti ir kuģotāji un pirāti."
 
 #. Key:	ArcheologistDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1005,7 +1005,7 @@ msgstr "Runā Džonatans Derils. Šis ieraksts ir paredzēts jebkuram, kurš to 
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part10"
 msgid "I've given up hope of ever holding my daughter again or looking into my wife's eyes just one more time."
-msgstr "Esmu atmetis cerību, ka jebkad vēlreiz varēšu apskaut savu meitu un skatīties savas sievas acīs."
+msgstr "Esmu atmetis cerību, ka kādreiz atkal varēšu samīlēt savu meitu un skatīties savas sievas acīs."
 
 #. Key:	JohnDiary1Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1033,14 +1033,14 @@ msgstr "Viņi nevar noslēpt faktus par to, kas notika uz salas."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part3"
 msgid "I made it here on a dinghy after escaping a bombing by military aircraft."
-msgstr "Es šeit nokļuvu ar laiviņu, bēgot no armijas lidmašīnu bombardēšanas."
+msgstr "Es šeit nokļuvu ar laiviņu, bēgot no bombardēšanas no armijas lidmašīnām."
 
 #. Key:	JohnDiary1Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,JohnDiary1Part4"
 msgid "They wanted to destroy any evidence of what happened there."
-msgstr "Viņi gribēja iznīcināt jebkādus pierādījumus par notikumiem uz šīs salas."
+msgstr "Viņi gribēja iznīcināt visus pierādījumus par notikumiem uz šīs salas."
 
 #. Key:	JohnDiary1Part5
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1082,7 +1082,7 @@ msgstr "...par tiem jāspriež citu dienu."
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary1Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones, audio diary, #1, uh"
-msgstr "Laiams Džonss (ieraksts): Šī ir, ē, Laiama Džonsa audio dienasgrāmata #1, ē"
+msgstr "Liams Džonss (ieraksts): Šī ir, ē, Liama Džonsa audio dienasgrāmata #1, ē"
 
 #. Key:	LiamJonesDiary1Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1117,28 +1117,28 @@ msgstr "...domāju, ka atstāšu to kādu brīdi savā birojā, lai redzētu, ka
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part1"
 msgid "Liam Jones (recording): This is the uh, Liam Jones uh, diary #2"
-msgstr "Laiams Džonss (ieraksts): Šī ir, ē, Laiama Džonsa, ē, dienasgrāmata #2"
+msgstr "Liams Džonss (ieraksts): Šī ir, ē, Liama Džonsa, ē, dienasgrāmata #2"
 
 #. Key:	LiamJonesDiary2Part10
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part10"
 msgid "just do that Hawthorne, just let them know that I've misplaced it, and I need another one"
-msgstr "dari to, Hāvtorn, vienkārši pasaki viņiem, ka es to atstāju nevietā, un, ka man vajag jaunu"
+msgstr "izdari to, Hāvtorn, vienkārši pasaki viņiem, ka es to atstāju nevietā, un, ka man vajag jaunu"
 
 #. Key:	LiamJonesDiary2Part11
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part11"
 msgid "or you could even say I need a spare badge, another one... I'm not sure where it went"
-msgstr "vai arī tu pat vari pateikt, ka man vajag lieku karti... Neesmu drošs kur tā palika"
+msgstr "vai arī tu pat vari pateikt, ka man vajag lieku karti... Neesmu pāliecināts, kur tā palika"
 
 #. Key:	LiamJonesDiary2Part12
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part12"
 msgid "... just I need another badge is basically the bottom line"
-msgstr "... vienkārši nepieciešama jauna karte"
+msgstr "... vienkārši vajag jaunu karti, tas ir galvenais."
 
 #. Key:	LiamJonesDiary2Part13
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1166,7 +1166,7 @@ msgstr "Paraugiem sokas lieliski, pašlaik mēs tos novērojam, lai redzētu, ka
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part3"
 msgid "The head office have sent for some samples so we're going to ship some over there too in some boxes"
-msgstr "Galvenais birojs ir saņēmis dažus paraugus, tāpēc mēs dažus no tiem atsūtīsim arī šeit kastēs"
+msgstr "Galvenais birojs ir pieprasījis paraugus, tāpēc mēs dažus atsūtīsim uz turieni kastēs"
 
 #. Key:	LiamJonesDiary2Part4
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1180,7 +1180,7 @@ msgstr "Vēl kas Hāvtorn, kad rodas iespēja, es pazaudēju savu drošības kar
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part5"
 msgid "but when you talk to the badge people just say um... like uh..."
-msgstr "bet tad, kad tu runā ar drošības karšu cilvēkiem, saki, ka... amm, tā kā... "
+msgstr "bet tad, kad tu runā ar drošības karšu cilvēkiem, saki, ka... am, tā kā... "
 
 #. Key:	LiamJonesDiary2Part6
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1208,14 +1208,14 @@ msgstr "Ē, tātad, ja tu vienkārši pateiksi to viņiem, tad... jo, kad pēdē
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary2Part9"
 msgid "they said it was my fault and they were a little bit reluctant about replacing it so"
-msgstr "viņi teica, ka tā bija mana vaina, un bija nepakļāvīgi zīmes nomainīšanas jautājumā, tāpēc"
+msgstr "viņi teica, ka tā bija mana vaina, un bija mazliet negribīgi zīmes nomainīšanas jautājumā, tāpēc"
 
 #. Key:	LiamJonesDiary3Part1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
 #: /Game/Resources/Localisation/ST_Recordings.ST_Recordings
 msgctxt "Recordings,LiamJonesDiary3Part1"
 msgid "Liam Jones (recording): This is Liam Jones, the live sample security engineer on-site - we've just admitted"
-msgstr "Laiams Džonss (ieraksts): Šis ir Laiams Džons, uz vietas strādājošais paraugu drošības inženieris - mēs tikko ievedām"
+msgstr "Liams Džonss (ieraksts): Šis ir Liams Džons, uz vietas strādājošais paraugu drošības inženieris - mēs tikko ievedām"
 
 #. Key:	LiamJonesDiary3Part2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Recordings.ST_Recordings
@@ -1852,7 +1852,7 @@ msgstr "Jādzer pietiekami daudz ūdens"
 #: /Game/Resources/Localisation/ST_Collectables.ST_Collectables
 msgctxt "ST_Collectables,AchievementYouMonsterDescription"
 msgid "Shoot an innocent bird from the sky. (Why would you want this?)"
-msgstr "Sašaut nevainīgu putnu debesīs. (Kāpēc lai tu tā darītu?)"
+msgstr "Sašaut nevainīgu putnu debesīs. (Kāpēc lai tu tā gribētu?)"
 
 #. Key:	AchievementYouMonsterName
 #. SourceLocation:	/Game/Resources/Localisation/ST_Collectables.ST_Collectables
@@ -2104,7 +2104,7 @@ msgstr "Paldies par Jūsu pieprasījumu"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email02_Content"
 msgid "Hi Liam,\r\n\r\nWe have received your request for a new badge. Due to the clearance level of your role, I need to verify a few details about how the badge was misplaced.\r\n\r\nPlease respond with as much detail as you can about the incident.\r\n\r\nThanks,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Sveiks, Laiam,\r\n\r\nEsam saņēmuši pieprasījumu pēc jaunas kartes. Sakarā ar piekļuves līmeni, kas raksturīgs Jūsu lomai, man ir nepieciešams noskaidrot nelielus sīkumus par to, kā karte tika pazaudēta.\r\n\r\nLūdzu atbildiet, cik vien iespējams, sīkumaini par radušos incidentu.\r\n\r\nPaldies,\r\n\r\nHugo Vēbers\r\\Arque Globālo Iestāžu Vecākais Drošības Atbalsta Speciālists"
+msgstr "Sveiks, Liam,\r\n\r\nEsam saņēmuši pieprasījumu pēc jaunas kartes. Sakarā ar piekļuves līmeni, kas raksturīgs Jūsu lomai, man ir nepieciešams noskaidrot nelielus sīkumus par to, kā karte tika pazaudēta.\r\n\r\nLūdzu atbildiet, cik vien iespējams, sīkumaini par radušos incidentu.\r\n\r\nPaldies,\r\n\r\nHugo Vēbers\r\n\Arque Globālo Iestāžu Vecākais Drošības Atbalsta Speciālists"
 
 #. Key:	Email02_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2125,7 +2125,7 @@ msgstr "RE: AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email03_Content"
 msgid "Liam,\r\n\r\nCould you please outline how exactly your badge was misplaced, and where it is now? We need to know that it it is not outside of the facility - if it is that is a very serious problem for the company.\r\n\r\nBy fox do you literally mean the red furry animal? That seems very unlikely, your claim is that a fox broke through our security at the base? Surely that means you are not doing your job properly? Does this mean people can just stroll into your facility?\r\n\r\nSince your location has very patchy access to global internet services and the Arque Global VPN, it is not possible to de-activate active badges remotely.\r\n\r\nTell me, where do you believe your badge to be?\r\n\r\nYours,\r\n\r\nHugo Webber\r\nSenior Arque Global Facilities Security Support Specialist"
-msgstr "Laiam,\r\n\r\nLūdzu raksturojiet kā tieši Jūs pazaudējāt savu karti, un kur tā atrodas tagad! Ir jāzin, vai tā neatrodas ārpus ēkas, citādi tā ir ļoti nopietna problēma visai kompānijai.\r\n\r\nRunājot par lapsu, vai Jūs tiešām domājat sarkanu, pūkainu dzīvnieku? Neizskatās, ka lapsa tiešām varētu izlausties cauri drošības sistēmām. Tas nozīmē, ka Jūs bezatbildīgi veicat savu darbu. Vai tas nozīmē, ka cilvēki var vienkārši pastaigāties Jūsu ēkā?\r\n\r\nTā kā Jūsu atrašanās vietai ir diezgan slikta piekļuve interneta pakalpojumiem un Arque Globālajam VPN, tad nav iespējams deaktivizēt kartes attāli.\r\n\r\nSakiet, kur Jūsu karte varētu būt?\r\n\r\nAr cieņu,\r\n\r\nHugo Vēbers\r\\Senioru Arque Globālo Iekārtu Drošības Atbalsta Speciālists"
+msgstr "Liam,\r\n\r\nLūdzu raksturojiet kā tieši Jūs pazaudējāt savu karti, un kur tā atrodas tagad! Ir jāzin, vai tā neatrodas ārpus ēkas, citādi tā ir ļoti nopietna problēma visai kompānijai.\r\n\r\nRunājot par lapsu, vai Jūs tiešām domājat sarkanu, pūkainu dzīvnieku? Neizskatās, ka lapsa tiešām varētu izlausties cauri drošības sistēmām. Tas nozīmē, ka Jūs bezatbildīgi veicat savu darbu. Vai tas nozīmē, ka cilvēki var vienkārši ieiet Jūsu ēkā?\r\n\r\nTā kā Jūsu atrašanās vietai ir diezgan slikta piekļuve interneta pakalpojumiem un Arque Globālajam VPN, tad nav iespējams deaktivizēt kartes attālināti.\r\n\r\nSakiet, kur Jūsu karte varētu būt?\r\n\r\nAr cieņu,\r\n\r\nHugo Vēbers\r\nArque Globālo Iestāžu Vecākais Drošības Atbalsta Speciālists"
 
 #. Key:	Email03_Quote
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2146,7 +2146,7 @@ msgstr "RE: RE: AGO15824"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email04_Content"
 msgid "Team,\r\n\r\nPlease see attached for most recent edition of the Wentworth Herald. Note the mention of Arque - do we need to investigate this?\r\n\r\nAs a reminder, please do not speak to the local media without the proper authorisation.\r\n\r\nLucy Beeshaw\r\n\r\nPR Senior Specialist"
-msgstr "Komanda,\r\n\r\nLūdzu apskatiet pielikumu visjaunājakam Ventvortas Heralda izdevumam. Ievērojiet Arque pieminēšanu - vai mums vajag šo izpētīt?\r\n\r\nAtgādinu, ka nerunājiet ar vietējiem medijiem bez derīgas autorizācijas.\r\n\r\nLūcija Bīšova\r\n\r\nPR Senioru Speciālists"
+msgstr "Komanda,\r\n\r\nLūdzu apskatiet pielikumu - visjaunāko Ventvortas Heralda izdevumu. Ņemot vērā Arque pieminēšanu - vai mums vajag šo izpētīt?\r\n\r\nAtgādinu, ka nedrīkst runāt ar vietējiem medijiem bez derīgas autorizācijas.\r\n\r\nLūcija Bīšova\r\n\r\nPR Vecākais Speciālists"
 
 #. Key:	Email04_Sender
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
@@ -2167,7 +2167,7 @@ msgstr "Ventvortas Heralds #317"
 #: /Game/Resources/Localisation/ST_ComputerLiamJones01.ST_ComputerLiamJones01
 msgctxt "ST_ComputerLiamJones,Email_Author"
 msgid "Liam Jones"
-msgstr "Laiams Džons"
+msgstr "Liams Džons"
 
 #. Key:	Chat
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2181,7 +2181,7 @@ msgstr "Tērzēšana"
 #: /Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
 msgctxt "ST_ComputerShared,CorporateFooter01"
 msgid "Please, think before printing this message. The environment is in danger. Trees are one of our major concerns here at Arque.\r\n\r\nIn fact, it is a requirement that all employees replace their wood fires with coal fires. Remember, save the trees, save the world."
-msgstr "Lūdzu padomājiet pirms printējat šo ziņu. Vide ir briesmās. Koki ir vieni no galvenajām bažām šeit Arque.\r\n\r\nPēc fakta, visiem darbiniekiem jāaizstāj koka uguns ar ogļu uguni. Atcerieties, saudzējiet kokus, saudzējiet pasauli!"
+msgstr "Lūdzu padomājiet pirms izprintējat šo ziņu. Vide ir briesmās. Koki ir vieni no galvenajām bažām šeit Arque.\r\n\r\nFaktiski, visiem darbiniekiem jāaizstāj koka uguns ar ogļu uguni. Atcerieties, saudzējiet kokus, saudzējiet pasauli!"
 
 #. Key:	CorporateFooter02
 #. SourceLocation:	/Game/Resources/Localisation/ST_ComputerShared.ST_ComputerShared
@@ -2307,14 +2307,14 @@ msgstr "Džons Derils (rācija): Halo?"
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02"
 msgid "If anyone can hear this, my name is Johnathan Derril."
-msgstr "Ja kāds to dzird, mani sauc Džonatanas Derils."
+msgstr "Ja kāds šo dzird, mani sauc Džonatanas Derils."
 
 #. Key:	JohnActI02Alt
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 #: /Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
 msgctxt "ST_JohnActI,JohnActI02Alt"
 msgid "If anyone can hear this, I need help."
-msgstr "Ja kāds to dzird, man nepieciešama palīdzība."
+msgstr "Ja kāds šo dzird, man nepieciešama palīdzība."
 
 #. Key:	JohnActI03
 #. SourceLocation:	/Game/Resources/Localisation/ST_JohnActI.ST_JohnActI
@@ -2440,14 +2440,14 @@ msgstr "Dodieties tālāk, un lai Jums jauka diena."
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,CallOut1"
 msgid "“I’ve been working at Phil’s for over 10 years, and they just let me go. It’s heartless.”"
-msgstr "“Esmu strādājis pie Fila ilgāk par 10 gadiem, taču viņi mani vienkārši padzina. Tas bezsirdīgi.”"
+msgstr "“Esmu strādājis pie Fila ilgāk par 10 gadiem, taču viņi mani vienkārši padzina. Tas ir cietsirdīgi.”"
 
 #. Key:	Headline
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline"
 msgid "ARQUE CORPORATION COMPLETES ACQUISITION OF PHILLIP'S PHARMACEUTICALS"
-msgstr "ARQUE KORPORĀCIJA PABEIDZ FILIPA MEDIKAMENTU IEGŪŠANU"
+msgstr "ARQUE KORPORĀCIJA PABEIDZ PHILLIP'S PHARMACEUTICALS IEGĀDI"
 
 #. Key:	Headline2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2461,7 +2461,7 @@ msgstr "KUĢI \"BĪSTAMI TUVU\" SADURSMĒM BEZ BĀKAS"
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Headline3"
 msgid "RED ALGAE NUMBERS STRONG"
-msgstr "SARKANĀS ALĢĒS SKAITĻI IR AUGSTI"
+msgstr "SARKANO ALĢU SKAITĻI IR AUGSTI"
 
 #. Key:	Navigation1
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2475,7 +2475,7 @@ msgstr "VAIRĀK 11. LAPPUSĒ"
 #: /Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
 msgctxt "ST_Newspaper01,Paragraph01"
 msgid "The acquisition of local pharmaceutical company Phillip's Pharmaceuticals was completed late last week, as all fifty employees were let go, twenty more workers than originally planned."
-msgstr "Vietējās farmācijas kompānijas Filipa Medikamenti iegūšana pagājušo nedēļ tika pabeigta, kā visi 50 darbinieki tika atlaisti, par 20 vairāk nekā oriģināli plānots."
+msgstr "Vietējās farmācijas kompānijas Phillip's Pharmaceuticals iegūšana pagājušo nedēļ tika pabeigta, kā visi 50 darbinieki tika atlaisti, par 20 vairāk nekā oriģināli plānots."
 
 #. Key:	Paragraph02
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper01.ST_Newspaper01
@@ -2601,7 +2601,7 @@ msgstr "Pagājušās nedēļas sākumā trīsdesmit darbiniekiem tika izsniegti 
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Callout01"
 msgid "\"TOO FEW\" SHIPS TO BE SAFETY ISSUE, SAYS COASTGUARD"
-msgstr "\"PARĀK MAZ\", LAI RASTOS DROŠĪBAS PROBLĒMA, SAKA KRASTA APSARGS"
+msgstr "\"PARĀK MAZ KUĢU\", LAI RASTOS DROŠĪBAS PROBLĒMA, SAKA KRASTA APSARGS"
 
 #. Key:	Headline01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2629,7 +2629,7 @@ msgstr "PAZUDIS"
 #: /Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
 msgctxt "ST_Newspaper02,Headline04"
 msgid "ARQUE CORPORATION ACQUIRES PHILLIPS PHARMACEUTICALS"
-msgstr "ARQUE KORPORĀCIJA PĀRŅEM ĪPAŠUMĀ FILIPA MEDIKAMENTUS"
+msgstr "ARQUE KORPORĀCIJA PĀRŅEM ĪPAŠUMĀ PHILLIPS PHARMACEUTICALS"
 
 #. Key:	ReadMore01
 #. SourceLocation:	/Game/Resources/Localisation/ST_Newspaper02.ST_Newspaper02
@@ -2720,7 +2720,7 @@ msgstr "kura avoti saka, kāpēc valdība nav komentējusi šo jautājumu."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport08"
 msgid "Sokol-Glockner entered headlines earlier this year for its hand in the accidental shooting of"
-msgstr "Sokol-Glockner parādījās virsrakstos pēc notikuma, kad netīši sašauts tika"
+msgstr "Sokol-Glockner parādījās virsrakstos pēc notikuma, kad netīšām sašauts tika"
 
 #. Key:	NewsReport09
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
@@ -2776,21 +2776,21 @@ msgstr "taču šī diena ziemeļu iedzīvotājiem sniedz mierīgu laiku."
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport16"
 msgid "Meteorologists are advising everyone in the area that the worst of the storm is yet to come,"
-msgstr "Meteorologi visus brīdina, ka līdz stiprākajai vētrai vēl ir kāds laiks,"
+msgstr "Meteorologi brīdina, ka līdz stiprākajai vētrai vēl ir kāds laiks,"
 
 #. Key:	NewsReport17
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport17"
 msgid "and they should prepare by filling bathtubs with water, and stocking food to last for at least two days."
-msgstr "un tāpēc vajadzētu sagatavoties piepildīt vannas ar ūdeni, uzkrāt ēdienu vismaz divām dienām."
+msgstr "un tāpēc vajadzētu sagatavoties, piepildot vannas ar ūdeni un uzkrājot ēdienu vismaz divām dienām."
 
 #. Key:	NewsReport18
 #. SourceLocation:	/Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 #: /Game/Resources/Localisation/ST_NewsReport01.ST_NewsReport01
 msgctxt "ST_NewsReport01,NewsReport18"
 msgid "That’s all from me, join us tomorrow at 7 for the Breakfast Burst."
-msgstr "Tas šoreiz viss, pievinojieties mums rītdien septiņos Brokastīs."
+msgstr "Tas šoreiz viss, pievienojieties mums rītdien septiņos Brokastīs."
 
 #. Key:	ArqueBroadcast01a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -2804,7 +2804,7 @@ msgstr "Nezināms (rācija): Šis ir automātisks paziņojums no Arque Korporāc
 #: /Game/Resources/Localisation/ST_Radio.ST_Radio
 msgctxt "ST_Radio,ArqueBroadcast01b"
 msgid "Mandatory curfew is in effect. Please stay inside."
-msgstr "Komandantstunda vēl ir spēkā. Lūdzu palieciet iekšā."
+msgstr "Komandantstunda vēl ir spēkā. Lūdzu palieciet iekštelpās."
 
 #. Key:	JohnBroadcast02a
 #. SourceLocation:	/Game/Resources/Localisation/ST_Radio.ST_Radio
@@ -3000,7 +3000,7 @@ msgstr "Vai kāds kopē? Šī sala ir tikusi pārpildīta."
 #: /Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
 msgctxt "ST_RadioStation,John02b"
 msgid "Arque Corporation have been stopping ALL broadcast messages from the island. We need IMMEDIATE millitary assistance!"
-msgstr "Arque Korporācija aptur VISUS ziņojumus no salas. Mums ir nepieciešama TŪLĪTĒJA palīdzība!"
+msgstr "Arque Korporācija aptur VISUS ziņojumus no salas. Mums ir nepieciešama TŪLĪTĒJA palīdzība no armijas!"
 
 #. Key:	John03a
 #. SourceLocation:	/Game/Resources/Localisation/ST_RadioStation.ST_RadioStation
@@ -3133,7 +3133,7 @@ msgstr "IELĀDĒ"
 #: /Game/Resources/Localisation/ST_Windows.ST_Windows
 msgctxt "Windows,WindowAboutShorts1"
 msgid "Shorts are short levels which are unconnected to the main story but do take place in the Estranged universe. The levels were added in content updates after the game was released."
-msgstr "Šorti ir īsi līmeņi, kuri nav saistīti ar galveno stāstu, bet norisinās Atsvešinātais visumā. Šie līmeņi tika pievienoti satura atjauninājumos, pēc spēles izdošanas."
+msgstr "Šorti ir īsi līmeņi, kuri nav saistīti ar galveno stāstu, bet norisinās Estranged visumā. Šie līmeņi tika pievienoti satura atjauninājumos, pēc spēles izdošanas."
 
 #. Key:	WindowAboutShorts2
 #. SourceLocation:	/Game/Resources/Localisation/ST_Windows.ST_Windows
